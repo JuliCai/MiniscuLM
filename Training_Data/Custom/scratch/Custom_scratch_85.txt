@@ -1,0 +1,4 @@
+{
+    "question": "How do you detect key presses?",
+    "answer": "Use 'key pressed' sensing blocks."
+}

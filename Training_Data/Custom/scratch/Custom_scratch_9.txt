@@ -1,0 +1,4 @@
+{
+    "question": "What is a sprite in Scratch?",
+    "answer": "A character or object in Scratch projects."
+}

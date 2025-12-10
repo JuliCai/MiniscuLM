@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'block palette'?",
+    "answer": "The area with all programming blocks."
+}

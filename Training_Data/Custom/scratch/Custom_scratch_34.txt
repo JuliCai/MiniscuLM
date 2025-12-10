@@ -1,0 +1,4 @@
+{
+    "question": "Is Scratch only for games?",
+    "answer": "No, it can create stories and animations."
+}

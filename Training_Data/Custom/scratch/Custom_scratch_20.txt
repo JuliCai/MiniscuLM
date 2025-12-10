@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch connect to hardware devices?",
+    "answer": "Yes, using extensions like micro:bit."
+}

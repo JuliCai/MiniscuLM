@@ -1,0 +1,4 @@
+{
+    "question": "hey, how can i start?",
+    "answer": "tell me what you want to do, i'll guide you."
+}

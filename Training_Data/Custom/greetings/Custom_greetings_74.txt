@@ -1,0 +1,4 @@
+{
+    "question": "hi, how's your system?",
+    "answer": "fully operational and ready to assist."
+}

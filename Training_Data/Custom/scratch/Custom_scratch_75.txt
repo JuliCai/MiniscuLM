@@ -1,0 +1,4 @@
+{
+    "question": "What is the Scratch editor?",
+    "answer": "Interface to create Scratch projects."
+}

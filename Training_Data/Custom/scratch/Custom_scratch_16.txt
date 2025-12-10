@@ -1,0 +1,4 @@
+{
+    "question": "What does 'loop' mean in Scratch?",
+    "answer": "Repeat code blocks multiple times."
+}

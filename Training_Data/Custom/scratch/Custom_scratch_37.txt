@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'pen' extension in Scratch?",
+    "answer": "Allows drawing on the stage."
+}

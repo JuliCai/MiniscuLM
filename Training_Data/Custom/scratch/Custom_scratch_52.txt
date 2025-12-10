@@ -1,0 +1,4 @@
+{
+    "question": "How do you create a simple game in Scratch?",
+    "answer": "Combine motion, events, and control blocks."
+}

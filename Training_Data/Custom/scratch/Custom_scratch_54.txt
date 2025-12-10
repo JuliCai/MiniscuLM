@@ -1,0 +1,4 @@
+{
+    "question": "How do you add backgrounds?",
+    "answer": "Select or upload backdrops for the stage."
+}

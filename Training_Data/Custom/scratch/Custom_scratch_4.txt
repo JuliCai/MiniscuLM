@@ -1,0 +1,4 @@
+{
+    "question": "Is Scratch text-based or block-based?",
+    "answer": "Scratch is block-based."
+}

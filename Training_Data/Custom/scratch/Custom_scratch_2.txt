@@ -1,0 +1,4 @@
+{
+    "question": "What is the main feature of Scratch?",
+    "answer": "Block-based visual programming."
+}

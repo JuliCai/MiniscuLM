@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch import 3D models?",
+    "answer": "No, Scratch supports 2D only."
+}

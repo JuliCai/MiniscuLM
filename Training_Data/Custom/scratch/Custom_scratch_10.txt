@@ -1,0 +1,4 @@
+{
+    "question": "How do you move a sprite in Scratch?",
+    "answer": "Use motion blocks to move sprites."
+}

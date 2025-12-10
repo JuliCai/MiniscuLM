@@ -1,0 +1,4 @@
+{
+    "question": "How do you add comments in Scratch?",
+    "answer": "Right-click a block and select 'add comment'."
+}

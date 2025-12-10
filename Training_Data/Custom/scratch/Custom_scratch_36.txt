@@ -1,0 +1,4 @@
+{
+    "question": "Can you duplicate scripts in Scratch?",
+    "answer": "Yes, by right-clicking and selecting duplicate."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the default programming style of Scratch?",
+    "answer": "Event-driven programming."
+}

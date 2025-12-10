@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'sensing' category?",
+    "answer": "Blocks for detecting inputs or conditions."
+}

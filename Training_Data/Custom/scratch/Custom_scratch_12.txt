@@ -1,0 +1,4 @@
+{
+    "question": "What are Scratch scripts?",
+    "answer": "Code blocks attached to sprites."
+}

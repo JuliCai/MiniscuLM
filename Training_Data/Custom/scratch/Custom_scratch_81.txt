@@ -1,0 +1,4 @@
+{
+    "question": "What programming concept is central to Scratch?",
+    "answer": "Event-driven programming."
+}

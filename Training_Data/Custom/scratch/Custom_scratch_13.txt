@@ -1,0 +1,4 @@
+{
+    "question": "Can you add sound in Scratch?",
+    "answer": "Yes, you can add sounds and music."
+}

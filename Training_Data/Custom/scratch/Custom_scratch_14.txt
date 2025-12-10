@@ -1,0 +1,4 @@
+{
+    "question": "What block starts a Scratch program?",
+    "answer": "The 'when green flag clicked' block."
+}

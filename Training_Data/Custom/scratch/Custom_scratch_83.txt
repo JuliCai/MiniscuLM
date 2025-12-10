@@ -1,0 +1,4 @@
+{
+    "question": "How do you change sprite color?",
+    "answer": "Use 'change color effect' block."
+}

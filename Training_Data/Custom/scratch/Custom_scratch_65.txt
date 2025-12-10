@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'duplicate' function?",
+    "answer": "Makes copies of sprites or scripts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'events' category?",
+    "answer": "Blocks that start scripts on triggers."
+}

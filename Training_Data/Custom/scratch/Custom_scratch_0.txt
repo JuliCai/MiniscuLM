@@ -1,0 +1,4 @@
+{
+    "question": "What is Scratch?",
+    "answer": "A block-based programming language by MIT."
+}

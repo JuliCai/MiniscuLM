@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'variables' category?",
+    "answer": "Blocks to create and manipulate variables."
+}

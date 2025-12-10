@@ -1,0 +1,4 @@
+{
+    "question": "Is Scratch free to use?",
+    "answer": "Yes, Scratch is free and open to all."
+}

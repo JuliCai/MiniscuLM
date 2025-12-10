@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch create quizzes?",
+    "answer": "Yes, using variables and conditionals."
+}

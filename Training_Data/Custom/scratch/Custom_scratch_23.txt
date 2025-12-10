@@ -1,0 +1,4 @@
+{
+    "question": "What is the backdrop in Scratch?",
+    "answer": "The background image of the stage."
+}

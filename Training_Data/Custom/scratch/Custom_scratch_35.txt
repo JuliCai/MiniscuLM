@@ -1,0 +1,4 @@
+{
+    "question": "What does the 'glide' block do?",
+    "answer": "Moves sprite smoothly to a position."
+}

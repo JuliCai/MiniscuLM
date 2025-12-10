@@ -1,0 +1,4 @@
+{
+    "question": "greetings",
+    "answer": "hello! how may i assist you today?"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'costume' in Scratch?",
+    "answer": "Different appearances of a sprite."
+}

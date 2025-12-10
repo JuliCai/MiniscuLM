@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'stack block'?",
+    "answer": "Blocks that connect vertically to form scripts."
+}

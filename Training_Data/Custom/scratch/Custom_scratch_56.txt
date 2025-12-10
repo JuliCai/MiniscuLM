@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch handle math operations?",
+    "answer": "Yes, using operators blocks."
+}

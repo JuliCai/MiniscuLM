@@ -1,0 +1,4 @@
+{
+    "question": "How do you add a new sprite?",
+    "answer": "Click the 'Choose a Sprite' button."
+}

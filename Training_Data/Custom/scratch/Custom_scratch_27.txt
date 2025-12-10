@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of the 'wait' block?",
+    "answer": "Pause execution for a set time."
+}

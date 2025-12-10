@@ -1,0 +1,4 @@
+{
+    "question": "How do you create variables in Scratch?",
+    "answer": "Use the 'Make a Variable' block."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch interact with websites?",
+    "answer": "No direct web interaction is supported."
+}

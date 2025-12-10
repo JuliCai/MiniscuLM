@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'control' category?",
+    "answer": "Blocks for flow control like loops and conditionals."
+}

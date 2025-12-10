@@ -1,0 +1,4 @@
+{
+    "question": "hello, can you answer trivia?",
+    "answer": "yes, ask me any trivia question!"
+}

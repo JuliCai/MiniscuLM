@@ -1,0 +1,4 @@
+{
+    "question": "What is 'Scratch Wiki'?",
+    "answer": "Community-driven Scratch documentation."
+}

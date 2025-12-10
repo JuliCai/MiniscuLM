@@ -1,0 +1,4 @@
+{
+    "question": "How do you restart a Scratch project?",
+    "answer": "Click the green flag to restart."
+}

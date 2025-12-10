@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch use conditionals?",
+    "answer": "Yes, with 'if' and 'if else' blocks."
+}

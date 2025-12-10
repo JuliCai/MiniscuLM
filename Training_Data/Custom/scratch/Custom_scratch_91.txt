@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'script' in Scratch?",
+    "answer": "A sequence of connected blocks."
+}

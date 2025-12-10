@@ -1,0 +1,4 @@
+{
+    "question": "What language is Scratch programmed in?",
+    "answer": "Scratch is built with JavaScript and Flash."
+}

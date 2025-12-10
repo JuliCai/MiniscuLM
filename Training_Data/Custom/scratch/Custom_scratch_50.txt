@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch projects be remixed?",
+    "answer": "Yes, if allowed by project settings."
+}

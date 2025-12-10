@@ -1,0 +1,4 @@
+{
+    "question": "Is Scratch suitable for beginners?",
+    "answer": "Yes, it is beginner-friendly."
+}

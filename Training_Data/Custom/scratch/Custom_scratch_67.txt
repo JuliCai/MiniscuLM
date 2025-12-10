@@ -1,0 +1,4 @@
+{
+    "question": "How do you control sprite visibility?",
+    "answer": "Use 'show' and 'hide' blocks."
+}

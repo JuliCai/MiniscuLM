@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch be used for robotics?",
+    "answer": "Yes, with compatible hardware extensions."
+}

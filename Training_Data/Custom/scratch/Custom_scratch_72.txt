@@ -1,0 +1,4 @@
+{
+    "question": "How do you make sprites interact?",
+    "answer": "Use broadcast and sensing blocks."
+}

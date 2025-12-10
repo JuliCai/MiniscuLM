@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch projects include text?",
+    "answer": "Yes, using the 'say' block."
+}

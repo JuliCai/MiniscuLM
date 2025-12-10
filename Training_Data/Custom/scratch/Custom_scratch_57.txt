@@ -1,0 +1,4 @@
+{
+    "question": "How do you detect collisions in Scratch?",
+    "answer": "Use touching blocks in sensing category."
+}

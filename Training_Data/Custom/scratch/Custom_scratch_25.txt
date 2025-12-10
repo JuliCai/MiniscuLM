@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'broadcast' block used for?",
+    "answer": "To send messages between scripts."
+}

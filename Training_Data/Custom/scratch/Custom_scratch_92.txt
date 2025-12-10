@@ -1,0 +1,4 @@
+{
+    "question": "How do you change sprite transparency?",
+    "answer": "Use 'set ghost effect' block."
+}

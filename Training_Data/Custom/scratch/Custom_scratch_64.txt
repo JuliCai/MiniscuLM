@@ -1,0 +1,4 @@
+{
+    "question": "How do you create animations in Scratch?",
+    "answer": "Change costumes and use timing blocks."
+}

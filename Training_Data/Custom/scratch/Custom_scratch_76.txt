@@ -1,0 +1,4 @@
+{
+    "question": "How do you add extensions in Scratch?",
+    "answer": "Click 'Extensions' button in editor."
+}

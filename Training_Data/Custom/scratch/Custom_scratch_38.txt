@@ -1,0 +1,4 @@
+{
+    "question": "How do you stop all scripts?",
+    "answer": "Use the 'stop all' block."
+}

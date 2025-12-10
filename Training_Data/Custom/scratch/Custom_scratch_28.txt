@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch handle user input?",
+    "answer": "Yes, through keyboard and mouse input."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Does Scratch support multiplayer games?",
+    "answer": "Yes, with extensions and cloud variables."
+}

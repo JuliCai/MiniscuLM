@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'operator' category?",
+    "answer": "Blocks for math and logic operations."
+}

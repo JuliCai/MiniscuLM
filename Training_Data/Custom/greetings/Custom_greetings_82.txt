@@ -1,0 +1,4 @@
+{
+    "question": "hey, can you tell a joke?",
+    "answer": "sure! would you like to hear one?"
+}

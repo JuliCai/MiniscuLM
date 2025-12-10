@@ -1,0 +1,4 @@
+{
+    "question": "What is the Scratch stage?",
+    "answer": "The area where projects run."
+}

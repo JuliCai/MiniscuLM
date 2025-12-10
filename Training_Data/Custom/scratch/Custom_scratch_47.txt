@@ -1,0 +1,4 @@
+{
+    "question": "Can you use Scratch offline?",
+    "answer": "Yes, with the Scratch Desktop app."
+}

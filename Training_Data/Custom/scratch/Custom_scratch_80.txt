@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch use cloud variables?",
+    "answer": "Yes, for storing online data."
+}

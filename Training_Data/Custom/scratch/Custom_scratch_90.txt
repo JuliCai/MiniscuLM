@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch connect to databases?",
+    "answer": "No direct database connection."
+}

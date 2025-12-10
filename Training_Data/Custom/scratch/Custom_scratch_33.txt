@@ -1,0 +1,4 @@
+{
+    "question": "What file formats can Scratch import?",
+    "answer": "Images (PNG, JPG), sounds (MP3, WAV)."
+}

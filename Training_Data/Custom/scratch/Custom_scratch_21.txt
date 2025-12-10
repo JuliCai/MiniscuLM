@@ -1,0 +1,4 @@
+{
+    "question": "What is the Scratch community?",
+    "answer": "Online platform sharing Scratch projects."
+}

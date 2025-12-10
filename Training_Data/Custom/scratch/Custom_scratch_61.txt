@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch be used in classrooms?",
+    "answer": "Yes, widely used in education."
+}

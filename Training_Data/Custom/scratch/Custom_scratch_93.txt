@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch be used for storytelling?",
+    "answer": "Yes, often used for interactive stories."
+}

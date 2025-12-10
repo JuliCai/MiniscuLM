@@ -1,0 +1,4 @@
+{
+    "question": "hey, need a hand?",
+    "answer": "i'm ready to assist, what do you need?"
+}

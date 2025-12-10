@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'clone' in Scratch?",
+    "answer": "A copy of a sprite created during runtime."
+}

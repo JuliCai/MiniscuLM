@@ -1,0 +1,4 @@
+{
+    "question": "How to make a sprite speak?",
+    "answer": "Use the 'say' or 'think' blocks."
+}

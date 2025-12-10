@@ -1,0 +1,4 @@
+{
+    "question": "Can you use Scratch for music creation?",
+    "answer": "Yes, with sound blocks and extensions."
+}

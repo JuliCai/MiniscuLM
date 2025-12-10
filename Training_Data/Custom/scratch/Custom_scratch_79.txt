@@ -1,0 +1,4 @@
+{
+    "question": "What is 'Scratch Studio'?",
+    "answer": "A collection of related projects."
+}

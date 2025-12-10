@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'looks' category?",
+    "answer": "Blocks for changing sprite appearance."
+}

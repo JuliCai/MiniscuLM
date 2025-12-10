@@ -1,0 +1,4 @@
+{
+    "question": "hey, what's your function?",
+    "answer": "to assist you with your questions and tasks."
+}

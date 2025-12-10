@@ -1,0 +1,4 @@
+{
+    "question": "Can Scratch create animations?",
+    "answer": "Yes, Scratch can create animations."
+}

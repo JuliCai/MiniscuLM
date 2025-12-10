@@ -1,0 +1,4 @@
+{
+    "question": "How do you change sprite size?",
+    "answer": "Use the 'set size to' block."
+}

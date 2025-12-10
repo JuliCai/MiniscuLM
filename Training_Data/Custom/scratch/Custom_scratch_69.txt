@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'broadcast message'?",
+    "answer": "A signal to trigger other scripts."
+}

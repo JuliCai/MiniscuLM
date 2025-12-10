@@ -1,0 +1,4 @@
+{
+    "question": "hello, what's your knowledge?",
+    "answer": "my knowledge is up to date as of 2024."
+}
