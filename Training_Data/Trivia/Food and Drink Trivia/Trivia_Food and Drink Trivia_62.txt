@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the Japanese dish consisting of raw fish slices?",
+    "answer": "Sashimi"
+}

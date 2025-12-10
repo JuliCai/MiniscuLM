@@ -1,0 +1,4 @@
+{
+    "question": "If f(x) = 2x + 1, find f(3)",
+    "answer": "7"
+}

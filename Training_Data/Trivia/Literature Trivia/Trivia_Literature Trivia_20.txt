@@ -1,0 +1,4 @@
+{
+    "question": "Which Shakespeare play is known as the 'Scottish Play'?",
+    "answer": "Macbeth"
+}

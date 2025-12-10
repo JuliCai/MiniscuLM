@@ -1,0 +1,4 @@
+{
+    "question": "Which city is known as the Big Apple?",
+    "answer": "New York City"
+}

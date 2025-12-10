@@ -1,0 +1,4 @@
+{
+    "question": "Find the vertex of y = x\u00b2 + 6x + 8",
+    "answer": "(-3, -1)"
+}

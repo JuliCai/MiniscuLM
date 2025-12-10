@@ -1,0 +1,4 @@
+{
+    "question": "Which novel begins with the line 'Call me Ishmael.'?",
+    "answer": "Moby-Dick"
+}

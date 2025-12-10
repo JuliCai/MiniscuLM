@@ -1,0 +1,4 @@
+{
+    "question": "Find the limit of (1 + 1/n)^n as n approaches infinity.",
+    "answer": "e"
+}

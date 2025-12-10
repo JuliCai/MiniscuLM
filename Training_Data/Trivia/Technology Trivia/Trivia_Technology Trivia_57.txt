@@ -1,0 +1,4 @@
+{
+    "question": "Which programming language is primarily used for Android apps?",
+    "answer": "Kotlin"
+}

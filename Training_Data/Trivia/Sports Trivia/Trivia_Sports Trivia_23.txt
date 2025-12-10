@@ -1,0 +1,4 @@
+{
+    "question": "Who is known as the 'King of Clay' in tennis?",
+    "answer": "Rafael Nadal"
+}

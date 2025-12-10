@@ -1,0 +1,4 @@
+{
+    "question": "Which vegetable is commonly used in Greek moussaka?",
+    "answer": "Eggplant"
+}

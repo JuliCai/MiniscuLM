@@ -1,0 +1,4 @@
+{
+    "question": "Find x: x/4 = 3",
+    "answer": "x = 12"
+}

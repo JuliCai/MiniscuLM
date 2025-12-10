@@ -1,0 +1,4 @@
+{
+    "question": "What is a pixel?",
+    "answer": "Smallest image display unit"
+}

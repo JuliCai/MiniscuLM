@@ -1,0 +1,4 @@
+{
+    "question": "What is the main flavoring in the Indian dish 'chicken tikka masala'?",
+    "answer": "Spices"
+}

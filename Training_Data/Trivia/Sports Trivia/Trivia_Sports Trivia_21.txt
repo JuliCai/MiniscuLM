@@ -1,0 +1,4 @@
+{
+    "question": "In soccer, what is a 'hat-trick'?",
+    "answer": "Three goals by one player"
+}

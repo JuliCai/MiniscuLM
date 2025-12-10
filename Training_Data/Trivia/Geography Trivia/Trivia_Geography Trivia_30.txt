@@ -1,0 +1,4 @@
+{
+    "question": "Name the capital of Argentina.",
+    "answer": "Buenos Aires"
+}

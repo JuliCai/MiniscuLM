@@ -1,0 +1,4 @@
+{
+    "question": "What is a trapezoid?",
+    "answer": "Quadrilateral with one pair of parallel sides."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find the integral of e^x sin x dx.",
+    "answer": "(e^x (sin x - cos x))/2 + C"
+}

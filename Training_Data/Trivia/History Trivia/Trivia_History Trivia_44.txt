@@ -1,0 +1,4 @@
+{
+    "question": "Who was the ruler of Nazi Germany?",
+    "answer": "Adolf Hitler"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the limit of (sin x)/x as x approaches 0?",
+    "answer": "1"
+}

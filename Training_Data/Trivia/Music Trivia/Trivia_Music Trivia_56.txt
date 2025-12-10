@@ -1,0 +1,4 @@
+{
+    "question": "Which singer's real name is Stefani Germanotta?",
+    "answer": "Lady Gaga"
+}

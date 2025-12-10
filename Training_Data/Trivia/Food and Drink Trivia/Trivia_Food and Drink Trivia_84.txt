@@ -1,0 +1,4 @@
+{
+    "question": "Which vegetable is used in the Japanese dish tempura?",
+    "answer": "Various vegetables"
+}

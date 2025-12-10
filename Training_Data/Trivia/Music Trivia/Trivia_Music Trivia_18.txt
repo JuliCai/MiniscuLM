@@ -1,0 +1,4 @@
+{
+    "question": "Which band is known for the hit 'Stairway to Heaven'?",
+    "answer": "Led Zeppelin"
+}

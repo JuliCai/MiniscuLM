@@ -1,0 +1,4 @@
+{
+    "question": "Evaluate the limit of (x - tan x)/x^3 as x approaches 0.",
+    "answer": "1/3"
+}

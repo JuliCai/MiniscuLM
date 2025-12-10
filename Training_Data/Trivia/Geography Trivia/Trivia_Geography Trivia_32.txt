@@ -1,0 +1,4 @@
+{
+    "question": "Which ocean lies between Africa and Australia?",
+    "answer": "Indian Ocean"
+}

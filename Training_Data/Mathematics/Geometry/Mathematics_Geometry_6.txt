@@ -1,0 +1,4 @@
+{
+    "question": "What is the volume of a cube with side length s?",
+    "answer": "s\u00b3."
+}

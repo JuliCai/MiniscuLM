@@ -1,0 +1,4 @@
+{
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "answer": "Africa"
+}

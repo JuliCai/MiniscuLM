@@ -1,0 +1,4 @@
+{
+    "question": "Who directed 'Schindler's List'?",
+    "answer": "Steven Spielberg"
+}

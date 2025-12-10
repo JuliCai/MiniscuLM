@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first African American president of the USA?",
+    "answer": "Barack Obama"
+}

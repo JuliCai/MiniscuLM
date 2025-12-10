@@ -1,0 +1,4 @@
+{
+    "question": "What is the height of an NBA basketball hoop?",
+    "answer": "10 feet"
+}

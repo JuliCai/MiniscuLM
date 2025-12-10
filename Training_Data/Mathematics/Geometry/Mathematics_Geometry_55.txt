@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a chord and a secant?",
+    "answer": "Chord inside circle; secant extends outside."
+}

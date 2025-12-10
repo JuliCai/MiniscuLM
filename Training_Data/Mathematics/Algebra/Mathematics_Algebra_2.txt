@@ -1,0 +1,4 @@
+{
+    "question": "Solve for y: 5y - 10 = 0",
+    "answer": "y = 2"
+}

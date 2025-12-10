@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the annual championship game of college American football?",
+    "answer": "College Football Playoff"
+}

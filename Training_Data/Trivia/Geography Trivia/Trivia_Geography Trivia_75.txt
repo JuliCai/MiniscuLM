@@ -1,0 +1,4 @@
+{
+    "question": "Which country is famous for the kangaroo?",
+    "answer": "Australia"
+}

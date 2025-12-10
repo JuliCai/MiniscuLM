@@ -1,0 +1,4 @@
+{
+    "question": "Which empire was ruled by Suleiman the Magnificent?",
+    "answer": "Ottoman Empire"
+}

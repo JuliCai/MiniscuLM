@@ -1,0 +1,4 @@
+{
+    "question": "If x + y = 10 and x - y = 4, find x.",
+    "answer": "7"
+}

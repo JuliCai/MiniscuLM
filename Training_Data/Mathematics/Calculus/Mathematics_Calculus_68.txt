@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the limit of (sqrt(x + 1) - 1)/x as x approaches 0.",
+    "answer": "1/2"
+}

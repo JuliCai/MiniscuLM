@@ -1,0 +1,4 @@
+{
+    "question": "Which pop star released the album '1989'?",
+    "answer": "Taylor Swift"
+}

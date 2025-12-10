@@ -1,0 +1,4 @@
+{
+    "question": "Which fruit has varieties known as 'Cavendish'?",
+    "answer": "Banana"
+}

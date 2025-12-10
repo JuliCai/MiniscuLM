@@ -1,0 +1,4 @@
+{
+    "question": "What programming language is primarily used for AI?",
+    "answer": "Python"
+}

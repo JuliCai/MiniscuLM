@@ -1,0 +1,4 @@
+{
+    "question": "Solve: (x - 1)(x + 2) = 0",
+    "answer": "x = 1 or -2"
+}

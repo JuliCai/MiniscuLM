@@ -1,0 +1,4 @@
+{
+    "question": "Which technology is used to create virtual reality?",
+    "answer": "VR headsets"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the first smartphone?",
+    "answer": "IBM Simon"
+}

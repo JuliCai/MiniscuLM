@@ -1,0 +1,4 @@
+{
+    "question": "Which fruit is used to make traditional lemonade?",
+    "answer": "Lemon"
+}

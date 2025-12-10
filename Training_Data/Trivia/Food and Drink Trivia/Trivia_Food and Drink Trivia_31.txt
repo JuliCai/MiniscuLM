@@ -1,0 +1,4 @@
+{
+    "question": "Which fruit is known for its high potassium content?",
+    "answer": "Banana"
+}

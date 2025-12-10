@@ -1,0 +1,4 @@
+{
+    "question": "Which vegetable is the primary ingredient in ratatouille?",
+    "answer": "Zucchini"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete won the 100m gold at 2020 Tokyo Olympics?",
+    "answer": "Marcell Jacobs"
+}

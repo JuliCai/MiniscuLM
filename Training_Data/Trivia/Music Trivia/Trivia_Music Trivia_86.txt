@@ -1,0 +1,4 @@
+{
+    "question": "Which female artist is known for 'Like a Virgin'?",
+    "answer": "Madonna"
+}

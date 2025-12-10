@@ -1,0 +1,4 @@
+{
+    "question": "Name the actor who plays Deadpool.",
+    "answer": "Ryan Reynolds"
+}

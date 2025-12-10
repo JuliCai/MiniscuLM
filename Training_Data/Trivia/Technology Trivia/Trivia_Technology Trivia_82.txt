@@ -1,0 +1,4 @@
+{
+    "question": "What programming language is known for system programming?",
+    "answer": "C"
+}

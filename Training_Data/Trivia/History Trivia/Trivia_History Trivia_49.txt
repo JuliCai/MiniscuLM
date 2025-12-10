@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote the Communist Manifesto?",
+    "answer": "Karl Marx and Friedrich Engels"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which composer became deaf later in life?",
+    "answer": "Ludwig van Beethoven"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which empire was ruled by Ramses II?",
+    "answer": "Ancient Egypt"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find the integral of x cos(x) dx.",
+    "answer": "x sin(x) + cos(x) + C"
+}

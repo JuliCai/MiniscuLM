@@ -1,0 +1,4 @@
+{
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "answer": "Iceland"
+}

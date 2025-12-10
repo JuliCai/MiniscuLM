@@ -1,0 +1,4 @@
+{
+    "question": "Evaluate the integral of 1/(x sqrt(x^2 - 1)) dx.",
+    "answer": "arcsec|x| + C"
+}

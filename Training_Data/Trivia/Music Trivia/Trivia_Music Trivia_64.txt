@@ -1,0 +1,4 @@
+{
+    "question": "What is the musical symbol for sharp?",
+    "answer": "\u266f"
+}

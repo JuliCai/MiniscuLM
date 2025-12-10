@@ -1,0 +1,4 @@
+{
+    "question": "What programming language is known for its snake logo?",
+    "answer": "Python"
+}

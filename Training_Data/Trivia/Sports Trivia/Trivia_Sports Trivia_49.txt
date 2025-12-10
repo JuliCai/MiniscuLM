@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the 2019 Cricket World Cup?",
+    "answer": "England"
+}

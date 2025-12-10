@@ -1,0 +1,4 @@
+{
+    "question": "Which cheese is known for its blue veins?",
+    "answer": "Blue cheese"
+}

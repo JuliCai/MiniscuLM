@@ -1,0 +1,4 @@
+{
+    "question": "What is the length of the diagonal of a square with side s?",
+    "answer": "s \u00d7 \u221a2."
+}

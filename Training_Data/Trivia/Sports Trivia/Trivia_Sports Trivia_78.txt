@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete famously won 8 gold medals in a single Olympics?",
+    "answer": "Michael Phelps"
+}

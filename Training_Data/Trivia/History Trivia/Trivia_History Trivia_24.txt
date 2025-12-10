@@ -1,0 +1,4 @@
+{
+    "question": "Which explorer is credited with circumnavigating the globe first?",
+    "answer": "Ferdinand Magellan"
+}

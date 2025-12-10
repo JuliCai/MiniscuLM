@@ -1,0 +1,4 @@
+{
+    "question": "What genre is 'Dracula' by Bram Stoker?",
+    "answer": "Gothic horror"
+}

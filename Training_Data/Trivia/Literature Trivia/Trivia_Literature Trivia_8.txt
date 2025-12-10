@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "answer": "J.D. Salinger"
+}

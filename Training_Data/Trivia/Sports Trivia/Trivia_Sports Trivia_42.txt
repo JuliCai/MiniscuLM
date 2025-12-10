@@ -1,0 +1,4 @@
+{
+    "question": "What is the main color of a cricket ball?",
+    "answer": "Red"
+}

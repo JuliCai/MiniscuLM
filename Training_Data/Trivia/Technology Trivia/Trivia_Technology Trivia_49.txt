@@ -1,0 +1,4 @@
+{
+    "question": "What programming language is known as 'write once, run anywhere'?",
+    "answer": "Java"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the limit of (ln x)/x as x approaches infinity?",
+    "answer": "0"
+}

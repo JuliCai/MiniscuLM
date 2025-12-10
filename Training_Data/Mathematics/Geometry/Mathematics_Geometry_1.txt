@@ -1,0 +1,4 @@
+{
+    "question": "Define a right angle.",
+    "answer": "An angle of 90 degrees."
+}

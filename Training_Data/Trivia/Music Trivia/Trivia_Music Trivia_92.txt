@@ -1,0 +1,4 @@
+{
+    "question": "Who sang 'Purple Rain'?",
+    "answer": "Prince"
+}

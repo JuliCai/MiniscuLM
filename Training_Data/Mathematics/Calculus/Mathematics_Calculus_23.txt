@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of arctan(x)?",
+    "answer": "1/(1 + x^2)"
+}

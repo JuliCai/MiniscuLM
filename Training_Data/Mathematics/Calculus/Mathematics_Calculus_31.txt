@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of cot(x)?",
+    "answer": "-csc^2(x)"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the UEFA Euro 2020?",
+    "answer": "Italy"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Factorize: x\u00b2 + x - 12",
+    "answer": "(x + 4)(x - 3)"
+}

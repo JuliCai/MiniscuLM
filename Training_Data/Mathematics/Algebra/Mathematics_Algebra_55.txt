@@ -1,0 +1,4 @@
+{
+    "question": "Find x if 6x = 18",
+    "answer": "x = 3"
+}

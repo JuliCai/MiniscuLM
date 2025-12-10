@@ -1,0 +1,4 @@
+{
+    "question": "Which battle ended Napoleon's rule?",
+    "answer": "Battle of Waterloo"
+}

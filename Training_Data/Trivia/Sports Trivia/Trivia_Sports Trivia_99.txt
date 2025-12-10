@@ -1,0 +1,4 @@
+{
+    "question": "Who is the youngest player to win a Grand Slam tennis title?",
+    "answer": "Martina Hingis"
+}

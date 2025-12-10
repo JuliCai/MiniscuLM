@@ -1,0 +1,4 @@
+{
+    "question": "Evaluate the limit of (e^x - e^{-x})/x as x approaches 0.",
+    "answer": "2"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which company owns LinkedIn?",
+    "answer": "Microsoft"
+}

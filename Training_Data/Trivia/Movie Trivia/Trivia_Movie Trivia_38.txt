@@ -1,0 +1,4 @@
+{
+    "question": "In which movie does Tom Cruise play a character named Maverick?",
+    "answer": "Top Gun"
+}

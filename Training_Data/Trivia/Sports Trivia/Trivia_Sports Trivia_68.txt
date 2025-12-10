@@ -1,0 +1,4 @@
+{
+    "question": "Which country is the most successful in Winter Olympics history?",
+    "answer": "Norway"
+}

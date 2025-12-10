@@ -1,0 +1,4 @@
+{
+    "question": "Who was the last Emperor of Russia?",
+    "answer": "Nicholas II"
+}

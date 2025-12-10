@@ -1,0 +1,4 @@
+{
+    "question": "What is the vertex form of y = x\u00b2 - 4x + 3?",
+    "answer": "y = (x - 2)\u00b2 - 1"
+}

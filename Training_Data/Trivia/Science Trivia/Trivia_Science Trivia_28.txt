@@ -1,0 +1,4 @@
+{
+    "question": "What is the main gas responsible for the greenhouse effect?",
+    "answer": "Carbon dioxide"
+}

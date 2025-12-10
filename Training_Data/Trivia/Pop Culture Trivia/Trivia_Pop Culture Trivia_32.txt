@@ -1,0 +1,4 @@
+{
+    "question": "Which band released the hit song 'Bohemian Rhapsody'?",
+    "answer": "Queen"
+}

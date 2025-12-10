@@ -1,0 +1,4 @@
+{
+    "question": "What kind of scientist studies stars and planets?",
+    "answer": "Astronomer"
+}

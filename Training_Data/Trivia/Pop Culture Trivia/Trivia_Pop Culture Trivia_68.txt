@@ -1,0 +1,4 @@
+{
+    "question": "Who won the first season of 'The Voice' US?",
+    "answer": "Javier Colon"
+}

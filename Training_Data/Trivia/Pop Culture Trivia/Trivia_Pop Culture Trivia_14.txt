@@ -1,0 +1,4 @@
+{
+    "question": "Which actor portrayed Tony Stark in the MCU?",
+    "answer": "Robert Downey Jr."
+}

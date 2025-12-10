@@ -1,0 +1,4 @@
+{
+    "question": "What does SSD stand for?",
+    "answer": "Solid State Drive"
+}

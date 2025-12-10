@@ -1,0 +1,4 @@
+{
+    "question": "Which device converts digital signals to analog?",
+    "answer": "Modem"
+}

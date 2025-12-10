@@ -1,0 +1,4 @@
+{
+    "question": "What is open source software?",
+    "answer": "Software with publicly available code"
+}

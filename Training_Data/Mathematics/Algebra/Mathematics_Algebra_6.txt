@@ -1,0 +1,4 @@
+{
+    "question": "What is the degree of the polynomial 4x\u00b3 + 2x\u00b2 - x + 7?",
+    "answer": "3"
+}

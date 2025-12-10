@@ -1,0 +1,4 @@
+{
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+}

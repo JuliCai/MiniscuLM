@@ -1,0 +1,4 @@
+{
+    "question": "What is the product of roots of x\u00b2 - 7x + 10 = 0?",
+    "answer": "10"
+}

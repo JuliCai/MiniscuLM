@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary pigment in plants that absorbs light?",
+    "answer": "Chlorophyll"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which company is known for the search engine Bing?",
+    "answer": "Microsoft"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which technology is used for wireless charging?",
+    "answer": "Inductive Charging"
+}

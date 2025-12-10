@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the area of a kite?",
+    "answer": "(d1 \u00d7 d2) / 2."
+}

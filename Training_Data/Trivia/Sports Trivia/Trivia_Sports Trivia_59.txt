@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the trophy awarded in the NHL?",
+    "answer": "Stanley Cup"
+}

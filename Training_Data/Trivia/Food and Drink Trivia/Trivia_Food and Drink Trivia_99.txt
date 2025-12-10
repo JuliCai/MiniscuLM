@@ -1,0 +1,4 @@
+{
+    "question": "Which spice is made from dried flower buds?",
+    "answer": "Cloves"
+}

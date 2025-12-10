@@ -1,0 +1,4 @@
+{
+    "question": "What is the standard length of an Olympic swimming pool in meters?",
+    "answer": "50 meters"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which sport is known as 'the beautiful game'?",
+    "answer": "Soccer"
+}

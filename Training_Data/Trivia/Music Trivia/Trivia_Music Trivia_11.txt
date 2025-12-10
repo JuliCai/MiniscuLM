@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument has 6 strings and is often used in rock music?",
+    "answer": "Guitar"
+}

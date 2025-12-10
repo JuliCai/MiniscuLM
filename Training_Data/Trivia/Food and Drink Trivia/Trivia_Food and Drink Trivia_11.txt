@@ -1,0 +1,4 @@
+{
+    "question": "Which cheese is traditionally used on a Margherita pizza?",
+    "answer": "Mozzarella"
+}

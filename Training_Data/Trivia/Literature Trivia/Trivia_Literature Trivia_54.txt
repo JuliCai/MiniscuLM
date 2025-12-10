@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'Beloved'?",
+    "answer": "Toni Morrison"
+}

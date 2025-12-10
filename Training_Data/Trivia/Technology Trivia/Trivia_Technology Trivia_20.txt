@@ -1,0 +1,4 @@
+{
+    "question": "Which device is used to connect to the internet wirelessly?",
+    "answer": "Router"
+}

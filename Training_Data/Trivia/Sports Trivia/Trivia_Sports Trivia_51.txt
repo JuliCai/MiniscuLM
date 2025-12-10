@@ -1,0 +1,4 @@
+{
+    "question": "Who is the all-time top scorer in World Cup history?",
+    "answer": "Miroslav Klose"
+}

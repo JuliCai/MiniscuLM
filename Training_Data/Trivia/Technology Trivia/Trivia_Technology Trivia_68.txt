@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the first widely used web browser?",
+    "answer": "Netscape Navigator"
+}

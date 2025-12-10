@@ -1,0 +1,4 @@
+{
+    "question": "Which TV series is set in the fictional town of Hawkins?",
+    "answer": "Stranger Things"
+}

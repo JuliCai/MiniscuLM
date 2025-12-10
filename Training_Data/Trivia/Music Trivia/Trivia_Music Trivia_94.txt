@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is known as the 'father of the piano'?",
+    "answer": "Harpsichord"
+}

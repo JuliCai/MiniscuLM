@@ -1,0 +1,4 @@
+{
+    "question": "Which artist painted the album cover for 'Sgt. Pepper's Lonely Hearts Club Band'?",
+    "answer": "Peter Blake"
+}

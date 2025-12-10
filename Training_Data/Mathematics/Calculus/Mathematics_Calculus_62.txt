@@ -1,0 +1,4 @@
+{
+    "question": "Find the derivative of f(x) = ln(x^3 + 1).",
+    "answer": "3x^2/(x^3 + 1)"
+}

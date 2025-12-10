@@ -1,0 +1,4 @@
+{
+    "question": "What is the measure of each angle in an equilateral triangle?",
+    "answer": "60 degrees."
+}

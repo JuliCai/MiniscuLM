@@ -1,0 +1,4 @@
+{
+    "question": "Who directed 'The Lion King' (1994)?",
+    "answer": "Roger Allers and Rob Minkoff"
+}

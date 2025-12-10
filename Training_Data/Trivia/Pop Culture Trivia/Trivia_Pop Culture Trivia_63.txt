@@ -1,0 +1,4 @@
+{
+    "question": "Which pop star is known for the album 'Lemonade'?",
+    "answer": "Beyonc\u00e9"
+}

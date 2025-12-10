@@ -1,0 +1,4 @@
+{
+    "question": "What is the definition of a rhombus?",
+    "answer": "Parallelogram with all sides equal."
+}

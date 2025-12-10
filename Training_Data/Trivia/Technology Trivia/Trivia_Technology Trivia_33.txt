@@ -1,0 +1,4 @@
+{
+    "question": "What is CAPTCHA used for?",
+    "answer": "To verify humans, block bots"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is commonly used in country music and has strings?",
+    "answer": "Banjo"
+}

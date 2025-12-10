@@ -1,0 +1,4 @@
+{
+    "question": "Who is the protagonist in 'The Catcher in the Rye'?",
+    "answer": "Holden Caulfield"
+}

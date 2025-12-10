@@ -1,0 +1,4 @@
+{
+    "question": "Who is the creator of 'The Walking Dead' comic series?",
+    "answer": "Robert Kirkman"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the total number of edges in a cube?",
+    "answer": "12 edges."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the constant term in x\u00b2 + 4x + 4?",
+    "answer": "4"
+}

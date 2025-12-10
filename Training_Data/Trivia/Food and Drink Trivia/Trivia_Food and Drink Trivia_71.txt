@@ -1,0 +1,4 @@
+{
+    "question": "Which fruit is known as the 'Chinese gooseberry'?",
+    "answer": "Kiwi"
+}

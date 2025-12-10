@@ -1,0 +1,4 @@
+{
+    "question": "Who created the Marvel Comics universe?",
+    "answer": "Stan Lee"
+}

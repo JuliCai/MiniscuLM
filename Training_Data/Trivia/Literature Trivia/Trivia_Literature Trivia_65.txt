@@ -1,0 +1,4 @@
+{
+    "question": "Which novel features the character Ebenezer Scrooge?",
+    "answer": "A Christmas Carol"
+}

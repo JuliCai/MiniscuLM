@@ -1,0 +1,4 @@
+{
+    "question": "What is the integral of 1/(x ln x)^2 dx?",
+    "answer": "-1/ln|x| + C"
+}

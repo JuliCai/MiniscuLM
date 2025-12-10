@@ -1,0 +1,4 @@
+{
+    "question": "What is the polygon with 12 sides called?",
+    "answer": "Dodecagon."
+}

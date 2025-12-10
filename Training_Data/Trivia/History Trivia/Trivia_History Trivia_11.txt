@@ -1,0 +1,4 @@
+{
+    "question": "Which ship carried the Pilgrims to America in 1620?",
+    "answer": "Mayflower"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete is known for the 'Hand of God' goal?",
+    "answer": "Diego Maradona"
+}

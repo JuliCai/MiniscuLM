@@ -1,0 +1,4 @@
+{
+    "question": "What is the solution for x\u00b2 = 0?",
+    "answer": "x = 0"
+}

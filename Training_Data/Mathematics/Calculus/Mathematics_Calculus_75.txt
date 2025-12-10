@@ -1,0 +1,4 @@
+{
+    "question": "Find the derivative of f(x) = x ln x.",
+    "answer": "ln x + 1"
+}

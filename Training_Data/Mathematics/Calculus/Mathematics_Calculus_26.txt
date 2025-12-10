@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the integral of sinh(x) dx.",
+    "answer": "cosh(x) + C"
+}

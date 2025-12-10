@@ -1,0 +1,4 @@
+{
+    "question": "What organelle is known as the powerhouse of the cell?",
+    "answer": "Mitochondria"
+}

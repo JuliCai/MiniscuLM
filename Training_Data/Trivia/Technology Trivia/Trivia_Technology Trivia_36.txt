@@ -1,0 +1,4 @@
+{
+    "question": "Which programming language is known for its use in statistical computing?",
+    "answer": "R"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country is known as the birthplace of judo?",
+    "answer": "Japan"
+}

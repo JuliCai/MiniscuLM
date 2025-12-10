@@ -1,0 +1,4 @@
+{
+    "question": "Who was the Prime Minister of India after independence?",
+    "answer": "Jawaharlal Nehru"
+}

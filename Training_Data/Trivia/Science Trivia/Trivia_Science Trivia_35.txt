@@ -1,0 +1,4 @@
+{
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": "0\u00b0C"
+}

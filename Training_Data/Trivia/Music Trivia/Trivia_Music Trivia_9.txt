@@ -1,0 +1,4 @@
+{
+    "question": "Which group performed 'Bohemian Rhapsody'?",
+    "answer": "Queen"
+}

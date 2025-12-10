@@ -1,0 +1,4 @@
+{
+    "question": "Which country gifted the Statue of Liberty to the USA?",
+    "answer": "France"
+}

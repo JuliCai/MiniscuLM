@@ -1,0 +1,4 @@
+{
+    "question": "Who holds the record for the fastest 100m sprint?",
+    "answer": "Usain Bolt"
+}

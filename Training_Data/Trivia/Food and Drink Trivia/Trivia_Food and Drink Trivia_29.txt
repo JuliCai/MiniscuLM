@@ -1,0 +1,4 @@
+{
+    "question": "Which drink is traditionally served at Oktoberfest?",
+    "answer": "Beer"
+}

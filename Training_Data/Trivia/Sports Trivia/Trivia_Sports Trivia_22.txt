@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the first FIFA World Cup?",
+    "answer": "Uruguay"
+}

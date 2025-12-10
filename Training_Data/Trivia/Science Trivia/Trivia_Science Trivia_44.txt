@@ -1,0 +1,4 @@
+{
+    "question": "What is the process by which water changes from gas to liquid?",
+    "answer": "Condensation"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which Shakespeare play features the characters Claudius and Gertrude?",
+    "answer": "Hamlet"
+}

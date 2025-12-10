@@ -1,0 +1,4 @@
+{
+    "question": "Who was the founder of the Mughal Empire in India?",
+    "answer": "Babur"
+}

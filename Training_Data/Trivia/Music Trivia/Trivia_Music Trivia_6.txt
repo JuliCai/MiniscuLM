@@ -1,0 +1,4 @@
+{
+    "question": "Who sang 'Like a Rolling Stone'?",
+    "answer": "Bob Dylan"
+}

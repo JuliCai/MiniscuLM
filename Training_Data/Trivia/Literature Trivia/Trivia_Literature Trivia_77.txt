@@ -1,0 +1,4 @@
+{
+    "question": "Which novel is about a futuristic society with strict conformity?",
+    "answer": "Brave New World"
+}

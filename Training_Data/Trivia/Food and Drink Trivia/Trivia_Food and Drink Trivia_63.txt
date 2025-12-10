@@ -1,0 +1,4 @@
+{
+    "question": "Which vegetable is the base of the Indian dish aloo gobi?",
+    "answer": "Potato"
+}

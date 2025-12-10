@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete is nicknamed 'The Rocket' in hockey?",
+    "answer": "Maurice Richard"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary use of SQL?",
+    "answer": "Manage databases"
+}

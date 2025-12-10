@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the process where plants lose water vapor?",
+    "answer": "Transpiration"
+}

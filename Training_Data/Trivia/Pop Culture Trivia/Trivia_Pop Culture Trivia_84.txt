@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'The Lord of the Rings'?",
+    "answer": "J.R.R. Tolkien"
+}

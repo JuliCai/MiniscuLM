@@ -1,0 +1,4 @@
+{
+    "question": "Which pop star is known for the song 'Rolling in the Deep'?",
+    "answer": "Adele"
+}

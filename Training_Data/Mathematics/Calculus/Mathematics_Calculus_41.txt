@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of arcsinh(x)?",
+    "answer": "1/sqrt(x^2 + 1)"
+}

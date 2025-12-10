@@ -1,0 +1,4 @@
+{
+    "question": "Express 0.75 as a fraction and simplify.",
+    "answer": "3/4"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find the derivative of f(x) = (x^2 + 1)^5.",
+    "answer": "10x (x^2 + 1)^4"
+}

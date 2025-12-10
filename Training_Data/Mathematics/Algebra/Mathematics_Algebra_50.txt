@@ -1,0 +1,4 @@
+{
+    "question": "Find the roots of x\u00b2 + 2x - 3 = 0",
+    "answer": "x = 1 or -3"
+}

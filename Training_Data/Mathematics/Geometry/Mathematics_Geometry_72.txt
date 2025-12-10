@@ -1,0 +1,4 @@
+{
+    "question": "What is a regular pentagon?",
+    "answer": "Pentagon with equal sides and angles."
+}

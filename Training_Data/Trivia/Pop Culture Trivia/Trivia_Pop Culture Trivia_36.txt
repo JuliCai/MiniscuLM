@@ -1,0 +1,4 @@
+{
+    "question": "Who won American Idol season 1?",
+    "answer": "Kelly Clarkson"
+}

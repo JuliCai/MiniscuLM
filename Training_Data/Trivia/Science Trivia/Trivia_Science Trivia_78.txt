@@ -1,0 +1,4 @@
+{
+    "question": "What is the center of the Earth called?",
+    "answer": "Core"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country was divided into North and South after WWII?",
+    "answer": "Korea"
+}

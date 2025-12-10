@@ -1,0 +1,4 @@
+{
+    "question": "What is a perpendicular bisector?",
+    "answer": "Line dividing a segment into two equal parts at 90\u00b0."
+}

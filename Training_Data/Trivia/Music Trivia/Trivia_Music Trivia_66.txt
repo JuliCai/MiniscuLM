@@ -1,0 +1,4 @@
+{
+    "question": "Who is known as the 'Godfather of Soul'?",
+    "answer": "James Brown"
+}

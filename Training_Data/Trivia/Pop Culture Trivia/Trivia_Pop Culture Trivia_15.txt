@@ -1,0 +1,4 @@
+{
+    "question": "What year did the TV show Friends first premiere?",
+    "answer": "1994"
+}

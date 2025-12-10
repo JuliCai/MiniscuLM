@@ -1,0 +1,4 @@
+{
+    "question": "Who is the lead guitarist of the Rolling Stones?",
+    "answer": "Keith Richards"
+}

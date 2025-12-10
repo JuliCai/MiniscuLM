@@ -1,0 +1,4 @@
+{
+    "question": "Who created the Linux operating system?",
+    "answer": "Linus Torvalds"
+}

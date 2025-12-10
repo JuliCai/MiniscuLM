@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary cause of the American Revolution?",
+    "answer": "Taxation without representation"
+}

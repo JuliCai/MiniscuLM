@@ -1,0 +1,4 @@
+{
+    "question": "Which company created the Android operating system?",
+    "answer": "Google"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who played the lead role in the movie Gladiator?",
+    "answer": "Russell Crowe"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What kind of bond involves sharing electrons?",
+    "answer": "Covalent bond"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for surface area of a cube?",
+    "answer": "6 \u00d7 s\u00b2."
+}

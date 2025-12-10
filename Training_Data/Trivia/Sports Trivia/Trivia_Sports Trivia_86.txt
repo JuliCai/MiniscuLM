@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first person to run a sub-4 minute mile?",
+    "answer": "Roger Bannister"
+}

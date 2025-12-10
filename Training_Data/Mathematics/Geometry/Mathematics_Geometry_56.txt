@@ -1,0 +1,4 @@
+{
+    "question": "What is a median in a triangle?",
+    "answer": "Segment from vertex to midpoint of opposite side."
+}

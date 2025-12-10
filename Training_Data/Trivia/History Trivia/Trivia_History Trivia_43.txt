@@ -1,0 +1,4 @@
+{
+    "question": "Which country was known as Persia in ancient times?",
+    "answer": "Iran"
+}

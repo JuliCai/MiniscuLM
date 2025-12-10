@@ -1,0 +1,4 @@
+{
+    "question": "Expand: (x - 2)(x + 3)",
+    "answer": "x\u00b2 + x - 6"
+}

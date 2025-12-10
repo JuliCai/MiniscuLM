@@ -1,0 +1,4 @@
+{
+    "question": "What is phishing in cybersecurity?",
+    "answer": "Fraudulent attempt to obtain sensitive info"
+}

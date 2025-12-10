@@ -1,0 +1,4 @@
+{
+    "question": "Who directed 'Avatar' (2009)?",
+    "answer": "James Cameron"
+}

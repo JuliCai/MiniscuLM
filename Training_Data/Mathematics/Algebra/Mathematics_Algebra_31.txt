@@ -1,0 +1,4 @@
+{
+    "question": "If f(x) = x\u00b2, find f(4)",
+    "answer": "16"
+}

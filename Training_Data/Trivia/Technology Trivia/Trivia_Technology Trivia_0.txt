@@ -1,0 +1,4 @@
+{
+    "question": "What does CPU stand for in computers?",
+    "answer": "Central Processing Unit"
+}

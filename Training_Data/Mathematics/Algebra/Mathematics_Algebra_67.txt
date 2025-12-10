@@ -1,0 +1,4 @@
+{
+    "question": "If 3x + y = 9 and y = 3, find x.",
+    "answer": "x = 2"
+}

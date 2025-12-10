@@ -1,0 +1,4 @@
+{
+    "question": "What particle has a negative charge?",
+    "answer": "Electron"
+}

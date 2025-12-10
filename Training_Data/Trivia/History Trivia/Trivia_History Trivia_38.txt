@@ -1,0 +1,4 @@
+{
+    "question": "Who led the Indian independence movement using nonviolence?",
+    "answer": "Mahatma Gandhi"
+}

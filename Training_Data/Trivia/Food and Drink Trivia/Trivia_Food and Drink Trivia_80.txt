@@ -1,0 +1,4 @@
+{
+    "question": "Which fruit is used to make the traditional British dish Eton mess?",
+    "answer": "Strawberries"
+}

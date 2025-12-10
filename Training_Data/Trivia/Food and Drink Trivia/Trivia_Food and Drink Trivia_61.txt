@@ -1,0 +1,4 @@
+{
+    "question": "Which country is famous for its chocolate brand Lindt?",
+    "answer": "Switzerland"
+}

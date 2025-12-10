@@ -1,0 +1,4 @@
+{
+    "question": "Which country is home to the ancient city of Machu Picchu?",
+    "answer": "Peru"
+}

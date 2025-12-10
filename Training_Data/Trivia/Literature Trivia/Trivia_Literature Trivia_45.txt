@@ -1,0 +1,4 @@
+{
+    "question": "Which Shakespeare play features the line 'To be, or not to be'?",
+    "answer": "Hamlet"
+}

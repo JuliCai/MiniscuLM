@@ -1,0 +1,4 @@
+{
+    "question": "Which novel features the character Jay Gatsby?",
+    "answer": "The Great Gatsby"
+}

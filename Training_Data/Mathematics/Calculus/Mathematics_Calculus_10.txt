@@ -1,0 +1,4 @@
+{
+    "question": "Evaluate the limit of (x^2 - 1)/(x - 1) as x approaches 1.",
+    "answer": "2"
+}

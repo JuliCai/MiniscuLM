@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "answer": "Oscar Wilde"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was known as the Iron Lady?",
+    "answer": "Margaret Thatcher"
+}

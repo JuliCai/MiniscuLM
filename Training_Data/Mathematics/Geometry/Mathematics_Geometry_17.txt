@@ -1,0 +1,4 @@
+{
+    "question": "What is a chord in a circle?",
+    "answer": "A line segment with endpoints on the circle."
+}

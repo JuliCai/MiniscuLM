@@ -1,0 +1,4 @@
+{
+    "question": "What kind of celestial body is the Sun?",
+    "answer": "Star"
+}

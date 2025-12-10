@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the area of a regular polygon?",
+    "answer": "(1/2) \u00d7 perimeter \u00d7 apothem."
+}

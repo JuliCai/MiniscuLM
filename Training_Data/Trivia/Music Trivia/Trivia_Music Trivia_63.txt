@@ -1,0 +1,4 @@
+{
+    "question": "Which singer is known as 'The Material Girl'?",
+    "answer": "Madonna"
+}

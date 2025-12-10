@@ -1,0 +1,4 @@
+{
+    "question": "What part of the cell contains genetic material?",
+    "answer": "Nucleus"
+}

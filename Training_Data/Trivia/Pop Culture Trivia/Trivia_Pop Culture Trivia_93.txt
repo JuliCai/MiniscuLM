@@ -1,0 +1,4 @@
+{
+    "question": "What year did the TV show 'Stranger Things' debut?",
+    "answer": "2016"
+}

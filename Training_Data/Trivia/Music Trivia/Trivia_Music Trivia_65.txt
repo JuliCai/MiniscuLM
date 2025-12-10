@@ -1,0 +1,4 @@
+{
+    "question": "Which band released 'Hotel California'?",
+    "answer": "Eagles"
+}

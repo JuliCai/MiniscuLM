@@ -1,0 +1,4 @@
+{
+    "question": "Which company developed the Windows OS?",
+    "answer": "Microsoft"
+}

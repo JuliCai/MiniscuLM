@@ -1,0 +1,4 @@
+{
+    "question": "What is the degree of 7x\u2074 - 3x + 2?",
+    "answer": "4"
+}

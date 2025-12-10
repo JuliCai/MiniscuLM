@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first President of South Africa elected by all races?",
+    "answer": "Nelson Mandela"
+}

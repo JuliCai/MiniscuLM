@@ -1,0 +1,4 @@
+{
+    "question": "Evaluate the integral of dx/(x^2 - 1).",
+    "answer": "(1/2) ln| (x - 1)/(x + 1) | + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find the integral of 1/(x^2 sqrt(x^2 - 1)) dx.",
+    "answer": "-sqrt(x^2 - 1)/x + C"
+}

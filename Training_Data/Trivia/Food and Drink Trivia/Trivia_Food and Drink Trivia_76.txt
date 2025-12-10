@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the drink made from fermented rice in Japan?",
+    "answer": "Sake"
+}

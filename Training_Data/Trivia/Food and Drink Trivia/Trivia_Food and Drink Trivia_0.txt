@@ -1,0 +1,4 @@
+{
+    "question": "What fruit is known as the 'king of fruits'?",
+    "answer": "Durian"
+}

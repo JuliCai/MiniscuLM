@@ -1,0 +1,4 @@
+{
+    "question": "Who is known as the father of the computer?",
+    "answer": "Charles Babbage"
+}

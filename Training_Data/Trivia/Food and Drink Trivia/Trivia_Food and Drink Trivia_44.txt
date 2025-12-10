@@ -1,0 +1,4 @@
+{
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "answer": "Miso paste"
+}

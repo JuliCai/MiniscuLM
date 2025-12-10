@@ -1,0 +1,4 @@
+{
+    "question": "What is the limit of (1 - cos x)/x^4 as x approaches 0?",
+    "answer": "0"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud computing?",
+    "answer": "Remote data and computing services"
+}

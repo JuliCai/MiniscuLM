@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of an IP firewall?",
+    "answer": "Block unwanted network traffic"
+}

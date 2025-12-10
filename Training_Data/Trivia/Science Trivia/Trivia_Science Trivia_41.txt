@@ -1,0 +1,4 @@
+{
+    "question": "What kind of energy is stored in food?",
+    "answer": "Chemical energy"
+}

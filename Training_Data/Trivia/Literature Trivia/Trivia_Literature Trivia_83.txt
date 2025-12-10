@@ -1,0 +1,4 @@
+{
+    "question": "Which Shakespeare play features the characters Macbeth and Lady Macbeth?",
+    "answer": "Macbeth"
+}
