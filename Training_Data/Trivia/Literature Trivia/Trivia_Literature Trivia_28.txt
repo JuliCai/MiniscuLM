@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Wuthering Heights'?",
-    "answer": "Emily Bront\u00eb"
-}

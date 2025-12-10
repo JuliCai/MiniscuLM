@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the limit of (cos x - 1)/x^2 as x approaches 0.",
-    "answer": "-1/2"
-}

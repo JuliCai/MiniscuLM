@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first man to step on the moon?",
-    "answer": "Neil Armstrong"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which classical composer wrote the 9th Symphony?",
-    "answer": "Beethoven"
-}

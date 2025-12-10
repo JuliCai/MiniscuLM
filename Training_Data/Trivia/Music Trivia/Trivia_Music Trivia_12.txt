@@ -1,4 +1,0 @@
-{
-    "question": "Who is the 'Queen of Soul'?",
-    "answer": "Aretha Franklin"
-}

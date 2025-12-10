@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is narrated by Pi Patel?",
-    "answer": "Life of Pi"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which ocean is the largest by surface area?",
-    "answer": "Pacific Ocean"
-}

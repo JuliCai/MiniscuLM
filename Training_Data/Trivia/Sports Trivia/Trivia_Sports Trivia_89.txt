@@ -1,4 +1,0 @@
-{
-    "question": "What is the main material used in a basketball?",
-    "answer": "Leather"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who played the character Harry Potter?",
-    "answer": "Daniel Radcliffe"
-}

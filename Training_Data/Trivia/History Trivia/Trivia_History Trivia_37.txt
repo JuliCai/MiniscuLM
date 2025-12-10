@@ -1,4 +1,0 @@
-{
-    "question": "What year did World War II end?",
-    "answer": "1945"
-}

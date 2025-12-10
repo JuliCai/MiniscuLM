@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Sun Also Rises'?",
-    "answer": "Ernest Hemingway"
-}

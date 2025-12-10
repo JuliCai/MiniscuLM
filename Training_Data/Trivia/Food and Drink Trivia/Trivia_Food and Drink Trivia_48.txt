@@ -1,4 +1,0 @@
-{
-    "question": "What is the primary ingredient in polenta?",
-    "answer": "Cornmeal"
-}

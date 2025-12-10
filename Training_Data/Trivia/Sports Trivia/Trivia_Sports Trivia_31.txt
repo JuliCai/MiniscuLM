@@ -1,4 +1,0 @@
-{
-    "question": "What is the maximum break in snooker?",
-    "answer": "147"
-}

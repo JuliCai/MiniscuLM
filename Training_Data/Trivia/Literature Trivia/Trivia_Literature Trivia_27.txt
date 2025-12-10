@@ -1,4 +1,0 @@
-{
-    "question": "What is the main theme of 'Animal Farm'?",
-    "answer": "Political allegory"
-}

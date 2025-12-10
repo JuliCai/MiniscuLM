@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the Scottish dish made from sheep's stomach?",
-    "answer": "Haggis"
-}

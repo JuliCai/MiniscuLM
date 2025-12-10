@@ -1,4 +1,0 @@
-{
-    "question": "Which work is considered Shakespeare's longest play?",
-    "answer": "Hamlet"
-}

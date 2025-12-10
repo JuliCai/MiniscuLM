@@ -1,4 +1,0 @@
-{
-    "question": "Which nut is often used in Chinese cooking and desserts?",
-    "answer": "Cashew"
-}

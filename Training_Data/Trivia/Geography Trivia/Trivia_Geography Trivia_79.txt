@@ -1,4 +1,0 @@
-{
-    "question": "Which ocean is Bermuda located in?",
-    "answer": "Atlantic Ocean"
-}

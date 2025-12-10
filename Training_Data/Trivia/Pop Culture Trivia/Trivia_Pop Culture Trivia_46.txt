@@ -1,4 +1,0 @@
-{
-    "question": "Which TV series features the Stark family?",
-    "answer": "Game of Thrones"
-}

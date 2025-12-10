@@ -1,4 +1,0 @@
-{
-    "question": "Find the integral of 3x^2 dx.",
-    "answer": "x^3 + C"
-}

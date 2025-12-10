@@ -1,4 +1,0 @@
-{
-    "question": "In which year were the first modern Olympics held?",
-    "answer": "1896"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who composed the opera 'Carmen'?",
-    "answer": "Bizet"
-}

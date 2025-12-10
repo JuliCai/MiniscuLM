@@ -1,4 +1,0 @@
-{
-    "question": "Which vegetable is known for its strong smell and flavor, often used in Italian cooking?",
-    "answer": "Garlic"
-}

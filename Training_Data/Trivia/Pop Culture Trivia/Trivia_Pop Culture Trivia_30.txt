@@ -1,4 +1,0 @@
-{
-    "question": "Which TV series is about a high school glee club?",
-    "answer": "Glee"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which novel centers around a giant white whale?",
-    "answer": "Moby-Dick"
-}

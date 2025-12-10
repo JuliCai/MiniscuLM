@@ -1,4 +1,0 @@
-{
-    "question": "What is the main ingredient in the Spanish dish gazpacho?",
-    "answer": "Tomato"
-}

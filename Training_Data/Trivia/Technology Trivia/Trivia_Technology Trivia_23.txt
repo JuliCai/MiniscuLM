@@ -1,4 +1,0 @@
-{
-    "question": "What is a Trojan horse in computing?",
-    "answer": "Malware disguised as legitimate software"
-}

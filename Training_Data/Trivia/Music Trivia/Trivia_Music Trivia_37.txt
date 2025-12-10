@@ -1,4 +1,0 @@
-{
-    "question": "Who is the frontman of the band Nirvana?",
-    "answer": "Kurt Cobain"
-}

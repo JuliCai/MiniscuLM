@@ -1,4 +1,0 @@
-{
-    "question": "What does AI stand for?",
-    "answer": "Artificial Intelligence"
-}

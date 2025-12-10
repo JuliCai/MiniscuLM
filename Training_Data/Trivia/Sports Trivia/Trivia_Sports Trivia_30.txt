@@ -1,4 +1,0 @@
-{
-    "question": "Which city hosted the 2000 Summer Olympics?",
-    "answer": "Sydney"
-}

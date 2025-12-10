@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features a character named Hester Prynne?",
-    "answer": "The Scarlet Letter"
-}

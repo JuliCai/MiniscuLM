@@ -1,4 +1,0 @@
-{
-    "question": "In which movie does the character Buzz Lightyear appear?",
-    "answer": "Toy Story"
-}

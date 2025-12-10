@@ -1,4 +1,0 @@
-{
-    "question": "Evaluate the integral of x e^x dx.",
-    "answer": "(x - 1)e^x + C"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What genre is the band Metallica associated with?",
-    "answer": "Heavy Metal"
-}

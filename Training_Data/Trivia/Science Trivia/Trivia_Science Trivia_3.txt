@@ -1,4 +1,0 @@
-{
-    "question": "How many bones are in the adult human body?",
-    "answer": "206"
-}

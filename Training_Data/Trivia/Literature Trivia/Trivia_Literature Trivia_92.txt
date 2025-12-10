@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Hobbit'?",
-    "answer": "J.R.R. Tolkien"
-}

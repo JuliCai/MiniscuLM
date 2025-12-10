@@ -1,4 +1,0 @@
-{
-    "question": "What planet is closest to the sun?",
-    "answer": "Mercury"
-}

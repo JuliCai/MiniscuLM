@@ -1,4 +1,0 @@
-{
-    "question": "What year was 'Avatar' released?",
-    "answer": "2009"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the main alcoholic ingredient in a margarita?",
-    "answer": "Tequila"
-}

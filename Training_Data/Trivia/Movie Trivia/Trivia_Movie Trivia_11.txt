@@ -1,4 +1,0 @@
-{
-    "question": "Which film series features a character named Katniss Everdeen?",
-    "answer": "The Hunger Games"
-}

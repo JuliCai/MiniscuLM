@@ -1,4 +1,0 @@
-{
-    "question": "What programming language is known as the language of the web?",
-    "answer": "JavaScript"
-}

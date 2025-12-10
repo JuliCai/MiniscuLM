@@ -1,4 +1,0 @@
-{
-    "question": "In which film did Leonardo DiCaprio win his first Oscar?",
-    "answer": "The Revenant"
-}

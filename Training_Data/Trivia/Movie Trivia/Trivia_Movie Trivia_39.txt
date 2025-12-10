@@ -1,4 +1,0 @@
-{
-    "question": "What movie features a giant gorilla named King Kong?",
-    "answer": "King Kong"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is an isosceles triangle?",
-    "answer": "Triangle with two equal sides."
-}

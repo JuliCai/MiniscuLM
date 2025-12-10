@@ -1,4 +1,0 @@
-{
-    "question": "Which musical note is represented by an open circle?",
-    "answer": "Whole note"
-}

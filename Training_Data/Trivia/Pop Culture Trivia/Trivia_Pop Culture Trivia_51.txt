@@ -1,4 +1,0 @@
-{
-    "question": "Name the rapper with the real name Shawn Carter.",
-    "answer": "Jay-Z"
-}

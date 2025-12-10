@@ -1,4 +1,0 @@
-{
-    "question": "Who was the founder of the Mongol Empire?",
-    "answer": "Genghis Khan"
-}

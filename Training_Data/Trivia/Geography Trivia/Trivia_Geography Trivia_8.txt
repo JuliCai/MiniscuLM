@@ -1,4 +1,0 @@
-{
-    "question": "Which desert is the largest hot desert in the world?",
-    "answer": "Sahara"
-}

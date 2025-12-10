@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of a 3D shape with two parallel circular bases?",
-    "answer": "Cylinder."
-}

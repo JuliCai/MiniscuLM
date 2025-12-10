@@ -1,4 +1,0 @@
-{
-    "question": "What was the first permanent English settlement in America?",
-    "answer": "Jamestown"
-}

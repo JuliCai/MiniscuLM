@@ -1,4 +1,0 @@
-{
-    "question": "Which band is known for 'Born to Run'?",
-    "answer": "Bruce Springsteen and the E Street Band"
-}

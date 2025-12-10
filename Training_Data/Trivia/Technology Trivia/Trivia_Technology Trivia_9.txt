@@ -1,4 +1,0 @@
-{
-    "question": "What is the main function of the GPU?",
-    "answer": "Graphics Processing Unit"
-}

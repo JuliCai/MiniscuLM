@@ -1,4 +1,0 @@
-{
-    "question": "Who sang the hit song 'Rolling in the Deep'?",
-    "answer": "Adele"
-}

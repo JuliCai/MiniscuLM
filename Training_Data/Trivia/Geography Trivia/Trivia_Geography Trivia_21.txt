@@ -1,4 +1,0 @@
-{
-    "question": "Name the capital of Canada.",
-    "answer": "Ottawa"
-}

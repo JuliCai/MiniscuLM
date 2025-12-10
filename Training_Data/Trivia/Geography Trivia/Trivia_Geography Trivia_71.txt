@@ -1,4 +1,0 @@
-{
-    "question": "Which country is the largest archipelago in the world?",
-    "answer": "Indonesia"
-}

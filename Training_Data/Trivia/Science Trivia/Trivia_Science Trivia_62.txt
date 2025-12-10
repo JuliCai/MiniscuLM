@@ -1,4 +1,0 @@
-{
-    "question": "What gas do plants release during photosynthesis?",
-    "answer": "Oxygen"
-}

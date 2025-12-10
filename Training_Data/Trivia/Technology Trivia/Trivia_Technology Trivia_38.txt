@@ -1,4 +1,0 @@
-{
-    "question": "Who invented the World Wide Web?",
-    "answer": "Tim Berners-Lee"
-}

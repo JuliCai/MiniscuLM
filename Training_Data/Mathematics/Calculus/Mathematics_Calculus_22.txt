@@ -1,4 +1,0 @@
-{
-    "question": "Find the limit of (e^x - 1)/x as x approaches 0.",
-    "answer": "1"
-}

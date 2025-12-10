@@ -1,4 +1,0 @@
-{
-    "question": "What is the base of a triangle?",
-    "answer": "Any one side, typically the bottom."
-}

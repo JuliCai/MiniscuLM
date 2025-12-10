@@ -1,4 +1,0 @@
-{
-    "question": "What is the value of x if 2x + 3 = 7?",
-    "answer": "x = 2"
-}

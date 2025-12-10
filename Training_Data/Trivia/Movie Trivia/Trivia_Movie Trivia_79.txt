@@ -1,4 +1,0 @@
-{
-    "question": "Who played the female lead in 'Titanic'?",
-    "answer": "Kate Winslet"
-}

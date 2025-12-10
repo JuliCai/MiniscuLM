@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Fahrenheit 451'?",
-    "answer": "Ray Bradbury"
-}

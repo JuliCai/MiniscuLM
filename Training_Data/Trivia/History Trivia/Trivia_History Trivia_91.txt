@@ -1,4 +1,0 @@
-{
-    "question": "Who was the American civil rights leader famous for his \"I Have a Dream\" speech?",
-    "answer": "Martin Luther King Jr."
-}

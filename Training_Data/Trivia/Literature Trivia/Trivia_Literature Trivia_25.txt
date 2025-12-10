@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is set on the island of Utopia?",
-    "answer": "Utopia by Thomas More"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which programming language is primarily used for iOS development?",
-    "answer": "Swift"
-}

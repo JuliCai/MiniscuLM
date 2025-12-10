@@ -1,4 +1,0 @@
-{
-    "question": "What was the name of the first artificial Earth satellite?",
-    "answer": "Sputnik 1"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who is the author of 'Brave New World'?",
-    "answer": "Aldous Huxley"
-}

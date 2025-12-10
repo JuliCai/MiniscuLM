@@ -1,4 +1,4 @@
-,import os
+import os
 import json
 import argparse
 import shutil
@@ -150,7 +150,12 @@ def main():
                 continue
 
             print(f"  Generating 100 examples...")
-            prompt = f"Generate 100 unique question/response pairs for the subtopic '{subtopic}' (under general topic '{topic}'). The questions should vary in difficulty and style. Return ONLY valid JSON."
+            
+            length_instruction = "Keep the examples very concise (around 10 tokens)."
+            if "writing" in topic.lower():
+                 length_instruction = "Keep the examples concise but slightly longer (about 20-40 tokens)."
+
+            prompt = f"Generate 100 unique question/response pairs for the subtopic '{subtopic}' (under general topic '{topic}'). {length_instruction} The questions should vary in difficulty and style. Return ONLY valid JSON."
             json_format = '{"examples":[{"question":"...","answer":"..."}, ...]}'
             
             response = get_completion(f"You are a helpful assistant. Respond in this exact json form: {json_format}", prompt)

@@ -1,4 +1,0 @@
-{
-    "question": "What is the Pythagorean theorem?",
-    "answer": "a\u00b2 + b\u00b2 = c\u00b2 in right triangles."
-}

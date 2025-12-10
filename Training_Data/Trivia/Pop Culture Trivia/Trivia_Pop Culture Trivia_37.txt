@@ -1,4 +1,0 @@
-{
-    "question": "Which rapper is known as 'Slim Shady'?",
-    "answer": "Eminem"
-}

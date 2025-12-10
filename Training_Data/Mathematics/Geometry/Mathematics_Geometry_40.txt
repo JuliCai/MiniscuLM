@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of a four-sided figure with two pairs of parallel sides?",
-    "answer": "Parallelogram."
-}

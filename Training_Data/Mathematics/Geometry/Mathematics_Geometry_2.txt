@@ -1,4 +1,0 @@
-{
-    "question": "How many sides does a hexagon have?",
-    "answer": "Six sides."
-}

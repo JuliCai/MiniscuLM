@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Call of the Wild'?",
-    "answer": "Jack London"
-}

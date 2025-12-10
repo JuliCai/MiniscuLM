@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument has black and white keys?",
-    "answer": "Piano"
-}

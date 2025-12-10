@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Divine Comedy'?",
-    "answer": "Dante Alighieri"
-}

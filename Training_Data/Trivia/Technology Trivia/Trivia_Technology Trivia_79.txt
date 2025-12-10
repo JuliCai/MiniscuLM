@@ -1,4 +1,0 @@
-{
-    "question": "What year was the first iPad released?",
-    "answer": "2010"
-}

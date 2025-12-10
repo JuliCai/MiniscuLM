@@ -1,4 +1,0 @@
-{
-    "question": "Which pop star sang 'Like a Virgin'?",
-    "answer": "Madonna"
-}

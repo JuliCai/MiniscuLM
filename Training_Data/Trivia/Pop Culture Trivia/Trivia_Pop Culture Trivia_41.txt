@@ -1,4 +1,0 @@
-{
-    "question": "Which pop star is known for the song 'Poker Face'?",
-    "answer": "Lady Gaga"
-}

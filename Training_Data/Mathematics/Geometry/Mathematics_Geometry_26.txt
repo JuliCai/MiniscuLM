@@ -1,4 +1,0 @@
-{
-    "question": "What is a regular polygon?",
-    "answer": "Polygon with equal sides and angles."
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the main ingredient in the Indian bread naan?",
-    "answer": "Wheat flour"
-}

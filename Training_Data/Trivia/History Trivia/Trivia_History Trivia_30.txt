@@ -1,4 +1,0 @@
-{
-    "question": "What was the main cause of the Cold War?",
-    "answer": "US vs USSR rivalry"
-}

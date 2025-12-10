@@ -1,4 +1,0 @@
-{
-    "question": "Which river runs through Paris?",
-    "answer": "Seine"
-}

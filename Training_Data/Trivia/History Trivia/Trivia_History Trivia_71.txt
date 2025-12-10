@@ -1,4 +1,0 @@
-{
-    "question": "What was the name of the treaty that ended World War I?",
-    "answer": "Treaty of Versailles"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What film features a character called The Dude?",
-    "answer": "The Big Lebowski"
-}

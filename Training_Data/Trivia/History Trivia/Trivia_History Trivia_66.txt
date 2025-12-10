@@ -1,4 +1,0 @@
-{
-    "question": "When was the United Nations founded?",
-    "answer": "1945"
-}

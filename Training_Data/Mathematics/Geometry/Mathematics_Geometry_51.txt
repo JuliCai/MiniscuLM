@@ -1,4 +1,0 @@
-{
-    "question": "What is the definition of a diameter of a circle?",
-    "answer": "Chord passing through circle\u2019s center."
-}

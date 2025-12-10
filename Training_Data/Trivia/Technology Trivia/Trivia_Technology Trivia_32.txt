@@ -1,4 +1,0 @@
-{
-    "question": "What does VPN stand for?",
-    "answer": "Virtual Private Network"
-}

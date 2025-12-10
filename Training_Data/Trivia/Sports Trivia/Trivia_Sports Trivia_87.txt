@@ -1,4 +1,0 @@
-{
-    "question": "Which country won the first Cricket World Cup?",
-    "answer": "West Indies"
-}

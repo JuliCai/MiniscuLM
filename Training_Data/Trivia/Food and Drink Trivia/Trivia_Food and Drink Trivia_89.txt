@@ -1,4 +1,0 @@
-{
-    "question": "What nut is used to make traditional pesto sauce?",
-    "answer": "Pine nuts"
-}

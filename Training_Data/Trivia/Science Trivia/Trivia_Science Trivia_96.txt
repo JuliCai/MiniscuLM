@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for the Earth's natural satellite?",
-    "answer": "Moon"
-}

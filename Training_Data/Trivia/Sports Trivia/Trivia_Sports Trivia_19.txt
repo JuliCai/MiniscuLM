@@ -1,4 +1,0 @@
-{
-    "question": "Which NFL team has the most Super Bowl wins?",
-    "answer": "Pittsburgh Steelers"
-}

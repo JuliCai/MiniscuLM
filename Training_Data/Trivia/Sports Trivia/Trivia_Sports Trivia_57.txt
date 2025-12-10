@@ -1,4 +1,0 @@
-{
-    "question": "In cricket, what is a 'duck'?",
-    "answer": "Zero runs"
-}

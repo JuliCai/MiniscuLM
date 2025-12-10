@@ -1,4 +1,0 @@
-{
-    "question": "In 'The Matrix', does Neo take the red or blue pill?",
-    "answer": "Red pill"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which NFL quarterback is nicknamed 'G.O.A.T'?",
-    "answer": "Tom Brady"
-}

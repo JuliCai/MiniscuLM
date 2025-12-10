@@ -1,4 +1,0 @@
-{
-    "question": "What is the main function of an operating system?",
-    "answer": "Manage computer hardware and software"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Evaluate the limit of (x - sin x)/x^3 as x approaches 0.",
-    "answer": "1/6"
-}

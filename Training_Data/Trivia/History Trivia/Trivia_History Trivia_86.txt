@@ -1,4 +1,0 @@
-{
-    "question": "What was the name of the US project to develop the atomic bomb?",
-    "answer": "Manhattan Project"
-}

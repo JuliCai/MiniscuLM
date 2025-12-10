@@ -1,4 +1,0 @@
-{
-    "question": "Compute the integral of 1/(x^2 + 1)^2 dx.",
-    "answer": "(x/(2(x^2 + 1))) + (arctan x)/2 + C"
-}

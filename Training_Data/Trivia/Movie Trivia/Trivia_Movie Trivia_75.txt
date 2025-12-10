@@ -1,4 +1,0 @@
-{
-    "question": "Who starred as the lead in 'The Wolf of Wall Street'?",
-    "answer": "Leonardo DiCaprio"
-}

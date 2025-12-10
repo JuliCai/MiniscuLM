@@ -1,4 +1,0 @@
-{
-    "question": "Name the TV show about survivors on a mysterious island.",
-    "answer": "Lost"
-}

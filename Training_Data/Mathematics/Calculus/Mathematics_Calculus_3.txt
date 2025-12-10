@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of x^2?",
-    "answer": "2x"
-}

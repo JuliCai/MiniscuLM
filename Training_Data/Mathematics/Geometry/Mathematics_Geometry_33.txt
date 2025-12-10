@@ -1,4 +1,0 @@
-{
-    "question": "Define an acute angle.",
-    "answer": "Angle less than 90 degrees."
-}

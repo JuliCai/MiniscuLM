@@ -1,4 +1,0 @@
-{
-    "question": "What technology powers cryptocurrencies?",
-    "answer": "Blockchain"
-}

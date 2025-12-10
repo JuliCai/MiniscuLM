@@ -1,4 +1,0 @@
-{
-    "question": "Which Shakespeare play has the characters Oberon and Titania?",
-    "answer": "A Midsummer Night's Dream"
-}

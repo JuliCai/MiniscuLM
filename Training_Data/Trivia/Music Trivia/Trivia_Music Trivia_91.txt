@@ -1,4 +1,0 @@
-{
-    "question": "Which music genre originated in the Bronx in the 1970s?",
-    "answer": "Hip Hop"
-}

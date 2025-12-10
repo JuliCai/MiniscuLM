@@ -1,4 +1,0 @@
-{
-    "question": "What is the main use of blockchain technology?",
-    "answer": "Secure decentralized ledger"
-}

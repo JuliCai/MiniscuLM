@@ -1,4 +1,0 @@
-{
-    "question": "Simplify: (2x - 3)(x + 4)",
-    "answer": "2x\u00b2 + 5x - 12"
-}

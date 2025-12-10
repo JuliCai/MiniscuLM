@@ -1,4 +1,0 @@
-{
-    "question": "What is the pH of pure water?",
-    "answer": "7"
-}

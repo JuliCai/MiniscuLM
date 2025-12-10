@@ -1,4 +1,0 @@
-{
-    "question": "Name the sea that separates Europe and Africa.",
-    "answer": "Mediterranean Sea"
-}

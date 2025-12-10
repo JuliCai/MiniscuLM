@@ -1,4 +1,0 @@
-{
-    "question": "What was the primary language of the Roman Empire?",
-    "answer": "Latin"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What does URL stand for?",
-    "answer": "Uniform Resource Locator"
-}

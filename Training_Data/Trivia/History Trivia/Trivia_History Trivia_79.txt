@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first person to propose heliocentrism?",
-    "answer": "Nicolaus Copernicus"
-}

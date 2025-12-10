@@ -1,4 +1,0 @@
-{
-    "question": "What is the primary function of a firewall?",
-    "answer": "Block unauthorized network access"
-}

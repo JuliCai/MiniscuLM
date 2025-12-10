@@ -1,4 +1,0 @@
-{
-    "question": "Name a polygon with eight sides.",
-    "answer": "Octagon."
-}

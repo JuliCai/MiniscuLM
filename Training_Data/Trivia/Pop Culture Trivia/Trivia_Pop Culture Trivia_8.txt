@@ -1,4 +1,0 @@
-{
-    "question": "What year did The Beatles break up?",
-    "answer": "1970"
-}

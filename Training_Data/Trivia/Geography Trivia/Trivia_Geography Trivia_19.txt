@@ -1,4 +1,0 @@
-{
-    "question": "Which mountain is the tallest in Africa?",
-    "answer": "Mount Kilimanjaro"
-}

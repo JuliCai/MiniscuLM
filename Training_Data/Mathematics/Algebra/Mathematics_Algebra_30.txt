@@ -1,4 +1,0 @@
-{
-    "question": "Find x: 5x = 25",
-    "answer": "x = 5"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the trophy awarded in English football?",
-    "answer": "FA Cup"
-}

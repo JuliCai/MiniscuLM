@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Middlemarch'?",
-    "answer": "George Eliot"
-}

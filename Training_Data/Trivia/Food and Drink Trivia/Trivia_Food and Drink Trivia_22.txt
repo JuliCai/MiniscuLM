@@ -1,4 +1,0 @@
-{
-    "question": "What type of meat is traditionally used in a shepherd\u2019s pie?",
-    "answer": "Lamb"
-}

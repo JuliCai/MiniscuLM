@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote the Declaration of Independence?",
-    "answer": "Thomas Jefferson"
-}

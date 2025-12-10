@@ -1,4 +1,0 @@
-{
-    "question": "In which year did the Titanic sink?",
-    "answer": "1912"
-}

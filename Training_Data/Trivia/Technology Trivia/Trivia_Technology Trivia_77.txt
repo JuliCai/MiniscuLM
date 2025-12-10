@@ -1,4 +1,0 @@
-{
-    "question": "What does ASCII stand for?",
-    "answer": "American Standard Code for Information Interchange"
-}

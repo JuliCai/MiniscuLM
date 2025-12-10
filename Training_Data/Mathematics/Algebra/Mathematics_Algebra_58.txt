@@ -1,4 +1,0 @@
-{
-    "question": "Solve: x\u00b2 - 4 = 0",
-    "answer": "x = \u00b12"
-}

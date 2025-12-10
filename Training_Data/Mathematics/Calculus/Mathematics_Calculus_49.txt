@@ -1,4 +1,0 @@
-{
-    "question": "Find the derivative of f(x) = 1/(x + 1).",
-    "answer": "-1/(x + 1)^2"
-}

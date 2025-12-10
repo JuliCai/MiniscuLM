@@ -1,4 +1,0 @@
-{
-    "question": "What is the hardest natural substance on Earth?",
-    "answer": "Diamond"
-}

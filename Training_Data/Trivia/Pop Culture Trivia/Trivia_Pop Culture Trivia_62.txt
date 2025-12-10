@@ -1,4 +1,0 @@
-{
-    "question": "Who is the author of 'The Hunger Games' series?",
-    "answer": "Suzanne Collins"
-}

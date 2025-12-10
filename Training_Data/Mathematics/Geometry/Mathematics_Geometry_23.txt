@@ -1,4 +1,0 @@
-{
-    "question": "What type of triangle has one angle more than 90\u00b0?",
-    "answer": "Obtuse triangle."
-}

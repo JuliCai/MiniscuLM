@@ -1,4 +1,0 @@
-{
-    "question": "What pop star is famous for the song 'Bad Romance'?",
-    "answer": "Lady Gaga"
-}

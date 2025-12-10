@@ -1,4 +1,0 @@
-{
-    "question": "Which artist sang 'Thriller'?",
-    "answer": "Michael Jackson"
-}

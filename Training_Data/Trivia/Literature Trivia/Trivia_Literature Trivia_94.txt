@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Stranger' in French?",
-    "answer": "Albert Camus"
-}

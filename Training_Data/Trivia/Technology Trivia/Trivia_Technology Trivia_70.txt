@@ -1,4 +1,0 @@
-{
-    "question": "What does LTE stand for?",
-    "answer": "Long Term Evolution"
-}

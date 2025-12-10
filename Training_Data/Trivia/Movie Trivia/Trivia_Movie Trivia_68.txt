@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the main character in 'Die Hard'?",
-    "answer": "John McClane"
-}

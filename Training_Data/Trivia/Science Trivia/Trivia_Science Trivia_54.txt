@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the scientist who proposed the theory of relativity?",
-    "answer": "Albert Einstein"
-}

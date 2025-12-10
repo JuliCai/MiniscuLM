@@ -1,4 +1,0 @@
-{
-    "question": "Define the term 'radius' of a circle.",
-    "answer": "Distance from center to any point on circle."
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first female Prime Minister of the UK?",
-    "answer": "Margaret Thatcher"
-}

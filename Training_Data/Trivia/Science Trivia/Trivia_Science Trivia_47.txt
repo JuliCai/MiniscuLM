@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the process plants use to release oxygen?",
-    "answer": "Photosynthesis"
-}

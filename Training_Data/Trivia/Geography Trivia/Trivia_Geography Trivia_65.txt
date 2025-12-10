@@ -1,4 +1,0 @@
-{
-    "question": "Name the sea located between Saudi Arabia and Africa.",
-    "answer": "Red Sea"
-}

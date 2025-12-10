@@ -1,4 +1,0 @@
-{
-    "question": "What was the name of the famous speech by Abraham Lincoln in 1863?",
-    "answer": "Gettysburg Address"
-}

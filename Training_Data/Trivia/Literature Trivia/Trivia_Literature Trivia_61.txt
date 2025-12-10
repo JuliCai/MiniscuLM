@@ -1,4 +1,0 @@
-{
-    "question": "Which Shakespeare play features the characters Oberon and Puck?",
-    "answer": "A Midsummer Night's Dream"
-}

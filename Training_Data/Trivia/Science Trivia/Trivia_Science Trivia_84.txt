@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for the variety of life on Earth?",
-    "answer": "Biodiversity"
-}

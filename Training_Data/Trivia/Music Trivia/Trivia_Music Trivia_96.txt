@@ -1,4 +1,0 @@
-{
-    "question": "Which band is known for 'Back in Black'?",
-    "answer": "AC/DC"
-}

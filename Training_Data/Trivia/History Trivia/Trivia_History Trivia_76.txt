@@ -1,4 +1,0 @@
-{
-    "question": "Where did the Industrial Revolution begin?",
-    "answer": "Great Britain"
-}

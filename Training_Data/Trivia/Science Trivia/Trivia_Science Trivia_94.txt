@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the chemical element with atomic number 1?",
-    "answer": "Hydrogen"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Find x: 7x + 3 = 24",
-    "answer": "x = 3"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which empire was ruled by Cyrus the Great?",
-    "answer": "Achaemenid Empire"
-}

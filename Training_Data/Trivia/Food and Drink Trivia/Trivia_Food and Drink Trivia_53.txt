@@ -1,4 +1,0 @@
-{
-    "question": "Which fruit is traditionally used to make marmalade?",
-    "answer": "Orange"
-}

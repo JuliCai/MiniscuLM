@@ -1,4 +1,0 @@
-{
-    "question": "What year was Windows 95 released?",
-    "answer": "1995"
-}

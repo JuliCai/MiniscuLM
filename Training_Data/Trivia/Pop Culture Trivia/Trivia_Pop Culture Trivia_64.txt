@@ -1,4 +1,0 @@
-{
-    "question": "Who played the character Jack Sparrow?",
-    "answer": "Johnny Depp"
-}

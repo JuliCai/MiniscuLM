@@ -1,4 +1,0 @@
-{
-    "question": "Which continent has the most countries?",
-    "answer": "Africa"
-}

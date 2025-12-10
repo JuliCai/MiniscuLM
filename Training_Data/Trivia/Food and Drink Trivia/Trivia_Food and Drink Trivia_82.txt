@@ -1,4 +1,0 @@
-{
-    "question": "Which herb is used to make the classic French dish ratatouille?",
-    "answer": "Thyme"
-}

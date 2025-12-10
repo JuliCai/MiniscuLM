@@ -1,4 +1,0 @@
-{
-    "question": "Which city was the center of the Renaissance?",
-    "answer": "Florence"
-}

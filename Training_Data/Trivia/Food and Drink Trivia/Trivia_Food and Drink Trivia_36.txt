@@ -1,4 +1,0 @@
-{
-    "question": "Which fruit is famously used to make a traditional British trifle?",
-    "answer": "Strawberries"
-}

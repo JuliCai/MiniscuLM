@@ -1,4 +1,0 @@
-{
-    "question": "What ancient city was buried by the eruption of Mount Vesuvius?",
-    "answer": "Pompeii"
-}

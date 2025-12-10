@@ -1,4 +1,0 @@
-{
-    "question": "What sport is associated with Wimbledon?",
-    "answer": "Tennis"
-}

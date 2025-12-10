@@ -1,4 +1,0 @@
-{
-    "question": "Which band released the album 'Abbey Road'?",
-    "answer": "The Beatles"
-}

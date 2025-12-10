@@ -1,4 +1,0 @@
-{
-    "question": "Who is the author of the 'Game of Thrones' series?",
-    "answer": "George R.R. Martin"
-}

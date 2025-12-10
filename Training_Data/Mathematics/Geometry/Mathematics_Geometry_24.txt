@@ -1,4 +1,0 @@
-{
-    "question": "What is the formula for the area of a trapezoid?",
-    "answer": "(a + b)/2 \u00d7 h."
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What does USB stand for?",
-    "answer": "Universal Serial Bus"
-}

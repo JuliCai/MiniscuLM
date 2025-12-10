@@ -1,4 +1,0 @@
-{
-    "question": "What is the shape of an American football?",
-    "answer": "Oval"
-}

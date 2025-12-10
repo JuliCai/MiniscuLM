@@ -1,4 +1,0 @@
-{
-    "question": "Name the shape with all sides equal and all angles 90\u00b0.",
-    "answer": "Square."
-}

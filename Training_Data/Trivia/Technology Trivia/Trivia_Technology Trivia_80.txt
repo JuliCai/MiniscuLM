@@ -1,4 +1,0 @@
-{
-    "question": "What is the main feature of Bluetooth technology?",
-    "answer": "Short-range wireless communication"
-}

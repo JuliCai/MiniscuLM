@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features a dystopian future controlled by the Party?",
-    "answer": "1984"
-}

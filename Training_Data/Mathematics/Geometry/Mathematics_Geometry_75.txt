@@ -1,4 +1,0 @@
-{
-    "question": "How many diagonals does a hexagon have?",
-    "answer": "9 diagonals."
-}

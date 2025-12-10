@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote the poem 'The Raven'?",
-    "answer": "Edgar Allan Poe"
-}

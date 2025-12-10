@@ -1,4 +1,0 @@
-{
-    "question": "Which movie is set during World War II and features a character named Captain Miller?",
-    "answer": "Saving Private Ryan"
-}

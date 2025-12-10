@@ -1,4 +1,0 @@
-{
-    "question": "Which city was the capital of the Byzantine Empire?",
-    "answer": "Constantinople"
-}

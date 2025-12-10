@@ -1,4 +1,0 @@
-{
-    "question": "Who is the all-time leading scorer in NBA history?",
-    "answer": "Kareem Abdul-Jabbar"
-}

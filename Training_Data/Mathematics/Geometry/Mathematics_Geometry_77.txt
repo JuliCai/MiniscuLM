@@ -1,4 +1,0 @@
-{
-    "question": "What is the sum of exterior angles of a pentagon?",
-    "answer": "360 degrees."
-}

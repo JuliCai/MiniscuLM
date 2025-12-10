@@ -1,4 +1,0 @@
-{
-    "question": "Which sport uses a 'bat' and 'ball' but is not baseball?",
-    "answer": "Cricket"
-}

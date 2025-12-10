@@ -1,4 +1,0 @@
-{
-    "question": "What type of pasta is traditionally used in spaghetti bolognese?",
-    "answer": "Spaghetti"
-}

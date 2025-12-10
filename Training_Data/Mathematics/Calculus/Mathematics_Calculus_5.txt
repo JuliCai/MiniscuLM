@@ -1,4 +1,0 @@
-{
-    "question": "Find the second derivative of f(x) = x^3.",
-    "answer": "6x"
-}

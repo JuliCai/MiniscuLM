@@ -1,4 +1,0 @@
-{
-    "question": "Which country won the 2018 Rugby World Cup?",
-    "answer": "South Africa"
-}

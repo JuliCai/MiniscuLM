@@ -1,4 +1,0 @@
-{
-    "question": "Who was the leader of the Soviet Union during WWII?",
-    "answer": "Joseph Stalin"
-}

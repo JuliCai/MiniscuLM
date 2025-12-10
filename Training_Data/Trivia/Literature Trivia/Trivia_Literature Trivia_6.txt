@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Great Gatsby'?",
-    "answer": "F. Scott Fitzgerald"
-}

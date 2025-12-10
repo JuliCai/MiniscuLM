@@ -1,4 +1,0 @@
-{
-    "question": "Who directed 'Dunkirk'?",
-    "answer": "Christopher Nolan"
-}

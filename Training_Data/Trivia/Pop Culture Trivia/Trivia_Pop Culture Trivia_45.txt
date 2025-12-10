@@ -1,4 +1,0 @@
-{
-    "question": "Name the actor who played Forrest Gump.",
-    "answer": "Tom Hanks"
-}

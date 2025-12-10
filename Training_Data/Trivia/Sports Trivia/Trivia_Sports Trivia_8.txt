@@ -1,4 +1,0 @@
-{
-    "question": "In tennis, what follows '40-40'?",
-    "answer": "Deuce"
-}

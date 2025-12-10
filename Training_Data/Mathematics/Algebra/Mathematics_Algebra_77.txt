@@ -1,4 +1,0 @@
-{
-    "question": "What is the degree of 5x\u00b3 + 2x\u00b2 - x + 1?",
-    "answer": "3"
-}

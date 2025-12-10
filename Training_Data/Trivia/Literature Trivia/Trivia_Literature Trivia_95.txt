@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features the dystopian society of Oceania?",
-    "answer": "1984"
-}

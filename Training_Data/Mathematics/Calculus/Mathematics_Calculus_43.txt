@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the integral of cosh^2(x) dx.",
-    "answer": "(1/2)(sinh x cosh x + x) + C"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which river is the longest in South America?",
-    "answer": "Amazon"
-}

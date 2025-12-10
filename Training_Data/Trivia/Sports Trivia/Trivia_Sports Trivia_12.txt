@@ -1,4 +1,0 @@
-{
-    "question": "In golf, what is the term for one stroke under par?",
-    "answer": "Birdie"
-}

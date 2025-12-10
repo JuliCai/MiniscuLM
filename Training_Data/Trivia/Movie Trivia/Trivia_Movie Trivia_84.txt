@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features a character named Marty McFly?",
-    "answer": "Back to the Future"
-}

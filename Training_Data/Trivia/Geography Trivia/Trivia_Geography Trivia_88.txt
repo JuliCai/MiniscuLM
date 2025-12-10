@@ -1,4 +1,0 @@
-{
-    "question": "Name the largest desert in Asia.",
-    "answer": "Gobi Desert"
-}

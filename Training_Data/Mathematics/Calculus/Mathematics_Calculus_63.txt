@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the integral of cot x dx.",
-    "answer": "ln|sin x| + C"
-}

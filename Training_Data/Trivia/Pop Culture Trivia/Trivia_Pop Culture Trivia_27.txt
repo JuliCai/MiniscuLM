@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the fictional continent in Game of Thrones?",
-    "answer": "Westeros"
-}

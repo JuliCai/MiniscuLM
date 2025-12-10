@@ -1,4 +1,0 @@
-{
-    "question": "What is a right triangle?",
-    "answer": "Triangle with one 90\u00b0 angle."
-}

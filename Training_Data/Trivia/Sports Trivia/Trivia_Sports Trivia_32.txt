@@ -1,4 +1,0 @@
-{
-    "question": "Which athlete has the most Olympic gold medals?",
-    "answer": "Michael Phelps"
-}

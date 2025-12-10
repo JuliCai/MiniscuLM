@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features the quote 'Here's looking at you, kid'?",
-    "answer": "Casablanca"
-}

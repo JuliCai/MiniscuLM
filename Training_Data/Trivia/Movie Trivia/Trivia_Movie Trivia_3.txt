@@ -1,4 +1,0 @@
-{
-    "question": "What year was the original 'Jurassic Park' released?",
-    "answer": "1993"
-}

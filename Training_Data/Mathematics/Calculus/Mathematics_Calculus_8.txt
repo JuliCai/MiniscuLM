@@ -1,4 +1,0 @@
-{
-    "question": "What is the integral of cos(x) dx?",
-    "answer": "sin(x) + C"
-}

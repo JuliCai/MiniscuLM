@@ -1,4 +1,0 @@
-{
-    "question": "What gas do plants primarily absorb from the air?",
-    "answer": "Carbon dioxide"
-}

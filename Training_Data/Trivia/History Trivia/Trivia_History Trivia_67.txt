@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous British naturalist who proposed evolution?",
-    "answer": "Charles Darwin"
-}

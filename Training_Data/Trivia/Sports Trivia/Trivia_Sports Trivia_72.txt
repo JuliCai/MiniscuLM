@@ -1,4 +1,0 @@
-{
-    "question": "Who is the only athlete to win Olympic gold medals in both summer and winter games?",
-    "answer": "Eddie Eagan"
-}

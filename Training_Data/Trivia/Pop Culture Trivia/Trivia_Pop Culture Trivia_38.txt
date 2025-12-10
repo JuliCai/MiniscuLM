@@ -1,4 +1,0 @@
-{
-    "question": "Name the TV show set in the fictional town of Sunnydale.",
-    "answer": "Buffy the Vampire Slayer"
-}

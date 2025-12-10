@@ -1,4 +1,0 @@
-{
-    "question": "Who played the character Tony Stark?",
-    "answer": "Robert Downey Jr."
-}

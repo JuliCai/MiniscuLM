@@ -1,4 +1,0 @@
-{
-    "question": "Which band is known for the song 'Smells Like Teen Spirit'?",
-    "answer": "Nirvana"
-}

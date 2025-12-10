@@ -1,4 +1,0 @@
-{
-    "question": "Who composed the Four Seasons?",
-    "answer": "Antonio Vivaldi"
-}

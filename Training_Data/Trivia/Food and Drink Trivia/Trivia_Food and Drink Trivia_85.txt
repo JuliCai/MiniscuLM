@@ -1,4 +1,0 @@
-{
-    "question": "What is the primary ingredient in the Indian spice mix garam masala?",
-    "answer": "Mixed spices"
-}

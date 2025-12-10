@@ -1,4 +1,0 @@
-{
-    "question": "Find the derivative of tan(x).",
-    "answer": "sec^2(x)"
-}

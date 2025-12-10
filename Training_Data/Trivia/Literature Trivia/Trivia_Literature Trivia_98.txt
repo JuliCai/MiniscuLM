@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Invisible Man'?",
-    "answer": "Ralph Ellison"
-}

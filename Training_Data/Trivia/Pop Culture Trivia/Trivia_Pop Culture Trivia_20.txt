@@ -1,4 +1,0 @@
-{
-    "question": "Who voiced the character Woody in Toy Story?",
-    "answer": "Tom Hanks"
-}

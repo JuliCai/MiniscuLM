@@ -1,4 +1,0 @@
-{
-    "question": "Which sport uses a shuttlecock?",
-    "answer": "Badminton"
-}

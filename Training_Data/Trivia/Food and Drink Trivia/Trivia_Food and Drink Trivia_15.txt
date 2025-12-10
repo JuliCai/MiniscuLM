@@ -1,4 +1,0 @@
-{
-    "question": "What type of pasta is shaped like small rice grains?",
-    "answer": "Orzo"
-}

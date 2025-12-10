@@ -1,4 +1,0 @@
-{
-    "question": "What is the main ingredient in the Mexican dish tamale?",
-    "answer": "Corn dough"
-}

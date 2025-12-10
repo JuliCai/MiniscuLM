@@ -1,4 +1,0 @@
-{
-    "question": "In which sport is the Stanley Cup awarded?",
-    "answer": "Ice hockey"
-}

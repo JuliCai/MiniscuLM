@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features the character Forrest Gump?",
-    "answer": "Forrest Gump"
-}

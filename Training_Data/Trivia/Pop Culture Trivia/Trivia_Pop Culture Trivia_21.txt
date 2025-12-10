@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of Beyonc\u00e9's alter ego?",
-    "answer": "Sasha Fierce"
-}

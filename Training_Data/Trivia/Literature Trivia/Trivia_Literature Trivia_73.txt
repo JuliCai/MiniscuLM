@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is narrated by Nick Carraway?",
-    "answer": "The Great Gatsby"
-}

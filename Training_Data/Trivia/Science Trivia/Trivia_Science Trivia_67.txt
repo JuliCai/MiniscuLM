@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the largest bone in the human body?",
-    "answer": "Femur"
-}

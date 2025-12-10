@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first Chancellor of West Germany?",
-    "answer": "Konrad Adenauer"
-}

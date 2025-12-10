@@ -1,4 +1,0 @@
-{
-    "question": "Who directed 'Interstellar'?",
-    "answer": "Christopher Nolan"
-}

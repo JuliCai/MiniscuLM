@@ -1,4 +1,0 @@
-{
-    "question": "What does D-Day refer to in WWII history?",
-    "answer": "Allied Normandy invasion"
-}

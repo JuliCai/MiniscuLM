@@ -1,4 +1,0 @@
-{
-    "question": "Who played the lead role in 'Iron Man'?",
-    "answer": "Robert Downey Jr."
-}

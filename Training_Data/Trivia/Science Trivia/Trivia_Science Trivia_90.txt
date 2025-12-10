@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for an organism's physical traits?",
-    "answer": "Phenotype"
-}

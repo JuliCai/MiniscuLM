@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote the song 'Imagine'?",
-    "answer": "John Lennon"
-}

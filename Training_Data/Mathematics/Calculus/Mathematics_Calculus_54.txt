@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of f(x) = arccos x?",
-    "answer": "-1/sqrt(1 - x^2)"
-}

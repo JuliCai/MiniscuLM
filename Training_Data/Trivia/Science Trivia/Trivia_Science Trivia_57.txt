@@ -1,4 +1,0 @@
-{
-    "question": "What is the main function of red blood cells?",
-    "answer": "Carry oxygen"
-}

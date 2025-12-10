@@ -1,4 +1,0 @@
-{
-    "question": "Which film is known for the line 'You can't handle the truth!'?",
-    "answer": "A Few Good Men"
-}

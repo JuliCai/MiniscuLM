@@ -1,4 +1,0 @@
-{
-    "question": "Which film features a character named Maximus Decimus Meridius?",
-    "answer": "Gladiator"
-}

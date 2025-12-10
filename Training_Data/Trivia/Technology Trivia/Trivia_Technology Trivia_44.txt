@@ -1,4 +1,0 @@
-{
-    "question": "Which company created the first graphical web browser?",
-    "answer": "NCSA (Mosaic)"
-}

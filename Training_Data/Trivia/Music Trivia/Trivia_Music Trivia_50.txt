@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for gradually getting louder in music?",
-    "answer": "Crescendo"
-}

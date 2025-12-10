@@ -1,4 +1,0 @@
-{
-    "question": "How many faces does a cube have?",
-    "answer": "Six faces."
-}

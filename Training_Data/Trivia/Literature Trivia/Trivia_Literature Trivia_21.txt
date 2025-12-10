@@ -1,4 +1,0 @@
-{
-    "question": "What is the profession of Victor Frankenstein?",
-    "answer": "Scientist"
-}

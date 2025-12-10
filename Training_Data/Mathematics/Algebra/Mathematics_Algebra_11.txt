@@ -1,4 +1,0 @@
-{
-    "question": "Find the product of roots of x\u00b2 - 4x + 4 = 0",
-    "answer": "4"
-}

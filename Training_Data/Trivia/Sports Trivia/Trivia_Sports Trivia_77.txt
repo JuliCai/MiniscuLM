@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the international soccer governing body?",
-    "answer": "FIFA"
-}

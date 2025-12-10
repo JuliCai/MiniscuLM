@@ -1,4 +1,0 @@
-{
-    "question": "Name the capital of the Philippines.",
-    "answer": "Manila"
-}

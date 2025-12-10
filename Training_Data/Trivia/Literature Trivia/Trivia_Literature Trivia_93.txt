@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is about the experiences of a young girl named Scout?",
-    "answer": "To Kill a Mockingbird"
-}

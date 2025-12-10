@@ -1,4 +1,0 @@
-{
-    "question": "Name the capital of Hungary.",
-    "answer": "Budapest"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the perimeter of an equilateral triangle with side s?",
-    "answer": "3 \u00d7 s."
-}

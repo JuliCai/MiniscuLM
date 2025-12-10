@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the scientist who developed the laws of motion?",
-    "answer": "Isaac Newton"
-}

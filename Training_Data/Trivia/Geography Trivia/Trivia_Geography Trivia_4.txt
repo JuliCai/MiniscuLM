@@ -1,4 +1,0 @@
-{
-    "question": "Mount Everest is located in which mountain range?",
-    "answer": "Himalayas"
-}

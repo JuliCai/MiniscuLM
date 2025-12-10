@@ -1,4 +1,0 @@
-{
-    "question": "Which TV show features a detective named Sherlock Holmes?",
-    "answer": "Sherlock"
-}

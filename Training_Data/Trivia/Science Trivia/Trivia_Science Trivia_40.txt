@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for the change of state from liquid to gas?",
-    "answer": "Evaporation"
-}

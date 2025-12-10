@@ -1,4 +1,0 @@
-{
-    "question": "Which city is known as the Eternal City?",
-    "answer": "Rome"
-}

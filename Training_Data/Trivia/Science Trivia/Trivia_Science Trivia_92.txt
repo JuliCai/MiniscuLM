@@ -1,4 +1,0 @@
-{
-    "question": "What type of energy is stored in a stretched spring?",
-    "answer": "Potential energy"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which singer is famous for the song 'Thriller'?",
-    "answer": "Michael Jackson"
-}

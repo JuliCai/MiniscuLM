@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Gone with the Wind'?",
-    "answer": "Margaret Mitchell"
-}

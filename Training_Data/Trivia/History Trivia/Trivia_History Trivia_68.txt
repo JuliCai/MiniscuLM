@@ -1,4 +1,0 @@
-{
-    "question": "Which empire was centered in modern-day Iraq?",
-    "answer": "Babylonian Empire"
-}

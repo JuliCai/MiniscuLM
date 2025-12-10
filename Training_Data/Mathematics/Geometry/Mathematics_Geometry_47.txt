@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of a line segment connecting two vertices not adjacent in a polygon?",
-    "answer": "Diagonal."
-}

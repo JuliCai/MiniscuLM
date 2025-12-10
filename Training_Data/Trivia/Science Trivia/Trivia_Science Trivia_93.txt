@@ -1,4 +1,0 @@
-{
-    "question": "What is the main gas produced by volcanoes?",
-    "answer": "Water vapor"
-}

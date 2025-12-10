@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the second derivative of f(x) = sin(x).",
-    "answer": "-sin(x)"
-}

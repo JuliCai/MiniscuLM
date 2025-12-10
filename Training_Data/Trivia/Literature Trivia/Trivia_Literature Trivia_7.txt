@@ -1,4 +1,0 @@
-{
-    "question": "What is the main setting of 'Moby-Dick'?",
-    "answer": "The sea"
-}

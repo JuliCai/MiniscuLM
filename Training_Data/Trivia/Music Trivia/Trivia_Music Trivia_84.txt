@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument is associated with blues music?",
-    "answer": "Harmonica"
-}

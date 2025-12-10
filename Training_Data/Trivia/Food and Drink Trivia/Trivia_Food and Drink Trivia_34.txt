@@ -1,4 +1,0 @@
-{
-    "question": "What spice is derived from dried red chili peppers?",
-    "answer": "Paprika"
-}

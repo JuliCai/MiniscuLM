@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is known for the phrase 'Big Brother is watching you'?",
-    "answer": "1984"
-}

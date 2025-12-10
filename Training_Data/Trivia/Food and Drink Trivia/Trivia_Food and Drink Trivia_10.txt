@@ -1,4 +1,0 @@
-{
-    "question": "What is the cooking process called when food is cooked in hot water?",
-    "answer": "Boiling"
-}

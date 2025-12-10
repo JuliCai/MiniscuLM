@@ -1,4 +1,0 @@
-{
-    "question": "What is the process by which plants make food?",
-    "answer": "Photosynthesis"
-}

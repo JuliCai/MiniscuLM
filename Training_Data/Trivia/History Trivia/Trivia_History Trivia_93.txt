@@ -1,4 +1,0 @@
-{
-    "question": "What year did the Great Depression begin?",
-    "answer": "1929"
-}

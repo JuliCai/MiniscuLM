@@ -1,4 +1,0 @@
-{
-    "question": "What is the main purpose of a compiler?",
-    "answer": "Convert source code to machine code"
-}

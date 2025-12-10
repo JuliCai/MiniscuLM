@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features the character Tom Joad?",
-    "answer": "The Grapes of Wrath"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which country is known as the Land of the Midnight Sun?",
-    "answer": "Norway"
-}

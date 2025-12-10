@@ -1,4 +1,0 @@
-{
-    "question": "Which boxer was known as 'The Greatest' and 'The People's Champ'?",
-    "answer": "Muhammad Ali"
-}

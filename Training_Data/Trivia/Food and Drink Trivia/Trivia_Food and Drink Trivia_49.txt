@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the French dessert made of choux pastry filled with cream?",
-    "answer": "\u00c9clair"
-}

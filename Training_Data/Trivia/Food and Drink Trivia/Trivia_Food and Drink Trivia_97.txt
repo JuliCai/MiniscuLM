@@ -1,4 +1,0 @@
-{
-    "question": "What is the main ingredient in French ratatouille?",
-    "answer": "Vegetables"
-}

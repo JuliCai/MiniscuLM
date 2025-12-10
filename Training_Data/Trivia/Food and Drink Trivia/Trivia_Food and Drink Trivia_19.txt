@@ -1,4 +1,0 @@
-{
-    "question": "Which herb is commonly used in pesto sauce?",
-    "answer": "Basil"
-}

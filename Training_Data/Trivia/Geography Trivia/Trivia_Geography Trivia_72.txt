@@ -1,4 +1,0 @@
-{
-    "question": "Name the capital of Chile.",
-    "answer": "Santiago"
-}

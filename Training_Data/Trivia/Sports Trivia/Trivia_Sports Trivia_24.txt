@@ -1,4 +1,0 @@
-{
-    "question": "What is the diameter of a basketball hoop in inches?",
-    "answer": "18 inches"
-}

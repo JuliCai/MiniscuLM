@@ -1,4 +1,0 @@
-{
-    "question": "What is the official language of Brazil?",
-    "answer": "Portuguese"
-}

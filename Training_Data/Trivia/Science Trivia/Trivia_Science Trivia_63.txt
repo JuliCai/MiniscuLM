@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the process where a caterpillar becomes a butterfly?",
-    "answer": "Metamorphosis"
-}

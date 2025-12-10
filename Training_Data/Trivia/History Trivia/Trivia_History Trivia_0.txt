@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first President of the United States?",
-    "answer": "George Washington"
-}

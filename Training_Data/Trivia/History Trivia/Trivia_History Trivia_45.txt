@@ -1,4 +1,0 @@
-{
-    "question": "When did the Renaissance begin?",
-    "answer": "14th century"
-}

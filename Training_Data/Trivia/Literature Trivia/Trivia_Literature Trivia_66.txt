@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Metamorphosis'?",
-    "answer": "Franz Kafka"
-}

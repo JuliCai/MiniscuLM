@@ -1,4 +1,0 @@
-{
-    "question": "Find the integral of x^2 e^x dx.",
-    "answer": "e^x (x^2 - 2x + 2) + C"
-}

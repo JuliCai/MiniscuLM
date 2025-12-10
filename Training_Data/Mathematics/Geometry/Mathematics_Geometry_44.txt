@@ -1,4 +1,0 @@
-{
-    "question": "What is the measure of each angle in a square?",
-    "answer": "90 degrees."
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Slaughterhouse-Five'?",
-    "answer": "Kurt Vonnegut"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which NBA team is known as the 'Lakers'?",
-    "answer": "Los Angeles Lakers"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which Italian city-state was ruled by the Medici family?",
-    "answer": "Florence"
-}

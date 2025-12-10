@@ -1,4 +1,0 @@
-{
-    "question": "Who is the lead singer of the band U2?",
-    "answer": "Bono"
-}

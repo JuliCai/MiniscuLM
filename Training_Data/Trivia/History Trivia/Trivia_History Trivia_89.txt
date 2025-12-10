@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first emperor of the Roman Empire?",
-    "answer": "Augustus"
-}

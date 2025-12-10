@@ -1,4 +1,0 @@
-{
-    "question": "Who is known as the 'Fastest Man Alive'?",
-    "answer": "Usain Bolt"
-}

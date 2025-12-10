@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'A Clockwork Orange'?",
-    "answer": "Anthony Burgess"
-}

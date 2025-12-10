@@ -1,4 +1,0 @@
-{
-    "question": "What was the name of the ship used by Columbus in 1492?",
-    "answer": "Santa Maria"
-}

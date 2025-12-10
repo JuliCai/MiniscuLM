@@ -1,4 +1,0 @@
-{
-    "question": "What year did the Wright brothers first fly an airplane?",
-    "answer": "1903"
-}

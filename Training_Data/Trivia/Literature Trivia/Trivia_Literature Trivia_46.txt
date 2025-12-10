@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'One Hundred Years of Solitude'?",
-    "answer": "Gabriel Garc\u00eda M\u00e1rquez"
-}

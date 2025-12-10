@@ -1,4 +1,0 @@
-{
-    "question": "Name the actor who played Wolverine.",
-    "answer": "Hugh Jackman"
-}

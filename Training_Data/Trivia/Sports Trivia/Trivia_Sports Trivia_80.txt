@@ -1,4 +1,0 @@
-{
-    "question": "Which country has won the most Olympic golds in ice hockey?",
-    "answer": "Canada"
-}

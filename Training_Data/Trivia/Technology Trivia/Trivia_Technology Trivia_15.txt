@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the assistant developed by Amazon?",
-    "answer": "Alexa"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Solve: 3x - 4 = 2x + 5",
-    "answer": "x = 9"
-}

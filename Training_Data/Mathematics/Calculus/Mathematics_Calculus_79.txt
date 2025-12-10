@@ -1,4 +1,0 @@
-{
-    "question": "Find the integral of sin^2 x dx.",
-    "answer": "(x/2) - (sin 2x)/4 + C"
-}

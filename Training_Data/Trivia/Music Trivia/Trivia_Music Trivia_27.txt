@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument uses a bow to play?",
-    "answer": "Violin"
-}

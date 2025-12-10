@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous nurse during the Crimean War?",
-    "answer": "Florence Nightingale"
-}

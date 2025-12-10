@@ -1,4 +1,0 @@
-{
-    "question": "Which historical event started in 1347 and killed millions in Europe?",
-    "answer": "The Black Death"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Evaluate the limit of (x^2 ln x) as x approaches 0 from right.",
-    "answer": "0"
-}

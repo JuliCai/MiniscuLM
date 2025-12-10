@@ -1,4 +1,0 @@
-{
-    "question": "What is the smallest continent by land area?",
-    "answer": "Australia"
-}

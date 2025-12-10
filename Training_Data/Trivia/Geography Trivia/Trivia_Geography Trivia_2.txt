@@ -1,4 +1,0 @@
-{
-    "question": "Name the longest river in the world.",
-    "answer": "Nile"
-}

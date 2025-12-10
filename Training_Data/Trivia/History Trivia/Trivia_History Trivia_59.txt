@@ -1,4 +1,0 @@
-{
-    "question": "Which empire built the Great Wall of China?",
-    "answer": "Qin Dynasty"
-}

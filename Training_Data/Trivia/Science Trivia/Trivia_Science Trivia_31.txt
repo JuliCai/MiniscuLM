@@ -1,4 +1,0 @@
-{
-    "question": "What is the SI unit of force?",
-    "answer": "Newton"
-}

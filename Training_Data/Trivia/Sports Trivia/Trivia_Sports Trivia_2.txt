@@ -1,4 +1,0 @@
-{
-    "question": "In which sport is the term 'home run' used?",
-    "answer": "Baseball"
-}

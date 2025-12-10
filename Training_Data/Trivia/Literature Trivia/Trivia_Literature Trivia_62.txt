@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Jungle Book'?",
-    "answer": "Rudyard Kipling"
-}

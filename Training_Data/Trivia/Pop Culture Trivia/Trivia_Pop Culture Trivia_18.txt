@@ -1,4 +1,0 @@
-{
-    "question": "Name the pop group with members Harry, Liam, Louis, and Niall.",
-    "answer": "One Direction"
-}

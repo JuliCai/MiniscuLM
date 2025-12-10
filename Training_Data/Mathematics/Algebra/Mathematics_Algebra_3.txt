@@ -1,4 +1,0 @@
-{
-    "question": "What is the quadratic formula?",
-    "answer": "x = [-b \u00b1 \u221a(b\u00b2-4ac)] / 2a"
-}

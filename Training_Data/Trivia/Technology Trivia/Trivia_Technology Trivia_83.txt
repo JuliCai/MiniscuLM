@@ -1,4 +1,0 @@
-{
-    "question": "What is phishing?",
-    "answer": "Deceptive data theft attempt"
-}

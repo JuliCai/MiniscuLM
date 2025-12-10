@@ -1,4 +1,0 @@
-{
-    "question": "What year was the first SMS sent?",
-    "answer": "1992"
-}

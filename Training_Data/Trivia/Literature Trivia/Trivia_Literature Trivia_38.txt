@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Grapes of Wrath'?",
-    "answer": "John Steinbeck"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who won the 2022 FIFA World Cup?",
-    "answer": "Argentina"
-}

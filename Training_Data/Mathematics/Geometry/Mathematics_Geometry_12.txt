@@ -1,4 +1,0 @@
-{
-    "question": "What is the sum of interior angles of a quadrilateral?",
-    "answer": "360 degrees."
-}

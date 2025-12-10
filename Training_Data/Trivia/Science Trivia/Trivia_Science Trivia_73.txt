@@ -1,4 +1,0 @@
-{
-    "question": "What is the name for an animal that can live both in water and on land?",
-    "answer": "Amphibian"
-}

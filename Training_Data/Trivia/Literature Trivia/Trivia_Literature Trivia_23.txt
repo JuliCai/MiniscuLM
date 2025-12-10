@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features the character Elizabeth Bennet?",
-    "answer": "Pride and Prejudice"
-}

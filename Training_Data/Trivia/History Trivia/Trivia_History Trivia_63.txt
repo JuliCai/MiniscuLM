@@ -1,4 +1,0 @@
-{
-    "question": "Which country was divided by the Iron Curtain?",
-    "answer": "East and West Europe"
-}

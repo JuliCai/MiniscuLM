@@ -1,4 +1,0 @@
-{
-    "question": "What country has the most natural lakes?",
-    "answer": "Canada"
-}

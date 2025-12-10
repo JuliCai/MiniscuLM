@@ -1,4 +1,0 @@
-{
-    "question": "What is a secant line in a circle?",
-    "answer": "Line intersecting the circle at two points."
-}

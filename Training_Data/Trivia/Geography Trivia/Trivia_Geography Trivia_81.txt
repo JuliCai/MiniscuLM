@@ -1,4 +1,0 @@
-{
-    "question": "Which country has the city of Dubrovnik?",
-    "answer": "Croatia"
-}

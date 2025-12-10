@@ -1,4 +1,0 @@
-{
-    "question": "Which company created the microprocessor?",
-    "answer": "Intel"
-}

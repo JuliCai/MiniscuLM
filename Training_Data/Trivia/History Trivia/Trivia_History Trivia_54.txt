@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first chancellor of unified Germany?",
-    "answer": "Otto von Bismarck"
-}

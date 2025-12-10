@@ -1,4 +1,0 @@
-{
-    "question": "Which ancient philosopher taught Alexander the Great?",
-    "answer": "Aristotle"
-}

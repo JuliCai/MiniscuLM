@@ -1,4 +1,0 @@
-{
-    "question": "What is the length of an NFL field in yards?",
-    "answer": "100 yards"
-}

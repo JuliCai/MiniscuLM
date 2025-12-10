@@ -1,4 +1,0 @@
-{
-    "question": "What year was the first Star Wars movie released?",
-    "answer": "1977"
-}

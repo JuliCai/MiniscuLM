@@ -1,4 +1,0 @@
-{
-    "question": "What is the study of living organisms called?",
-    "answer": "Biology"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who was the ancient Greek god of war?",
-    "answer": "Ares"
-}

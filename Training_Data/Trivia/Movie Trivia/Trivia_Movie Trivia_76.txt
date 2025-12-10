@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features a character named Tony Stark?",
-    "answer": "Iron Man"
-}

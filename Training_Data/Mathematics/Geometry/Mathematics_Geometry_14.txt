@@ -1,4 +1,0 @@
-{
-    "question": "What is the definition of a tangent line to a circle?",
-    "answer": "Line touching circle at exactly one point."
-}

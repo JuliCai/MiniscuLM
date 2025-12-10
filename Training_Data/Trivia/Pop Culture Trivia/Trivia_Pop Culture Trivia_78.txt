@@ -1,4 +1,0 @@
-{
-    "question": "Who played the character Jack in Titanic?",
-    "answer": "Leonardo DiCaprio"
-}

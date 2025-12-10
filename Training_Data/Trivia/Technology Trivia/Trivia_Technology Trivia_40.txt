@@ -1,4 +1,0 @@
-{
-    "question": "What does CSS stand for?",
-    "answer": "Cascading Style Sheets"
-}

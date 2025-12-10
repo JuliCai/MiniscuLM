@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of a triangle with all sides different?",
-    "answer": "Scalene triangle."
-}

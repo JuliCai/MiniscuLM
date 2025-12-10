@@ -1,4 +1,0 @@
-{
-    "question": "In which movie does a character say, 'To infinity and beyond!'?",
-    "answer": "Toy Story"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What type of blood cells fight infection?",
-    "answer": "White blood cells"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the largest organ in the human body?",
-    "answer": "Skin"
-}

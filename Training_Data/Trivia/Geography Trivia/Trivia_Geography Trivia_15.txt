@@ -1,4 +1,0 @@
-{
-    "question": "Which river flows through Baghdad?",
-    "answer": "Tigris"
-}

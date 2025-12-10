@@ -1,4 +1,0 @@
-{
-    "question": "What type of rock is formed from cooled lava?",
-    "answer": "Igneous"
-}

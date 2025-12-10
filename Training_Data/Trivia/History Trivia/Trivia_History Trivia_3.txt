@@ -1,4 +1,0 @@
-{
-    "question": "Who discovered penicillin?",
-    "answer": "Alexander Fleming"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the music festival held annually in Glastonbury?",
-    "answer": "Glastonbury Festival"
-}

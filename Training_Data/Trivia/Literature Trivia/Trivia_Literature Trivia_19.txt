@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Frankenstein'?",
-    "answer": "Mary Shelley"
-}

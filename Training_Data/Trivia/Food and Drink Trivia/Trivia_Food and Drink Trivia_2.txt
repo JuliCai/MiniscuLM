@@ -1,4 +1,0 @@
-{
-    "question": "What is the main ingredient in guacamole?",
-    "answer": "Avocado"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which vegetable is known for its high vitamin A content and orange color?",
-    "answer": "Carrot"
-}

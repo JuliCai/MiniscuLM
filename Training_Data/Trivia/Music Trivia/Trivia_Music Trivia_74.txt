@@ -1,4 +1,0 @@
-{
-    "question": "Who is the lead singer of Maroon 5?",
-    "answer": "Adam Levine"
-}

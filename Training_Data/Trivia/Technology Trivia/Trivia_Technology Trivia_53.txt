@@ -1,4 +1,0 @@
-{
-    "question": "What year was the first email sent?",
-    "answer": "1971"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which spice is obtained from dried and ground seeds of the plant Cuminum cyminum?",
-    "answer": "Cumin"
-}

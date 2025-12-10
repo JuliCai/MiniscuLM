@@ -1,4 +1,0 @@
-{
-    "question": "What part of the brain controls balance?",
-    "answer": "Cerebellum"
-}

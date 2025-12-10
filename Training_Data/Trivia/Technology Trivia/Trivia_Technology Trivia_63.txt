@@ -1,4 +1,0 @@
-{
-    "question": "What technology is used for Bitcoin?",
-    "answer": "Blockchain"
-}

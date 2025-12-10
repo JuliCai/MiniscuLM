@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for a score of three under par in golf?",
-    "answer": "Albatross"
-}

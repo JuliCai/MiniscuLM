@@ -1,4 +1,0 @@
-{
-    "question": "What movie is known for the phrase 'Houston, we have a problem'?",
-    "answer": "Apollo 13"
-}

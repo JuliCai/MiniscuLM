@@ -1,4 +1,0 @@
-{
-    "question": "Who played the character Neo in The Matrix?",
-    "answer": "Keanu Reeves"
-}

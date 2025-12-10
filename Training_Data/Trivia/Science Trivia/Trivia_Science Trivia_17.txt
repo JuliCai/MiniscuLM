@@ -1,4 +1,0 @@
-{
-    "question": "What is the speed of light in vacuum?",
-    "answer": "299,792 km/s"
-}

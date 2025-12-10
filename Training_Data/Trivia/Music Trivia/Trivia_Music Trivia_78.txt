@@ -1,4 +1,0 @@
-{
-    "question": "What is the musical term for gradually slowing down?",
-    "answer": "Ritardando"
-}

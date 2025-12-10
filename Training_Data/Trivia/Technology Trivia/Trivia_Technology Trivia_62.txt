@@ -1,4 +1,0 @@
-{
-    "question": "What year did the first computer mouse appear?",
-    "answer": "1964"
-}

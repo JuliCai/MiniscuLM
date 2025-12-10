@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the derivative of sqrt(x).",
-    "answer": "1/(2sqrt(x))"
-}

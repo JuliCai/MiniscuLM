@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument has six strings and is often used in classical music?",
-    "answer": "Classical guitar"
-}

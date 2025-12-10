@@ -1,4 +1,0 @@
-{
-    "question": "Who directed 'The Shawshank Redemption'?",
-    "answer": "Frank Darabont"
-}

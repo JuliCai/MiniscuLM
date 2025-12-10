@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the integral of sec x tan x dx.",
-    "answer": "sec x + C"
-}

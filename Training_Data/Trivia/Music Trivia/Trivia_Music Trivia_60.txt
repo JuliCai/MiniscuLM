@@ -1,4 +1,0 @@
-{
-    "question": "Who was the lead singer of the band Queen?",
-    "answer": "Freddie Mercury"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the study of fossils called?",
-    "answer": "Paleontology"
-}

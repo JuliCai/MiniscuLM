@@ -1,4 +1,0 @@
-{
-    "question": "Which country has the longest coastline?",
-    "answer": "Canada"
-}

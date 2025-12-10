@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the derivative of f(x) = e^{sin x}.",
-    "answer": "cos x e^{sin x}"
-}

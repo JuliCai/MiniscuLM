@@ -1,4 +1,0 @@
-{
-    "question": "Who composed 'Gymnop\u00e9dies'?",
-    "answer": "Erik Satie"
-}

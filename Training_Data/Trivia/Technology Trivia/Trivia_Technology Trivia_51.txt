@@ -1,4 +1,0 @@
-{
-    "question": "What is a cookie in web browsing?",
-    "answer": "Data stored by websites on browser"
-}

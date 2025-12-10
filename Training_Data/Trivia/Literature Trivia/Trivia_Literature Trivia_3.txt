@@ -1,4 +1,0 @@
-{
-    "question": "Who is the author of '1984'?",
-    "answer": "George Orwell"
-}

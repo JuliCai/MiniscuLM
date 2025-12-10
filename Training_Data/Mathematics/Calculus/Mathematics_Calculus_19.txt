@@ -1,4 +1,0 @@
-{
-    "question": "Find the derivative of arcsin(x).",
-    "answer": "1/sqrt(1 - x^2)"
-}

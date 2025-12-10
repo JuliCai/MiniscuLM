@@ -1,4 +1,0 @@
-{
-    "question": "What is a 'capo' used for on a guitar?",
-    "answer": "Change pitch/key"
-}

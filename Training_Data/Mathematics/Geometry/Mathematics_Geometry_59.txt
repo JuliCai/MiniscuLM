@@ -1,4 +1,0 @@
-{
-    "question": "How many vertices does a cube have?",
-    "answer": "Eight vertices."
-}

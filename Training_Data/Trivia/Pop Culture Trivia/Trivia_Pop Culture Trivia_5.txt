@@ -1,4 +1,0 @@
-{
-    "question": "What is the highest-grossing film of all time?",
-    "answer": "Avatar"
-}

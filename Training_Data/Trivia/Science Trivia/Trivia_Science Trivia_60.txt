@@ -1,4 +1,0 @@
-{
-    "question": "What is the largest type of shark?",
-    "answer": "Whale shark"
-}

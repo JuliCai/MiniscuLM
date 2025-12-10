@@ -1,4 +1,0 @@
-{
-    "question": "What does RAM stand for?",
-    "answer": "Random Access Memory"
-}

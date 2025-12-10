@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the hobbit played by Elijah Wood?",
-    "answer": "Frodo Baggins"
-}

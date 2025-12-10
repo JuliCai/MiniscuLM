@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous female pharaoh of Egypt?",
-    "answer": "Hatshepsut"
-}

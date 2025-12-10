@@ -1,4 +1,0 @@
-{
-    "question": "What is the primary element in the sun?",
-    "answer": "Hydrogen"
-}

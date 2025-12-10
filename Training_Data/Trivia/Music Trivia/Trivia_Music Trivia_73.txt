@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for a fast tempo in music?",
-    "answer": "Presto"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous French military leader who crowned himself Emperor?",
-    "answer": "Napoleon Bonaparte"
-}

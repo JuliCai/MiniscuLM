@@ -1,4 +1,0 @@
-{
-    "question": "Who directed 'The Social Network'?",
-    "answer": "David Fincher"
-}

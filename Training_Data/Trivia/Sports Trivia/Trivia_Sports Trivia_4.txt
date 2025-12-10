@@ -1,4 +1,0 @@
-{
-    "question": "What is the maximum score in a single frame of bowling?",
-    "answer": "30"
-}

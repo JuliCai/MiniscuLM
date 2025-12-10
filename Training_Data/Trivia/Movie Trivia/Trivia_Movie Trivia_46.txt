@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the protagonist in 'The Hunger Games'?",
-    "answer": "Katniss Everdeen"
-}

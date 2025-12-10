@@ -1,4 +1,0 @@
-{
-    "question": "What is the smallest unit of life?",
-    "answer": "Cell"
-}

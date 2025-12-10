@@ -1,4 +1,0 @@
-{
-    "question": "Which king was known as the Sun King?",
-    "answer": "Louis XIV"
-}

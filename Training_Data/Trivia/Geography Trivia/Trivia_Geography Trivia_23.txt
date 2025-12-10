@@ -1,4 +1,0 @@
-{
-    "question": "What is the currency of the United Kingdom?",
-    "answer": "Pound Sterling"
-}

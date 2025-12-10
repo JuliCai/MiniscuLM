@@ -1,4 +1,0 @@
-{
-    "question": "Which country is located on the Iberian Peninsula alongside Spain?",
-    "answer": "Portugal"
-}

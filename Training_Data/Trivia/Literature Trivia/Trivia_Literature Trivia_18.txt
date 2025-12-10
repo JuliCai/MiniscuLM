@@ -1,4 +1,0 @@
-{
-    "question": "What is the title of the sequel to 'The Hobbit'?",
-    "answer": "The Lord of the Rings"
-}

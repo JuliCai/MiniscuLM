@@ -1,4 +1,0 @@
-{
-    "question": "Who is the author of 'The Count of Monte Cristo'?",
-    "answer": "Alexandre Dumas"
-}

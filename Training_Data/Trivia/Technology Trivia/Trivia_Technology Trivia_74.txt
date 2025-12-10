@@ -1,4 +1,0 @@
-{
-    "question": "What is the main component of a hard drive?",
-    "answer": "Magnetic disk"
-}

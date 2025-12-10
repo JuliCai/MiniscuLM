@@ -1,4 +1,0 @@
-{
-    "question": "What does 'a cappella' mean?",
-    "answer": "Singing without instruments"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is set during the American Civil War?",
-    "answer": "Gone with the Wind"
-}

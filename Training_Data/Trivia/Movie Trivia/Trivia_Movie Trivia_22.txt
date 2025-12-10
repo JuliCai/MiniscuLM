@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features a ring that must be destroyed in Mordor?",
-    "answer": "The Lord of the Rings"
-}

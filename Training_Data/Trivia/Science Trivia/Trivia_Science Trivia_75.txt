@@ -1,4 +1,0 @@
-{
-    "question": "What is the unit of electrical resistance?",
-    "answer": "Ohm"
-}

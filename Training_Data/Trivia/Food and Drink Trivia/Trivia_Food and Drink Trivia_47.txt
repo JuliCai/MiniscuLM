@@ -1,4 +1,0 @@
-{
-    "question": "Which fruit is the main ingredient in a classic banoffee pie?",
-    "answer": "Banana"
-}

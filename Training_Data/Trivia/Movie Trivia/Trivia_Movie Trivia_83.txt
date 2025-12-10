@@ -1,4 +1,0 @@
-{
-    "question": "Who is the villain in 'The Avengers' (2012)?",
-    "answer": "Loki"
-}

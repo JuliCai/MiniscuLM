@@ -1,4 +1,0 @@
-{
-    "question": "Which sport is known for the 'Tour de France'?",
-    "answer": "Cycling"
-}

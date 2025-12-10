@@ -1,4 +1,0 @@
-{
-    "question": "When was the Magna Carta signed?",
-    "answer": "1215"
-}

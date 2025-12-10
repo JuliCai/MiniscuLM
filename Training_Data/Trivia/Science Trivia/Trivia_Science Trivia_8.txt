@@ -1,4 +1,0 @@
-{
-    "question": "What gas do humans exhale?",
-    "answer": "Carbon dioxide"
-}

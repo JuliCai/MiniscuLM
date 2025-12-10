@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of f(x) = ln(1 + e^x)?",
-    "answer": "e^x/(1 + e^x)"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the main function of a router?",
-    "answer": "Direct network traffic"
-}

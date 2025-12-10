@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the city where 'The Avengers' are based?",
-    "answer": "New York City"
-}

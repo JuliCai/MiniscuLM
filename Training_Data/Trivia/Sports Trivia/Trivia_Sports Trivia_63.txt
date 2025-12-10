@@ -1,4 +1,0 @@
-{
-    "question": "Which country won the most medals in the 2012 Summer Olympics?",
-    "answer": "USA"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What ancient civilization built the Machu Picchu?",
-    "answer": "Inca"
-}

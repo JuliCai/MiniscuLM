@@ -1,4 +1,0 @@
-{
-    "question": "What is the main source of energy for the Earth's climate system?",
-    "answer": "Sun"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the quadratic equation with roots 2 and 3?",
-    "answer": "x\u00b2 - 5x + 6 = 0"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Find the derivative of cosh(x).",
-    "answer": "sinh(x)"
-}

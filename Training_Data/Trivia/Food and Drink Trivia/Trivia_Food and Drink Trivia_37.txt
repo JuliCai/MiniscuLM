@@ -1,4 +1,0 @@
-{
-    "question": "Which type of pasta is shaped like little ears?",
-    "answer": "Orecchiette"
-}

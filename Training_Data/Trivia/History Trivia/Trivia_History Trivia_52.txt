@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous Carthaginian general in the Second Punic War?",
-    "answer": "Hannibal"
-}

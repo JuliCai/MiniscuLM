@@ -1,4 +1,0 @@
-{
-    "question": "What is the chemical formula for carbon dioxide?",
-    "answer": "CO2"
-}

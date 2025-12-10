@@ -1,4 +1,0 @@
-{
-    "question": "Who was known as the Maid of Orleans?",
-    "answer": "Joan of Arc"
-}

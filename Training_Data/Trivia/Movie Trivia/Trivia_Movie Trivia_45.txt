@@ -1,4 +1,0 @@
-{
-    "question": "Who directed 'The Grand Budapest Hotel'?",
-    "answer": "Wes Anderson"
-}

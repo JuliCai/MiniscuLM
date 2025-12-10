@@ -1,4 +1,0 @@
-{
-    "question": "What does DNS stand for?",
-    "answer": "Domain Name System"
-}

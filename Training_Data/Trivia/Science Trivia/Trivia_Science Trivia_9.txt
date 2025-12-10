@@ -1,4 +1,0 @@
-{
-    "question": "What is the main gas found in the Earth's atmosphere?",
-    "answer": "Nitrogen"
-}

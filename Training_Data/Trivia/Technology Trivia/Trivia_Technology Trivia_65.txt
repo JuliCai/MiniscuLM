@@ -1,4 +1,0 @@
-{
-    "question": "What does VPN do?",
-    "answer": "Secures internet connection"
-}

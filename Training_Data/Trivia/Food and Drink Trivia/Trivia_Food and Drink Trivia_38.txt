@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the Italian cured meat made from pork?",
-    "answer": "Prosciutto"
-}

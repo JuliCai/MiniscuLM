@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the wizarding school in 'Harry Potter'?",
-    "answer": "Hogwarts"
-}

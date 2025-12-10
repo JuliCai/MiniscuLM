@@ -1,4 +1,0 @@
-{
-    "question": "Which war ended with the Treaty of Versailles?",
-    "answer": "World War I"
-}

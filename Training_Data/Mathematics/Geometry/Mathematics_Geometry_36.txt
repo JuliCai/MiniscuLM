@@ -1,4 +1,0 @@
-{
-    "question": "How many vertices does a tetrahedron have?",
-    "answer": "Four vertices."
-}

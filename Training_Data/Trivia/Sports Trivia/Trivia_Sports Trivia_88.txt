@@ -1,4 +1,0 @@
-{
-    "question": "Which sport uses the term 'knock-on'?",
-    "answer": "Rugby"
-}

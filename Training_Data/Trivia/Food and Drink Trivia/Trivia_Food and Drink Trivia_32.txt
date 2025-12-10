@@ -1,4 +1,0 @@
-{
-    "question": "What type of cheese is used in Greek salads?",
-    "answer": "Feta"
-}

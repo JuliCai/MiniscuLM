@@ -1,4 +1,0 @@
-{
-    "question": "What is the chemical symbol for carbon?",
-    "answer": "C"
-}

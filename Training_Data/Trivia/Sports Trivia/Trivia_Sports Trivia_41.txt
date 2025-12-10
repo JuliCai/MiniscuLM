@@ -1,4 +1,0 @@
-{
-    "question": "Which country hosts the Tour de France?",
-    "answer": "France"
-}

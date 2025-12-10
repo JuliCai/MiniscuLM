@@ -1,4 +1,0 @@
-{
-    "question": "What organ in the human body filters blood?",
-    "answer": "Kidneys"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What planet is known for its rings?",
-    "answer": "Saturn"
-}

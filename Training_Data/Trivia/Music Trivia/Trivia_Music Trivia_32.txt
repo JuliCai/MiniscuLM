@@ -1,4 +1,0 @@
-{
-    "question": "Which rapper is known for the album 'The Marshall Mathers LP'?",
-    "answer": "Eminem"
-}

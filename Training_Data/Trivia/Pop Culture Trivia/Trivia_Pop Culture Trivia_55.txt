@@ -1,4 +1,0 @@
-{
-    "question": "Who is known as the 'Queen of Pop'?",
-    "answer": "Madonna"
-}

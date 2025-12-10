@@ -1,4 +1,0 @@
-{
-    "question": "Which country invented table tennis?",
-    "answer": "England"
-}

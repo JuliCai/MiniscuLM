@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of Sherlock Holmes' assistant?",
-    "answer": "Dr. John Watson"
-}

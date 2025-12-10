@@ -1,4 +1,0 @@
-{
-    "question": "What type of energy does the sun produce?",
-    "answer": "Solar energy"
-}

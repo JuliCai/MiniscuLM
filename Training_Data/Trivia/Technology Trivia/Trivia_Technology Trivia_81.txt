@@ -1,4 +1,0 @@
-{
-    "question": "What does SMTP stand for?",
-    "answer": "Simple Mail Transfer Protocol"
-}

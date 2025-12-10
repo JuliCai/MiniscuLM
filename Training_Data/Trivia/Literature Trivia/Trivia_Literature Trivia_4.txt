@@ -1,4 +1,0 @@
-{
-    "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
-    "answer": "Hamlet"
-}

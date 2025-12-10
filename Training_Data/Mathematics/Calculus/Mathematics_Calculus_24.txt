@@ -1,4 +1,0 @@
-{
-    "question": "Evaluate the integral of 1/sqrt(1 - x^2) dx.",
-    "answer": "arcsin(x) + C"
-}

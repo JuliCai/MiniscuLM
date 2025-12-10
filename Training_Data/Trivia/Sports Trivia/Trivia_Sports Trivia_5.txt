@@ -1,4 +1,0 @@
-{
-    "question": "Who holds the record for most goals in a single World Cup?",
-    "answer": "Just Fontaine"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What type of waves are used in X-ray imaging?",
-    "answer": "X-rays"
-}

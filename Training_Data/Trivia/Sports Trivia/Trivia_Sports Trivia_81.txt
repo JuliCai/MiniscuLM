@@ -1,4 +1,0 @@
-{
-    "question": "What sport uses the term 'scrum half'?",
-    "answer": "Rugby"
-}

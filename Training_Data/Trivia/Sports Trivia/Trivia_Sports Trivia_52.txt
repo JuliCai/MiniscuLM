@@ -1,4 +1,0 @@
-{
-    "question": "Which sport uses a 'puck'?",
-    "answer": "Ice hockey"
-}

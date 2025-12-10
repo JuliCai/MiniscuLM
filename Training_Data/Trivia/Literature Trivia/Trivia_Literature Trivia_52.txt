@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Sound and the Fury'?",
-    "answer": "William Faulkner"
-}

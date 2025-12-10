@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Les Mis\u00e9rables'?",
-    "answer": "Victor Hugo"
-}

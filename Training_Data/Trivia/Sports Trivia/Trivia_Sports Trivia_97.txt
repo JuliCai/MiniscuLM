@@ -1,4 +1,0 @@
-{
-    "question": "Which country has won the most Olympic medals overall?",
-    "answer": "USA"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the main characteristic of 5G technology?",
-    "answer": "Faster wireless communication"
-}

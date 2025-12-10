@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument is known as the 'king of instruments'?",
-    "answer": "Organ"
-}

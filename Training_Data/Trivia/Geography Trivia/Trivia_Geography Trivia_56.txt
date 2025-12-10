@@ -1,4 +1,0 @@
-{
-    "question": "Which mountain is the highest peak in North America?",
-    "answer": "Denali"
-}

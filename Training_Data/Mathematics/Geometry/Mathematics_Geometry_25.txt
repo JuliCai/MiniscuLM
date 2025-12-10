@@ -1,4 +1,0 @@
-{
-    "question": "Define congruent figures.",
-    "answer": "Same shape and size."
-}

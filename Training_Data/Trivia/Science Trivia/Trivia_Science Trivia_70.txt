@@ -1,4 +1,0 @@
-{
-    "question": "What vitamin is essential for blood clotting?",
-    "answer": "Vitamin K"
-}

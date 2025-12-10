@@ -1,4 +1,0 @@
-{
-    "question": "Which team won the first Super Bowl?",
-    "answer": "Green Bay Packers"
-}

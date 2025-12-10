@@ -1,4 +1,0 @@
-{
-    "question": "Which TV show features the characters Sheldon and Leonard?",
-    "answer": "The Big Bang Theory"
-}

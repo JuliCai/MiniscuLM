@@ -1,4 +1,0 @@
-{
-    "question": "Who starred as the titular character in 'Edward Scissorhands'?",
-    "answer": "Johnny Depp"
-}

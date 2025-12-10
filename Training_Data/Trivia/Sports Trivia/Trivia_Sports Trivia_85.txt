@@ -1,4 +1,0 @@
-{
-    "question": "How many players are on a soccer team on the field?",
-    "answer": "Eleven"
-}

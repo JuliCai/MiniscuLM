@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of e^(2x)?",
-    "answer": "2e^(2x)"
-}

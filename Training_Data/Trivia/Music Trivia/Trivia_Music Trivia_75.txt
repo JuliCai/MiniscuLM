@@ -1,4 +1,0 @@
-{
-    "question": "Which instrument is played by blowing air through it and pressing keys?",
-    "answer": "Saxophone"
-}

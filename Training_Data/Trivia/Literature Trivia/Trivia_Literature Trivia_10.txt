@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'The Odyssey'?",
-    "answer": "Homer"
-}

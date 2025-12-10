@@ -1,4 +1,0 @@
-{
-    "question": "Name the capital of Iran.",
-    "answer": "Tehran"
-}

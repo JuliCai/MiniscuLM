@@ -1,4 +1,0 @@
-{
-    "question": "Who was the first European to reach India by sea?",
-    "answer": "Vasco da Gama"
-}

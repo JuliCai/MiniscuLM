@@ -1,4 +1,0 @@
-{
-    "question": "What does HDMI stand for?",
-    "answer": "High-Definition Multimedia Interface"
-}

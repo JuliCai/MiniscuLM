@@ -1,4 +1,0 @@
-{
-    "question": "What is the term for a substance made of two or more elements chemically combined?",
-    "answer": "Compound"
-}

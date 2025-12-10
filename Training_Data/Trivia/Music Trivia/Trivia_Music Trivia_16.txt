@@ -1,4 +1,0 @@
-{
-    "question": "Which female artist released the album '21'?",
-    "answer": "Adele"
-}

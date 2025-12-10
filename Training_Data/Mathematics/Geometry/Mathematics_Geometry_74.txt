@@ -1,4 +1,0 @@
-{
-    "question": "What is the difference between area and perimeter?",
-    "answer": "Area measures surface; perimeter measures boundary length."
-}

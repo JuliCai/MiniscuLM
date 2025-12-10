@@ -1,4 +1,0 @@
-{
-    "question": "What does DJ stand for?",
-    "answer": "Disc Jockey"
-}

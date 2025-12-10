@@ -1,4 +1,0 @@
-{
-    "question": "What is the name of the largest artery in the human body?",
-    "answer": "Aorta"
-}

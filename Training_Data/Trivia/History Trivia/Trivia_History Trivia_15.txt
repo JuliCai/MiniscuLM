@@ -1,4 +1,0 @@
-{
-    "question": "What year did the French Revolution begin?",
-    "answer": "1789"
-}

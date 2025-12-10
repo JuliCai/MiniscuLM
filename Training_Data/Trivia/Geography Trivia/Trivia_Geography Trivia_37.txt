@@ -1,4 +1,0 @@
-{
-    "question": "What is the tallest waterfall in the world?",
-    "answer": "Angel Falls"
-}

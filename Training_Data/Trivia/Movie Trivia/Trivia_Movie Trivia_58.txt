@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features a character called Jack Torrance?",
-    "answer": "The Shining"
-}

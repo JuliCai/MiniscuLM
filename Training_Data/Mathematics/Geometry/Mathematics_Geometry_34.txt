@@ -1,4 +1,0 @@
-{
-    "question": "What is a polyhedron?",
-    "answer": "3D solid with flat faces."
-}

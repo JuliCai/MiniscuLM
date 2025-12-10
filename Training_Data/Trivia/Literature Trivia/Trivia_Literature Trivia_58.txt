@@ -1,4 +1,0 @@
-{
-    "question": "Who wrote 'Lolita'?",
-    "answer": "Vladimir Nabokov"
-}

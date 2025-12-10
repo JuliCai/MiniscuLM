@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of f(x) = x^4 - 5x + 6?",
-    "answer": "4x^3 - 5"
-}

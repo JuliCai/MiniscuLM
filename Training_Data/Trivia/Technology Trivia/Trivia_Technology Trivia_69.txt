@@ -1,4 +1,0 @@
-{
-    "question": "What programming language is known for scientific computing?",
-    "answer": "Python"
-}

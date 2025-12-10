@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is about a stranded sailor named Pi?",
-    "answer": "Life of Pi"
-}

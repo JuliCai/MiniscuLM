@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is about the voyage of the Pequod?",
-    "answer": "Moby-Dick"
-}

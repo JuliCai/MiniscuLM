@@ -1,4 +1,0 @@
-{
-    "question": "Who was the famous Italian explorer who reached America in 1492?",
-    "answer": "Christopher Columbus"
-}

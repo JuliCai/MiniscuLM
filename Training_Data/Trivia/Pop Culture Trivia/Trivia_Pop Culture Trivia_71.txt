@@ -1,4 +1,0 @@
-{
-    "question": "Who is the creator of the TV series 'Lost'?",
-    "answer": "J.J. Abrams"
-}

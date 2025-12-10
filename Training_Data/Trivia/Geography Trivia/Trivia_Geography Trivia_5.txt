@@ -1,4 +1,0 @@
-{
-    "question": "What is the smallest country by land area?",
-    "answer": "Vatican City"
-}

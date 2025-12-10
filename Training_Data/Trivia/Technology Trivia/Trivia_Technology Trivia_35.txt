@@ -1,4 +1,0 @@
-{
-    "question": "What does BIOS stand for?",
-    "answer": "Basic Input Output System"
-}

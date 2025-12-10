@@ -1,4 +1,0 @@
-{
-    "question": "Which country is the origin of sushi?",
-    "answer": "Japan"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What organ is responsible for pumping blood in the body?",
-    "answer": "Heart"
-}

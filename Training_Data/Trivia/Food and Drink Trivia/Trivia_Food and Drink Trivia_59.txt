@@ -1,4 +1,0 @@
-{
-    "question": "Which fruit is known as the 'miracle fruit' for altering taste perception?",
-    "answer": "Synsepalum"
-}

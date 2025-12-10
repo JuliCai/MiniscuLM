@@ -1,4 +1,0 @@
-{
-    "question": "Which novel is set in the fictional land of Narnia?",
-    "answer": "The Chronicles of Narnia"
-}

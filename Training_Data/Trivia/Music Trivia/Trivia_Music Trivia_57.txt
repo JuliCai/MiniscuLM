@@ -1,4 +1,0 @@
-{
-    "question": "Who composed 'Clair de Lune'?",
-    "answer": "Debussy"
-}

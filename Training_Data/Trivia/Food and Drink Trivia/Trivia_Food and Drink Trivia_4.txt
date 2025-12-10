@@ -1,4 +1,0 @@
-{
-    "question": "What kind of pastry is used to make a traditional baklava?",
-    "answer": "Phyllo dough"
-}

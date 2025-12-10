@@ -1,4 +1,0 @@
-{
-    "question": "Who directed the film 'Inception'?",
-    "answer": "Christopher Nolan"
-}

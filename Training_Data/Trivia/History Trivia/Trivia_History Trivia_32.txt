@@ -1,4 +1,0 @@
-{
-    "question": "Who invented the printing press?",
-    "answer": "Johannes Gutenberg"
-}

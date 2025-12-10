@@ -1,4 +1,0 @@
-{
-    "question": "What year was the first episode of The Simpsons aired?",
-    "answer": "1989"
-}

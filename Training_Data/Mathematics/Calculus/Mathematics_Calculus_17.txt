@@ -1,4 +1,0 @@
-{
-    "question": "What is the derivative of ln(sin x)?",
-    "answer": "cot(x)"
-}

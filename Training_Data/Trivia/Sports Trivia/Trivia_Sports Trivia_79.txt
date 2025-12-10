@@ -1,4 +1,0 @@
-{
-    "question": "What does NBA stand for?",
-    "answer": "National Basketball Association"
-}

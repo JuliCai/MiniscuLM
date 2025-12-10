@@ -1,4 +1,0 @@
-{
-    "question": "What gas is used in balloons to make them float?",
-    "answer": "Helium"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "What is the capital of Ethiopia?",
-    "answer": "Addis Ababa"
-}

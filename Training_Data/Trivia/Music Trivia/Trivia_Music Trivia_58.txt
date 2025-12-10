@@ -1,4 +1,0 @@
-{
-    "question": "Which group is known for the hit 'Sweet Child o' Mine'?",
-    "answer": "Guns N' Roses"
-}

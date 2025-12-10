@@ -1,4 +1,0 @@
-{
-    "question": "Which novel features a character named Ishmael?",
-    "answer": "Moby-Dick"
-}

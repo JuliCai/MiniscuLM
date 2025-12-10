@@ -1,4 +1,0 @@
-{
-    "question": "Solve for x: 4(x - 1) = 12",
-    "answer": "x = 4"
-}

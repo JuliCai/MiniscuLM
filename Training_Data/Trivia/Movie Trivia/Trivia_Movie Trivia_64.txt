@@ -1,4 +1,0 @@
-{
-    "question": "Which movie features a character named Vito Corleone?",
-    "answer": "The Godfather"
-}

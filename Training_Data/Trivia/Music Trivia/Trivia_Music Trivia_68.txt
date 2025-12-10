@@ -1,4 +1,0 @@
-{
-    "question": "What does the musical term 'allegro' mean?",
-    "answer": "Fast, lively"
-}

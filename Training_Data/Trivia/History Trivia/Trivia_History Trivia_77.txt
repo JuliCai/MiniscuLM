@@ -1,4 +1,0 @@
-{
-    "question": "Who was the leader of Nazi Germany's Luftwaffe?",
-    "answer": "Hermann G\u00f6ring"
-}

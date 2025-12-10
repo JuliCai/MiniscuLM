@@ -1,4 +1,0 @@
-{
-    "question": "What planet is known as the Red Planet?",
-    "answer": "Mars"
-}

@@ -1,4 +1,0 @@
-{
-    "question": "Which video game features a plumber named Mario?",
-    "answer": "Super Mario"
-}

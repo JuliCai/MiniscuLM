@@ -1,4 +1,0 @@
-{
-    "question": "Who won the NBA MVP award in 2020?",
-    "answer": "Giannis Antetokounmpo"
-}

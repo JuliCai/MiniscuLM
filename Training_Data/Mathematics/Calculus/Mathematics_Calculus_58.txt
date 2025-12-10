@@ -1,4 +1,0 @@
-{
-    "question": "Calculate the integral of x^3 dx.",
-    "answer": "(1/4) x^4 + C"
-}

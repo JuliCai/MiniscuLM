@@ -1,4 +1,0 @@
-{
-    "question": "Which NBA player is known as 'King James'?",
-    "answer": "LeBron James"
-}

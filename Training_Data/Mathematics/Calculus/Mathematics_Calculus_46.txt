@@ -1,4 +1,0 @@
-{
-    "question": "Find the integral of tan x dx.",
-    "answer": "-ln|cos x| + C"
-}

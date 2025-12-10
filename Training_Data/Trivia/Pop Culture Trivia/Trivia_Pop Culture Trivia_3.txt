@@ -1,4 +1,0 @@
-{
-    "question": "Name the TV show featuring the character Walter White.",
-    "answer": "Breaking Bad"
-}
