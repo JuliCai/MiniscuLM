@@ -1,0 +1,4 @@
+{
+    "question": "Is AR used in automotive?",
+    "answer": "Yes, for heads-up displays."
+}

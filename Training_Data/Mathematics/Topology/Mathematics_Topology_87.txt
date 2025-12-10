@@ -1,0 +1,4 @@
+{
+    "question": "What is a dendrite in topology?",
+    "answer": "Locally connected continuum without simple closed curves."
+}

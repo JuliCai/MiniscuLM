@@ -1,0 +1,4 @@
+{
+    "question": "Define vertical angles.",
+    "answer": "Opposite angles formed by two intersecting lines."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a statistical model.",
+    "answer": "Mathematical representation of data."
+}

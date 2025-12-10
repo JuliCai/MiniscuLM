@@ -1,0 +1,4 @@
+{
+    "question": "What is a power set?",
+    "answer": "Set of all subsets."
+}

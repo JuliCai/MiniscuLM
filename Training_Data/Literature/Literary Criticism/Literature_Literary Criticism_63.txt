@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of irony in literature?",
+    "answer": "Express opposite of literal meaning."
+}

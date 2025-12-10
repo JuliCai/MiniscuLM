@@ -1,0 +1,4 @@
+{
+    "question": "What is a ledger fork?",
+    "answer": "Divergence in blockchain data."
+}

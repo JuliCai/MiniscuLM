@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in voice assistants?",
+    "answer": "Understanding and responding to commands."
+}

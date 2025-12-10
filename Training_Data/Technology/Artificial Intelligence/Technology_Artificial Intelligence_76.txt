@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in predictive analytics?",
+    "answer": "Forecasting future events from data."
+}

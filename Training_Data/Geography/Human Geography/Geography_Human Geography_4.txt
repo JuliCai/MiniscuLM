@@ -1,0 +1,4 @@
+{
+    "question": "What causes migration?",
+    "answer": "Economic, social, political, and environmental factors."
+}

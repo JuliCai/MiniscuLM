@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution led to the independence of India?",
+    "answer": "Indian independence movement."
+}

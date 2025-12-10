@@ -1,0 +1,4 @@
+{
+    "question": "Define the characteristic roots.",
+    "answer": "Roots of characteristic polynomial equation."
+}

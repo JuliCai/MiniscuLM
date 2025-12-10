@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of Classicism?",
+    "answer": "Order, clarity, and balance."
+}

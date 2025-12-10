@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate model?",
+    "answer": "Computer simulation of Earth's climate system."
+}

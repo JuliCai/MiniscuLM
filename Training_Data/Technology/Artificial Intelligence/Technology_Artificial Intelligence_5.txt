@@ -1,0 +1,4 @@
+{
+    "question": "Name an AI application in healthcare.",
+    "answer": "Disease diagnosis using medical imaging."
+}

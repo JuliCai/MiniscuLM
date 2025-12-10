@@ -1,0 +1,4 @@
+{
+    "question": "What did Archimedes discover?",
+    "answer": "Principle of buoyancy."
+}

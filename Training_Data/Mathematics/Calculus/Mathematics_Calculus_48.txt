@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of |x|?",
+    "answer": "x/|x| for x \u2260 0"
+}

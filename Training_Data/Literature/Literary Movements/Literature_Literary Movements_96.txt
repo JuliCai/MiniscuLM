@@ -1,0 +1,4 @@
+{
+    "question": "Name a New Wave sci-fi author.",
+    "answer": "Ursula K. Le Guin."
+}

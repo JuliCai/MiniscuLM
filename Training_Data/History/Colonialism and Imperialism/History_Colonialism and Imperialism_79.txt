@@ -1,0 +1,4 @@
+{
+    "question": "What was the Mandate System?",
+    "answer": "League of Nations oversight of former colonies."
+}

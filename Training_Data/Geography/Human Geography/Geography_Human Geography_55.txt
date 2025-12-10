@@ -1,0 +1,4 @@
+{
+    "question": "Define informal economy.",
+    "answer": "Economic activity outside government regulation."
+}

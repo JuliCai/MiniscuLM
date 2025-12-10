@@ -1,0 +1,4 @@
+{
+    "question": "What is the relationship between historical context and character motivation?",
+    "answer": "Context explains characters' goals."
+}

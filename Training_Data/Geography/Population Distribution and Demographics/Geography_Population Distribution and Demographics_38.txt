@@ -1,0 +1,4 @@
+{
+    "question": "What affects life expectancy?",
+    "answer": "Healthcare, nutrition, sanitation."
+}

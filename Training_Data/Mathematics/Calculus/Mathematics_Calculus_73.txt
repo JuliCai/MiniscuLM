@@ -1,0 +1,4 @@
+{
+    "question": "Find derivative of x / (x^2 + 1).",
+    "answer": "(1 - x^2) / (x^2 + 1)^2"
+}

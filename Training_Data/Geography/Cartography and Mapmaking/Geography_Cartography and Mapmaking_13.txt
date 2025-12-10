@@ -1,0 +1,4 @@
+{
+    "question": "What map type shows political boundaries?",
+    "answer": "Political map."
+}

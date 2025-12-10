@@ -1,0 +1,4 @@
+{
+    "question": "What is a rhombus?",
+    "answer": "A parallelogram with all equal sides."
+}

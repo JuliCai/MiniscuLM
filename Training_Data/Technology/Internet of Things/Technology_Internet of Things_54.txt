@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT node?",
+    "answer": "Any connected device in the network."
+}

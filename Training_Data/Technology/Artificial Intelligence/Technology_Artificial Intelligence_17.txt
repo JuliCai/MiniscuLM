@@ -1,0 +1,4 @@
+{
+    "question": "What is unsupervised learning?",
+    "answer": "AI learns patterns from unlabeled data."
+}

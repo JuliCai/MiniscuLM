@@ -1,0 +1,4 @@
+{
+    "question": "How do smart glasses aid users?",
+    "answer": "Display info and augment reality."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How many states can 3 qubits represent?",
+    "answer": "Eight states simultaneously due to superposition."
+}

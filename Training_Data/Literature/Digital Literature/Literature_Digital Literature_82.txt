@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be experimental?",
+    "answer": "Yes, it often explores new forms."
+}

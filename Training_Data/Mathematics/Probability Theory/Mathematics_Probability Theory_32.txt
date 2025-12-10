@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between joint and marginal probability.",
+    "answer": "Joint is both events, marginal is one event."
+}

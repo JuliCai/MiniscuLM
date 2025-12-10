@@ -1,0 +1,4 @@
+{
+    "question": "How do historical contexts vary by genre?",
+    "answer": "Different genres emphasize aspects differently."
+}

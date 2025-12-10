@@ -1,0 +1,4 @@
+{
+    "question": "What is a cumulative distribution function?",
+    "answer": "Probability variable \u2264 value."
+}

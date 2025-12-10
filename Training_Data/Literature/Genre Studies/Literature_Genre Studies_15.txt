@@ -1,0 +1,4 @@
+{
+    "question": "What genre is characterized by exaggerated humor?",
+    "answer": "Comedy."
+}

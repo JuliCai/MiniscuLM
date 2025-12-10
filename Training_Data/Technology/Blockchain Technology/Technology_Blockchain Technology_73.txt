@@ -1,0 +1,4 @@
+{
+    "question": "What is zk-SNARK?",
+    "answer": "Zero-knowledge proof for privacy."
+}

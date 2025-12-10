@@ -1,0 +1,4 @@
+{
+    "question": "Explain the use of repetition.",
+    "answer": "Emphasizes ideas or emotions."
+}

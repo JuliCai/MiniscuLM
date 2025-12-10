@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary goal of the 1911 Chinese Revolution?",
+    "answer": "Overthrow Qing dynasty."
+}

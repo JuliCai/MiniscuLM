@@ -1,0 +1,4 @@
+{
+    "question": "State the general solution of dy/dx = y.",
+    "answer": "y = Ce^x."
+}

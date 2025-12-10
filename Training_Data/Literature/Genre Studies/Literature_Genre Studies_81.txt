@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of thriller.",
+    "answer": "Stories with suspense and excitement."
+}

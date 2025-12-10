@@ -1,0 +1,4 @@
+{
+    "question": "What genre involves supernatural events?",
+    "answer": "Horror."
+}

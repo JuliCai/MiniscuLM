@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between theme and motif?",
+    "answer": "Theme is central idea; motif repeats."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a sampling frame?",
+    "answer": "List of population units."
+}

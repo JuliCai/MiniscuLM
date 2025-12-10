@@ -1,0 +1,4 @@
+{
+    "question": "What does Sufism emphasize?",
+    "answer": "Spiritual mysticism in Islam."
+}

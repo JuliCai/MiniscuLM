@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G affect gaming?",
+    "answer": "Reduces lag with low latency."
+}

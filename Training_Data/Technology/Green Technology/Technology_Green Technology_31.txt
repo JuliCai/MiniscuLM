@@ -1,0 +1,4 @@
+{
+    "question": "How do smart thermostats save energy?",
+    "answer": "By optimizing heating and cooling usage."
+}

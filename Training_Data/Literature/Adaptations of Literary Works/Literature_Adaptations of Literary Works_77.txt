@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018spin-off\u2019 in adaptations?",
+    "answer": "A new story based on original characters."
+}

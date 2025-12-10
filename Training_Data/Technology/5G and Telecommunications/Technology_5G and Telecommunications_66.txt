@@ -1,0 +1,4 @@
+{
+    "question": "What is a 5G small cell?",
+    "answer": "Low power cellular base station."
+}

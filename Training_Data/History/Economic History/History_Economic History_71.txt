@@ -1,0 +1,4 @@
+{
+    "question": "What is the meaning of hyperinflation?",
+    "answer": "Extremely rapid and out-of-control inflation."
+}

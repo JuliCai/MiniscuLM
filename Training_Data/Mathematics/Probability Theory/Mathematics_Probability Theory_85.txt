@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability that a continuous variable equals a specific value?",
+    "answer": "Zero."
+}

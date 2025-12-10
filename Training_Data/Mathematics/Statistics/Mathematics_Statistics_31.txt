@@ -1,0 +1,4 @@
+{
+    "question": "Difference between mean and median?",
+    "answer": "Mean averages; median is middle value."
+}

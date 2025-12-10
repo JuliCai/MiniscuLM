@@ -1,0 +1,4 @@
+{
+    "question": "Who invented blockchain?",
+    "answer": "Satoshi Nakamoto in 2008."
+}

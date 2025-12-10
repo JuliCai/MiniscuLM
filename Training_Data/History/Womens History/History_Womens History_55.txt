@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was the first female Prime Minister of Pakistan?",
+    "answer": "Benazir Bhutto"
+}

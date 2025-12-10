@@ -1,0 +1,4 @@
+{
+    "question": "What is the main driver of the water cycle?",
+    "answer": "Solar energy from the Sun."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define congruent triangles.",
+    "answer": "Triangles with equal sides and angles."
+}

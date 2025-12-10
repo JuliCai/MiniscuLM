@@ -1,0 +1,4 @@
+{
+    "question": "What is the climate like in deserts?",
+    "answer": "Hot and dry with low rainfall."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first woman to receive a medical degree in the US?",
+    "answer": "Elizabeth Blackwell"
+}

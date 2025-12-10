@@ -1,0 +1,4 @@
+{
+    "question": "What is a ballad?",
+    "answer": "A narrative poem often set to music."
+}

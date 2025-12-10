@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud-native architecture.",
+    "answer": "Design optimized for cloud environments."
+}

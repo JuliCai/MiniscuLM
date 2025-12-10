@@ -1,0 +1,4 @@
+{
+    "question": "What challenges does 5G face?",
+    "answer": "Infrastructure cost and spectrum availability."
+}

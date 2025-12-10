@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital signature?",
+    "answer": "Cryptographic proof of identity and integrity."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud orchestration vs automation.",
+    "answer": "Orchestration coordinates, automation executes tasks."
+}

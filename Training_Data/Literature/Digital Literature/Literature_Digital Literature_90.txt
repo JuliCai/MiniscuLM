@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital literary critique?",
+    "answer": "Analysis of digital literary works."
+}

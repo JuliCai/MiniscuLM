@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptographic puzzle?",
+    "answer": "Problem miners solve to add blocks."
+}

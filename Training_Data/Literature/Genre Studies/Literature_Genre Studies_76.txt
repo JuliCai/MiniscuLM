@@ -1,0 +1,4 @@
+{
+    "question": "What genre features moral lessons with animals?",
+    "answer": "Fables."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is computer vision?",
+    "answer": "AI that interprets visual information from images."
+}

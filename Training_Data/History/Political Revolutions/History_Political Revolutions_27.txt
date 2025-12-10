@@ -1,0 +1,4 @@
+{
+    "question": "What was the Duma?",
+    "answer": "Russian parliament established in 1906."
+}

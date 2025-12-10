@@ -1,0 +1,4 @@
+{
+    "question": "Name a genre focusing on crime and punishment.",
+    "answer": "Crime fiction."
+}

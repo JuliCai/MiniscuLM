@@ -1,0 +1,4 @@
+{
+    "question": "Name a push factor in migration.",
+    "answer": "War or conflict."
+}

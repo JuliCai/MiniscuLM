@@ -1,0 +1,4 @@
+{
+    "question": "What is a hypsometric map?",
+    "answer": "Elevation colored map."
+}

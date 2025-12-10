@@ -1,0 +1,4 @@
+{
+    "question": "What is geospatial metadata?",
+    "answer": "Information about spatial data properties."
+}

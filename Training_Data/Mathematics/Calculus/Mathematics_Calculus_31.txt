@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of a^x?",
+    "answer": "a^x ln a"
+}

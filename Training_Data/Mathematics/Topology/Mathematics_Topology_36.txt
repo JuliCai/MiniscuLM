@@ -1,0 +1,4 @@
+{
+    "question": "Define compactness in metric spaces.",
+    "answer": "Closed and totally bounded set."
+}

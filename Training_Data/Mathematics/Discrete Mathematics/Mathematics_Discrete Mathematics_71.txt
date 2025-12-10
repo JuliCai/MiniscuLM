@@ -1,0 +1,4 @@
+{
+    "question": "Define inclusion-exclusion principle usage.",
+    "answer": "Calculate size of union of sets."
+}

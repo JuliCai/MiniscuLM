@@ -1,0 +1,4 @@
+{
+    "question": "What is malware removal?",
+    "answer": "Process of deleting malicious software."
+}

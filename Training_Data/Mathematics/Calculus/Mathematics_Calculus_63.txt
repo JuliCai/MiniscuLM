@@ -1,0 +1,4 @@
+{
+    "question": "Limit of (x^2 - 4)/(x - 2) as x\u21922?",
+    "answer": "4"
+}

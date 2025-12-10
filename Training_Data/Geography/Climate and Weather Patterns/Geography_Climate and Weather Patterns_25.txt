@@ -1,0 +1,4 @@
+{
+    "question": "How does altitude affect temperature?",
+    "answer": "Temperature decreases with altitude."
+}

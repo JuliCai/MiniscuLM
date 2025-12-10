@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum annealing process?",
+    "answer": "Uses quantum fluctuations to find minimum energy states."
+}

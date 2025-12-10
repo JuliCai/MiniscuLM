@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018faithful adaptation\u2019?",
+    "answer": "Adheres closely to source material."
+}

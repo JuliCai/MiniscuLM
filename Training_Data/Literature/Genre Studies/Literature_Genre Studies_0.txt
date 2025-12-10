@@ -1,0 +1,4 @@
+{
+    "question": "What defines the genre of mystery?",
+    "answer": "A story involving a crime or puzzle to solve."
+}

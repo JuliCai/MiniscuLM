@@ -1,0 +1,4 @@
+{
+    "question": "What is a Stone\u2013\u010cech compactification?",
+    "answer": "Largest compactification of a space."
+}

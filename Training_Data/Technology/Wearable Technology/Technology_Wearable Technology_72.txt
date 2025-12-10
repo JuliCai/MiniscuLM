@@ -1,0 +1,4 @@
+{
+    "question": "How do wearables track hydration?",
+    "answer": "Some estimate via sensors and user input."
+}

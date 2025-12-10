@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G compatible with 4G?",
+    "answer": "Yes, supports backward compatibility."
+}

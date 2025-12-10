@@ -1,0 +1,4 @@
+{
+    "question": "What is a multi-cloud strategy?",
+    "answer": "Using multiple cloud providers."
+}

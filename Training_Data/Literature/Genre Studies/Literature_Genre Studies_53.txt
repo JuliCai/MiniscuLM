@@ -1,0 +1,4 @@
+{
+    "question": "What genre explores human relationships deeply?",
+    "answer": "Romantic drama."
+}

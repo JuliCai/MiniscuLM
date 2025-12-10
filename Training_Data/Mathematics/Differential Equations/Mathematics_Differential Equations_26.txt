@@ -1,0 +1,4 @@
+{
+    "question": "State the superposition principle.",
+    "answer": "Sum of solutions is solution for linear homogeneous."
+}

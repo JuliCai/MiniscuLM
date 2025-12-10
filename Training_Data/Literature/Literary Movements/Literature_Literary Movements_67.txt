@@ -1,0 +1,4 @@
+{
+    "question": "What is the main theme in Gothic fiction?",
+    "answer": "Horror and romance."
+}

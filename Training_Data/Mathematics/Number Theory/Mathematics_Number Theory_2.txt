@@ -1,0 +1,4 @@
+{
+    "question": "What is the smallest prime number?",
+    "answer": "2"
+}

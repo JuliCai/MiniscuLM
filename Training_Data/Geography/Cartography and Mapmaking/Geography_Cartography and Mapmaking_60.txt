@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial analysis?",
+    "answer": "Study of spatial data patterns."
+}

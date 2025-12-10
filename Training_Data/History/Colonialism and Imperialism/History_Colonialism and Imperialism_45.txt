@@ -1,0 +1,4 @@
+{
+    "question": "What is a colony of settlement?",
+    "answer": "Where settlers establish permanent residence."
+}

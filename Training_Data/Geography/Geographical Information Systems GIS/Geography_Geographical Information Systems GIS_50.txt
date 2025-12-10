@@ -1,0 +1,4 @@
+{
+    "question": "What is cartography in GIS?",
+    "answer": "The art of map making."
+}

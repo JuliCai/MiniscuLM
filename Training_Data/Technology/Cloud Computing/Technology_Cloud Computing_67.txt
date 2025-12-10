@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud cost model.",
+    "answer": "How cloud pricing is structured."
+}

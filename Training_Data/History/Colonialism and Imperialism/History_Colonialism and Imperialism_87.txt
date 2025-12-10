@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of colonial education?",
+    "answer": "Imposed European culture."
+}

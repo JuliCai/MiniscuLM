@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial resolution in GIS?",
+    "answer": "The detail level of spatial data."
+}

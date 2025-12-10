@@ -1,0 +1,4 @@
+{
+    "question": "What is a metric space?",
+    "answer": "A set with a distance function satisfying metric axioms."
+}

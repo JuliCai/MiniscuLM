@@ -1,0 +1,4 @@
+{
+    "question": "Define outlier.",
+    "answer": "Data point far from others."
+}

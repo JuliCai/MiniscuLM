@@ -1,0 +1,4 @@
+{
+    "question": "What is an archetype?",
+    "answer": "Universal symbol or pattern."
+}

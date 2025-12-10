@@ -1,0 +1,4 @@
+{
+    "question": "What led to the decline of the Roman economy?",
+    "answer": "Overexpansion and inflation."
+}

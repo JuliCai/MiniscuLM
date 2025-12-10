@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT gateway?",
+    "answer": "Device connecting IoT devices to network."
+}

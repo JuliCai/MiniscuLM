@@ -1,0 +1,4 @@
+{
+    "question": "Define Hausdorff space.",
+    "answer": "Any two points have disjoint neighborhoods."
+}

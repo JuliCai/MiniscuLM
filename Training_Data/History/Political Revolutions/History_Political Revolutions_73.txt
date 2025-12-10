@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of the Taiping Rebellion?",
+    "answer": "Religious and social unrest."
+}

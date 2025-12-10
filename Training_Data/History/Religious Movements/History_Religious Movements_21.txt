@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of Sufism?",
+    "answer": "Spiritual union with God."
+}

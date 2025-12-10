@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart grid?",
+    "answer": "Electric grid with IoT monitoring."
+}

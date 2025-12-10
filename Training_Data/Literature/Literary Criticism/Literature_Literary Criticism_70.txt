@@ -1,0 +1,4 @@
+{
+    "question": "What is allegorical criticism?",
+    "answer": "Interprets symbolic meanings."
+}

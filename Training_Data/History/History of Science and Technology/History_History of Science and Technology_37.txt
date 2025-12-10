@@ -1,0 +1,4 @@
+{
+    "question": "When was the first practical automobile invented?",
+    "answer": "1885."
+}

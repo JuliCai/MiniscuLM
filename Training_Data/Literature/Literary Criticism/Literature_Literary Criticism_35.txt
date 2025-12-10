@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of New Historicism?",
+    "answer": "Interplay of history and text."
+}

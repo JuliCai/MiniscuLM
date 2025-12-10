@@ -1,0 +1,4 @@
+{
+    "question": "Is quantum computing reversible?",
+    "answer": "Yes, quantum gates are reversible operations."
+}

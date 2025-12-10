@@ -1,0 +1,4 @@
+{
+    "question": "What role did sugar play in colonial economies?",
+    "answer": "Major cash crop driving slavery."
+}

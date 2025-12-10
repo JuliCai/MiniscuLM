@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantifier in logic?",
+    "answer": "Symbol expressing quantity like \u2200 or \u2203."
+}

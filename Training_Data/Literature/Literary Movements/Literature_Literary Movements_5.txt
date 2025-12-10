@@ -1,0 +1,4 @@
+{
+    "question": "What characterizes the Gothic movement?",
+    "answer": "Dark, mysterious, supernatural elements."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud orchestration.",
+    "answer": "Automating cloud resource management."
+}

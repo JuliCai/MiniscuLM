@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS server?",
+    "answer": "Hosts and shares GIS data online."
+}

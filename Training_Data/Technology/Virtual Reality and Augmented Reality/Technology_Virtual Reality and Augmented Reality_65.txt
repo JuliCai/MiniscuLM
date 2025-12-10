@@ -1,0 +1,4 @@
+{
+    "question": "What is a VR room-scale setup?",
+    "answer": "Tracking user in physical space."
+}

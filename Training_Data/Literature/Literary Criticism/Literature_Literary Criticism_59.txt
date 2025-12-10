@@ -1,0 +1,4 @@
+{
+    "question": "What is a foil in literature?",
+    "answer": "Character contrasting another."
+}

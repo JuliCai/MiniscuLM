@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'We Have Always Lived in the Castle'?",
+    "answer": "Shirley Jackson"
+}

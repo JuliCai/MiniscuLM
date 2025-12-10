@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS analyst's role?",
+    "answer": "Interpreting spatial data and maps."
+}

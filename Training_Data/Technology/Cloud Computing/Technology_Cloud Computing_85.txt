@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud backup vs disaster recovery.",
+    "answer": "Backup stores copies, disaster recovery restores operations."
+}

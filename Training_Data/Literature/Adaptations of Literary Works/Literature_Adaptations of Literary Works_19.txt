@@ -1,0 +1,4 @@
+{
+    "question": "How do adaptations impact literature's popularity?",
+    "answer": "They often increase interest in original."
+}

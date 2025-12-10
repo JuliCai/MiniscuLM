@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of getting at least one head in two coin tosses?",
+    "answer": "3/4"
+}

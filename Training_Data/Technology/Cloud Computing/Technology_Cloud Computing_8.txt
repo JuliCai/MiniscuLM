@@ -1,0 +1,4 @@
+{
+    "question": "What does scalability mean in cloud?",
+    "answer": "Ability to grow resources on demand."
+}

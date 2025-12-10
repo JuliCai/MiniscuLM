@@ -1,0 +1,4 @@
+{
+    "question": "What is a maritime climate?",
+    "answer": "Climate influenced by proximity to ocean."
+}

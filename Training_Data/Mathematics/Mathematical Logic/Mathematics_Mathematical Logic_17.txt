@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical connective?",
+    "answer": "Operator combining propositions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Does 5G require new antennas?",
+    "answer": "Yes, especially for mmWave."
+}

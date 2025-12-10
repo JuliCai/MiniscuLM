@@ -1,0 +1,4 @@
+{
+    "question": "What is sustainable energy?",
+    "answer": "Energy from sources that don't deplete."
+}

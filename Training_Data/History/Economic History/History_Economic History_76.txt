@@ -1,0 +1,4 @@
+{
+    "question": "What is the meaning of fiat money?",
+    "answer": "Currency without intrinsic value, government-backed."
+}

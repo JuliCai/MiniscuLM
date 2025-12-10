@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Estates-General?",
+    "answer": "French legislative assembly."
+}

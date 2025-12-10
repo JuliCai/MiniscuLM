@@ -1,0 +1,4 @@
+{
+    "question": "What is a heat wave?",
+    "answer": "A prolonged period of excessive heat."
+}

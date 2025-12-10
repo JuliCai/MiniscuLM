@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of AI in finance?",
+    "answer": "Fraud detection in transactions."
+}

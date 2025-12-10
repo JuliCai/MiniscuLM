@@ -1,0 +1,4 @@
+{
+    "question": "Name a key feature of science fiction.",
+    "answer": "Futuristic technology and space exploration."
+}

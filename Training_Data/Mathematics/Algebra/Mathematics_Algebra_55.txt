@@ -1,0 +1,4 @@
+{
+    "question": "Find slope: y - 2 = 3(x + 1)",
+    "answer": "3"
+}

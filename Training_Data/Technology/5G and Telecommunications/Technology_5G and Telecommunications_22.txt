@@ -1,0 +1,4 @@
+{
+    "question": "What is the range of mmWave?",
+    "answer": "About 200 meters or less."
+}

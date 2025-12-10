@@ -1,0 +1,4 @@
+{
+    "question": "What is a logic bomb?",
+    "answer": "Malicious code triggered by conditions."
+}

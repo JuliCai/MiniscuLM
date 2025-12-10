@@ -1,0 +1,4 @@
+{
+    "question": "What is population clustering?",
+    "answer": "Groups of people living close."
+}

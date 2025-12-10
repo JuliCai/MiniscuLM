@@ -1,0 +1,4 @@
+{
+    "question": "What type of map shows population density?",
+    "answer": "Thematic map."
+}

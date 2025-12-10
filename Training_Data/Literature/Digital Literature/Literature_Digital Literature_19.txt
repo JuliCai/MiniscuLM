@@ -1,0 +1,4 @@
+{
+    "question": "Does digital literature include blogs?",
+    "answer": "Blogs can be literary but not all are digital literature."
+}

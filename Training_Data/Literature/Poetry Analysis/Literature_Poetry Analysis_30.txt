@@ -1,0 +1,4 @@
+{
+    "question": "What is a limerick?",
+    "answer": "A humorous five-line poem with AABBA rhyme."
+}

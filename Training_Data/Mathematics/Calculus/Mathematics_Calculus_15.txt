@@ -1,0 +1,4 @@
+{
+    "question": "Derivative of arcsin x?",
+    "answer": "1 / \u221a(1 - x^2)"
+}

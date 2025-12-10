@@ -1,0 +1,4 @@
+{
+    "question": "What is a defining feature of the western genre?",
+    "answer": "Set in the American frontier."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud bursting.",
+    "answer": "Using cloud resources during peak loads."
+}

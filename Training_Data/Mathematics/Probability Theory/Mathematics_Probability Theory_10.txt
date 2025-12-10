@@ -1,0 +1,4 @@
+{
+    "question": "If P(A) = 0.3, what is P(not A)?",
+    "answer": "0.7"
+}

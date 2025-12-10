@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context influence moral themes?",
+    "answer": "Reflects period's ethical standards."
+}

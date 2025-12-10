@@ -1,0 +1,4 @@
+{
+    "question": "What is the gcd of two consecutive integers?",
+    "answer": "1"
+}

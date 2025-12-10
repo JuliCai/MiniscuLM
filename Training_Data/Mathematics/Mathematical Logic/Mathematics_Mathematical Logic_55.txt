@@ -1,0 +1,4 @@
+{
+    "question": "What is an axiom schema?",
+    "answer": "Template for infinite axioms."
+}

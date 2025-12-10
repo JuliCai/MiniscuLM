@@ -1,0 +1,4 @@
+{
+    "question": "What is overfitting in AI?",
+    "answer": "When AI performs well on training but poorly on new data."
+}

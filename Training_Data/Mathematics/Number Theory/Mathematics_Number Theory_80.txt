@@ -1,0 +1,4 @@
+{
+    "question": "What is the gcd of 13 and 27?",
+    "answer": "1"
+}

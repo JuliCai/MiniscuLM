@@ -1,0 +1,4 @@
+{
+    "question": "How many degrees in a straight angle?",
+    "answer": "180 degrees."
+}

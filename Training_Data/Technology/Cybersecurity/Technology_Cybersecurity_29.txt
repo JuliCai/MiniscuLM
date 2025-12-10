@@ -1,0 +1,4 @@
+{
+    "question": "Define endpoint security.",
+    "answer": "Protecting devices connected to a network."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do dialects reflect historical context?",
+    "answer": "Show language use of the era."
+}

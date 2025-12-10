@@ -1,0 +1,4 @@
+{
+    "question": "Define convergence of nets.",
+    "answer": "Net converges if it eventually lies in every neighborhood."
+}

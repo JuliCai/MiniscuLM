@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between prime and composite numbers?",
+    "answer": "Prime has two divisors; composite more than two."
+}

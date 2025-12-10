@@ -1,0 +1,4 @@
+{
+    "question": "Define Kuratowski's theorem.",
+    "answer": "Characterizes planar graphs via forbidden subgraphs."
+}

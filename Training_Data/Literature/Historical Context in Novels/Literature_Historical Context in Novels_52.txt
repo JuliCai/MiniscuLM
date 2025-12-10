@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context influence conflict?",
+    "answer": "Period tensions drive story conflicts."
+}

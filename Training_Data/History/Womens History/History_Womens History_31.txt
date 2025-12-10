@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was a famous civil rights activist with the bus boycott?",
+    "answer": "Rosa Parks"
+}

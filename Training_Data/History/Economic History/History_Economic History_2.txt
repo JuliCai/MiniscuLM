@@ -1,0 +1,4 @@
+{
+    "question": "What was the Silk Road?",
+    "answer": "Ancient trade routes connecting East and West."
+}

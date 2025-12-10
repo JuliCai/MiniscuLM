@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution inspired Latin American independence movements?",
+    "answer": "American and French Revolutions."
+}

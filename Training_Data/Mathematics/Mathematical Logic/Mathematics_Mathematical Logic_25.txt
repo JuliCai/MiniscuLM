@@ -1,0 +1,4 @@
+{
+    "question": "Define logical validity.",
+    "answer": "Formula true in every interpretation."
+}

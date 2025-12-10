@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum key distribution?",
+    "answer": "Secure communication using quantum principles."
+}

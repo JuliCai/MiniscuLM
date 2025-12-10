@@ -1,0 +1,4 @@
+{
+    "question": "What does mmWave refer to?",
+    "answer": "High-frequency 5G spectrum band."
+}

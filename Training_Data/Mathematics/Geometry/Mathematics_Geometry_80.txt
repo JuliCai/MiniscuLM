@@ -1,0 +1,4 @@
+{
+    "question": "Define a hexagon.",
+    "answer": "Polygon with six sides."
+}

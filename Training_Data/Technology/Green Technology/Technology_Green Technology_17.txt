@@ -1,0 +1,4 @@
+{
+    "question": "How does green tech impact water conservation?",
+    "answer": "By reducing water waste and promoting reuse."
+}

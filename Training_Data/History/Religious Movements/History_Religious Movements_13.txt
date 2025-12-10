@@ -1,0 +1,4 @@
+{
+    "question": "What movement did Mahatma Gandhi inspire?",
+    "answer": "Nonviolent resistance."
+}

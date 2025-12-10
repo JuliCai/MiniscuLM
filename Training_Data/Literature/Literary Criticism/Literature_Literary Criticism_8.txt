@@ -1,0 +1,4 @@
+{
+    "question": "Name a key concept in structuralism.",
+    "answer": "Binary oppositions."
+}

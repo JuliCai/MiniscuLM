@@ -1,0 +1,4 @@
+{
+    "question": "What is a megaregion?",
+    "answer": "Network of connected metropolitan areas."
+}

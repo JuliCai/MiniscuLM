@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of onomatopoeia?",
+    "answer": "Words like 'clang' or 'hiss'."
+}

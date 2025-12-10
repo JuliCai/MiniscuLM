@@ -1,0 +1,4 @@
+{
+    "question": "What is Proof of Stake (PoS)?",
+    "answer": "Consensus based on stake ownership."
+}

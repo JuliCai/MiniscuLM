@@ -1,0 +1,4 @@
+{
+    "question": "What is population distribution?",
+    "answer": "How people are spread over an area."
+}

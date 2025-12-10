@@ -1,0 +1,4 @@
+{
+    "question": "Can AR assist in surgery?",
+    "answer": "Yes, showing internal anatomy."
+}

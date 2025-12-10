@@ -1,0 +1,4 @@
+{
+    "question": "Calculate odds of rolling a six on a die.",
+    "answer": "1:5"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Suez Canal?",
+    "answer": "Strategic trade route for empires."
+}

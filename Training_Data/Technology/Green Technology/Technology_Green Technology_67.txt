@@ -1,0 +1,4 @@
+{
+    "question": "What is a green alternative to plastic bags?",
+    "answer": "Reusable cloth bags."
+}

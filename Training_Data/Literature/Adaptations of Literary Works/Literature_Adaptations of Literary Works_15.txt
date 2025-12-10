@@ -1,0 +1,4 @@
+{
+    "question": "What is \u2018intertextuality\u2019 in adaptations?",
+    "answer": "Referencing other texts within adaptations."
+}

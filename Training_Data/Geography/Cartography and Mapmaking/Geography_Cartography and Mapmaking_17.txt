@@ -1,0 +1,4 @@
+{
+    "question": "What is cartographic generalization?",
+    "answer": "Simplifying map details."
+}

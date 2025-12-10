@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G impact telemedicine?",
+    "answer": "Enables real-time remote care."
+}

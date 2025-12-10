@@ -1,0 +1,4 @@
+{
+    "question": "What ancient tool was used for navigation?",
+    "answer": "Compass."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a passive solar design?",
+    "answer": "Building design using sunlight for heating."
+}

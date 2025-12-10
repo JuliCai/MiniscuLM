@@ -1,0 +1,4 @@
+{
+    "question": "Is VR used in military training?",
+    "answer": "Yes, for realistic combat simulations."
+}

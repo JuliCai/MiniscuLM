@@ -1,0 +1,4 @@
+{
+    "question": "How do historical events influence novel plots?",
+    "answer": "They provide conflict or background."
+}

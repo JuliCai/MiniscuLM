@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of historical context in character backstory?",
+    "answer": "Provides motivation and history."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic role of the Hanseatic League?",
+    "answer": "Trade alliance of Northern European cities."
+}

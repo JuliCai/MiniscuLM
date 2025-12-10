@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between AI and ML?",
+    "answer": "ML is a subset of AI focused on learning."
+}

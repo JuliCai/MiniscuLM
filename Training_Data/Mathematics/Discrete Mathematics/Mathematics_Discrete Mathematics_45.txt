@@ -1,0 +1,4 @@
+{
+    "question": "Define domain of a function.",
+    "answer": "Set of input values."
+}

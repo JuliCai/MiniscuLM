@@ -1,0 +1,4 @@
+{
+    "question": "What is the key practice of Quakers?",
+    "answer": "Silent worship meetings."
+}

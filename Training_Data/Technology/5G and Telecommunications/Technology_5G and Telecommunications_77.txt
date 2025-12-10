@@ -1,0 +1,4 @@
+{
+    "question": "Does 5G impact battery life?",
+    "answer": "Can increase or decrease usage."
+}

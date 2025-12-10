@@ -1,0 +1,4 @@
+{
+    "question": "What is digital literature?",
+    "answer": "Literary works created or presented through digital media."
+}

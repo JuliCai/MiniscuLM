@@ -1,0 +1,4 @@
+{
+    "question": "What is a singular point?",
+    "answer": "Point where equation coefficients vanish or become infinite."
+}

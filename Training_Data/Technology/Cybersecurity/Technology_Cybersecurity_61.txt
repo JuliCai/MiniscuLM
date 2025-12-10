@@ -1,0 +1,4 @@
+{
+    "question": "What is a brute force defense?",
+    "answer": "Methods preventing password guessing attacks."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be translated?",
+    "answer": "Yes, digital formats facilitate translation."
+}

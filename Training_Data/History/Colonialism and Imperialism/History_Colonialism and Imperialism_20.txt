@@ -1,0 +1,4 @@
+{
+    "question": "What is indirect rule?",
+    "answer": "Colonial control through local leaders."
+}

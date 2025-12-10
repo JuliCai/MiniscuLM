@@ -1,0 +1,4 @@
+{
+    "question": "What protocol is often used in IoT?",
+    "answer": "MQTT."
+}

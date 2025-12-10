@@ -1,0 +1,4 @@
+{
+    "question": "What role did women play in the French Revolution?",
+    "answer": "Active in protests and marches."
+}

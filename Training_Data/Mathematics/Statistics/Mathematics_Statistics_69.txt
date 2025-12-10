@@ -1,0 +1,4 @@
+{
+    "question": "What is a power of a test?",
+    "answer": "Probability to detect true effect."
+}

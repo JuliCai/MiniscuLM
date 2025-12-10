@@ -1,0 +1,4 @@
+{
+    "question": "How many faces does a tetrahedron have?",
+    "answer": "Four triangular faces."
+}

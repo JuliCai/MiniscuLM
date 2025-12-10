@@ -1,0 +1,4 @@
+{
+    "question": "What is the Bayeux Tapestry made of?",
+    "answer": "Embroidered linen cloth."
+}

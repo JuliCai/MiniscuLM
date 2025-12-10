@@ -1,0 +1,4 @@
+{
+    "question": "What is a regular space?",
+    "answer": "Points and closed sets can be separated by neighborhoods."
+}

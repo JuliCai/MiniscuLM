@@ -1,0 +1,4 @@
+{
+    "question": "What is interactive fiction?",
+    "answer": "Stories where readers make choices affecting outcomes."
+}

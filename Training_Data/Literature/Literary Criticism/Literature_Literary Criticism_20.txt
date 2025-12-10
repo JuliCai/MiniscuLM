@@ -1,0 +1,4 @@
+{
+    "question": "What is a motif in literary analysis?",
+    "answer": "Recurring element or theme."
+}

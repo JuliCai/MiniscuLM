@@ -1,0 +1,4 @@
+{
+    "question": "Explain timestamping in blockchain.",
+    "answer": "Recording time of transactions."
+}

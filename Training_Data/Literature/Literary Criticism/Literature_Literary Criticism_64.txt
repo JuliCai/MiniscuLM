@@ -1,0 +1,4 @@
+{
+    "question": "What is a didactic text?",
+    "answer": "Intended to teach or instruct."
+}

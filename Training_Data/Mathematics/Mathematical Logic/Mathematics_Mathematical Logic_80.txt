@@ -1,0 +1,4 @@
+{
+    "question": "What is a Herbrand universe?",
+    "answer": "Set of all ground terms."
+}

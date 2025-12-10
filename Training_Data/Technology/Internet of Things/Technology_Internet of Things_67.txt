@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT dashboard?",
+    "answer": "Interface displaying device data."
+}

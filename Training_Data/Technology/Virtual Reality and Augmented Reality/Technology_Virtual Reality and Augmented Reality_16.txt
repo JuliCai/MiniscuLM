@@ -1,0 +1,4 @@
+{
+    "question": "What is cybersickness?",
+    "answer": "Motion sickness from VR use."
+}

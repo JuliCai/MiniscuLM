@@ -1,0 +1,4 @@
+{
+    "question": "What is an adaptation\u2019s \u2018screenwriter\u2019?",
+    "answer": "The person who writes the script."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define negation.",
+    "answer": "Logical operation reversing truth value."
+}

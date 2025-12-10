@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables measure calories burned?",
+    "answer": "Yes, using movement and heart rate."
+}

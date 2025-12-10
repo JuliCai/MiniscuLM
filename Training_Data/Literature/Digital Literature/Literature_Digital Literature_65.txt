@@ -1,0 +1,4 @@
+{
+    "question": "How does digital literature impact authors?",
+    "answer": "Offers new creative tools and audiences."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define settler colonialism.",
+    "answer": "Colonizers settle permanently in new land."
+}

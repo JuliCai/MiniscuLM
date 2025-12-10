@@ -1,0 +1,4 @@
+{
+    "question": "What is an axiom of identity?",
+    "answer": "Formula stating x = x."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a convex polygon?",
+    "answer": "Polygon with all interior angles less than 180\u00b0."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a VR avatar?",
+    "answer": "User's virtual representation."
+}

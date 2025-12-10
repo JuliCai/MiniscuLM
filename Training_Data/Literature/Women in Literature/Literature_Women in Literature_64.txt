@@ -1,0 +1,4 @@
+{
+    "question": "Name a female playwright from the 20th century.",
+    "answer": "Lorraine Hansberry"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between adaptation and translation?",
+    "answer": "Adaptation changes medium; translation changes language."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "State Picard's Existence Theorem.",
+    "answer": "Guarantees solution existence under continuity."
+}

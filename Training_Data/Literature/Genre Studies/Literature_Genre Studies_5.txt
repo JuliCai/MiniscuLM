@@ -1,0 +1,4 @@
+{
+    "question": "Which genre often includes detectives?",
+    "answer": "Detective fiction."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do resources influence population distribution?",
+    "answer": "People settle near resources."
+}

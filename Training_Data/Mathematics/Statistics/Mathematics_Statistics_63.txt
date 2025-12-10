@@ -1,0 +1,4 @@
+{
+    "question": "What is covariance?",
+    "answer": "Measure of joint variability."
+}

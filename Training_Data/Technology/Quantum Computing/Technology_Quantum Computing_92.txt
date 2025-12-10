@@ -1,0 +1,4 @@
+{
+    "question": "What is a Spin qubit?",
+    "answer": "Qubit based on electron or nuclear spin states."
+}

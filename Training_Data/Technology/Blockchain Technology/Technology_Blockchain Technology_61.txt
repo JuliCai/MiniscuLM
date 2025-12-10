@@ -1,0 +1,4 @@
+{
+    "question": "What is a multi-signature wallet?",
+    "answer": "Wallet requiring multiple approvals to spend."
+}

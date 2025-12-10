@@ -1,0 +1,4 @@
+{
+    "question": "What is a distributed ledger?",
+    "answer": "Shared database across multiple locations."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female to serve on the US Supreme Court?",
+    "answer": "Sandra Day O'Connor"
+}

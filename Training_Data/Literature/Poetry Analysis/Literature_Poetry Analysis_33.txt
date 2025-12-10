@@ -1,0 +1,4 @@
+{
+    "question": "Define diction.",
+    "answer": "The choice of words in a poem."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can AR be used for industrial maintenance?",
+    "answer": "Yes, providing repair instructions."
+}

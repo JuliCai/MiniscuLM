@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum circuit?",
+    "answer": "Sequence of quantum gates applied to qubits."
+}

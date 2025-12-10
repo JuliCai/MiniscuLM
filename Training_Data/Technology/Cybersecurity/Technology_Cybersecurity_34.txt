@@ -1,0 +1,4 @@
+{
+    "question": "What is a rootkit?",
+    "answer": "Malware hiding presence on a system."
+}

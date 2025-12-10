@@ -1,0 +1,4 @@
+{
+    "question": "What is population explosion?",
+    "answer": "Rapid increase in population."
+}

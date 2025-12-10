@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018condensed adaptation\u2019?",
+    "answer": "Shortened version of original."
+}

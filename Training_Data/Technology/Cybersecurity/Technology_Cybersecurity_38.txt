@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital certificate?",
+    "answer": "Proof of website or user authenticity."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a common IoT device interface?",
+    "answer": "Mobile app."
+}

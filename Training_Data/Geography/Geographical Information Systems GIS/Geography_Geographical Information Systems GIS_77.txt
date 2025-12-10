@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS help in wildlife conservation?",
+    "answer": "Mapping habitats and migration paths."
+}

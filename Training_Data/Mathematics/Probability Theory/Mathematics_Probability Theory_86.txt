@@ -1,0 +1,4 @@
+{
+    "question": "Explain what an event space is.",
+    "answer": "Set of all events in sample space."
+}

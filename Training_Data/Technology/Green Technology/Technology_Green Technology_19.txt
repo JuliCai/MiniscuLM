@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of solar energy.",
+    "answer": "Renewable and abundant energy source."
+}

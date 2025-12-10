@@ -1,0 +1,4 @@
+{
+    "question": "Name the leader of the Soviet Union\u2019s women during WWII.",
+    "answer": "Lyudmila Pavlichenko"
+}

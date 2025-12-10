@@ -1,0 +1,4 @@
+{
+    "question": "Express 15 as a product of primes.",
+    "answer": "3 \u00d7 5"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary characteristic of Expressionism?",
+    "answer": "Emotional and distorted imagery."
+}

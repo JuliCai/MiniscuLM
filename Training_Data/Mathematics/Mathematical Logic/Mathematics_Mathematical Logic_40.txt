@@ -1,0 +1,4 @@
+{
+    "question": "What is an atomic proposition?",
+    "answer": "A proposition without connectives."
+}

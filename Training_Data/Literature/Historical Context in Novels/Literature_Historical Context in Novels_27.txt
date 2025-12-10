@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect dialogue?",
+    "answer": "Reflects period-specific language."
+}

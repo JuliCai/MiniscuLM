@@ -1,0 +1,4 @@
+{
+    "question": "What is the latency threshold for VR comfort?",
+    "answer": "Below 20 milliseconds."
+}

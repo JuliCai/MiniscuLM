@@ -1,0 +1,4 @@
+{
+    "question": "Define Minimalism in art.",
+    "answer": "Simple, geometric, and abstract."
+}

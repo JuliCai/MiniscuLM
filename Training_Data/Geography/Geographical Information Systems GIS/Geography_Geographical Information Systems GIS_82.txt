@@ -1,0 +1,4 @@
+{
+    "question": "What is a geospatial coordinate system?",
+    "answer": "Defines locations on earth's surface."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a female author known for feminist literature.",
+    "answer": "Betty Friedan"
+}

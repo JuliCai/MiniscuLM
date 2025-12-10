@@ -1,0 +1,4 @@
+{
+    "question": "What is emigration?",
+    "answer": "Leaving one's country to live elsewhere."
+}

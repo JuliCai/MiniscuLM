@@ -1,0 +1,4 @@
+{
+    "question": "What year did America declare independence?",
+    "answer": "1776."
+}

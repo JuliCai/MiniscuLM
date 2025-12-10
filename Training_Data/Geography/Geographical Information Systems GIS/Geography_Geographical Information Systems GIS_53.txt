@@ -1,0 +1,4 @@
+{
+    "question": "What is a geoprocessing tool?",
+    "answer": "Software function for spatial data analysis."
+}

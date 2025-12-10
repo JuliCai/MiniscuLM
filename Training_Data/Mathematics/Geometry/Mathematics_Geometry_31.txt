@@ -1,0 +1,4 @@
+{
+    "question": "What is a sector of a circle?",
+    "answer": "A 'slice' of the circle bounded by two radii."
+}

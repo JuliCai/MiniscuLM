@@ -1,0 +1,4 @@
+{
+    "question": "What is data breach?",
+    "answer": "Unauthorized data access or theft."
+}

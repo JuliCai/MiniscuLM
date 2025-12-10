@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary cause of the French Revolution?",
+    "answer": "Social inequality and debt."
+}

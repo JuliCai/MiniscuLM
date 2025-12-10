@@ -1,0 +1,4 @@
+{
+    "question": "Is VR suitable for children?",
+    "answer": "With caution, age restrictions apply."
+}

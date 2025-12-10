@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables collect personal data?",
+    "answer": "Yes, raising privacy concerns."
+}

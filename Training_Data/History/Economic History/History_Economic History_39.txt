@@ -1,0 +1,4 @@
+{
+    "question": "When was the first stock exchange established?",
+    "answer": "Amsterdam, early 17th century."
+}

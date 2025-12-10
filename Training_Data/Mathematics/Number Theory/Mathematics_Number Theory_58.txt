@@ -1,0 +1,4 @@
+{
+    "question": "What is the least common multiple of 7 and 5?",
+    "answer": "35"
+}

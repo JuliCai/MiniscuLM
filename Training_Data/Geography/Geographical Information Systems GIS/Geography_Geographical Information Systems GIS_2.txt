@@ -1,0 +1,4 @@
+{
+    "question": "Which data types does GIS use?",
+    "answer": "Vector and raster data."
+}

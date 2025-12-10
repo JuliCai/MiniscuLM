@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT botnet?",
+    "answer": "Hacked IoT devices used in attacks."
+}

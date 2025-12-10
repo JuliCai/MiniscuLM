@@ -1,0 +1,4 @@
+{
+    "question": "Integral of 1/(x\u221a(x^2 - 1)) dx?",
+    "answer": "arcsec|x| + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "When was the Bretton Woods system established?",
+    "answer": "1944, post-World War II financial system."
+}

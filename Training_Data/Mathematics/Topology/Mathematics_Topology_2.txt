@@ -1,0 +1,4 @@
+{
+    "question": "What is a homeomorphism?",
+    "answer": "A continuous bijection with continuous inverse."
+}

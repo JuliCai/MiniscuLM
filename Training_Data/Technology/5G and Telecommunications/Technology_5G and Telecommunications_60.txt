@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G support drone communication?",
+    "answer": "Yes, with reliable low latency."
+}

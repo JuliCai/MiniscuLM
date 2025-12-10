@@ -1,0 +1,4 @@
+{
+    "question": "Can smartwatches track menstrual cycles?",
+    "answer": "Yes, many include cycle tracking features."
+}

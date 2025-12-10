@@ -1,0 +1,4 @@
+{
+    "question": "Why do authors include historical context in fantasy?",
+    "answer": "To add realism and depth to worlds."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology reduce waste?",
+    "answer": "By recycling and reusing materials."
+}

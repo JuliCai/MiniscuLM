@@ -1,0 +1,4 @@
+{
+    "question": "What is a trade embargo?",
+    "answer": "Prohibition of trade with a country."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'renewable' mean?",
+    "answer": "Natural resources replenished continuously."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Great Inflation of the 1970s?",
+    "answer": "Oil shocks and loose monetary policies."
+}

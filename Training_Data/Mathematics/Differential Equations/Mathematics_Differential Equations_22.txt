@@ -1,0 +1,4 @@
+{
+    "question": "Define a boundary value problem.",
+    "answer": "Differential equation with conditions at boundaries."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud cost allocation?",
+    "answer": "Assigning cloud expenses to departments or projects."
+}

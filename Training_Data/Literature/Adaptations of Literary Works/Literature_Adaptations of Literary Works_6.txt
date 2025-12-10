@@ -1,0 +1,4 @@
+{
+    "question": "What is a graphic novel adaptation?",
+    "answer": "Turning a book into a comic-style story."
+}

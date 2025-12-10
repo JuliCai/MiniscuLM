@@ -1,0 +1,4 @@
+{
+    "question": "Does 5G use fiber optics?",
+    "answer": "Yes, in its backhaul infrastructure."
+}

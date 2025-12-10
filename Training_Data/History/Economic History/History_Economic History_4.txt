@@ -1,0 +1,4 @@
+{
+    "question": "What is mercantilism?",
+    "answer": "Economic policy emphasizing exports over imports."
+}

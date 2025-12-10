@@ -1,0 +1,4 @@
+{
+    "question": "Which layer does 5G core operate?",
+    "answer": "Network layer."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature include video games?",
+    "answer": "Yes, narrative-driven games are considered digital literature."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between rhyme and rhythm.",
+    "answer": "Rhyme is sound repetition; rhythm is beat."
+}

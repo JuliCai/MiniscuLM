@@ -1,0 +1,4 @@
+{
+    "question": "What is a probability distribution?",
+    "answer": "Function assigning probabilities to outcomes."
+}

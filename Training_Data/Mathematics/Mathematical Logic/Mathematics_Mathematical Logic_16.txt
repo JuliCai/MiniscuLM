@@ -1,0 +1,4 @@
+{
+    "question": "What is entailment in logic?",
+    "answer": "Premises guarantee conclusion's truth."
+}

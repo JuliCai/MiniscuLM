@@ -1,0 +1,4 @@
+{
+    "question": "What is cohomology?",
+    "answer": "Dual theory to homology with algebraic structures."
+}

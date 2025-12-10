@@ -1,0 +1,4 @@
+{
+    "question": "What is the main conflict in 'The Great Gatsby'?",
+    "answer": "Class and the American Dream"
+}

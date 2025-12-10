@@ -1,0 +1,4 @@
+{
+    "question": "What is the Euler's formula for polyhedra?",
+    "answer": "Vertices - Edges + Faces = 2."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between AI and robotics?",
+    "answer": "AI is intelligence; robotics involves physical machines."
+}

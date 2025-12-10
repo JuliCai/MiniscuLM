@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial autocorrelation?",
+    "answer": "Correlation of a variable with itself in space."
+}

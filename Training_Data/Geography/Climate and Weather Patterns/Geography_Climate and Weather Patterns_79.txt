@@ -1,0 +1,4 @@
+{
+    "question": "What is the main effect of deforestation on climate?",
+    "answer": "Increased atmospheric CO2 levels."
+}

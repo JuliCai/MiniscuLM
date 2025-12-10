@@ -1,0 +1,4 @@
+{
+    "question": "What is the smallest positive integer solution to x \u2261 3 mod 5?",
+    "answer": "3"
+}

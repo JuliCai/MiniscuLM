@@ -1,0 +1,4 @@
+{
+    "question": "Explain block time.",
+    "answer": "Interval between block creations."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a generating function.",
+    "answer": "Power series encoding sequence terms."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is IoT?",
+    "answer": "Connecting devices to the internet."
+}

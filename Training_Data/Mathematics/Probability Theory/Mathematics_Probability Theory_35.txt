@@ -1,0 +1,4 @@
+{
+    "question": "What is the Poisson distribution used for?",
+    "answer": "Modeling count of events in fixed interval."
+}

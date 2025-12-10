@@ -1,0 +1,4 @@
+{
+    "question": "What is biometric authentication in wearables?",
+    "answer": "Using fingerprints or heart patterns."
+}

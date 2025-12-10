@@ -1,0 +1,4 @@
+{
+    "question": "What is the symbol for biconditional?",
+    "answer": "\u2194 or \u2261."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a graph isomorphism.",
+    "answer": "One-to-one correspondence preserving edges."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is substitution in logic?",
+    "answer": "Replacing variable occurrences with terms."
+}

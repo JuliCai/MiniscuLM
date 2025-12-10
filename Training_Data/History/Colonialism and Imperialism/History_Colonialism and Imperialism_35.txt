@@ -1,0 +1,4 @@
+{
+    "question": "What did the Monroe Doctrine declare?",
+    "answer": "Opposition to European colonization in Americas."
+}

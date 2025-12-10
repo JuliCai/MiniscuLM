@@ -1,0 +1,4 @@
+{
+    "question": "What is a VR headset strap?",
+    "answer": "Band securing headset on head."
+}

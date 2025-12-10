@@ -1,0 +1,4 @@
+{
+    "question": "What is a silent film adaptation?",
+    "answer": "A non-verbal film based on literature."
+}

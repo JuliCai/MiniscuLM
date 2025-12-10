@@ -1,0 +1,4 @@
+{
+    "question": "What was the main idea of the Lollards?",
+    "answer": "Bible in the vernacular."
+}

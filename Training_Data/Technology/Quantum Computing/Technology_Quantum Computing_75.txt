@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of quantum dots?",
+    "answer": "Used as qubits in some quantum computing approaches."
+}

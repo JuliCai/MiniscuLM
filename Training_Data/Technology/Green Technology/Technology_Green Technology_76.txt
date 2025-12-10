@@ -1,0 +1,4 @@
+{
+    "question": "How can green technology reduce electricity bills?",
+    "answer": "By improving energy efficiency."
+}

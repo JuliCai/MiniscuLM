@@ -1,0 +1,4 @@
+{
+    "question": "What is the relationship between expectation and linearity?",
+    "answer": "E[aX + bY] = aE[X] + bE[Y]"
+}

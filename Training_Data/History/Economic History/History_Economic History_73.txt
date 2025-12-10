@@ -1,0 +1,4 @@
+{
+    "question": "What caused the 1994 Mexican Peso Crisis?",
+    "answer": "Sudden devaluation of the peso."
+}

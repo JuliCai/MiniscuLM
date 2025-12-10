@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural identity.",
+    "answer": "Sense of belonging to culture."
+}

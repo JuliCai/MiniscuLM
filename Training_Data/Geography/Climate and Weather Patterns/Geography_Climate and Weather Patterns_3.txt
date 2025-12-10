@@ -1,0 +1,4 @@
+{
+    "question": "Which gas is most responsible for global warming?",
+    "answer": "Carbon dioxide (CO2)."
+}

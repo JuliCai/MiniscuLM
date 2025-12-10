@@ -1,0 +1,4 @@
+{
+    "question": "What is carrying capacity affected by?",
+    "answer": "Resource availability."
+}

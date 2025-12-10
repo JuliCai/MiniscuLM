@@ -1,0 +1,4 @@
+{
+    "question": "What is a diaspora?",
+    "answer": "Scattered population from original homeland."
+}

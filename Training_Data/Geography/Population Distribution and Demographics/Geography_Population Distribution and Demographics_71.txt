@@ -1,0 +1,4 @@
+{
+    "question": "What is population momentum effect?",
+    "answer": "Population grows despite falling birth rates."
+}

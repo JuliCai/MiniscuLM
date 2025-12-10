@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G affect data security?",
+    "answer": "Enhanced encryption and protocols."
+}

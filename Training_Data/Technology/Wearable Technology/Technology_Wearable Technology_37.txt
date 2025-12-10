@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables sync with health apps?",
+    "answer": "Yes, for data tracking and analysis."
+}

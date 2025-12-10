@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of rolling a prime number on a die?",
+    "answer": "3/6 or 1/2"
+}

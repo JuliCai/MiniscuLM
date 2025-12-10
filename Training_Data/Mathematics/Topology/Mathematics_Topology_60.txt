@@ -1,0 +1,4 @@
+{
+    "question": "Define orientable manifold.",
+    "answer": "Manifold with consistent choice of orientation."
+}

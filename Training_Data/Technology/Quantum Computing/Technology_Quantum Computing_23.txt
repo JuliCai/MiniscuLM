@@ -1,0 +1,4 @@
+{
+    "question": "What is a measurement in quantum computing?",
+    "answer": "Collapses qubit state to classical bit outcome."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is scalability trilemma?",
+    "answer": "Trade-off between security, decentralization, scalability."
+}

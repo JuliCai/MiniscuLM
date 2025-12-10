@@ -1,0 +1,4 @@
+{
+    "question": "What is wearable technology?",
+    "answer": "Devices worn on the body that have smart functions."
+}

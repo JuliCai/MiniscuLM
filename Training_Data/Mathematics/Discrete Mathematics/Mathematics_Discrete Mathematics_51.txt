@@ -1,0 +1,4 @@
+{
+    "question": "Define reflexive relation.",
+    "answer": "Every element related to itself."
+}

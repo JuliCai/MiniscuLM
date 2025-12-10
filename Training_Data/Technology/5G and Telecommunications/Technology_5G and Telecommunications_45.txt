@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between NSA and SA 5G?",
+    "answer": "NSA uses 4G core; SA uses 5G core."
+}

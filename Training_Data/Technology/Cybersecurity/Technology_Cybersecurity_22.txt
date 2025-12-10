@@ -1,0 +1,4 @@
+{
+    "question": "What does HTTPS signify?",
+    "answer": "Secure communication over the internet."
+}

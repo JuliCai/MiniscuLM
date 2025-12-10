@@ -1,0 +1,4 @@
+{
+    "question": "What is stagflation?",
+    "answer": "Inflation combined with economic stagnation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define Stone space.",
+    "answer": "Compact, totally disconnected Hausdorff space."
+}

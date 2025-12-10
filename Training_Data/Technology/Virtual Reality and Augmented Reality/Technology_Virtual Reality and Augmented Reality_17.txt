@@ -1,0 +1,4 @@
+{
+    "question": "What is inside a VR headset?",
+    "answer": "Screens and motion sensors."
+}

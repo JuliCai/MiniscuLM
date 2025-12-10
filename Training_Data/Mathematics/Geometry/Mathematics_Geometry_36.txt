@@ -1,0 +1,4 @@
+{
+    "question": "What is a parallelogram?",
+    "answer": "Quadrilateral with opposite sides parallel."
+}

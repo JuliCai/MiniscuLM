@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018visual adaptation\u2019?",
+    "answer": "Adapting literature into visual form."
+}

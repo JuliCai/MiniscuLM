@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables help with navigation?",
+    "answer": "Yes, via GPS and maps."
+}

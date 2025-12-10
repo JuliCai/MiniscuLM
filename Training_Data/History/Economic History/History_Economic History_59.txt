@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Asian Financial Crisis of 1997?",
+    "answer": "Currency devaluations and debt defaults."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name an African country colonized by Portugal.",
+    "answer": "Angola."
+}

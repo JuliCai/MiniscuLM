@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate sqrt(x).",
+    "answer": "1/(2\u221ax)"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS project file?",
+    "answer": "File storing map and data setup."
+}

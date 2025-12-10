@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between mutually exclusive and independent.",
+    "answer": "Mutually exclusive cannot occur together; independent can."
+}

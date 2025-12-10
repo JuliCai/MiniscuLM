@@ -1,0 +1,4 @@
+{
+    "question": "What is the law of large numbers?",
+    "answer": "Sample average converges to expected value."
+}

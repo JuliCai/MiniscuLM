@@ -1,0 +1,4 @@
+{
+    "question": "What is the AI winter?",
+    "answer": "A period of reduced AI research funding."
+}

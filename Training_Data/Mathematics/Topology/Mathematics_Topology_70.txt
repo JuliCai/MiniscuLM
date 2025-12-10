@@ -1,0 +1,4 @@
+{
+    "question": "Define nowhere dense set.",
+    "answer": "Closure has empty interior."
+}

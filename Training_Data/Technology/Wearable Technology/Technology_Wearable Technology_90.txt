@@ -1,0 +1,4 @@
+{
+    "question": "What is edge computing in wearables?",
+    "answer": "Processing data locally on the device."
+}

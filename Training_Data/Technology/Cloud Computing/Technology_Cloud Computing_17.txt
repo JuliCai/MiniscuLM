@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud API?",
+    "answer": "Interface for interacting with cloud services."
+}

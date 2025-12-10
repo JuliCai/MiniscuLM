@@ -1,0 +1,4 @@
+{
+    "question": "Define 'stream of consciousness.'",
+    "answer": "Narration of thoughts flow."
+}

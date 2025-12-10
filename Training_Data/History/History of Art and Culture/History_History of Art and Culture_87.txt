@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous 20th-century sculptor.",
+    "answer": "Auguste Rodin."
+}

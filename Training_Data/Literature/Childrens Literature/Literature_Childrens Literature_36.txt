@@ -1,0 +1,4 @@
+{
+    "question": "What is the genre of 'Percy Jackson' series?",
+    "answer": "Fantasy"
+}

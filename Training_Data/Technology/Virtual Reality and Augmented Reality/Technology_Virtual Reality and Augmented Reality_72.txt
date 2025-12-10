@@ -1,0 +1,4 @@
+{
+    "question": "Can VR be used for remote work?",
+    "answer": "Yes, virtual meetings."
+}

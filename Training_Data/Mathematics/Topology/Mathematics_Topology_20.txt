@@ -1,0 +1,4 @@
+{
+    "question": "Define normal space.",
+    "answer": "Disjoint closed sets have disjoint neighborhoods."
+}

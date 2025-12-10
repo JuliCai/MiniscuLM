@@ -1,0 +1,4 @@
+{
+    "question": "Define Alexandrov topology.",
+    "answer": "Topology closed under arbitrary intersections."
+}

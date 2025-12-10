@@ -1,0 +1,4 @@
+{
+    "question": "Name a factor influencing fertility rates.",
+    "answer": "Education level."
+}

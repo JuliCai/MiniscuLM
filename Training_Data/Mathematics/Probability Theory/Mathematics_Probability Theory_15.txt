@@ -1,0 +1,4 @@
+{
+    "question": "What is a discrete probability distribution?",
+    "answer": "Distribution with countable outcomes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an AI agent?",
+    "answer": "An entity that perceives and acts."
+}

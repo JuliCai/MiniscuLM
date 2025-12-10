@@ -1,0 +1,4 @@
+{
+    "question": "Who was a prominent leader in the Cuban Revolution?",
+    "answer": "Fidel Castro."
+}

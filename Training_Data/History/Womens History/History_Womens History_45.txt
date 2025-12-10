@@ -1,0 +1,4 @@
+{
+    "question": "Name the female author of 'The Diary of a Young Girl.'",
+    "answer": "Anne Frank"
+}

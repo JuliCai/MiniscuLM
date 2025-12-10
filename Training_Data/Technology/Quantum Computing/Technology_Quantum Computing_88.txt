@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum Fourier transform used for?",
+    "answer": "Transforms quantum state for algorithms like Shor's."
+}

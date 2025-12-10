@@ -1,0 +1,4 @@
+{
+    "question": "What is a simile?",
+    "answer": "A comparison using 'like' or 'as'."
+}

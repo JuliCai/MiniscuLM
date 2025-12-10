@@ -1,0 +1,4 @@
+{
+    "question": "Who was Gustav Klimt?",
+    "answer": "Austrian symbolist painter."
+}

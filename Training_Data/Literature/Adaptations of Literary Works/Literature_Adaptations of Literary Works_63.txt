@@ -1,0 +1,4 @@
+{
+    "question": "What is a book-to-stage adaptation?",
+    "answer": "A literary work made into a play."
+}

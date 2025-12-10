@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate zone?",
+    "answer": "Area with distinct climate characteristics."
+}

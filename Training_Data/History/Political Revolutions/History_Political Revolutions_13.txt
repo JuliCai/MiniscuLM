@@ -1,0 +1,4 @@
+{
+    "question": "Name the leader of the Indian independence movement.",
+    "answer": "Mahatma Gandhi."
+}

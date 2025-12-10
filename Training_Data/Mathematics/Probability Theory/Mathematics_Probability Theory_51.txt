@@ -1,0 +1,4 @@
+{
+    "question": "What does mutually exclusive mean for events A and B?",
+    "answer": "P(A \u2229 B) = 0"
+}

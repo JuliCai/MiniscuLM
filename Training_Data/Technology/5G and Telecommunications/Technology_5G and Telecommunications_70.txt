@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a 5G base station?",
+    "answer": "Connects users to the network."
+}

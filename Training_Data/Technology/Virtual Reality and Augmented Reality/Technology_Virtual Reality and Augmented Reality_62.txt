@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of depth sensors in AR?",
+    "answer": "To measure distances in environment."
+}

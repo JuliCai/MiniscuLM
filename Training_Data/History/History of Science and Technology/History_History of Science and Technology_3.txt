@@ -1,0 +1,4 @@
+{
+    "question": "Who developed the theory of relativity?",
+    "answer": "Albert Einstein."
+}

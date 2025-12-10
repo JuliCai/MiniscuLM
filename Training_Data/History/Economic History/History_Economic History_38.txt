@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic impact of the Trans-Saharan trade?",
+    "answer": "Connected West Africa to Mediterranean markets."
+}

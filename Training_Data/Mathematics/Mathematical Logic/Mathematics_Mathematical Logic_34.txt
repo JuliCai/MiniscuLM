@@ -1,0 +1,4 @@
+{
+    "question": "Define conjunctive normal form (CNF).",
+    "answer": "Conjunction of disjunctions of literals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Artificial Intelligence?",
+    "answer": "Simulation of human intelligence by machines."
+}

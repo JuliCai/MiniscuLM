@@ -1,0 +1,4 @@
+{
+    "question": "Why is 5G important for industry 4.0?",
+    "answer": "Supports automation and IoT devices."
+}

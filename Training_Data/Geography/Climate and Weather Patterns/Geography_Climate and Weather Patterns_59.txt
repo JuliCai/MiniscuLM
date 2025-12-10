@@ -1,0 +1,4 @@
+{
+    "question": "What is a savanna climate?",
+    "answer": "Grassland with wet and dry seasons."
+}

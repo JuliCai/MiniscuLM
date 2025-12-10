@@ -1,0 +1,4 @@
+{
+    "question": "Define a uniform distribution.",
+    "answer": "All outcomes equally likely."
+}

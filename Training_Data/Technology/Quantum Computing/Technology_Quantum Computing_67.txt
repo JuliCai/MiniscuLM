@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum cryptography?",
+    "answer": "Cryptography leveraging quantum mechanics for security."
+}

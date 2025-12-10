@@ -1,0 +1,4 @@
+{
+    "question": "What role does beamforming play?",
+    "answer": "Directs signals to users efficiently."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the first metal used by humans?",
+    "answer": "Copper."
+}

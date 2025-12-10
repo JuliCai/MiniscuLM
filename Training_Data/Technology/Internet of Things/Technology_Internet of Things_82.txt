@@ -1,0 +1,4 @@
+{
+    "question": "What is a challenge in IoT battery life?",
+    "answer": "Limited power for devices."
+}

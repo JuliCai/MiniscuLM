@@ -1,0 +1,4 @@
+{
+    "question": "What role do actors play in adaptations?",
+    "answer": "Bring characters to life visually."
+}

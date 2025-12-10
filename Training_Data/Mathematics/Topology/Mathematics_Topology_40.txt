@@ -1,0 +1,4 @@
+{
+    "question": "Define path connectedness vs connectedness.",
+    "answer": "Path connected implies connected, converse not always."
+}

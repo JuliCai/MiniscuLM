@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS support agriculture?",
+    "answer": "Monitoring soil and crop health."
+}

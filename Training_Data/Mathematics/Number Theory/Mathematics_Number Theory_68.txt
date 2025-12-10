@@ -1,0 +1,4 @@
+{
+    "question": "What is the smallest composite number?",
+    "answer": "4"
+}

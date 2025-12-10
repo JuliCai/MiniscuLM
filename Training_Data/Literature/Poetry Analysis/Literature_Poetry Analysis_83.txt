@@ -1,0 +1,4 @@
+{
+    "question": "Explain imagery.",
+    "answer": "Descriptive language that evokes senses."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How might historical context influence narrative perspective?",
+    "answer": "Determines whose viewpoint is chosen."
+}

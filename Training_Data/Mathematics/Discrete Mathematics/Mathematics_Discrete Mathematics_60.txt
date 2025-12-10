@@ -1,0 +1,4 @@
+{
+    "question": "What is a well-ordering?",
+    "answer": "Every nonempty subset has least element."
+}

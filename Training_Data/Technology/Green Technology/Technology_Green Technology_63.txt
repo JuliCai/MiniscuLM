@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of green tech in farming?",
+    "answer": "Minimizing chemical use."
+}

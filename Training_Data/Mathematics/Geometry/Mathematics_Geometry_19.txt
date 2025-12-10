@@ -1,0 +1,4 @@
+{
+    "question": "Define a polygon.",
+    "answer": "A closed figure with straight sides."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a second-countable space?",
+    "answer": "Topology has a countable base."
+}

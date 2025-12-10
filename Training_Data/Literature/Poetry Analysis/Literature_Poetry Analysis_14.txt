@@ -1,0 +1,4 @@
+{
+    "question": "Identify the speaker in a poem.",
+    "answer": "The voice narrating the poem."
+}

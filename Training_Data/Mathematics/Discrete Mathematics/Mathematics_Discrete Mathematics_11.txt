@@ -1,0 +1,4 @@
+{
+    "question": "Define an equivalence relation.",
+    "answer": "Relation that is reflexive, symmetric, transitive."
+}

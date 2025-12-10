@@ -1,0 +1,4 @@
+{
+    "question": "What is a validator set?",
+    "answer": "Group authorized to validate blocks."
+}

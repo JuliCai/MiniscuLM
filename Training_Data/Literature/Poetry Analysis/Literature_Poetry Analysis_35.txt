@@ -1,0 +1,4 @@
+{
+    "question": "Explain caesura's effect.",
+    "answer": "Creates rhythm breaks or emphasis."
+}

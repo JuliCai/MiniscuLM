@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'Wide Sargasso Sea'?",
+    "answer": "Jean Rhys"
+}

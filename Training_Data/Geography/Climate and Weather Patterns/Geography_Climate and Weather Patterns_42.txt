@@ -1,0 +1,4 @@
+{
+    "question": "What is the main factor in climate classification?",
+    "answer": "Temperature and precipitation patterns."
+}

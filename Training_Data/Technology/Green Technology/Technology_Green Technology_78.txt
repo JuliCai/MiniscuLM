@@ -1,0 +1,4 @@
+{
+    "question": "What is greenwashing?",
+    "answer": "False eco-friendly claims by companies."
+}

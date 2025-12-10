@@ -1,0 +1,4 @@
+{
+    "question": "Define subset.",
+    "answer": "Set all elements contained in another."
+}

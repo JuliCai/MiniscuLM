@@ -1,0 +1,4 @@
+{
+    "question": "Define machine learning.",
+    "answer": "AI that learns from data without explicit programming."
+}

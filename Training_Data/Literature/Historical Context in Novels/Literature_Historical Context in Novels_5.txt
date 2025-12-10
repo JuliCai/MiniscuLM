@@ -1,0 +1,4 @@
+{
+    "question": "How can authors research historical context?",
+    "answer": "Using archives, documents, and expert consultations."
+}

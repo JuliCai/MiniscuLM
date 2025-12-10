@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female African American Supreme Court Justice?",
+    "answer": "Ketanji Brown Jackson"
+}

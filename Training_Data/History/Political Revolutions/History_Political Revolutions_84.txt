@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of the English Civil War?",
+    "answer": "Power struggle between king and parliament."
+}

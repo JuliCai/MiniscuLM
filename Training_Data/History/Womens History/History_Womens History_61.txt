@@ -1,0 +1,4 @@
+{
+    "question": "Name the first female Nobel Peace Prize laureate from Africa.",
+    "answer": "Wangari Maathai"
+}

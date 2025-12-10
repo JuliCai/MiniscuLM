@@ -1,0 +1,4 @@
+{
+    "question": "Why recycle materials in green tech?",
+    "answer": "To reduce waste and save resources."
+}

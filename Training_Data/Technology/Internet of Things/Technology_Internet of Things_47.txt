@@ -1,0 +1,4 @@
+{
+    "question": "What is fog computing in IoT?",
+    "answer": "Processing data between cloud and devices."
+}

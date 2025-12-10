@@ -1,0 +1,4 @@
+{
+    "question": "Who was the last Empress of India?",
+    "answer": "Queen Victoria."
+}

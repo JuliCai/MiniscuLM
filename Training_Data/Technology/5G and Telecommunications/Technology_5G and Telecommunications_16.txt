@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G work indoors?",
+    "answer": "Yes, but mmWave has limited penetration."
+}

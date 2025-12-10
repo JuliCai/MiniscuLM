@@ -1,0 +1,4 @@
+{
+    "question": "Which woman wrote 'A Vindication of the Rights of Woman'?",
+    "answer": "Mary Wollstonecraft"
+}

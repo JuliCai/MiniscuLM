@@ -1,0 +1,4 @@
+{
+    "question": "Name a consequence of the Atlantic slave trade.",
+    "answer": "Population loss in Africa."
+}

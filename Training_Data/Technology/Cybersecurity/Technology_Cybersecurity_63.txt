@@ -1,0 +1,4 @@
+{
+    "question": "What is a kill switch in cybersecurity?",
+    "answer": "Tool to disable compromised systems."
+}

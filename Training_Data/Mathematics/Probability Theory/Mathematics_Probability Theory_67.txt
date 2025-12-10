@@ -1,0 +1,4 @@
+{
+    "question": "What is the expected value of a geometric distribution?",
+    "answer": "1/p"
+}

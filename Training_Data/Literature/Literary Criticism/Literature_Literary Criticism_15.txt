@@ -1,0 +1,4 @@
+{
+    "question": "What is the canon in literature?",
+    "answer": "Accepted classic works."
+}

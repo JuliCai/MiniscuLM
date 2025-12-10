@@ -1,0 +1,4 @@
+{
+    "question": "What is a dataset?",
+    "answer": "A collection of data for training AI."
+}

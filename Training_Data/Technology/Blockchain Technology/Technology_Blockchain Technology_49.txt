@@ -1,0 +1,4 @@
+{
+    "question": "What is a ledger state?",
+    "answer": "Current status of blockchain data."
+}

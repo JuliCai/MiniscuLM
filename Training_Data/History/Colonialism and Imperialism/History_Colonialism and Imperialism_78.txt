@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Sepoy Mutiny?",
+    "answer": "Start of direct British rule in India."
+}

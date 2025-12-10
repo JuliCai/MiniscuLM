@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables help in rehabilitation?",
+    "answer": "Yes, by monitoring movements."
+}

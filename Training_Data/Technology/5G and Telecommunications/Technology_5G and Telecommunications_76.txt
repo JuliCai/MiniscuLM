@@ -1,0 +1,4 @@
+{
+    "question": "What is the latency target for 5G?",
+    "answer": "1 ms."
+}

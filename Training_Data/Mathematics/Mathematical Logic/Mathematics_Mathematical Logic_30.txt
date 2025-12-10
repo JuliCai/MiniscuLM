@@ -1,0 +1,4 @@
+{
+    "question": "What is a decidable logic?",
+    "answer": "Logic with algorithm to decide truth."
+}

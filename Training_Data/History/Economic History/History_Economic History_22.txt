@@ -1,0 +1,4 @@
+{
+    "question": "What is the Marshall Plan?",
+    "answer": "US aid to rebuild Europe post-WWII."
+}

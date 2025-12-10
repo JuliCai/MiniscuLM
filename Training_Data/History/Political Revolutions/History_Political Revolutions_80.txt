@@ -1,0 +1,4 @@
+{
+    "question": "Who was the main opponent of the Bolsheviks?",
+    "answer": "The White Army."
+}

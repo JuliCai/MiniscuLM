@@ -1,0 +1,4 @@
+{
+    "question": "What is conditional probability?",
+    "answer": "Probability of event given another event occurred."
+}

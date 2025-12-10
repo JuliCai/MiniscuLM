@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic effect of the Crusades?",
+    "answer": "Increased trade between Europe and Middle East."
+}

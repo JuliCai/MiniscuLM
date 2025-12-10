@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Bretton Woods system collapse?",
+    "answer": "Ended fixed exchange rates in 1971."
+}

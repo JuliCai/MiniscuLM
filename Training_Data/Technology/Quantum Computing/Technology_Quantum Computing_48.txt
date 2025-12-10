@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum state vector?",
+    "answer": "Mathematical representation of a qubit's state."
+}

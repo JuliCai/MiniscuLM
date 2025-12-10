@@ -1,0 +1,4 @@
+{
+    "question": "What is a refugee?",
+    "answer": "Person fleeing danger abroad."
+}

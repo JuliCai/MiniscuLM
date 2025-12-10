@@ -1,0 +1,4 @@
+{
+    "question": "Define world city.",
+    "answer": "Major city with global influence."
+}

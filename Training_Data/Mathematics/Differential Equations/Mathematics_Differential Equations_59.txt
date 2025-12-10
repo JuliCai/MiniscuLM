@@ -1,0 +1,4 @@
+{
+    "question": "What is the solution method for exact equations?",
+    "answer": "Find potential function \u03c8(x,y)."
+}

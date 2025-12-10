@@ -1,0 +1,4 @@
+{
+    "question": "Explain central tendency.",
+    "answer": "Typical or average value."
+}

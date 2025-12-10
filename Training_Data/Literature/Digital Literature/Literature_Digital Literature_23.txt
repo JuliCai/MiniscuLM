@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital anthology?",
+    "answer": "A collection of digital literary works."
+}

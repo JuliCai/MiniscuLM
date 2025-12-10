@@ -1,0 +1,4 @@
+{
+    "question": "Can historical context reveal author\u2019s viewpoint?",
+    "answer": "Yes, it often reflects attitudes or critiques."
+}

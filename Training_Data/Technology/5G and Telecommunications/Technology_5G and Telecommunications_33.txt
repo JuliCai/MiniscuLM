@@ -1,0 +1,4 @@
+{
+    "question": "What is the main difference between 4G and 5G?",
+    "answer": "Speed, latency, and capacity improvements."
+}

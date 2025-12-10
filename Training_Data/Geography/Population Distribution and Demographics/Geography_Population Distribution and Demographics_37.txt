@@ -1,0 +1,4 @@
+{
+    "question": "Which area is most densely populated?",
+    "answer": "Urban centers."
+}

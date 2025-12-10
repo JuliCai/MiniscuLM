@@ -1,0 +1,4 @@
+{
+    "question": "What is Symbolism in literature?",
+    "answer": "Using symbols to represent ideas."
+}

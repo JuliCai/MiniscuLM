@@ -1,0 +1,4 @@
+{
+    "question": "How do adaptations differ by culture?",
+    "answer": "They reflect cultural values and norms."
+}

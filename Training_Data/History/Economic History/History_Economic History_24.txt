@@ -1,0 +1,4 @@
+{
+    "question": "What was the main trade good in the Atlantic Slave Trade?",
+    "answer": "Enslaved Africans."
+}

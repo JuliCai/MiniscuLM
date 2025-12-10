@@ -1,0 +1,4 @@
+{
+    "question": "Can a novel's historical context be fictional?",
+    "answer": "Yes, alternate histories create fictional contexts."
+}

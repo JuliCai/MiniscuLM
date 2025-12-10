@@ -1,0 +1,4 @@
+{
+    "question": "Explain quantum phase estimation.",
+    "answer": "Algorithm estimating eigenvalues of unitary operators."
+}

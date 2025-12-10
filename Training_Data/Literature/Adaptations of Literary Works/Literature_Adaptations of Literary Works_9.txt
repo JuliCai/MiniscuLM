@@ -1,0 +1,4 @@
+{
+    "question": "What is a stage adaptation?",
+    "answer": "A literary work performed as a play."
+}

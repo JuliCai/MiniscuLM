@@ -1,0 +1,4 @@
+{
+    "question": "What is AI-powered image recognition?",
+    "answer": "Identifying objects in images."
+}

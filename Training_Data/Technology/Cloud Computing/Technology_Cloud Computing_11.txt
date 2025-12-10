@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud region?",
+    "answer": "A geographic area with data centers."
+}

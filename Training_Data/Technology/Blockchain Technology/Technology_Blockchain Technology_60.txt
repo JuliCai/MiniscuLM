@@ -1,0 +1,4 @@
+{
+    "question": "What is staking?",
+    "answer": "Locking tokens to support network."
+}

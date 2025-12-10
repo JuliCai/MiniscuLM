@@ -1,0 +1,4 @@
+{
+    "question": "What is a reinterpretation adaptation?",
+    "answer": "A new perspective on original story."
+}

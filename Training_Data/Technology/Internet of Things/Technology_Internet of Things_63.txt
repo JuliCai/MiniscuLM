@@ -1,0 +1,4 @@
+{
+    "question": "What is a common IoT data format?",
+    "answer": "JSON."
+}

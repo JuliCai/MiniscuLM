@@ -1,0 +1,4 @@
+{
+    "question": "Who is Haile Selassie?",
+    "answer": "Emperor of Ethiopia, Rastafarian figure."
+}

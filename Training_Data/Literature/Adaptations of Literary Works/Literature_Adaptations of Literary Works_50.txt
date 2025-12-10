@@ -1,0 +1,4 @@
+{
+    "question": "What is a narrative adaptation?",
+    "answer": "Changing the story structure in adaptation."
+}

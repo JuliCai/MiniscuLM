@@ -1,0 +1,4 @@
+{
+    "question": "Name a challenge of digital literature.",
+    "answer": "Digital preservation and platform obsolescence."
+}

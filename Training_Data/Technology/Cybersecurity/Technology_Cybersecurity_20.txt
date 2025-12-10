@@ -1,0 +1,4 @@
+{
+    "question": "Define cybersecurity.",
+    "answer": "Protecting systems from cyber threats."
+}

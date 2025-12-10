@@ -1,0 +1,4 @@
+{
+    "question": "Name a genre with dystopian societies.",
+    "answer": "Dystopian fiction."
+}

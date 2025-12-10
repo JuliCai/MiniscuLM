@@ -1,0 +1,4 @@
+{
+    "question": "Can historical context influence a novel's tone?",
+    "answer": "Yes, period mood affects tone."
+}

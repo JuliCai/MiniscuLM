@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female Speaker of the UK House of Commons?",
+    "answer": "Betty Boothroyd"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Why use thematic maps?",
+    "answer": "Highlight specific data themes."
+}

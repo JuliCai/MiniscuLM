@@ -1,0 +1,4 @@
+{
+    "question": "What is the main use of VR headsets?",
+    "answer": "Immersive virtual reality experiences."
+}

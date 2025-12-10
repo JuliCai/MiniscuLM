@@ -1,0 +1,4 @@
+{
+    "question": "What is AR occlusion?",
+    "answer": "Hiding virtual objects behind real ones."
+}

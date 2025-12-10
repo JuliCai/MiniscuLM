@@ -1,0 +1,4 @@
+{
+    "question": "What is a favela?",
+    "answer": "Informal settlement in Brazil."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define urban primacy.",
+    "answer": "One city dominates national urban system."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a polar climate?",
+    "answer": "Extremely cold with ice-covered areas."
+}

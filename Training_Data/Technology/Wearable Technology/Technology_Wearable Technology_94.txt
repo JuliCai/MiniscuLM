@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart fabric?",
+    "answer": "Textiles integrated with electronic components."
+}

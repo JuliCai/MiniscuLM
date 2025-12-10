@@ -1,0 +1,4 @@
+{
+    "question": "What is a mempool?",
+    "answer": "Pending transactions pool before confirmation."
+}

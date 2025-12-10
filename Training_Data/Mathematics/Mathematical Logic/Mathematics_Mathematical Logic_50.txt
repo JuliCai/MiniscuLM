@@ -1,0 +1,4 @@
+{
+    "question": "What is a biconditional?",
+    "answer": "P if and only if Q."
+}

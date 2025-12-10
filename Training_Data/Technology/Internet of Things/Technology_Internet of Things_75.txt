@@ -1,0 +1,4 @@
+{
+    "question": "What is a challenge in IoT device management?",
+    "answer": "Handling device diversity."
+}

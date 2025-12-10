@@ -1,0 +1,4 @@
+{
+    "question": "When was the silicon transistor invented?",
+    "answer": "1947."
+}

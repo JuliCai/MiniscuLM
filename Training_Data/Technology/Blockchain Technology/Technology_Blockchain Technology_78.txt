@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain used for?",
+    "answer": "Improving scalability and functionality."
+}

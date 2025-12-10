@@ -1,0 +1,4 @@
+{
+    "question": "What is a chromatic number?",
+    "answer": "Minimum colors to color a graph properly."
+}

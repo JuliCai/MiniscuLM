@@ -1,0 +1,4 @@
+{
+    "question": "What is a cultural region?",
+    "answer": "Area with common cultural traits."
+}

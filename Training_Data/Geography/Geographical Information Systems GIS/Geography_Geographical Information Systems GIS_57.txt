@@ -1,0 +1,4 @@
+{
+    "question": "What is a feature class?",
+    "answer": "Collection of similar spatial features."
+}

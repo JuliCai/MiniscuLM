@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context influence symbolism?",
+    "answer": "Symbols often relate to era's culture."
+}

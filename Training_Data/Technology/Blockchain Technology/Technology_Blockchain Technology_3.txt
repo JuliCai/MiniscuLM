@@ -1,0 +1,4 @@
+{
+    "question": "Define a blockchain node.",
+    "answer": "A computer participating in the blockchain network."
+}

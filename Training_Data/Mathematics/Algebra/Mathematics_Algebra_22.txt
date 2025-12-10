@@ -1,0 +1,4 @@
+{
+    "question": "Simplify: x^0",
+    "answer": "1"
+}

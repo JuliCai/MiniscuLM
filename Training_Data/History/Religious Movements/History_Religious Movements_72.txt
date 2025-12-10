@@ -1,0 +1,4 @@
+{
+    "question": "What was the main teaching of the Lollards?",
+    "answer": "Bible in English."
+}

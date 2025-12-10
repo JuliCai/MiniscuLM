@@ -1,0 +1,4 @@
+{
+    "question": "What is geospatial data?",
+    "answer": "Data with geographic location information."
+}

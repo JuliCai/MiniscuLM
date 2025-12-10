@@ -1,0 +1,4 @@
+{
+    "question": "What does 5G stand for?",
+    "answer": "Fifth generation mobile network."
+}

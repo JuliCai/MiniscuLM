@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution resulted in the fall of the Berlin Wall?",
+    "answer": "1989 Eastern European Revolutions."
+}

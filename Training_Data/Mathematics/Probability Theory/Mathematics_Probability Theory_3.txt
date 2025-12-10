@@ -1,0 +1,4 @@
+{
+    "question": "What does independent events mean?",
+    "answer": "Events where one does not affect the other."
+}

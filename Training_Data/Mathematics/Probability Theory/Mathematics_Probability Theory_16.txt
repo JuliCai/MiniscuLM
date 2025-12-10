@@ -1,0 +1,4 @@
+{
+    "question": "Define a continuous probability distribution.",
+    "answer": "Distribution over continuous outcomes."
+}

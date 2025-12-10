@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart patch?",
+    "answer": "A wearable patch monitoring health data."
+}

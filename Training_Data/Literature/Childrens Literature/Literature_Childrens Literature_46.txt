@@ -1,0 +1,4 @@
+{
+    "question": "What kind of animal is 'Curious George'?",
+    "answer": "Monkey"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum circuit depth?",
+    "answer": "Number of sequential quantum gate layers applied."
+}

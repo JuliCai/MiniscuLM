@@ -1,0 +1,4 @@
+{
+    "question": "What is normal form conversion?",
+    "answer": "Transforming formula to CNF or DNF."
+}

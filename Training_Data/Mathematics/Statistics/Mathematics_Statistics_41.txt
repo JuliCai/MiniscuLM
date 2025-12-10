@@ -1,0 +1,4 @@
+{
+    "question": "What is a scatter diagram?",
+    "answer": "Plot showing variable relationships."
+}

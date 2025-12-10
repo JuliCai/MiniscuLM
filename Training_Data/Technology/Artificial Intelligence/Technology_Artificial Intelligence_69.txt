@@ -1,0 +1,4 @@
+{
+    "question": "What is a chatbot's NLP component?",
+    "answer": "Processing user language input."
+}

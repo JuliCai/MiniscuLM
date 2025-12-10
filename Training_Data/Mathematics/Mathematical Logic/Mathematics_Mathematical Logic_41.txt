@@ -1,0 +1,4 @@
+{
+    "question": "What is a compound proposition?",
+    "answer": "Proposition with logical connectives."
+}

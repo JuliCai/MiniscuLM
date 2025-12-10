@@ -1,0 +1,4 @@
+{
+    "question": "Define an equilateral triangle.",
+    "answer": "Triangle with all equal sides."
+}

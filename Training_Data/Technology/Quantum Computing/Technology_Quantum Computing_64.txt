@@ -1,0 +1,4 @@
+{
+    "question": "What is a universal quantum computer?",
+    "answer": "Can simulate any quantum algorithm or computation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a recurrence relation.",
+    "answer": "Equation defining sequence terms."
+}

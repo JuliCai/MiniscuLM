@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of fantasy.",
+    "answer": "Stories with magical elements."
+}

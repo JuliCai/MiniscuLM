@@ -1,0 +1,4 @@
+{
+    "question": "Solve y'' - 4y' + 4y = 0.",
+    "answer": "y = (C1 + C2 x) e^{2x}."
+}

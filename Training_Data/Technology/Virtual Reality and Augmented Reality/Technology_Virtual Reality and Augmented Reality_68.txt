@@ -1,0 +1,4 @@
+{
+    "question": "Is VR content interactive?",
+    "answer": "Often yes, for engagement."
+}

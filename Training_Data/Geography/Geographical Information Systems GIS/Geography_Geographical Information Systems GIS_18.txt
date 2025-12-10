@@ -1,0 +1,4 @@
+{
+    "question": "What is geocoding?",
+    "answer": "Converting addresses to coordinates."
+}

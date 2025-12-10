@@ -1,0 +1,4 @@
+{
+    "question": "What role did tobacco play in early American colonies?",
+    "answer": "Primary cash crop and export."
+}

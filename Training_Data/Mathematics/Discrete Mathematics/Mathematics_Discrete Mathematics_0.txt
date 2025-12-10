@@ -1,0 +1,4 @@
+{
+    "question": "What is a graph in discrete math?",
+    "answer": "A set of vertices and edges."
+}

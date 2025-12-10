@@ -1,0 +1,4 @@
+{
+    "question": "Who was \u00c9douard Manet?",
+    "answer": "Impressionist painter."
+}

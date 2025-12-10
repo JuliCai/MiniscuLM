@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud-native database?",
+    "answer": "Database designed for cloud scalability and resilience."
+}

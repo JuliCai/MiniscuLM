@@ -1,0 +1,4 @@
+{
+    "question": "What is a tangent line property?",
+    "answer": "Tangent is perpendicular to radius at point."
+}

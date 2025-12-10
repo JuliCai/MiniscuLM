@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Golden Notebook'?",
+    "answer": "Doris Lessing"
+}

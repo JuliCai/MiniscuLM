@@ -1,0 +1,4 @@
+{
+    "question": "What is a system of differential equations?",
+    "answer": "Multiple equations with multiple unknown functions."
+}

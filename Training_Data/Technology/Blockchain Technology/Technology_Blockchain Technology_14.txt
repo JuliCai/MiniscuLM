@@ -1,0 +1,4 @@
+{
+    "question": "Explain a hash function's role.",
+    "answer": "Creates unique data fingerprints."
+}

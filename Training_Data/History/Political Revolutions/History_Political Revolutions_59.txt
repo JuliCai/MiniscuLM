@@ -1,0 +1,4 @@
+{
+    "question": "What did the Paris Commune represent?",
+    "answer": "Radical socialist government."
+}

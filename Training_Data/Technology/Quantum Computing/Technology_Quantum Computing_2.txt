@@ -1,0 +1,4 @@
+{
+    "question": "How does superposition help quantum computing?",
+    "answer": "Allows qubits to be in multiple states simultaneously."
+}

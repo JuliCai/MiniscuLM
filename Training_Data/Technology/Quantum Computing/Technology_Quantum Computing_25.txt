@@ -1,0 +1,4 @@
+{
+    "question": "What is a Noisy Intermediate-Scale Quantum (NISQ) device?",
+    "answer": "Current quantum devices with limited qubits and noise."
+}

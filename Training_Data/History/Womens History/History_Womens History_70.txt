@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female Chancellor of Austria?",
+    "answer": "Brigitte Bierlein"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the concept of 'defamiliarization'?",
+    "answer": "Making familiar things strange."
+}

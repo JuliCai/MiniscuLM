@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of deforestation on green tech?",
+    "answer": "Reduces carbon absorption capacity."
+}

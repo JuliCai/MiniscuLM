@@ -1,0 +1,4 @@
+{
+    "question": "What is a key feature of Surrealism?",
+    "answer": "Dream-like, illogical imagery."
+}

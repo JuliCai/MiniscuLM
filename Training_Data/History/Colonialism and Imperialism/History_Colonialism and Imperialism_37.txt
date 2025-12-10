@@ -1,0 +1,4 @@
+{
+    "question": "What is decolonization?",
+    "answer": "Process of gaining independence from colonizers."
+}

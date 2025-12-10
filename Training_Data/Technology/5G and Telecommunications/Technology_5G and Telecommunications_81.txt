@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of standardization in 5G?",
+    "answer": "Ensures compatibility worldwide."
+}

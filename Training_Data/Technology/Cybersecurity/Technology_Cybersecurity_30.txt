@@ -1,0 +1,4 @@
+{
+    "question": "What is phishing email?",
+    "answer": "Fake email to steal info or spread malware."
+}

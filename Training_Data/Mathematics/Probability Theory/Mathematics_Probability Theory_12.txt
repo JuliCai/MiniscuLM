@@ -1,0 +1,4 @@
+{
+    "question": "Define independent events with formula.",
+    "answer": "P(A\u2229B) = P(A) \u00d7 P(B)"
+}

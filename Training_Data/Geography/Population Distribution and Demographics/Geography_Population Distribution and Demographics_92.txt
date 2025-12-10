@@ -1,0 +1,4 @@
+{
+    "question": "What is fertility rate below replacement?",
+    "answer": "Less than 2.1 children per woman."
+}

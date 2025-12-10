@@ -1,0 +1,4 @@
+{
+    "question": "How do historical contexts differ worldwide?",
+    "answer": "Based on unique cultural and temporal events."
+}

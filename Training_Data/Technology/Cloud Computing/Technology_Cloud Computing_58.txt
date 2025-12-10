@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud data lake?",
+    "answer": "Storage repository holding vast raw data."
+}

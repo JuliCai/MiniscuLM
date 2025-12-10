@@ -1,0 +1,4 @@
+{
+    "question": "What is a normal distribution?",
+    "answer": "Symmetric bell-shaped curve."
+}

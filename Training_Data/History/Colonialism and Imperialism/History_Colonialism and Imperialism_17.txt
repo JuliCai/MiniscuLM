@@ -1,0 +1,4 @@
+{
+    "question": "When did India gain independence?",
+    "answer": "1947."
+}

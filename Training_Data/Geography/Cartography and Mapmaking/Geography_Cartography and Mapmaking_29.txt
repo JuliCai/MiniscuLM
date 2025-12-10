@@ -1,0 +1,4 @@
+{
+    "question": "What type of map uses dots to represent data?",
+    "answer": "Dot distribution map."
+}

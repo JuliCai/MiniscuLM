@@ -1,0 +1,4 @@
+{
+    "question": "What is a recurrent neural network?",
+    "answer": "A neural network for sequential data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a security risk in IoT.",
+    "answer": "Unauthorized access to devices."
+}

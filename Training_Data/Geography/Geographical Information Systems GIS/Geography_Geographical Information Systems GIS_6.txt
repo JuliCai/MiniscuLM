@@ -1,0 +1,4 @@
+{
+    "question": "Which industries utilize GIS?",
+    "answer": "Urban planning, agriculture, and forestry."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'Caps for Sale'?",
+    "answer": "Esphyr Slobodkina"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud computing?",
+    "answer": "Delivery of computing services over the internet."
+}

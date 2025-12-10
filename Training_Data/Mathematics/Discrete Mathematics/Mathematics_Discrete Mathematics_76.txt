@@ -1,0 +1,4 @@
+{
+    "question": "Define an NP-complete problem.",
+    "answer": "Hardest problems in NP."
+}

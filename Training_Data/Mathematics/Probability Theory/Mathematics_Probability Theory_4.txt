@@ -1,0 +1,4 @@
+{
+    "question": "Calculate P(A or B) if A and B are mutually exclusive.",
+    "answer": "P(A) + P(B)"
+}

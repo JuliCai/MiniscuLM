@@ -1,0 +1,4 @@
+{
+    "question": "Name a Pacific island colonized by Europeans.",
+    "answer": "Fiji."
+}

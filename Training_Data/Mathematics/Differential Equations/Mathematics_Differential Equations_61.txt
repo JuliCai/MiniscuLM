@@ -1,0 +1,4 @@
+{
+    "question": "What is the solution to y' = y (1 - y)?",
+    "answer": "Logistic growth solution."
+}

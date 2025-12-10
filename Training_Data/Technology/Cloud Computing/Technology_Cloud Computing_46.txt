@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud data sovereignty?",
+    "answer": "Data controlled by laws of its location."
+}

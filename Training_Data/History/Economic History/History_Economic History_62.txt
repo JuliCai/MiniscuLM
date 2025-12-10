@@ -1,0 +1,4 @@
+{
+    "question": "What is the meaning of Gross Domestic Product (GDP)?",
+    "answer": "Total value of goods and services produced."
+}

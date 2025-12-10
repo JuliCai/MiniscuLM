@@ -1,0 +1,4 @@
+{
+    "question": "What is a combinatorial optimization problem?",
+    "answer": "Problem of finding best object from finite set."
+}

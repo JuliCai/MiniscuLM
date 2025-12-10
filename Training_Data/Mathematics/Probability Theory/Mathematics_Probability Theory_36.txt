@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the probability of 0 events in Poisson with \u03bb=3.",
+    "answer": "e^{-3} \u2248 0.0498"
+}

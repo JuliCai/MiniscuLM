@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital literary journal?",
+    "answer": "An online publication for literary works."
+}

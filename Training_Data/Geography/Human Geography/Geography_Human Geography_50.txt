@@ -1,0 +1,4 @@
+{
+    "question": "What is a ghetto?",
+    "answer": "Poor urban area with minority group."
+}

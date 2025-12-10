@@ -1,0 +1,4 @@
+{
+    "question": "Which African country resisted colonization successfully?",
+    "answer": "Ethiopia."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a continuous function?",
+    "answer": "Inverse image of open sets is open."
+}

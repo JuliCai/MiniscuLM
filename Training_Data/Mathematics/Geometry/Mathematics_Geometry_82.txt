@@ -1,0 +1,4 @@
+{
+    "question": "What is an altitude of a triangle?",
+    "answer": "Perpendicular from vertex to opposite side."
+}

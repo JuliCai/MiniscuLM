@@ -1,0 +1,4 @@
+{
+    "question": "What is a protectorate?",
+    "answer": "Territory controlled but not owned."
+}

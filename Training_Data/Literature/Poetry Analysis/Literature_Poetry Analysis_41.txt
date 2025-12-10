@@ -1,0 +1,4 @@
+{
+    "question": "Define connotation.",
+    "answer": "Emotional or cultural meaning of a word."
+}

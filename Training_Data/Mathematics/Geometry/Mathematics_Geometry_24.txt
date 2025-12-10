@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the volume of a cylinder.",
+    "answer": "\u03c0r\u00b2h (area of base \u00d7 height)."
+}

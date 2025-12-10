@@ -1,0 +1,4 @@
+{
+    "question": "Define 'theme' in poetry.",
+    "answer": "The central message or idea."
+}

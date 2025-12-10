@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'imagery'.",
+    "answer": "Language that appeals to senses."
+}

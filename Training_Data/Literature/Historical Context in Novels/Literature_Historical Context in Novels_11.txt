@@ -1,0 +1,4 @@
+{
+    "question": "What role does setting play in historical context?",
+    "answer": "Establishes time and cultural environment."
+}

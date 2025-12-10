@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of the Committee of Public Safety?",
+    "answer": "Governed France during Reign of Terror."
+}

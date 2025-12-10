@@ -1,0 +1,4 @@
+{
+    "question": "What is a common mistake in depicting historical context?",
+    "answer": "Anachronistic language or attitudes."
+}

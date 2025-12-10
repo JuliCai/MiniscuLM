@@ -1,0 +1,4 @@
+{
+    "question": "Name a key figure in African independence movements.",
+    "answer": "Kwame Nkrumah."
+}

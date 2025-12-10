@@ -1,0 +1,4 @@
+{
+    "question": "Explain enjambment.",
+    "answer": "Continuation of a sentence without pause beyond line."
+}

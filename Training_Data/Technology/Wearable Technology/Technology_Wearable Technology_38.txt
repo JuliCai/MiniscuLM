@@ -1,0 +1,4 @@
+{
+    "question": "What is the typical weight of a wearable device?",
+    "answer": "Usually under 100 grams."
+}

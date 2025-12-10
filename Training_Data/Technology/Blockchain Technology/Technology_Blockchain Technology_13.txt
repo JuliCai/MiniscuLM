@@ -1,0 +1,4 @@
+{
+    "question": "What does immutability mean?",
+    "answer": "Data cannot be altered once recorded."
+}

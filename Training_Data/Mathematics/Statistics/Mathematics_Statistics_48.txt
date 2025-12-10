@@ -1,0 +1,4 @@
+{
+    "question": "Explain degrees of freedom.",
+    "answer": "Number of independent values."
+}

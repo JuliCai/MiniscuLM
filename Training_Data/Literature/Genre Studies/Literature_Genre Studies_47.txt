@@ -1,0 +1,4 @@
+{
+    "question": "What genre is characterized by speculative futures?",
+    "answer": "Speculative fiction."
+}

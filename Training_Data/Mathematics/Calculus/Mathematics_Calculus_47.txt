@@ -1,0 +1,4 @@
+{
+    "question": "Integral of (2x + 3) dx?",
+    "answer": "x^2 + 3x + C"
+}

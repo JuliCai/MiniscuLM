@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect characters?",
+    "answer": "Shapes their beliefs and actions."
+}

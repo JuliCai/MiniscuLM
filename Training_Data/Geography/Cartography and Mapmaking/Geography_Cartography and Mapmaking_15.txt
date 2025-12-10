@@ -1,0 +1,4 @@
+{
+    "question": "What is a nautical chart?",
+    "answer": "Map for maritime navigation."
+}

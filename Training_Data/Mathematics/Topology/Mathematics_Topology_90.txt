@@ -1,0 +1,4 @@
+{
+    "question": "Define Cantor set.",
+    "answer": "Perfect, totally disconnected compact subset of real line."
+}

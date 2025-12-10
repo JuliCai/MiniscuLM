@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context deepen theme exploration?",
+    "answer": "By connecting themes to real history."
+}

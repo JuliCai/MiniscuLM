@@ -1,0 +1,4 @@
+{
+    "question": "What is instantiation in logic?",
+    "answer": "Replacing variable with term."
+}

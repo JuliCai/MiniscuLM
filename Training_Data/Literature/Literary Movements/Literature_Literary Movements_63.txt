@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of Romantic poetry?",
+    "answer": "Nature and imagination."
+}

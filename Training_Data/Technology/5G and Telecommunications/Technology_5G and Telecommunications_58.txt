@@ -1,0 +1,4 @@
+{
+    "question": "What does VoNR stand for?",
+    "answer": "Voice over New Radio."
+}

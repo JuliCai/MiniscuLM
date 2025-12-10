@@ -1,0 +1,4 @@
+{
+    "question": "What is AI-powered recommendation?",
+    "answer": "Suggesting items based on user data."
+}

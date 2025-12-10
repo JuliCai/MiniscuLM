@@ -1,0 +1,4 @@
+{
+    "question": "What is map symbology?",
+    "answer": "Symbols used on maps."
+}

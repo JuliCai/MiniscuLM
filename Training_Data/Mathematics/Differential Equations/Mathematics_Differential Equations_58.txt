@@ -1,0 +1,4 @@
+{
+    "question": "Solve y' = e^{x+y}.",
+    "answer": "Separate variables: dy/dx = e^x e^y."
+}

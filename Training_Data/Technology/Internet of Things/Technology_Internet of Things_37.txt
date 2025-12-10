@@ -1,0 +1,4 @@
+{
+    "question": "What is firmware over-the-air (FOTA)?",
+    "answer": "Remote updating of device software."
+}

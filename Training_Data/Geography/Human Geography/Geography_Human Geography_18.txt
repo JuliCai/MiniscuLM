@@ -1,0 +1,4 @@
+{
+    "question": "What is a population pyramid?",
+    "answer": "Graph showing age and sex distribution."
+}

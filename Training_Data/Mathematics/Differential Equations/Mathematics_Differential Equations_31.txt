@@ -1,0 +1,4 @@
+{
+    "question": "What is the Wronskian?",
+    "answer": "Determinant testing linear independence of solutions."
+}

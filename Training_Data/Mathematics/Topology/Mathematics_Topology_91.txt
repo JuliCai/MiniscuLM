@@ -1,0 +1,4 @@
+{
+    "question": "What is a Polish space?",
+    "answer": "Separable completely metrizable topological space."
+}

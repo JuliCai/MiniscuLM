@@ -1,0 +1,4 @@
+{
+    "question": "What is a linear differential equation?",
+    "answer": "Equation linear in the unknown function and derivatives."
+}

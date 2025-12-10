@@ -1,0 +1,4 @@
+{
+    "question": "Define coprime numbers.",
+    "answer": "Numbers with gcd 1."
+}

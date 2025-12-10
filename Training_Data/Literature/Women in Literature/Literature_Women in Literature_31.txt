@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'The Joy Luck Club'?",
+    "answer": "Amy Tan"
+}

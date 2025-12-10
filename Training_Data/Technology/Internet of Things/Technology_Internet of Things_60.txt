@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart lock?",
+    "answer": "IoT-enabled door lock."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What did the Shakers emphasize?",
+    "answer": "Simplicity and celibacy."
+}

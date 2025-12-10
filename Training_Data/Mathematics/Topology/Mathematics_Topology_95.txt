@@ -1,0 +1,4 @@
+{
+    "question": "What is a zero-dimensional space?",
+    "answer": "Has a base of clopen sets."
+}

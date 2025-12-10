@@ -1,0 +1,4 @@
+{
+    "question": "What is a cut rule?",
+    "answer": "Rule allowing intermediate lemmas."
+}

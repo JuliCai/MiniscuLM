@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary feature of Art Deco?",
+    "answer": "Geometric shapes and glamor."
+}

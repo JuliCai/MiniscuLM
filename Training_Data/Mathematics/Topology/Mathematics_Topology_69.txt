@@ -1,0 +1,4 @@
+{
+    "question": "What is the Baire category theorem?",
+    "answer": "Complete metric space is not a countable union of nowhere dense sets."
+}

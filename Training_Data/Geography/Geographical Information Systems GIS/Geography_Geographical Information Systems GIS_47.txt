@@ -1,0 +1,4 @@
+{
+    "question": "What is digitizing in GIS?",
+    "answer": "Converting analog maps to digital format."
+}

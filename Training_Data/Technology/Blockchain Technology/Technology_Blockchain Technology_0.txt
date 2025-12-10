@@ -1,0 +1,4 @@
+{
+    "question": "What is blockchain technology?",
+    "answer": "A decentralized digital ledger system."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the woman known for her role in the Montgomery Bus Boycott.",
+    "answer": "Rosa Parks"
+}

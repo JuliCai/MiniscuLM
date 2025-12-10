@@ -1,0 +1,4 @@
+{
+    "question": "Define the characteristic function in probability.",
+    "answer": "Expected value of e^{itX}."
+}

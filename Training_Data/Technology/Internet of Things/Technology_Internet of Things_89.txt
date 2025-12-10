@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of IoT data analytics?",
+    "answer": "Extracts insights from device data."
+}

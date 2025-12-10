@@ -1,0 +1,4 @@
+{
+    "question": "What is a basis of a topology?",
+    "answer": "A collection of open sets generating the topology."
+}

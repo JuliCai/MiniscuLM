@@ -1,0 +1,4 @@
+{
+    "question": "Explain global warming.",
+    "answer": "Rise in Earth's average temperature."
+}

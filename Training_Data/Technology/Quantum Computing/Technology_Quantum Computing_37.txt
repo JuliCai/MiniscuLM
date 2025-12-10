@@ -1,0 +1,4 @@
+{
+    "question": "Can quantum computers perform classical computing?",
+    "answer": "Yes, they can simulate classical computations."
+}

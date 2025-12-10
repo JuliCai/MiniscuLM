@@ -1,0 +1,4 @@
+{
+    "question": "Who resisted British colonialism in India?",
+    "answer": "Mahatma Gandhi."
+}

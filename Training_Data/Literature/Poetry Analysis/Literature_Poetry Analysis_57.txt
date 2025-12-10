@@ -1,0 +1,4 @@
+{
+    "question": "Define oxymoron.",
+    "answer": "A phrase with contradictory terms."
+}

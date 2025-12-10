@@ -1,0 +1,4 @@
+{
+    "question": "What was the Seneca Falls Convention about?",
+    "answer": "Women's rights and suffrage"
+}

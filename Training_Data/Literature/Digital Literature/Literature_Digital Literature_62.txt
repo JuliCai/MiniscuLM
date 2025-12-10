@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature include soundscapes?",
+    "answer": "Yes, sound enhances immersion."
+}

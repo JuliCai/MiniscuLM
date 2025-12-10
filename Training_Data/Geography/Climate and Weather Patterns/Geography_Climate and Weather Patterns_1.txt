@@ -1,0 +1,4 @@
+{
+    "question": "Define climate.",
+    "answer": "Average weather over long periods."
+}

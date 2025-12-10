@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of wearable tech in fashion?",
+    "answer": "LED-embedded clothing."
+}

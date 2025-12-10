@@ -1,0 +1,4 @@
+{
+    "question": "Who is known as the father of genetics?",
+    "answer": "Gregor Mendel."
+}

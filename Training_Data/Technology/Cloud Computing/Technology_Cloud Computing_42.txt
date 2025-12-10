@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud-native application?",
+    "answer": "App designed specifically for cloud."
+}

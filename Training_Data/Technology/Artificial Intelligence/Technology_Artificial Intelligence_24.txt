@@ -1,0 +1,4 @@
+{
+    "question": "What is a decision tree?",
+    "answer": "A model used for classification and regression."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous digital literature work.",
+    "answer": "Michael Joyce's 'Afternoon, a story'."
+}

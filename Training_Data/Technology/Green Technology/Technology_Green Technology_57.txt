@@ -1,0 +1,4 @@
+{
+    "question": "Name a green technology that cleans air.",
+    "answer": "Air purifiers with HEPA filters."
+}

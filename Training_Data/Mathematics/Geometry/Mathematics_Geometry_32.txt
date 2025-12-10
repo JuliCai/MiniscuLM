@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the diagonal of a square with side s.",
+    "answer": "s\u221a2."
+}

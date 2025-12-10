@@ -1,0 +1,4 @@
+{
+    "question": "What is the Sikhism's founding principle?",
+    "answer": "One God and equality."
+}

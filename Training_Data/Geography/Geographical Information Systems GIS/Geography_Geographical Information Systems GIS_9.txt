@@ -1,0 +1,4 @@
+{
+    "question": "What is georeferencing in GIS?",
+    "answer": "Aligning data to geographic coordinates."
+}

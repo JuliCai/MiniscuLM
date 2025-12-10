@@ -1,0 +1,4 @@
+{
+    "question": "Find the sum of all prime divisors of 28.",
+    "answer": "7 + 2 = 9"
+}

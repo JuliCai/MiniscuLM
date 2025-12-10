@@ -1,0 +1,4 @@
+{
+    "question": "What is the typical climate of tundra?",
+    "answer": "Cold and treeless with short summers."
+}

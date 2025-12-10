@@ -1,0 +1,4 @@
+{
+    "question": "What is the main belief of Jehovah's Witnesses?",
+    "answer": "They reject the Trinity."
+}

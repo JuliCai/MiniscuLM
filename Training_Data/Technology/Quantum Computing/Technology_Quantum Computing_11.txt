@@ -1,0 +1,4 @@
+{
+    "question": "Why is error correction challenging in quantum computing?",
+    "answer": "Quantum info fragile and can't be copied directly."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the first mechanical clock?",
+    "answer": "Richard of Wallingford."
+}

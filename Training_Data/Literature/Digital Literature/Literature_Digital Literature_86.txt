@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be mobile?",
+    "answer": "Yes, accessible on smartphones and tablets."
+}

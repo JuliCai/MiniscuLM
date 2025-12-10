@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Snowy Day'?",
+    "answer": "Ezra Jack Keats"
+}

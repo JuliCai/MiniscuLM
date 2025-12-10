@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between even and odd numbers?",
+    "answer": "Even divisible by 2; odd not."
+}

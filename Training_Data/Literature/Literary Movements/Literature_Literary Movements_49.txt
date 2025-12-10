@@ -1,0 +1,4 @@
+{
+    "question": "What defines the Decadent movement?",
+    "answer": "Excess and artificiality."
+}

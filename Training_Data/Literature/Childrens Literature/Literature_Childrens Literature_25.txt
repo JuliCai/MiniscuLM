@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'Diary of a Wimpy Kid'?",
+    "answer": "Jeff Kinney"
+}

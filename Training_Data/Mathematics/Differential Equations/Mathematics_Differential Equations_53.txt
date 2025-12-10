@@ -1,0 +1,4 @@
+{
+    "question": "What is the order and degree of (dy/dx)^3 + y = 0?",
+    "answer": "Order 1, degree 3."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Hall's theorem?",
+    "answer": "Condition for perfect matching in bipartite graph."
+}

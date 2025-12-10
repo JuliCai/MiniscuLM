@@ -1,0 +1,4 @@
+{
+    "question": "What caused hyperinflation in Weimar Germany?",
+    "answer": "War reparations and excessive money printing."
+}

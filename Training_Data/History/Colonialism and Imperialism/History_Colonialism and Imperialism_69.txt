@@ -1,0 +1,4 @@
+{
+    "question": "Name a colony of the British Empire in Africa.",
+    "answer": "Nigeria."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables improve safety?",
+    "answer": "Yes, via alerts and monitoring."
+}

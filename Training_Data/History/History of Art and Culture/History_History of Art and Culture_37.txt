@@ -1,0 +1,4 @@
+{
+    "question": "What culture influenced Renaissance art?",
+    "answer": "Classical antiquity."
+}

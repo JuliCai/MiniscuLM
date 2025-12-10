@@ -1,0 +1,4 @@
+{
+    "question": "Who authored 'The Poisonwood Bible'?",
+    "answer": "Barbara Kingsolver"
+}

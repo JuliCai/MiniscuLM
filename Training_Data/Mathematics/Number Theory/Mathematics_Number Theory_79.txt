@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between multiples and divisors?",
+    "answer": "Multiples are products; divisors divide number."
+}

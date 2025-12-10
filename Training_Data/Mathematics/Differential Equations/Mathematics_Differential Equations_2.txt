@@ -1,0 +1,4 @@
+{
+    "question": "What is a partial differential equation (PDE)?",
+    "answer": "Equation involving partial derivatives of multiple variables."
+}

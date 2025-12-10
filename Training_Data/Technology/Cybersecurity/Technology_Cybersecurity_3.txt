@@ -1,0 +1,4 @@
+{
+    "question": "Purpose of encryption?",
+    "answer": "To protect data confidentiality."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define dense set.",
+    "answer": "Closure equals the whole space."
+}

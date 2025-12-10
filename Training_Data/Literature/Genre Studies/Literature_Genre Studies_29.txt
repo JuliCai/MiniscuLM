@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of dystopia.",
+    "answer": "Depicts oppressive, undesirable societies."
+}

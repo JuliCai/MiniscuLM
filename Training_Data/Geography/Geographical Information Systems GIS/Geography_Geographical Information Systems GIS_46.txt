@@ -1,0 +1,4 @@
+{
+    "question": "What is a polygon feature in GIS?",
+    "answer": "A closed shape representing areas."
+}

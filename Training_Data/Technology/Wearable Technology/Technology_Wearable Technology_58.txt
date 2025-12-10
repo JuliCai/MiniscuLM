@@ -1,0 +1,4 @@
+{
+    "question": "Are wearables compatible with all phones?",
+    "answer": "Compatibility varies by device."
+}

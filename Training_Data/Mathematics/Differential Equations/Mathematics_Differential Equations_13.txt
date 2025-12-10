@@ -1,0 +1,4 @@
+{
+    "question": "What is a characteristic equation?",
+    "answer": "Polynomial from differential equation for solution roots."
+}

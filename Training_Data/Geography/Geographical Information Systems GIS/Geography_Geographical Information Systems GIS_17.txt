@@ -1,0 +1,4 @@
+{
+    "question": "Define buffering in GIS.",
+    "answer": "Creating zones around features."
+}

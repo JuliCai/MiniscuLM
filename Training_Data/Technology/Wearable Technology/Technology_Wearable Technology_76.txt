@@ -1,0 +1,4 @@
+{
+    "question": "What is a smartwatch app?",
+    "answer": "Software designed for smartwatches."
+}

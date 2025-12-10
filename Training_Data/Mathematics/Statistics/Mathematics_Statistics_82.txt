@@ -1,0 +1,4 @@
+{
+    "question": "Define randomization.",
+    "answer": "Assigning subjects randomly."
+}

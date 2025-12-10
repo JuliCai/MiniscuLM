@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of digital narrative?",
+    "answer": "A web-based interactive story."
+}

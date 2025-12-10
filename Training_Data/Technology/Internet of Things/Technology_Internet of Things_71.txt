@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between IoT and IIoT?",
+    "answer": "IIoT is industrial IoT applications."
+}

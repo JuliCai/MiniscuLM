@@ -1,0 +1,4 @@
+{
+    "question": "What role does historical context play in allegory?",
+    "answer": "It shapes symbolic meanings relevant to era."
+}

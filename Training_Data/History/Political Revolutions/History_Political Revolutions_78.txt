@@ -1,0 +1,4 @@
+{
+    "question": "Who drafted the Declaration of Independence?",
+    "answer": "Thomas Jefferson."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes the ozone hole?",
+    "answer": "Chlorofluorocarbons (CFCs) destroying ozone."
+}

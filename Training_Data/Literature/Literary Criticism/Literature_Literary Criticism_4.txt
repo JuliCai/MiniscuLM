@@ -1,0 +1,4 @@
+{
+    "question": "What is Marxist literary criticism?",
+    "answer": "Analyzes class and socioeconomic factors."
+}

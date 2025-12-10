@@ -1,0 +1,4 @@
+{
+    "question": "Define sonnet structure.",
+    "answer": "14 lines with specific rhyme and meter."
+}

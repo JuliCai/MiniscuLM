@@ -1,0 +1,4 @@
+{
+    "question": "What causes uneven population distribution?",
+    "answer": "Factors like resources, climate, and land."
+}

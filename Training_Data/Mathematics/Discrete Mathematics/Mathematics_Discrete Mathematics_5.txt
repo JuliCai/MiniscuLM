@@ -1,0 +1,4 @@
+{
+    "question": "What is a simple graph?",
+    "answer": "Graph without loops or multiple edges."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a quotient topology?",
+    "answer": "Topology induced by a surjective map."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The House of Mirth'?",
+    "answer": "Edith Wharton"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud load balancing?",
+    "answer": "Distributing traffic across cloud resources."
+}

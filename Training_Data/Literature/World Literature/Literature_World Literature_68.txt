@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Old Man and the Sea'?",
+    "answer": "Ernest Hemingway"
+}

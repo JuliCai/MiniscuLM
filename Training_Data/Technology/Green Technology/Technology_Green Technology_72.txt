@@ -1,0 +1,4 @@
+{
+    "question": "How do green technologies impact jobs?",
+    "answer": "Create green jobs and industries."
+}

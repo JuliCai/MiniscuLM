@@ -1,0 +1,4 @@
+{
+    "question": "Why is firmware important in IoT?",
+    "answer": "Controls device operations."
+}

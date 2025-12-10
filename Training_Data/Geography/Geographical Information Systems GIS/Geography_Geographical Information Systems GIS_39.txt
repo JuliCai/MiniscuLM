@@ -1,0 +1,4 @@
+{
+    "question": "What is a thematic map?",
+    "answer": "Map showing specific data themes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a modern adaptation?",
+    "answer": "A contemporary retelling of a classic."
+}

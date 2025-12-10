@@ -1,0 +1,4 @@
+{
+    "question": "Simplify: (3x)(4x^2)",
+    "answer": "12x^3"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Factor: 4x^2 - 25",
+    "answer": "(2x - 5)(2x + 5)"
+}

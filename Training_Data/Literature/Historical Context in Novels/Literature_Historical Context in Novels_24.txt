@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context influence character motivations?",
+    "answer": "Period norms shape their decisions."
+}

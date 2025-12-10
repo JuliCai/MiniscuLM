@@ -1,0 +1,4 @@
+{
+    "question": "How does famine affect population?",
+    "answer": "Increases mortality."
+}

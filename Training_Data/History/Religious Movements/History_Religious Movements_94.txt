@@ -1,0 +1,4 @@
+{
+    "question": "What is the Brahmo Samaj?",
+    "answer": "Hindu reform movement."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the benefit of using wind turbines?",
+    "answer": "Clean energy with low emissions."
+}

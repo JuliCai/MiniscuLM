@@ -1,0 +1,4 @@
+{
+    "question": "What is the main factor causing El Ni\u00f1o?",
+    "answer": "Weakening trade winds in Pacific."
+}

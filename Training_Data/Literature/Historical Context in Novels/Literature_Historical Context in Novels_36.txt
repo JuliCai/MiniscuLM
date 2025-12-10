@@ -1,0 +1,4 @@
+{
+    "question": "How is historical context presented in 'Les Mis\u00e9rables'?",
+    "answer": "Post-revolutionary France social struggles."
+}

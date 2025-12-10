@@ -1,0 +1,4 @@
+{
+    "question": "What is haptic feedback in wearables?",
+    "answer": "Vibration alerts or tactile responses."
+}

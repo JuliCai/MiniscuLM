@@ -1,0 +1,4 @@
+{
+    "question": "What is a pull factor?",
+    "answer": "Attraction to a new location."
+}

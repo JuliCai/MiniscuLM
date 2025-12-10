@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be interactive?",
+    "answer": "Yes, interactivity is a key feature."
+}

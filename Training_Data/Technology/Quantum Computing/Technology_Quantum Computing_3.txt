@@ -1,0 +1,4 @@
+{
+    "question": "What is entanglement in quantum computing?",
+    "answer": "Qubits linked, state of one affects the other instantly."
+}

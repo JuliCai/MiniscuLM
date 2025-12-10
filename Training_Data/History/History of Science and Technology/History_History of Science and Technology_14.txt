@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the light bulb?",
+    "answer": "Thomas Edison."
+}

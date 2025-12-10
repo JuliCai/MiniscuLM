@@ -1,0 +1,4 @@
+{
+    "question": "Define boundary of a set.",
+    "answer": "Closure minus interior of the set."
+}

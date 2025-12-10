@@ -1,0 +1,4 @@
+{
+    "question": "What is symbolism?",
+    "answer": "Using symbols to represent ideas."
+}

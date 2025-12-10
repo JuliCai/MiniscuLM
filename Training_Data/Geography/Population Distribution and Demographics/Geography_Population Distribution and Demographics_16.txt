@@ -1,0 +1,4 @@
+{
+    "question": "What is life expectancy?",
+    "answer": "Average expected lifespan."
+}

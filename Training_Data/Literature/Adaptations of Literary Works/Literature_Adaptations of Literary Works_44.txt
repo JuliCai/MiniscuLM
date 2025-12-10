@@ -1,0 +1,4 @@
+{
+    "question": "Name a book adapted into a radio serial.",
+    "answer": "The Shadow."
+}

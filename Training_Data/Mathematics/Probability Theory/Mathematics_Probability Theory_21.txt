@@ -1,0 +1,4 @@
+{
+    "question": "Define cumulative distribution function (CDF).",
+    "answer": "Probability that variable \u2264 a value."
+}

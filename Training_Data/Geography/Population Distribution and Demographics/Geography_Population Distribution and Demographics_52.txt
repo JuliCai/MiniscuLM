@@ -1,0 +1,4 @@
+{
+    "question": "Name a factor causing rural to urban migration.",
+    "answer": "Better jobs."
+}

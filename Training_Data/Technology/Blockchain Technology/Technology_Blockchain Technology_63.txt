@@ -1,0 +1,4 @@
+{
+    "question": "What is a state channel?",
+    "answer": "Off-chain transactions for scalability."
+}

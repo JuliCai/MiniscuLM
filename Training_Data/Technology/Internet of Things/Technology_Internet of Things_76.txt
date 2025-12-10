@@ -1,0 +1,4 @@
+{
+    "question": "What is IoT data streaming?",
+    "answer": "Continuous data transmission."
+}

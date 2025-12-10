@@ -1,0 +1,4 @@
+{
+    "question": "What is network sniffing?",
+    "answer": "Intercepting data packets on a network."
+}

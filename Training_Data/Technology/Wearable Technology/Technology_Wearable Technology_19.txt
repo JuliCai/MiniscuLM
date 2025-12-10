@@ -1,0 +1,4 @@
+{
+    "question": "What is a smartwatch's primary function?",
+    "answer": "Timekeeping plus smart notifications and apps."
+}

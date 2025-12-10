@@ -1,0 +1,4 @@
+{
+    "question": "Explain type I error.",
+    "answer": "False positive result."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main economic activity in the Inca Empire?",
+    "answer": "Agriculture using terrace farming."
+}

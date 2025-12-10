@@ -1,0 +1,4 @@
+{
+    "question": "Integral of sin x / x dx?",
+    "answer": "Si(x) + C (special function)"
+}

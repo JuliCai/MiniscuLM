@@ -1,0 +1,4 @@
+{
+    "question": "Define linear independence in solutions.",
+    "answer": "No solution is linear combination of others."
+}

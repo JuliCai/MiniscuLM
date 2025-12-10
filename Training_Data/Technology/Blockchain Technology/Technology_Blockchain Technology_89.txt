@@ -1,0 +1,4 @@
+{
+    "question": "What is a distributed application?",
+    "answer": "App running on blockchain network."
+}

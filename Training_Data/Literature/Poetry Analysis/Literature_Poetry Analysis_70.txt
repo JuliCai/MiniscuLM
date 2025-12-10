@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of personification?",
+    "answer": "The wind whispered softly."
+}

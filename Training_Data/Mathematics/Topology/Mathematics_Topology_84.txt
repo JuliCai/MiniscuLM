@@ -1,0 +1,4 @@
+{
+    "question": "Define stalk of a sheaf.",
+    "answer": "Direct limit of sections over neighborhoods."
+}

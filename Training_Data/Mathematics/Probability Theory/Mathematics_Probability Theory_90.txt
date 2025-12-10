@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of equiprobable events.",
+    "answer": "All have equal probability."
+}

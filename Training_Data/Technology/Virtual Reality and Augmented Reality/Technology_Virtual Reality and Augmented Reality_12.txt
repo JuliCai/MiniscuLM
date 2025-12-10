@@ -1,0 +1,4 @@
+{
+    "question": "Can AR be used in education?",
+    "answer": "Yes, for interactive learning experiences."
+}

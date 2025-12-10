@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the first electric battery?",
+    "answer": "Alessandro Volta."
+}

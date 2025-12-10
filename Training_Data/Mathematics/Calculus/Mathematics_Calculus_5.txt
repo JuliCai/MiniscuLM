@@ -1,0 +1,4 @@
+{
+    "question": "What is d/dx of ln x?",
+    "answer": "1/x"
+}

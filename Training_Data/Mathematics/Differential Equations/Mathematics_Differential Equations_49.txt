@@ -1,0 +1,4 @@
+{
+    "question": "Define stability in differential equations.",
+    "answer": "Behavior of solutions near equilibrium points."
+}

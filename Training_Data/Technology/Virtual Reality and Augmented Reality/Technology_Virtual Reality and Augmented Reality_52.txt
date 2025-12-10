@@ -1,0 +1,4 @@
+{
+    "question": "What hardware is mandatory for VR?",
+    "answer": "VR headset."
+}

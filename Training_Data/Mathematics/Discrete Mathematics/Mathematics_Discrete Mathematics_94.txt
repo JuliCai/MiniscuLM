@@ -1,0 +1,4 @@
+{
+    "question": "Define a cycle in a graph.",
+    "answer": "Closed path with no repeated edges."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "State the Handshaking Lemma.",
+    "answer": "Sum of degrees equals twice edges."
+}

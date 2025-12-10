@@ -1,0 +1,4 @@
+{
+    "question": "What does 'smart home' mean?",
+    "answer": "Home with connected, automated devices."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define connectivity in graphs.",
+    "answer": "Minimum edges to disconnect graph."
+}

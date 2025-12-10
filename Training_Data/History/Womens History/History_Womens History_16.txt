@@ -1,0 +1,4 @@
+{
+    "question": "Which queen was known as the 'Virgin Queen'?",
+    "answer": "Queen Elizabeth I"
+}

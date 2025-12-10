@@ -1,0 +1,4 @@
+{
+    "question": "What is a linguistic landscape?",
+    "answer": "Visible language in public spaces."
+}

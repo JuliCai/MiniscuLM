@@ -1,0 +1,4 @@
+{
+    "question": "Solve y' = (y + x)^2.",
+    "answer": "Requires substitution v = y + x."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a contradiction?",
+    "answer": "Proposition always false."
+}

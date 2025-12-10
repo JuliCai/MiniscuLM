@@ -1,0 +1,4 @@
+{
+    "question": "How do digital writers publish?",
+    "answer": "Via blogs, platforms, or e-books."
+}

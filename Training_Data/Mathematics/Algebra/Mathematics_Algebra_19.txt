@@ -1,0 +1,4 @@
+{
+    "question": "Expand: (2x + 3)^2",
+    "answer": "4x^2 + 12x + 9"
+}

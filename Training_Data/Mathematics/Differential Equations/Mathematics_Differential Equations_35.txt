@@ -1,0 +1,4 @@
+{
+    "question": "What is a separable differential equation?",
+    "answer": "Variables can be separated on different sides."
+}

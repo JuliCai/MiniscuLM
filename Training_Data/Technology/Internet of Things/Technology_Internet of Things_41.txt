@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of IoT in retail?",
+    "answer": "Smart shelves."
+}

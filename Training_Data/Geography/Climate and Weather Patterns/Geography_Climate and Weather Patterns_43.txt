@@ -1,0 +1,4 @@
+{
+    "question": "What is a microclimate?",
+    "answer": "Local atmospheric conditions differing nearby."
+}

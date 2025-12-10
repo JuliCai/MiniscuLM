@@ -1,0 +1,4 @@
+{
+    "question": "Define random experiment.",
+    "answer": "Process with uncertain outcome."
+}

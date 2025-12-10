@@ -1,0 +1,4 @@
+{
+    "question": "Define demographic transition.",
+    "answer": "Shift from high to low birth and death rates."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is inferential statistics?",
+    "answer": "Make predictions about population."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an adiabatic quantum computer?",
+    "answer": "Computes by slowly evolving Hamiltonian states."
+}

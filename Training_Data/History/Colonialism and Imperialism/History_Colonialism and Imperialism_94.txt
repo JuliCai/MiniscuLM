@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of missionaries in colonies?",
+    "answer": "Spread religion and Western values."
+}

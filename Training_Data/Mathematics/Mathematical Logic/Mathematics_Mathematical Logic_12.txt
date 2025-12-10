@@ -1,0 +1,4 @@
+{
+    "question": "What is first-order logic?",
+    "answer": "Logic with quantifiers over individuals."
+}

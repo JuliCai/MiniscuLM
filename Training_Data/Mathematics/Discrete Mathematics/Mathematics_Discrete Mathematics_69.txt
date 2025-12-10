@@ -1,0 +1,4 @@
+{
+    "question": "Define Stirling numbers.",
+    "answer": "Count partitions of set into k subsets."
+}

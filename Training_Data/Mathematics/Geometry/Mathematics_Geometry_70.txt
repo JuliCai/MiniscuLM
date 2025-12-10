@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the perimeter of an equilateral triangle.",
+    "answer": "Three times side length."
+}

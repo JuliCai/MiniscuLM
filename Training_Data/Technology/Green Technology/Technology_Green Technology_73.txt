@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of anaerobic digestion?",
+    "answer": "Converts waste to biogas energy."
+}

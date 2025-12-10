@@ -1,0 +1,4 @@
+{
+    "question": "How do green technologies impact natural resources?",
+    "answer": "Conserve and manage sustainably."
+}

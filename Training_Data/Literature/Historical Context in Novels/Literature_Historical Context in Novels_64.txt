@@ -1,0 +1,4 @@
+{
+    "question": "How do authors depict historical context visually?",
+    "answer": "Through cover art and illustrations."
+}

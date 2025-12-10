@@ -1,0 +1,4 @@
+{
+    "question": "Why does 5G need new infrastructure?",
+    "answer": "To support new frequencies."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud computing pay-as-you-go.",
+    "answer": "Pay only for used resources."
+}

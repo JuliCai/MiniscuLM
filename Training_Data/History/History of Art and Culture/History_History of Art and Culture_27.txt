@@ -1,0 +1,4 @@
+{
+    "question": "Name an iconic work of Islamic art.",
+    "answer": "The Alhambra."
+}

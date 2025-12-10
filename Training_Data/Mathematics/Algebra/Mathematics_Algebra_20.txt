@@ -1,0 +1,4 @@
+{
+    "question": "What is the degree of x^4 + x^3 + 1?",
+    "answer": "4"
+}

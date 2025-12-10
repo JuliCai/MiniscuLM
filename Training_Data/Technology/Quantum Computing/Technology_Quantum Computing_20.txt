@@ -1,0 +1,4 @@
+{
+    "question": "What is a Hadamard gate?",
+    "answer": "Creates superposition from a single qubit state."
+}

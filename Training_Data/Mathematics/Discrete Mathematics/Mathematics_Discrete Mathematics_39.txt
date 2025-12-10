@@ -1,0 +1,4 @@
+{
+    "question": "What is a set?",
+    "answer": "Collection of distinct elements."
+}

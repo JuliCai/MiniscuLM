@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of medical wearable tech?",
+    "answer": "Continuous glucose monitors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does AI bias mean?",
+    "answer": "When AI produces unfair results due to data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a Gothic novel.",
+    "answer": "Mary Shelley's Frankenstein."
+}

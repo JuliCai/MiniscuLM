@@ -1,0 +1,4 @@
+{
+    "question": "What is environmental mapping in AR?",
+    "answer": "Understanding real world for overlays."
+}

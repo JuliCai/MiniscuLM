@@ -1,0 +1,4 @@
+{
+    "question": "Are there wearable devices for pets?",
+    "answer": "Yes, like GPS trackers and activity monitors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a Metafiction author.",
+    "answer": "Italo Calvino."
+}

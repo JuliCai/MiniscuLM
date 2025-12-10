@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of T-gate?",
+    "answer": "Non-Clifford gate essential for universal quantum computing."
+}

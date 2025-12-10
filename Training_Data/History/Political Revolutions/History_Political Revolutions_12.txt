@@ -1,0 +1,4 @@
+{
+    "question": "Which event marked the start of the Industrial Revolution?",
+    "answer": "Introduction of mechanized textile production."
+}

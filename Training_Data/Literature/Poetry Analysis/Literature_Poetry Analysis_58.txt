@@ -1,0 +1,4 @@
+{
+    "question": "What is a dramatic monologue?",
+    "answer": "A poem spoken by a single character."
+}

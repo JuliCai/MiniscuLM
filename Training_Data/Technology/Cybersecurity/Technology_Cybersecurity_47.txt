@@ -1,0 +1,4 @@
+{
+    "question": "What is social media hacking?",
+    "answer": "Unauthorized access to social media accounts."
+}

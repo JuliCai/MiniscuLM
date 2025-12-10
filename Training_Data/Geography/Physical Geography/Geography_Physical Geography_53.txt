@@ -1,0 +1,4 @@
+{
+    "question": "Define an atoll.",
+    "answer": "Ring-shaped coral reef island."
+}

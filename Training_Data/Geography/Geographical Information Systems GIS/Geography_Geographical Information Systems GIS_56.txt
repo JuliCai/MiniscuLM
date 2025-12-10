@@ -1,0 +1,4 @@
+{
+    "question": "What is geospatial analysis?",
+    "answer": "Analyzing data related to geographic location."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does blockchain impact finance?",
+    "answer": "Enables secure, transparent transactions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was Patrice Lumumba?",
+    "answer": "First Prime Minister of Congo."
+}

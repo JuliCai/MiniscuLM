@@ -1,0 +1,4 @@
+{
+    "question": "What is a statistician\u2019s role?",
+    "answer": "Analyze and interpret data."
+}

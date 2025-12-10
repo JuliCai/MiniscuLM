@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum computer's clock speed?",
+    "answer": "Not defined like classical; depends on gate operation times."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of linearity in quantum computing?",
+    "answer": "Quantum operations are linear transformations."
+}

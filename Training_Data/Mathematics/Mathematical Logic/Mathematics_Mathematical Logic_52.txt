@@ -1,0 +1,4 @@
+{
+    "question": "What is a substitution instance?",
+    "answer": "Formula after replacing variables."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define an independent set.",
+    "answer": "Set of vertices with no edges between them."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is gentrification?",
+    "answer": "Wealthier people renovating urban areas."
+}

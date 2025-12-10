@@ -1,0 +1,4 @@
+{
+    "question": "What is a spatial database?",
+    "answer": "Database optimized for location data."
+}

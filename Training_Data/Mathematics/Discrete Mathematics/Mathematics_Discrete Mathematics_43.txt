@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between countable and uncountable?",
+    "answer": "Countable can be listed, uncountable cannot."
+}

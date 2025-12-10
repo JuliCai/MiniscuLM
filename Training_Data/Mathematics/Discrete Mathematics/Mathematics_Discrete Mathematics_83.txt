@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of mathematical induction?",
+    "answer": "Prove base case and inductive step."
+}

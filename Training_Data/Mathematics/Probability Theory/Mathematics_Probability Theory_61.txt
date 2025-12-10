@@ -1,0 +1,4 @@
+{
+    "question": "Define the mode of a probability distribution.",
+    "answer": "Most probable value."
+}

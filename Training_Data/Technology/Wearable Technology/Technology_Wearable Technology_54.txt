@@ -1,0 +1,4 @@
+{
+    "question": "How do wearables help diabetics?",
+    "answer": "By monitoring glucose levels."
+}

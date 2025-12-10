@@ -1,0 +1,4 @@
+{
+    "question": "What is a 5G core network?",
+    "answer": "Central network managing 5G services."
+}

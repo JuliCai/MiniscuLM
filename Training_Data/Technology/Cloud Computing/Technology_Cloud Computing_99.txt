@@ -1,0 +1,4 @@
+{
+    "question": "Name a cloud-native monitoring tool.",
+    "answer": "Prometheus."
+}

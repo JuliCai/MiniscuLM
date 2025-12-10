@@ -1,0 +1,4 @@
+{
+    "question": "Define allegory in literature.",
+    "answer": "Symbolic representation of ideas."
+}

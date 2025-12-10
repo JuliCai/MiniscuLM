@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G improve cloud computing?",
+    "answer": "Faster data transfer."
+}

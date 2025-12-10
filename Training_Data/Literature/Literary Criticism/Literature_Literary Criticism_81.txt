@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of satire?",
+    "answer": "Critique society through humor."
+}

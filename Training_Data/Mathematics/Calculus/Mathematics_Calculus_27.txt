@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of sec x?",
+    "answer": "sec x tan x"
+}

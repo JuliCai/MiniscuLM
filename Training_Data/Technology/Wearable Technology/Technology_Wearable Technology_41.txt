@@ -1,0 +1,4 @@
+{
+    "question": "Are wearable devices customizable?",
+    "answer": "Yes, via bands and watch faces."
+}

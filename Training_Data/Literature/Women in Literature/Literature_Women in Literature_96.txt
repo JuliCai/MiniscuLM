@@ -1,0 +1,4 @@
+{
+    "question": "Name a female author known for contemporary fiction.",
+    "answer": "Jhumpa Lahiri"
+}

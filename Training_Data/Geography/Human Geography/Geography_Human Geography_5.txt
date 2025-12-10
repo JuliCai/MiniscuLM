@@ -1,0 +1,4 @@
+{
+    "question": "What is a cultural landscape?",
+    "answer": "Landscape shaped by human activity."
+}

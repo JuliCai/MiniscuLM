@@ -1,0 +1,4 @@
+{
+    "question": "What does narratology study?",
+    "answer": "Structure of narrative texts."
+}

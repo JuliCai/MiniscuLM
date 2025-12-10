@@ -1,0 +1,4 @@
+{
+    "question": "What sensors do VR headsets use?",
+    "answer": "Gyroscopes and accelerometers."
+}

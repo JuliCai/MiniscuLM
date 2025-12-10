@@ -1,0 +1,4 @@
+{
+    "question": "What is a spatial database index?",
+    "answer": "Speeds up spatial data queries."
+}

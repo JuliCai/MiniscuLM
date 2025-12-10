@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context influence a novel\u2019s message?",
+    "answer": "Message often reflects time\u2019s concerns."
+}

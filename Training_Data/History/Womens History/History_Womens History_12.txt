@@ -1,0 +1,4 @@
+{
+    "question": "Who founded the American Red Cross?",
+    "answer": "Clara Barton"
+}

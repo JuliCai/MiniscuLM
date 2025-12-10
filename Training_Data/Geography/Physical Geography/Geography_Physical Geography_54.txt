@@ -1,0 +1,4 @@
+{
+    "question": "What is the Great Rift Valley?",
+    "answer": "A large tectonic valley in Africa."
+}

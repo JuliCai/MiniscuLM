@@ -1,0 +1,4 @@
+{
+    "question": "Who created the Sistine Chapel ceiling?",
+    "answer": "Michelangelo."
+}

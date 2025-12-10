@@ -1,0 +1,4 @@
+{
+    "question": "What did Alhazen contribute to science?",
+    "answer": "Optics."
+}

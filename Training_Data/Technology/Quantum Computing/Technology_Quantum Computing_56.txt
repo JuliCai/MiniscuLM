@@ -1,0 +1,4 @@
+{
+    "question": "Why is quantum entanglement crucial?",
+    "answer": "Enables quantum correlations beyond classical limits."
+}

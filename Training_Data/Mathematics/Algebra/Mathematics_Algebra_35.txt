@@ -1,0 +1,4 @@
+{
+    "question": "What is the coefficient of x in 4x^3 - 2x + 7?",
+    "answer": "-2"
+}

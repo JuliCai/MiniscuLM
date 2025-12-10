@@ -1,0 +1,4 @@
+{
+    "question": "What is a resolution refutation?",
+    "answer": "Proof that formula is unsatisfiable."
+}

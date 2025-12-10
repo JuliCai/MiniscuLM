@@ -1,0 +1,4 @@
+{
+    "question": "Define eco-design.",
+    "answer": "Designing products with environmental impact in mind."
+}

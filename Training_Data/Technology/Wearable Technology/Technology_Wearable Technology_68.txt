@@ -1,0 +1,4 @@
+{
+    "question": "Can smartwatches make calls?",
+    "answer": "Some models support calls independently."
+}

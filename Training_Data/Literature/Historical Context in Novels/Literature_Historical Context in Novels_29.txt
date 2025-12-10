@@ -1,0 +1,4 @@
+{
+    "question": "How do novels portray historical conflicts?",
+    "answer": "Through character experiences and plot."
+}

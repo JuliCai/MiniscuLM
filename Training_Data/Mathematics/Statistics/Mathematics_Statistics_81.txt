@@ -1,0 +1,4 @@
+{
+    "question": "What is a Q-Q plot?",
+    "answer": "Compare distributions graphically."
+}

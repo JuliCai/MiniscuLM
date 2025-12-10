@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of AI in wearables?",
+    "answer": "Data analysis and personalized feedback."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a concession in colonialism?",
+    "answer": "Foreign control over specific area."
+}

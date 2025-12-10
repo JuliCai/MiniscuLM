@@ -1,0 +1,4 @@
+{
+    "question": "What is the Euler\u2019s totient of 9?",
+    "answer": "6"
+}

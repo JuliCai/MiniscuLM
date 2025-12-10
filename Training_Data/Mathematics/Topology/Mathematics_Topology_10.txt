@@ -1,0 +1,4 @@
+{
+    "question": "What does T1 space mean?",
+    "answer": "Singletons are closed sets."
+}

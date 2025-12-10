@@ -1,0 +1,4 @@
+{
+    "question": "What does mode represent?",
+    "answer": "Most frequent value."
+}

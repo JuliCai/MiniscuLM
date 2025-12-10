@@ -1,0 +1,4 @@
+{
+    "question": "What is a fan adaptation?",
+    "answer": "Unofficial adaptations by fans."
+}

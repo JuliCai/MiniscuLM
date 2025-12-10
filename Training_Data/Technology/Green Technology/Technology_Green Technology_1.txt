@@ -1,0 +1,4 @@
+{
+    "question": "Name a renewable energy source used in green tech.",
+    "answer": "Solar power."
+}

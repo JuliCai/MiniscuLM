@@ -1,0 +1,4 @@
+{
+    "question": "What is SQL injection?",
+    "answer": "Malicious code inserted into databases."
+}

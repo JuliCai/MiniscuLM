@@ -1,0 +1,4 @@
+{
+    "question": "What is interoperability in blockchain?",
+    "answer": "Ability of blockchains to communicate."
+}

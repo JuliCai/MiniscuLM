@@ -1,0 +1,4 @@
+{
+    "question": "What are the environmental concerns with 5G?",
+    "answer": "Energy use and equipment waste."
+}

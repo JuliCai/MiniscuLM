@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between raster and vector maps?",
+    "answer": "Raster uses pixels, vector uses shapes."
+}

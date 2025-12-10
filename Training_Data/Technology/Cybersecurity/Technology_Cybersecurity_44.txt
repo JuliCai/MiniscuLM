@@ -1,0 +1,4 @@
+{
+    "question": "What is risk assessment in cybersecurity?",
+    "answer": "Identifying and evaluating security risks."
+}

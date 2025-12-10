@@ -1,0 +1,4 @@
+{
+    "question": "Can historical context change readers' interpretation?",
+    "answer": "Yes, it adds layers of meaning."
+}

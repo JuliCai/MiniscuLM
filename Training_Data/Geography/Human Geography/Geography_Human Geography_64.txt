@@ -1,0 +1,4 @@
+{
+    "question": "What is a dependency ratio?",
+    "answer": "Ratio of non-working to working population."
+}

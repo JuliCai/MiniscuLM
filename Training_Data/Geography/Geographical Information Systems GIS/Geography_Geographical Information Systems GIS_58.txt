@@ -1,0 +1,4 @@
+{
+    "question": "What is a cadastral map?",
+    "answer": "Map showing property boundaries."
+}

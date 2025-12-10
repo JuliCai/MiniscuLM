@@ -1,0 +1,4 @@
+{
+    "question": "What is MQTT used for?",
+    "answer": "Lightweight messaging in IoT."
+}

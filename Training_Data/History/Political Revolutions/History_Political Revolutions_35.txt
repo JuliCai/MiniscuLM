@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the October Manifesto?",
+    "answer": "Granted civil liberties in Russia."
+}

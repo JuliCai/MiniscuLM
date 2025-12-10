@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'singular solution.'",
+    "answer": "Solution not from general solution family."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of magical realism.",
+    "answer": "Realistic settings with magical elements."
+}

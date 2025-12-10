@@ -1,0 +1,4 @@
+{
+    "question": "What is a symbolic logic?",
+    "answer": "Logic using symbols for statements."
+}

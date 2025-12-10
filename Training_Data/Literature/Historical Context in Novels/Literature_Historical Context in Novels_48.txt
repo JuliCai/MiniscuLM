@@ -1,0 +1,4 @@
+{
+    "question": "What challenges arise in depicting historical context?",
+    "answer": "Avoiding inaccuracies and stereotypes."
+}

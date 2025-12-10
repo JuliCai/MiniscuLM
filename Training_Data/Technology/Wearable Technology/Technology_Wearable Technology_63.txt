@@ -1,0 +1,4 @@
+{
+    "question": "What is a biometric sensor?",
+    "answer": "Device measuring biological data."
+}

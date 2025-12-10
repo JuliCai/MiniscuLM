@@ -1,0 +1,4 @@
+{
+    "question": "What sensors are common in wearables?",
+    "answer": "Accelerometer, gyroscope, heart rate sensor."
+}

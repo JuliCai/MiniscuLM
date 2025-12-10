@@ -1,0 +1,4 @@
+{
+    "question": "What is Sufism's focus?",
+    "answer": "Mystical connection with God."
+}

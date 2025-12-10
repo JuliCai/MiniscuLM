@@ -1,0 +1,4 @@
+{
+    "question": "What role did railroads play in imperialism?",
+    "answer": "Transport goods and troops."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define complementary angles.",
+    "answer": "Two angles summing to 90 degrees."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology affect health?",
+    "answer": "Improves air and water quality."
+}

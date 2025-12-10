@@ -1,0 +1,4 @@
+{
+    "question": "Define economic globalization.",
+    "answer": "Integration of global economies."
+}

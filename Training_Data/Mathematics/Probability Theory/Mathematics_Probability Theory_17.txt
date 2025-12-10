@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between permutations and combinations?",
+    "answer": "Order matters in permutations, not in combinations."
+}

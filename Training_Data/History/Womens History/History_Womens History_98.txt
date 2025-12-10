@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female astronaut from the US?",
+    "answer": "Sally Ride"
+}

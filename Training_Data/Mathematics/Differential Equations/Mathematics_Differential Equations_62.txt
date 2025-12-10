@@ -1,0 +1,4 @@
+{
+    "question": "Solve dy/dx = (x + y)^2.",
+    "answer": "Nonlinear, requires substitution."
+}

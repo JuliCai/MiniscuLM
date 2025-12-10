@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of cloud computing.",
+    "answer": "Cost efficiency."
+}

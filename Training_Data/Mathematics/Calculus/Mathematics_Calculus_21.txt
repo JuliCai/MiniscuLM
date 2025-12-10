@@ -1,0 +1,4 @@
+{
+    "question": "Integral of 1/\u221a(1 - x^2) dx?",
+    "answer": "arcsin x + C"
+}

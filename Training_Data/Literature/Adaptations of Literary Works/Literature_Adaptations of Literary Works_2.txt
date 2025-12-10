@@ -1,0 +1,4 @@
+{
+    "question": "What is a faithful adaptation?",
+    "answer": "An adaptation closely follows the original work."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud workload management?",
+    "answer": "Allocating and monitoring cloud tasks."
+}

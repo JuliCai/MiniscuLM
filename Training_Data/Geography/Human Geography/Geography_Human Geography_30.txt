@@ -1,0 +1,4 @@
+{
+    "question": "Define ethnicity vs race.",
+    "answer": "Ethnicity: culture; race: physical traits."
+}

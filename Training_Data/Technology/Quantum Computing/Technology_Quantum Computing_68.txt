@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of lasers in quantum computing?",
+    "answer": "Manipulate and control certain qubit types."
+}

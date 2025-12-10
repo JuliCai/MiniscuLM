@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of edge servers in 5G?",
+    "answer": "Process data closer to users."
+}

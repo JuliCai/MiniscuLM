@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT edge device?",
+    "answer": "Device processing data locally."
+}

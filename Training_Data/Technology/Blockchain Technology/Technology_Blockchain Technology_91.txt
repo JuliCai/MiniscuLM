@@ -1,0 +1,4 @@
+{
+    "question": "What is a cross-chain transaction?",
+    "answer": "Transaction across multiple blockchains."
+}

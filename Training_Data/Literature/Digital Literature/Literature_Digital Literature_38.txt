@@ -1,0 +1,4 @@
+{
+    "question": "Does digital literature use hyperlinks?",
+    "answer": "Often, to connect different text parts."
+}

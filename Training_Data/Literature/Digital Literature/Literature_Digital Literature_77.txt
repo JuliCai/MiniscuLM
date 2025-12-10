@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital literary archive\u2019s role?",
+    "answer": "Preserving digital texts for research."
+}

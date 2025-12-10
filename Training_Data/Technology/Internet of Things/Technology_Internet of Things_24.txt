@@ -1,0 +1,4 @@
+{
+    "question": "Explain IoT device interoperability.",
+    "answer": "Devices working together seamlessly."
+}

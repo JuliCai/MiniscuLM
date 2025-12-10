@@ -1,0 +1,4 @@
+{
+    "question": "What did Edwin Hubble discover?",
+    "answer": "Expanding universe."
+}

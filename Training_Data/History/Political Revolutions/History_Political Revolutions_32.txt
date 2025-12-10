@@ -1,0 +1,4 @@
+{
+    "question": "What was the main impact of the Bolshevik Revolution?",
+    "answer": "Communist rule in Russia."
+}

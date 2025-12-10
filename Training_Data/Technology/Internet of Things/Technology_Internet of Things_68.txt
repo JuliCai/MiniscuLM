@@ -1,0 +1,4 @@
+{
+    "question": "What is device provisioning in IoT?",
+    "answer": "Configuring device for network use."
+}

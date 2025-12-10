@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of the Protestant Reformation?",
+    "answer": "Church corruption and indulgences."
+}

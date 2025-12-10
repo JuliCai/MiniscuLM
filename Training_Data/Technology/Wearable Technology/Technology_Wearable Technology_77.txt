@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables be used in workplaces?",
+    "answer": "Yes, for safety and productivity."
+}

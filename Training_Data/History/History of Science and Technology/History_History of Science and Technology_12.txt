@@ -1,0 +1,4 @@
+{
+    "question": "What did Marie Curie discover?",
+    "answer": "Radioactivity."
+}

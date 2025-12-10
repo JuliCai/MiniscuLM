@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G networks be private?",
+    "answer": "Yes, for enterprises."
+}

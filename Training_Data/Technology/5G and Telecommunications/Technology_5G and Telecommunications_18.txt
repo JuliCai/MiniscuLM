@@ -1,0 +1,4 @@
+{
+    "question": "Why is 5G spectrum allocation important?",
+    "answer": "To avoid interference and optimize use."
+}

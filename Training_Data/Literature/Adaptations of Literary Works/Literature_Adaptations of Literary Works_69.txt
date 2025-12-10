@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018remake\u2019 in adaptations?",
+    "answer": "New version of an earlier adaptation."
+}

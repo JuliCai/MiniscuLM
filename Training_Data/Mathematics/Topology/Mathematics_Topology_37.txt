@@ -1,0 +1,4 @@
+{
+    "question": "What is a Lindel\u00f6f space?",
+    "answer": "Every open cover has a countable subcover."
+}

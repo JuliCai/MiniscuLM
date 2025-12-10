@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital literary prize?",
+    "answer": "An award for digital literary work."
+}

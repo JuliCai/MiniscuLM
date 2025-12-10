@@ -1,0 +1,4 @@
+{
+    "question": "What is a clique in a graph?",
+    "answer": "Subset of vertices all connected."
+}

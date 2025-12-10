@@ -1,0 +1,4 @@
+{
+    "question": "Name a modern novel adapted into a film.",
+    "answer": "The Hunger Games."
+}

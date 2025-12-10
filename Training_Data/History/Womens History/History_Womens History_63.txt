@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was a famous suffragette in the UK?",
+    "answer": "Emmeline Pankhurst"
+}

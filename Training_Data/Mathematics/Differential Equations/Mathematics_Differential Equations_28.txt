@@ -1,0 +1,4 @@
+{
+    "question": "What is the integrating factor for dy/dx - y = e^x?",
+    "answer": "\u03bc(x) = e^{-x}."
+}

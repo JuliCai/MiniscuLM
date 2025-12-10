@@ -1,0 +1,4 @@
+{
+    "question": "What is AI ethics?",
+    "answer": "Moral principles guiding AI development."
+}

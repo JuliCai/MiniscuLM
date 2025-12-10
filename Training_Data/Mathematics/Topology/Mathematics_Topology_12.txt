@@ -1,0 +1,4 @@
+{
+    "question": "What is a subspace topology?",
+    "answer": "Topology induced on a subset by open sets of space."
+}

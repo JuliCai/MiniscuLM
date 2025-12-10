@@ -1,0 +1,4 @@
+{
+    "question": "What was the Scramble for Africa?",
+    "answer": "Rapid colonization of Africa by Europeans."
+}

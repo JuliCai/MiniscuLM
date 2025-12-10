@@ -1,0 +1,4 @@
+{
+    "question": "What does 'formalism' focus on?",
+    "answer": "Text structure and literary devices."
+}

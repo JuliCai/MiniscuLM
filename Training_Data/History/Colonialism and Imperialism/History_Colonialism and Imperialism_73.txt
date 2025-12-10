@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of colonial borders?",
+    "answer": "Ethnic conflicts post-independence."
+}

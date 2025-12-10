@@ -1,0 +1,4 @@
+{
+    "question": "Define subsistence farming.",
+    "answer": "Farming for personal or local use."
+}

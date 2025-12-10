@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of rolling two sixes in two dice throws?",
+    "answer": "(1/6) \u00d7 (1/6) = 1/36"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a scatter plot correlation?",
+    "answer": "Strength and direction of association."
+}

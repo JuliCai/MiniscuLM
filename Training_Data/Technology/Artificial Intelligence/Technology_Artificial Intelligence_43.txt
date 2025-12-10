@@ -1,0 +1,4 @@
+{
+    "question": "What is AI training?",
+    "answer": "Teaching an AI model with data."
+}

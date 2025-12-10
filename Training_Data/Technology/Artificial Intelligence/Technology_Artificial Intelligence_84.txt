@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in anomaly detection?",
+    "answer": "Spotting unusual patterns in data."
+}

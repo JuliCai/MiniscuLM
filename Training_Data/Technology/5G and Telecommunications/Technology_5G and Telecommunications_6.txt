@@ -1,0 +1,4 @@
+{
+    "question": "Which companies lead in 5G tech?",
+    "answer": "Huawei, Ericsson, Nokia, Qualcomm."
+}

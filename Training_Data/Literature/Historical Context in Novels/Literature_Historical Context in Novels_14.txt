@@ -1,0 +1,4 @@
+{
+    "question": "How is historical context shown in 'To Kill a Mockingbird'?",
+    "answer": "Depicts racial tensions in 1930s America."
+}

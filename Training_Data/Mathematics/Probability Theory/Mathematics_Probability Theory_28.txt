@@ -1,0 +1,4 @@
+{
+    "question": "Calculate variance of a binomial distribution.",
+    "answer": "n \u00d7 p \u00d7 (1-p)"
+}

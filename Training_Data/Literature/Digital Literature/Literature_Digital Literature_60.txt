@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature always visual?",
+    "answer": "No, some are audio or text-based only."
+}

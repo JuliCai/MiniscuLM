@@ -1,0 +1,4 @@
+{
+    "question": "Define local homeomorphism.",
+    "answer": "Map locally a homeomorphism around every point."
+}

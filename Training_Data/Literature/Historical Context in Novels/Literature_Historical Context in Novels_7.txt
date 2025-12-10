@@ -1,0 +1,4 @@
+{
+    "question": "Is historical context always explicit?",
+    "answer": "No, sometimes it's implied subtly."
+}

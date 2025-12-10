@@ -1,0 +1,4 @@
+{
+    "question": "What is Existentialism in literature?",
+    "answer": "Focus on individual existence and choice."
+}

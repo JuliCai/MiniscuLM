@@ -1,0 +1,4 @@
+{
+    "question": "What causes fog?",
+    "answer": "Condensation of water vapor near ground."
+}

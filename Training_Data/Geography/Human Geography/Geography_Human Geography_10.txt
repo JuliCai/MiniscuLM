@@ -1,0 +1,4 @@
+{
+    "question": "Define ethnicity.",
+    "answer": "Shared cultural traits or ancestry."
+}

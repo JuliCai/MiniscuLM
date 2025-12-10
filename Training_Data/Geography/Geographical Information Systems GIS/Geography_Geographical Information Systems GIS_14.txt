@@ -1,0 +1,4 @@
+{
+    "question": "What is topology in GIS?",
+    "answer": "Spatial relationships between features."
+}

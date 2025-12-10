@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of IoT in industry.",
+    "answer": "Predictive maintenance."
+}

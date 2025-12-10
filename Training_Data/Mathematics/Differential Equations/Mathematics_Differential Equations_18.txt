@@ -1,0 +1,4 @@
+{
+    "question": "What is Euler's method?",
+    "answer": "Numerical method to approximate solutions."
+}

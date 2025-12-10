@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud elasticity in AWS?",
+    "answer": "Services like Auto Scaling adjust capacity."
+}

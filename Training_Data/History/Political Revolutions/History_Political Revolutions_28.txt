@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution led to the creation of the Weimar Republic?",
+    "answer": "German Revolution of 1918."
+}

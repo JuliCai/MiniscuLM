@@ -1,0 +1,4 @@
+{
+    "question": "Integral of sec^2 x dx?",
+    "answer": "tan x + C"
+}

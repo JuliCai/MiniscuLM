@@ -1,0 +1,4 @@
+{
+    "question": "What is the major obstacle in quantum hardware?",
+    "answer": "Decoherence and error rates limiting performance."
+}

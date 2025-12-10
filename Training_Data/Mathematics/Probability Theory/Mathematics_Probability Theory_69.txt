@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability mass function of a Poisson distribution?",
+    "answer": "(\u03bb^k e^{-\u03bb})/k!"
+}

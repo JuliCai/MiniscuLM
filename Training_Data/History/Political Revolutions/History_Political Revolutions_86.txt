@@ -1,0 +1,4 @@
+{
+    "question": "What was the main outcome of the 1917 Russian Revolution?",
+    "answer": "End of Tsarist rule."
+}

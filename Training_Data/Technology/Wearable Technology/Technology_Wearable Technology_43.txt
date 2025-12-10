@@ -1,0 +1,4 @@
+{
+    "question": "What technology powers smartwatches?",
+    "answer": "Miniature processors and sensors."
+}

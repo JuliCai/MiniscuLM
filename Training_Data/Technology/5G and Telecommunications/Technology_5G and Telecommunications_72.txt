@@ -1,0 +1,4 @@
+{
+    "question": "What is the expected 5G coverage?",
+    "answer": "Widespread urban and suburban."
+}

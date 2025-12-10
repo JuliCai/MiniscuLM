@@ -1,0 +1,4 @@
+{
+    "question": "Define a random variable.",
+    "answer": "A variable representing outcomes of a random event."
+}

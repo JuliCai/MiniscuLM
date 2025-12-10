@@ -1,0 +1,4 @@
+{
+    "question": "Which woman helped found the National Organization for Women?",
+    "answer": "Betty Friedan"
+}

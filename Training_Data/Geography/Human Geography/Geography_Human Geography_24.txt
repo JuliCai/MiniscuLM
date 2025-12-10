@@ -1,0 +1,4 @@
+{
+    "question": "What is a lingua franca?",
+    "answer": "Common language for communication."
+}

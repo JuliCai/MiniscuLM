@@ -1,0 +1,4 @@
+{
+    "question": "What is a satisfiable formula?",
+    "answer": "True in at least one interpretation."
+}

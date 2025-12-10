@@ -1,0 +1,4 @@
+{
+    "question": "What does '\u2200x P(x)' mean?",
+    "answer": "For all x, P(x) is true."
+}

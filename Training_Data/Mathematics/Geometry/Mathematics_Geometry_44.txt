@@ -1,0 +1,4 @@
+{
+    "question": "What is the diameter of a circle?",
+    "answer": "Twice the radius."
+}

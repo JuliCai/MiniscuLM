@@ -1,0 +1,4 @@
+{
+    "question": "What is the future trend in wearable tech?",
+    "answer": "Smaller, smarter, and more integrated."
+}

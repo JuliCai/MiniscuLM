@@ -1,0 +1,4 @@
+{
+    "question": "What is the measure of exterior angle of a regular polygon?",
+    "answer": "360\u00b0 \u00f7 number of sides."
+}

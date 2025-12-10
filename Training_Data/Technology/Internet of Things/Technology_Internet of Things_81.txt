@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT edge gateway?",
+    "answer": "Connects local devices to cloud."
+}

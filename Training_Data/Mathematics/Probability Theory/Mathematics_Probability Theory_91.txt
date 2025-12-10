@@ -1,0 +1,4 @@
+{
+    "question": "What is the expectation of the sum of two independent variables?",
+    "answer": "Sum of their expectations."
+}

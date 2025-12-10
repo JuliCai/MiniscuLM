@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart helmet?",
+    "answer": "Helmet with integrated tech for safety."
+}

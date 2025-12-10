@@ -1,0 +1,4 @@
+{
+    "question": "What is a bound variable?",
+    "answer": "Variable within scope of quantifier."
+}

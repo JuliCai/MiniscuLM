@@ -1,0 +1,4 @@
+{
+    "question": "Define ethnocentrism.",
+    "answer": "Judging others by one\u2019s culture."
+}

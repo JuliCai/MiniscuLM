@@ -1,0 +1,4 @@
+{
+    "question": "What is a chatbot?",
+    "answer": "An AI that simulates human conversation."
+}

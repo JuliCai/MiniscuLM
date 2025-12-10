@@ -1,0 +1,4 @@
+{
+    "question": "What is the variance of a geometric distribution?",
+    "answer": "(1-p)/p^2"
+}

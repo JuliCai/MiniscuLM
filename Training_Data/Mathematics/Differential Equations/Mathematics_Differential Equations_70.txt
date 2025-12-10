@@ -1,0 +1,4 @@
+{
+    "question": "What is a complementary function?",
+    "answer": "Solution of associated homogeneous equation."
+}

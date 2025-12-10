@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of no success in n Bernoulli trials?",
+    "answer": "(1-p)^n"
+}

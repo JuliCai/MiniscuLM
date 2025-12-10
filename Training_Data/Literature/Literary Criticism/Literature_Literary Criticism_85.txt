@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between allegory and symbolism?",
+    "answer": "Allegory is extended symbol."
+}

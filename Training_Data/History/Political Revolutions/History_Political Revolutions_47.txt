@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution led to the fall of the Ottoman Empire?",
+    "answer": "Turkish War of Independence."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a benefit of solar water heaters?",
+    "answer": "Uses renewable solar energy to heat water."
+}

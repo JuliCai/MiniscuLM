@@ -1,0 +1,4 @@
+{
+    "question": "What is a multimedia text?",
+    "answer": "A text combining different media types."
+}

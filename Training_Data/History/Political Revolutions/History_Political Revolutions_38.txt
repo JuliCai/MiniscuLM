@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution ended apartheid in South Africa?",
+    "answer": "No direct revolution; ended by negotiations."
+}

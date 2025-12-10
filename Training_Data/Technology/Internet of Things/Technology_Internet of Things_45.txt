@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT enable automation?",
+    "answer": "By connecting sensors and actuators."
+}

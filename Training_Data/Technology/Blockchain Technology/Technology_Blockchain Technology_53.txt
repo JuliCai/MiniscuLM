@@ -1,0 +1,4 @@
+{
+    "question": "What is a nonce?",
+    "answer": "Number used once in mining."
+}

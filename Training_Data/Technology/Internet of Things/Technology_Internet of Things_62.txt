@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between IoT and M2M?",
+    "answer": "IoT connects via internet; M2M may not."
+}

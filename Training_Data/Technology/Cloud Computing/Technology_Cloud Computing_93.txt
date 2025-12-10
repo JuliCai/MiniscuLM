@@ -1,0 +1,4 @@
+{
+    "question": "Name a cloud platform for machine learning.",
+    "answer": "Azure Machine Learning."
+}

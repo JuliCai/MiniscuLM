@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context shape character dialogue?",
+    "answer": "Influences language and topics discussed."
+}

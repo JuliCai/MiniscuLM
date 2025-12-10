@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptographic algorithm?",
+    "answer": "Mathematical method for encryption."
+}

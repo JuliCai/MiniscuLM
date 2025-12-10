@@ -1,0 +1,4 @@
+{
+    "question": "What is a map's inset?",
+    "answer": "Smaller map within main map."
+}

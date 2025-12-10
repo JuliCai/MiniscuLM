@@ -1,0 +1,4 @@
+{
+    "question": "Who was the leader during the Glorious Revolution?",
+    "answer": "William of Orange."
+}

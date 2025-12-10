@@ -1,0 +1,4 @@
+{
+    "question": "What is a Boolean algebra?",
+    "answer": "Algebraic structure for logic operations."
+}

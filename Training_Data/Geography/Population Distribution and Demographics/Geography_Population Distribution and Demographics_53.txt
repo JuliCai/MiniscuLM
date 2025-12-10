@@ -1,0 +1,4 @@
+{
+    "question": "What is natural increase?",
+    "answer": "Births minus deaths."
+}

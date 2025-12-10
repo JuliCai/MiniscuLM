@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables support contactless payments?",
+    "answer": "Many support NFC payments."
+}

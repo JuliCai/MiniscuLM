@@ -1,0 +1,4 @@
+{
+    "question": "What is a multimedia adaptation?",
+    "answer": "Combining various forms like video and text."
+}

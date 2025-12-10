@@ -1,0 +1,4 @@
+{
+    "question": "Which desert is known for its red sand?",
+    "answer": "Namib Desert."
+}

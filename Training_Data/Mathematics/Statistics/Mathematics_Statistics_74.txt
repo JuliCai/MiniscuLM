@@ -1,0 +1,4 @@
+{
+    "question": "Define censoring in statistics.",
+    "answer": "Incomplete data due to limits."
+}

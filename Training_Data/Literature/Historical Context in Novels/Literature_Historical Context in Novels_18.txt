@@ -1,0 +1,4 @@
+{
+    "question": "Is historical context necessary for historical novels?",
+    "answer": "Yes, it grounds the story authentically."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G be used for fixed wireless?",
+    "answer": "Yes, as an alternative to fiber."
+}

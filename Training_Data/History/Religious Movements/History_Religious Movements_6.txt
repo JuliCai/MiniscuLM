@@ -1,0 +1,4 @@
+{
+    "question": "Who founded the Mormon Church?",
+    "answer": "Joseph Smith."
+}

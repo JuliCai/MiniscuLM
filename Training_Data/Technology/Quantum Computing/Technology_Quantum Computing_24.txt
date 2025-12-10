@@ -1,0 +1,4 @@
+{
+    "question": "Define coherence time.",
+    "answer": "Duration qubit maintains quantum state reliably."
+}

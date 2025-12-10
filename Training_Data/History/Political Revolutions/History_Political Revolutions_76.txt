@@ -1,0 +1,4 @@
+{
+    "question": "What was the result of the Glorious Revolution?",
+    "answer": "Constitutional monarchy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate e^(sin x).",
+    "answer": "e^(sin x) cos x"
+}

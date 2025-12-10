@@ -1,0 +1,4 @@
+{
+    "question": "What fueled the American Industrial Revolution?",
+    "answer": "Abundant natural resources and labor."
+}

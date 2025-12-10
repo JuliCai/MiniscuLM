@@ -1,0 +1,4 @@
+{
+    "question": "Define Markov property.",
+    "answer": "Future depends only on present state."
+}

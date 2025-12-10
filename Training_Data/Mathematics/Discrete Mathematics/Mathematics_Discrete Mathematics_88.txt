@@ -1,0 +1,4 @@
+{
+    "question": "Define adjacency list.",
+    "answer": "List of neighbors for each vertex."
+}

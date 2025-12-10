@@ -1,0 +1,4 @@
+{
+    "question": "How do IoT devices identify themselves?",
+    "answer": "Using unique IDs."
+}

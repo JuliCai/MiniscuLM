@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous work of Pop Art.",
+    "answer": "Campbell's Soup Cans by Warhol."
+}

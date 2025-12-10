@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud SLA.",
+    "answer": "Service Level Agreement for cloud services."
+}

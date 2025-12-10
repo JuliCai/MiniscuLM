@@ -1,0 +1,4 @@
+{
+    "question": "What role does interference play in quantum algorithms?",
+    "answer": "Amplifies correct answers, cancels wrong ones."
+}

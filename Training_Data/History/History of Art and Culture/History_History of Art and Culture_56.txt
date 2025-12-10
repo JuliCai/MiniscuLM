@@ -1,0 +1,4 @@
+{
+    "question": "What is Shinto art?",
+    "answer": "Japanese religious art."
+}

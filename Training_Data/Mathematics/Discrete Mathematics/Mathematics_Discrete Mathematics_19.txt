@@ -1,0 +1,4 @@
+{
+    "question": "What is a truth table?",
+    "answer": "Table listing truth values of propositions."
+}

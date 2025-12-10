@@ -1,0 +1,4 @@
+{
+    "question": "What defines a temperate climate?",
+    "answer": "Moderate temperatures and seasons."
+}

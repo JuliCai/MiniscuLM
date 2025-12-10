@@ -1,0 +1,4 @@
+{
+    "question": "Define cardinality.",
+    "answer": "Number of elements in set."
+}

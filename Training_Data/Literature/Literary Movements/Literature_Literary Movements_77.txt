@@ -1,0 +1,4 @@
+{
+    "question": "What is the key idea behind Tragedy?",
+    "answer": "Human suffering and downfall."
+}

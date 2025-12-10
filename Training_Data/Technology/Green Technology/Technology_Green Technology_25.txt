@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of carbon capture?",
+    "answer": "To trap CO2 emissions from the air."
+}

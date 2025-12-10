@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary feature of a savanna?",
+    "answer": "Grassland with scattered trees."
+}

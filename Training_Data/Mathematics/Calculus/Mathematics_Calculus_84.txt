@@ -1,0 +1,4 @@
+{
+    "question": "Find derivative of x^x^x.",
+    "answer": "Complex, use logarithmic differentiation"
+}

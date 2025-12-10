@@ -1,0 +1,4 @@
+{
+    "question": "What is the Pigeonhole Principle?",
+    "answer": "If n+1 items placed in n boxes, one box has \u22652 items."
+}

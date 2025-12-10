@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of lifecycle assessment?",
+    "answer": "Evaluates environmental impacts of products."
+}

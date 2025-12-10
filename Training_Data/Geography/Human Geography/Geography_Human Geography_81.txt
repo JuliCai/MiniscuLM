@@ -1,0 +1,4 @@
+{
+    "question": "Define social geography.",
+    "answer": "Study of social relationships in space."
+}

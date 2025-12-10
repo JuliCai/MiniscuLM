@@ -1,0 +1,4 @@
+{
+    "question": "Define expectation (mean) of random variable.",
+    "answer": "Weighted average of outcomes."
+}

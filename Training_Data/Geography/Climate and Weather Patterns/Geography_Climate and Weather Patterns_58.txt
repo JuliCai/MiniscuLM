@@ -1,0 +1,4 @@
+{
+    "question": "What is a temperature inversion?",
+    "answer": "Warm air traps cold air below."
+}

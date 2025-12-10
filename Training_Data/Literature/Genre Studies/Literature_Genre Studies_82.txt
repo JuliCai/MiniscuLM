@@ -1,0 +1,4 @@
+{
+    "question": "Which genre features medieval knights and castles?",
+    "answer": "Medieval romance."
+}

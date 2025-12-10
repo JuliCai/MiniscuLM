@@ -1,0 +1,4 @@
+{
+    "question": "Define 'ergodic literature.'",
+    "answer": "Literature requiring effort to traverse, like digital texts."
+}

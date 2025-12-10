@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018reinterpretation\u2019 adaptation?",
+    "answer": "Offering a new perspective on original."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Why do some authors dislike adaptations?",
+    "answer": "Loss of original intent or quality."
+}

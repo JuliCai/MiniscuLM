@@ -1,0 +1,4 @@
+{
+    "question": "Explain PaaS.",
+    "answer": "Platform as a Service."
+}

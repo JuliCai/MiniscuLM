@@ -1,0 +1,4 @@
+{
+    "question": "What is the compactness theorem?",
+    "answer": "If every finite subset satisfiable, whole is."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart city?",
+    "answer": "Urban area using IoT for efficiency."
+}

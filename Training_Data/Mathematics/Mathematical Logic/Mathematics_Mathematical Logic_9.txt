@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical consequence?",
+    "answer": "If premises true, conclusion must be true."
+}

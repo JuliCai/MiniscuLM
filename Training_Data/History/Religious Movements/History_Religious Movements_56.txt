@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary message of the Lollards?",
+    "answer": "Scripture for all."
+}

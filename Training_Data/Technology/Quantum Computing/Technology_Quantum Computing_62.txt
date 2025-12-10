@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum walk?",
+    "answer": "Quantum analog of random walks, used in algorithms."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is feature extraction?",
+    "answer": "Selecting important data attributes for AI."
+}

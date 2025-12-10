@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary belief of Rastafarianism?",
+    "answer": "Worship of Haile Selassie."
+}

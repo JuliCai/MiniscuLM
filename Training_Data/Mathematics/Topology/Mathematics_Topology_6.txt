@@ -1,0 +1,4 @@
+{
+    "question": "Define compactness.",
+    "answer": "Every open cover has a finite subcover."
+}

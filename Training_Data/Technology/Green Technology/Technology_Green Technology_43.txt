@@ -1,0 +1,4 @@
+{
+    "question": "What is a green technology trend in cities?",
+    "answer": "Urban vertical gardens."
+}

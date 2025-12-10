@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural hearth.",
+    "answer": "Origin area of cultural traits."
+}

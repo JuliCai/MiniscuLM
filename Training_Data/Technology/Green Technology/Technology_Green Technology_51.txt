@@ -1,0 +1,4 @@
+{
+    "question": "Name a green technology used in waste management.",
+    "answer": "Composting."
+}

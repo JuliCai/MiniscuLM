@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Council of Trent?",
+    "answer": "It was the Catholic Counter-Reformation council."
+}

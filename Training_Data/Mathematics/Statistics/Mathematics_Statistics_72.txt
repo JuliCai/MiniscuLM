@@ -1,0 +1,4 @@
+{
+    "question": "Define sampling distribution.",
+    "answer": "Distribution of sample statistic."
+}

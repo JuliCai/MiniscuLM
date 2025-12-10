@@ -1,0 +1,4 @@
+{
+    "question": "Define transitive relation.",
+    "answer": "If aRb and bRc then aRc."
+}

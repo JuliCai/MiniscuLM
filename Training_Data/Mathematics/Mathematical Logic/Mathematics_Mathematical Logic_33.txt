@@ -1,0 +1,4 @@
+{
+    "question": "What is a normal form?",
+    "answer": "Standardized logical formula form."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a map's cardinal direction?",
+    "answer": "North, South, East, West."
+}

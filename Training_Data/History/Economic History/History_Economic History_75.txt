@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of the Enclosure Acts?",
+    "answer": "Privatized common lands, displaced peasants."
+}

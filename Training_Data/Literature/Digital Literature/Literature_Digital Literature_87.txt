@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital text's advantage?",
+    "answer": "Easy distribution and interactivity."
+}

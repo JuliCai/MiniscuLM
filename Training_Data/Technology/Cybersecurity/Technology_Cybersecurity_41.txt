@@ -1,0 +1,4 @@
+{
+    "question": "What is a password hash?",
+    "answer": "Encrypted form of a password."
+}

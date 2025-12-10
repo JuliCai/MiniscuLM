@@ -1,0 +1,4 @@
+{
+    "question": "What is a validator?",
+    "answer": "Node that confirms transactions in PoS."
+}

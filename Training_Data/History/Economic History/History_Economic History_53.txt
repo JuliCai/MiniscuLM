@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic impact of the Napoleonic Wars?",
+    "answer": "Disrupted European trade and economies."
+}

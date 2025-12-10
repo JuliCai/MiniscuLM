@@ -1,0 +1,4 @@
+{
+    "question": "How does education impact demographics?",
+    "answer": "Lowers birth rates."
+}

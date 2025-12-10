@@ -1,0 +1,4 @@
+{
+    "question": "Does historical context affect a novel\u2019s reception?",
+    "answer": "Yes, it can affect critical and popular views."
+}

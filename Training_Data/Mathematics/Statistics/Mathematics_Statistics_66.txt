@@ -1,0 +1,4 @@
+{
+    "question": "Define non-parametric test.",
+    "answer": "Test without distribution assumptions."
+}

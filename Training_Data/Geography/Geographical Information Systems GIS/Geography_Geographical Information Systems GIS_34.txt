@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS aid in urban planning?",
+    "answer": "Zoning and land use analysis."
+}

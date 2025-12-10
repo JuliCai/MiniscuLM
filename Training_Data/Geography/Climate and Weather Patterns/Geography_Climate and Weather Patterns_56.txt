@@ -1,0 +1,4 @@
+{
+    "question": "How is climate change measured?",
+    "answer": "Using temperature and CO2 data."
+}

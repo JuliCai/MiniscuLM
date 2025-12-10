@@ -1,0 +1,4 @@
+{
+    "question": "How does fertility rate affect population?",
+    "answer": "Higher rate means more births."
+}

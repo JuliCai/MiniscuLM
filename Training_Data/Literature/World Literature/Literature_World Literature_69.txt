@@ -1,0 +1,4 @@
+{
+    "question": "Which novel is set in post-apartheid South Africa?",
+    "answer": "Disgrace"
+}

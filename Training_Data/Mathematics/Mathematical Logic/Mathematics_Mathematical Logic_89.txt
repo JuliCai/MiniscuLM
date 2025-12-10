@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between classical and non-classical logic?",
+    "answer": "Non-classical rejects some classical axioms."
+}

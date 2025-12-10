@@ -1,0 +1,4 @@
+{
+    "question": "What was the main goal of the American Revolution?",
+    "answer": "Independence from Britain."
+}

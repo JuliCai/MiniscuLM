@@ -1,0 +1,4 @@
+{
+    "question": "Which novel's protagonist is named Elizabeth Bennet?",
+    "answer": "Pride and Prejudice"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between AI and data science?",
+    "answer": "AI focuses on automation; data science on analysis."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the core of Bah\u00e1'\u00ed teachings?",
+    "answer": "Unity of humanity."
+}

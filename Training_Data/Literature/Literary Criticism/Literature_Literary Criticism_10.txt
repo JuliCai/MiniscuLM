@@ -1,0 +1,4 @@
+{
+    "question": "What does new criticism emphasize?",
+    "answer": "Close reading of the text itself."
+}

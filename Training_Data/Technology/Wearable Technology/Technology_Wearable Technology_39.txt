@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables support voice commands?",
+    "answer": "Many do support voice assistants."
+}

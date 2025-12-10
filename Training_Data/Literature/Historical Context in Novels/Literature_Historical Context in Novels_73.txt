@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect character relationships?",
+    "answer": "Social norms dictate interactions."
+}

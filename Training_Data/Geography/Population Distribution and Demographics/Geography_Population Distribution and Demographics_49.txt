@@ -1,0 +1,4 @@
+{
+    "question": "What is sex ratio?",
+    "answer": "Number of males per 100 females."
+}

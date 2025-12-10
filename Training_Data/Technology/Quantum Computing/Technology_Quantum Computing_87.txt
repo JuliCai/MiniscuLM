@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum entanglement witness?",
+    "answer": "Tool to detect entanglement in quantum states."
+}

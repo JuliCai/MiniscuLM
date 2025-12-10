@@ -1,0 +1,4 @@
+{
+    "question": "What is Pentecostalism's key feature?",
+    "answer": "Speaking in tongues."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What characterizes the Beat poetry?",
+    "answer": "Spontaneous, free form."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Bluest Eye'?",
+    "answer": "Toni Morrison"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Tulip Mania?",
+    "answer": "Speculative bubble on tulip bulbs in Holland."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the Berlin Conference?",
+    "answer": "Meeting dividing Africa among European powers."
+}

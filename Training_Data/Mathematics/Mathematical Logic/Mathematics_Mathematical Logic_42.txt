@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between propositional and predicate logic?",
+    "answer": "Predicate logic uses quantifiers and variables."
+}

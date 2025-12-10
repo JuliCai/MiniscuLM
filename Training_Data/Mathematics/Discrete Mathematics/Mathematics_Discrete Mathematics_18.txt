@@ -1,0 +1,4 @@
+{
+    "question": "Define a propositional variable.",
+    "answer": "Variable representing true/false statement."
+}

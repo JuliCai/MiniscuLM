@@ -1,0 +1,4 @@
+{
+    "question": "What genre blends reality and fantasy?",
+    "answer": "Magic realism."
+}

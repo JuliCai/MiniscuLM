@@ -1,0 +1,4 @@
+{
+    "question": "Define qualitative data.",
+    "answer": "Categorical data."
+}

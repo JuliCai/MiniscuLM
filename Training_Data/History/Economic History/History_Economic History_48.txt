@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of the railroad on US economy?",
+    "answer": "Facilitated trade and westward expansion."
+}

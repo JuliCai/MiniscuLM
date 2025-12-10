@@ -1,0 +1,4 @@
+{
+    "question": "Name a sparsely populated region.",
+    "answer": "Sahara Desert."
+}

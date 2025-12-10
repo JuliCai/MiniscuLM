@@ -1,0 +1,4 @@
+{
+    "question": "What is phase plane analysis?",
+    "answer": "Graphical method to study systems behavior."
+}

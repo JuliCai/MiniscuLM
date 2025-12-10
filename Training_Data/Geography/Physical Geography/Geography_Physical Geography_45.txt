@@ -1,0 +1,4 @@
+{
+    "question": "What causes a landslide?",
+    "answer": "Gravity on unstable slopes."
+}

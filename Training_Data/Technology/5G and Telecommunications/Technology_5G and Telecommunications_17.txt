@@ -1,0 +1,4 @@
+{
+    "question": "What is URLLC in 5G?",
+    "answer": "Ultra-Reliable Low Latency Communication."
+}

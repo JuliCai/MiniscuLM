@@ -1,0 +1,4 @@
+{
+    "question": "What is a key feature of smart rings?",
+    "answer": "Discreet notifications and health tracking."
+}

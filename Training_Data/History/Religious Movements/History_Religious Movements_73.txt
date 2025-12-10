@@ -1,0 +1,4 @@
+{
+    "question": "What movement did Jonathan Edwards influence?",
+    "answer": "The Great Awakening."
+}

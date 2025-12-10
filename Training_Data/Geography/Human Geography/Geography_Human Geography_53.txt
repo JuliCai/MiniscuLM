@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural relativism.",
+    "answer": "Understanding culture on its own terms."
+}

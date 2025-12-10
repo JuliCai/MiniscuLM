@@ -1,0 +1,4 @@
+{
+    "question": "What is the key theme of Romanticism?",
+    "answer": "Emotion over reason."
+}

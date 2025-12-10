@@ -1,0 +1,4 @@
+{
+    "question": "What is a residual in regression?",
+    "answer": "Difference observed-predicted value."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of entailment.",
+    "answer": "If premises true, conclusion must be true."
+}

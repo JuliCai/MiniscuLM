@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud region vs availability zone?",
+    "answer": "Region is geographic area; zone is isolated location in region."
+}

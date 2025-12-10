@@ -1,0 +1,4 @@
+{
+    "question": "Name the main character in 'Magic School Bus'.",
+    "answer": "Ms. Frizzle"
+}

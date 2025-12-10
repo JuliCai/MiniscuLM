@@ -1,0 +1,4 @@
+{
+    "question": "Define a basin in geography.",
+    "answer": "A low-lying area drained by rivers."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define synecdoche.",
+    "answer": "Using a part to represent the whole."
+}

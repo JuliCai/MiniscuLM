@@ -1,0 +1,4 @@
+{
+    "question": "What is edge computing in 5G?",
+    "answer": "Processing data near the user."
+}

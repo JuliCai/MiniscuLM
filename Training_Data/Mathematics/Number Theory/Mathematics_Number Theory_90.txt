@@ -1,0 +1,4 @@
+{
+    "question": "Is 33 prime or composite?",
+    "answer": "Composite, 3 \u00d7 11."
+}

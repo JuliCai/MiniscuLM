@@ -1,0 +1,4 @@
+{
+    "question": "Explain node synchronization.",
+    "answer": "Updating nodes to latest blockchain state."
+}

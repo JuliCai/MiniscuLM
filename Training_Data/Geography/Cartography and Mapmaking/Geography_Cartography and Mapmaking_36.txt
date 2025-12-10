@@ -1,0 +1,4 @@
+{
+    "question": "Name a map type showing climate zones.",
+    "answer": "Climatic map."
+}

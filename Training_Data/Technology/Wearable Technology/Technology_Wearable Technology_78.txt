@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of wearable tech on healthcare?",
+    "answer": "Improves monitoring and patient care."
+}

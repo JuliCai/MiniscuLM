@@ -1,0 +1,4 @@
+{
+    "question": "Difference between VR and AR?",
+    "answer": "VR is fully virtual; AR adds to reality."
+}

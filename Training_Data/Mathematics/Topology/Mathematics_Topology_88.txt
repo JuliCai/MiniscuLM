@@ -1,0 +1,4 @@
+{
+    "question": "Define Peano continuum.",
+    "answer": "Compact, connected, locally connected metric space."
+}

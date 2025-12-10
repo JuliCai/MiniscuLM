@@ -1,0 +1,4 @@
+{
+    "question": "Is AR used in advertising?",
+    "answer": "Yes, for interactive ads."
+}

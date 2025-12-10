@@ -1,0 +1,4 @@
+{
+    "question": "What is a delta formed by?",
+    "answer": "Sediment deposits at a river mouth."
+}

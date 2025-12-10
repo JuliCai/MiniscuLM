@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of digits divisibility rule for 3?",
+    "answer": "Sum of digits divisible by 3."
+}

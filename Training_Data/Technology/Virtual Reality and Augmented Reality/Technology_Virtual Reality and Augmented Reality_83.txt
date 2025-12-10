@@ -1,0 +1,4 @@
+{
+    "question": "What is a VR headset's IPD?",
+    "answer": "Interpupillary distance adjustment."
+}

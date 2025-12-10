@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of spectrum in 5G?",
+    "answer": "Determines coverage and speed."
+}

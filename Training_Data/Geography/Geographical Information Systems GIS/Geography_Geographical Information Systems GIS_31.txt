@@ -1,0 +1,4 @@
+{
+    "question": "What is a geodatabase?",
+    "answer": "A database optimized for spatial data."
+}

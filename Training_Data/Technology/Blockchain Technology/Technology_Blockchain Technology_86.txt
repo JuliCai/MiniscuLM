@@ -1,0 +1,4 @@
+{
+    "question": "What is a token burn?",
+    "answer": "Destroying tokens to reduce supply."
+}

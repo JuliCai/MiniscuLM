@@ -1,0 +1,4 @@
+{
+    "question": "What led to the South Sea Bubble?",
+    "answer": "Speculative investment in South Sea Company."
+}

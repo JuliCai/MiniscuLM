@@ -1,0 +1,4 @@
+{
+    "question": "How do governments influence population?",
+    "answer": "Policies on birth and migration."
+}

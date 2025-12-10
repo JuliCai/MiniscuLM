@@ -1,0 +1,4 @@
+{
+    "question": "Define Laplace transform of derivative.",
+    "answer": "L{y'} = sY(s) - y(0)."
+}

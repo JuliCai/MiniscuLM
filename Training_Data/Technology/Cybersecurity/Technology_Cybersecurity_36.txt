@@ -1,0 +1,4 @@
+{
+    "question": "What is spear phishing?",
+    "answer": "Targeted phishing attack on specific individuals."
+}

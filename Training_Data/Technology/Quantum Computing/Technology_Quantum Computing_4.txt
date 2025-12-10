@@ -1,0 +1,4 @@
+{
+    "question": "Name a popular quantum algorithm.",
+    "answer": "Shor's algorithm for factoring integers efficiently."
+}

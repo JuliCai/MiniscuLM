@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology help the environment?",
+    "answer": "By reducing pollution and conserving resources."
+}

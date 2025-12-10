@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT improve homes?",
+    "answer": "Enables automation and remote control."
+}

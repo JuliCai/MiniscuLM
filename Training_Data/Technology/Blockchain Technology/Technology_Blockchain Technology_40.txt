@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain?",
+    "answer": "Separate blockchain linked to main chain."
+}

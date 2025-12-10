@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of colonial railroads?",
+    "answer": "Facilitated resource extraction."
+}

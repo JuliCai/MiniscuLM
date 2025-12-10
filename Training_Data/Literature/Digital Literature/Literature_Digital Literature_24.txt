@@ -1,0 +1,4 @@
+{
+    "question": "How do digital archives aid literature?",
+    "answer": "They preserve and provide access to digital texts."
+}

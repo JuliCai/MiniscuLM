@@ -1,0 +1,4 @@
+{
+    "question": "What is an event in probability?",
+    "answer": "A subset of the sample space."
+}

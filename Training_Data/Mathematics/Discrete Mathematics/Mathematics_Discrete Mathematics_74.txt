@@ -1,0 +1,4 @@
+{
+    "question": "Define complexity class NP.",
+    "answer": "Problems verifiable in polynomial time."
+}

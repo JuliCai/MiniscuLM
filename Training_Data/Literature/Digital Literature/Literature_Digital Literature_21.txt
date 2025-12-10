@@ -1,0 +1,4 @@
+{
+    "question": "What is a hypertext link?",
+    "answer": "A clickable link connecting digital text segments."
+}

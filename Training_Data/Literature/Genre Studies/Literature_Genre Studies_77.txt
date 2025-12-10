@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of romance.",
+    "answer": "Stories centered on love."
+}

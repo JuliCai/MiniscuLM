@@ -1,0 +1,4 @@
+{
+    "question": "Can AR be used in real estate?",
+    "answer": "Yes, virtual property tours."
+}

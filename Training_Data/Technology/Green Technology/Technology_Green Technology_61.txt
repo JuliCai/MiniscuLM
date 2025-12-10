@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge of green technology?",
+    "answer": "Balancing cost and sustainability."
+}

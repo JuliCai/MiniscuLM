@@ -1,0 +1,4 @@
+{
+    "question": "What is graph coloring?",
+    "answer": "Assigning colors to vertices, no adjacent same color."
+}

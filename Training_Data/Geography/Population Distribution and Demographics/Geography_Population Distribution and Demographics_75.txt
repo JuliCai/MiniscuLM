@@ -1,0 +1,4 @@
+{
+    "question": "What demographic data does a census collect?",
+    "answer": "Age, sex, occupation."
+}

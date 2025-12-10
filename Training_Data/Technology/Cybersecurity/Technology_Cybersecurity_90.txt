@@ -1,0 +1,4 @@
+{
+    "question": "What is a VPN used for?",
+    "answer": "To secure internet connections."
+}

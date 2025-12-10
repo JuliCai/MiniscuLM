@@ -1,0 +1,4 @@
+{
+    "question": "How do IoT devices conserve energy?",
+    "answer": "Sleep modes and low power use."
+}

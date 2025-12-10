@@ -1,0 +1,4 @@
+{
+    "question": "What drove the expansion of railroads in 19th century US?",
+    "answer": "Industrial growth and westward expansion."
+}

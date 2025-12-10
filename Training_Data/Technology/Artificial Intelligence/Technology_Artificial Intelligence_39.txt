@@ -1,0 +1,4 @@
+{
+    "question": "Name an AI assistant.",
+    "answer": "Siri, Alexa, or Google Assistant."
+}

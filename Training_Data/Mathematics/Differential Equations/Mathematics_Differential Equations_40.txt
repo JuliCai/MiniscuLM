@@ -1,0 +1,4 @@
+{
+    "question": "What is a singular solution?",
+    "answer": "Solution not obtainable from general solution."
+}

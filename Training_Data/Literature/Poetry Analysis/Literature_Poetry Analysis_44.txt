@@ -1,0 +1,4 @@
+{
+    "question": "What is a refrain's purpose?",
+    "answer": "To reinforce a theme or mood."
+}

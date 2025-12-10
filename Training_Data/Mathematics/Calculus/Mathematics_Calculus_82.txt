@@ -1,0 +1,4 @@
+{
+    "question": "Integral of tanh x dx.",
+    "answer": "ln(cosh x) + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main theme in 'The Paper Bag Princess'?",
+    "answer": "Female empowerment"
+}

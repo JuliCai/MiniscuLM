@@ -1,0 +1,4 @@
+{
+    "question": "Why might an author alter historical context?",
+    "answer": "To explore 'what if' scenarios or themes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud elasticity vs scalability.",
+    "answer": "Elasticity adjusts dynamically, scalability is capacity to grow."
+}

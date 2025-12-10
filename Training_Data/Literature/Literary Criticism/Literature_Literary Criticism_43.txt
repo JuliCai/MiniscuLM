@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'implied author'?",
+    "answer": "Author's persona inferred by readers."
+}

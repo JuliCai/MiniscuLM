@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of a null event.",
+    "answer": "Event with zero probability."
+}

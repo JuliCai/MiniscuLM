@@ -1,0 +1,4 @@
+{
+    "question": "Define median in statistics.",
+    "answer": "Middle value in sorted data."
+}

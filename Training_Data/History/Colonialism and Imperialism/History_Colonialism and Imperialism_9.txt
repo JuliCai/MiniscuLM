@@ -1,0 +1,4 @@
+{
+    "question": "Name one effect of colonialism.",
+    "answer": "Cultural assimilation."
+}

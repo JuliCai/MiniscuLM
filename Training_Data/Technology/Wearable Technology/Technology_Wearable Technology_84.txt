@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables detect blood pressure?",
+    "answer": "Some models measure blood pressure."
+}

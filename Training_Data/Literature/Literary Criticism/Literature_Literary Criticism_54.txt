@@ -1,0 +1,4 @@
+{
+    "question": "What is a frame narrative?",
+    "answer": "Story within a story."
+}

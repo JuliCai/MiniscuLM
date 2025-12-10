@@ -1,0 +1,4 @@
+{
+    "question": "Does historical context affect narrative style?",
+    "answer": "Often shapes language and perspective."
+}

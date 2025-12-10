@@ -1,0 +1,4 @@
+{
+    "question": "What is a consensus failure?",
+    "answer": "When nodes disagree on ledger state."
+}

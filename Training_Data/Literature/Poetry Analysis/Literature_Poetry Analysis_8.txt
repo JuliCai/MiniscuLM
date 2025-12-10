@@ -1,0 +1,4 @@
+{
+    "question": "Define personification.",
+    "answer": "Attributing human traits to non-human things."
+}

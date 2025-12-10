@@ -1,0 +1,4 @@
+{
+    "question": "What is a token standard?",
+    "answer": "Specification for tokens like ERC-20."
+}

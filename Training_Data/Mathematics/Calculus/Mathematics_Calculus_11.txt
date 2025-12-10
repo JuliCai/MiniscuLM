@@ -1,0 +1,4 @@
+{
+    "question": "Find d/dx of sin^2 x.",
+    "answer": "2 sin x cos x"
+}

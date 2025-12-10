@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature considered traditional literature?",
+    "answer": "It is a contemporary evolution of literature."
+}

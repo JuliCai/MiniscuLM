@@ -1,0 +1,4 @@
+{
+    "question": "Purpose of antivirus software?",
+    "answer": "Detect and remove malware."
+}

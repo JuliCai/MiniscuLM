@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables alert emergency contacts?",
+    "answer": "Many have SOS features."
+}

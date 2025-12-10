@@ -1,0 +1,4 @@
+{
+    "question": "What is a box plot?",
+    "answer": "Graph showing quartiles and outliers."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define tone in poetry.",
+    "answer": "The poet's attitude toward the subject."
+}

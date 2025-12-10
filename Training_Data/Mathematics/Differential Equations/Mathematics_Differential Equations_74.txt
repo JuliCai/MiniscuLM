@@ -1,0 +1,4 @@
+{
+    "question": "What is the Bernoulli equation form?",
+    "answer": "y' + P(x) y = Q(x) y^n."
+}

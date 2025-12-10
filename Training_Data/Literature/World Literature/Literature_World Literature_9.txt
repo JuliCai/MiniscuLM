@@ -1,0 +1,4 @@
+{
+    "question": "What is the setting of 'Things Fall Apart'?",
+    "answer": "Nigeria"
+}

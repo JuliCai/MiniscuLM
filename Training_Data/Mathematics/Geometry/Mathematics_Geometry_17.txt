@@ -1,0 +1,4 @@
+{
+    "question": "How do you find the midpoint of a segment?",
+    "answer": "Average of x and y coordinates."
+}

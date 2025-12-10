@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain protocol?",
+    "answer": "Rules governing blockchain operations."
+}

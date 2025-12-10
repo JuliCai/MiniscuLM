@@ -1,0 +1,4 @@
+{
+    "question": "Explain Proof of Work (PoW).",
+    "answer": "Mining method solving cryptographic puzzles."
+}

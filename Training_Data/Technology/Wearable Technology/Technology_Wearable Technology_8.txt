@@ -1,0 +1,4 @@
+{
+    "question": "Name a wearable device for hearing assistance.",
+    "answer": "Hearing aids."
+}

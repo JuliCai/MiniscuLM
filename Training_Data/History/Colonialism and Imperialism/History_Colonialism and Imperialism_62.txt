@@ -1,0 +1,4 @@
+{
+    "question": "What is mercantilism?",
+    "answer": "Economic system favoring colonies for trade."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between smartwatches and fitness bands?",
+    "answer": "Smartwatches have more features and apps."
+}

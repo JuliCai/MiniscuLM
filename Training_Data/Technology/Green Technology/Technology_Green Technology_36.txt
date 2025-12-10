@@ -1,0 +1,4 @@
+{
+    "question": "How is hydropower generated?",
+    "answer": "Using flowing water to create electricity."
+}

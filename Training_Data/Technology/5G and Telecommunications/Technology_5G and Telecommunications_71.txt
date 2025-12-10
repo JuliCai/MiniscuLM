@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G support holographic calls?",
+    "answer": "Potentially, with high bandwidth."
+}

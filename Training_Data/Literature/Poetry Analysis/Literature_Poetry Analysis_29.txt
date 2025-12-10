@@ -1,0 +1,4 @@
+{
+    "question": "Define irony tone.",
+    "answer": "Tone expressing contradiction or sarcasm."
+}

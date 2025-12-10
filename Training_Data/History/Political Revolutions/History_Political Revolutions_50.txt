@@ -1,0 +1,4 @@
+{
+    "question": "What did the Magna Carta influence?",
+    "answer": "Limitation of royal power."
+}

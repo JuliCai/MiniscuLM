@@ -1,0 +1,4 @@
+{
+    "question": "Can quantum computers solve all problems faster?",
+    "answer": "No, only specific problem classes benefit."
+}

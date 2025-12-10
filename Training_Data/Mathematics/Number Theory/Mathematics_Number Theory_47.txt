@@ -1,0 +1,4 @@
+{
+    "question": "What does it mean if gcd(a,b) = 1?",
+    "answer": "a and b are coprime."
+}

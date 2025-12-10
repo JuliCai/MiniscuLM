@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was the first female Nobel Prize laureate in Literature?",
+    "answer": "Selma Lagerl\u00f6f"
+}

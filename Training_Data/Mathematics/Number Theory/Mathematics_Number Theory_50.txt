@@ -1,0 +1,4 @@
+{
+    "question": "What is the factorial of 5?",
+    "answer": "120"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital home assistant?",
+    "answer": "Voice-controlled IoT device."
+}

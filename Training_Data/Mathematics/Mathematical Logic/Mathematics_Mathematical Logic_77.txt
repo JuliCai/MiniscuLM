@@ -1,0 +1,4 @@
+{
+    "question": "What is proof theory?",
+    "answer": "Study of proofs as mathematical objects."
+}

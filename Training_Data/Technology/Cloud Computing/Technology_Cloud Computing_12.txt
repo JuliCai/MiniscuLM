@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud elasticity.",
+    "answer": "Automatic resource adjustment based on demand."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a key cause of the Haitian Revolution.",
+    "answer": "Slavery and racial inequality."
+}

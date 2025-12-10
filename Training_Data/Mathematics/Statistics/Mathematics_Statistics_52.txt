@@ -1,0 +1,4 @@
+{
+    "question": "What is binomial distribution?",
+    "answer": "Number of successes in trials."
+}

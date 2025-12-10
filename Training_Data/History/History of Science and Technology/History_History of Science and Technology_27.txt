@@ -1,0 +1,4 @@
+{
+    "question": "Who discovered radio waves?",
+    "answer": "Heinrich Hertz."
+}

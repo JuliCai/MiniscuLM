@@ -1,0 +1,4 @@
+{
+    "question": "What does '\u2227' represent in logic?",
+    "answer": "Logical AND operator."
+}

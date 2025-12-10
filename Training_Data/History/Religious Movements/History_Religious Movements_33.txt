@@ -1,0 +1,4 @@
+{
+    "question": "When did Islam begin?",
+    "answer": "7th century."
+}

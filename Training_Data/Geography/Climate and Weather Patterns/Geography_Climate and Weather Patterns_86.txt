@@ -1,0 +1,4 @@
+{
+    "question": "How does solar radiation affect climate?",
+    "answer": "Determines temperature and weather patterns."
+}

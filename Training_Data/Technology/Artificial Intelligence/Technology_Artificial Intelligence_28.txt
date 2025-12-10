@@ -1,0 +1,4 @@
+{
+    "question": "What is narrow AI?",
+    "answer": "AI designed for specific tasks."
+}

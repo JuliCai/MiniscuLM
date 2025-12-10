@@ -1,0 +1,4 @@
+{
+    "question": "What does '\u2203x P(x)' signify?",
+    "answer": "There exists an x making P(x) true."
+}

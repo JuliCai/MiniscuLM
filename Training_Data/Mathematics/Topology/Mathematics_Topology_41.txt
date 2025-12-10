@@ -1,0 +1,4 @@
+{
+    "question": "What is a T2 space?",
+    "answer": "Hausdorff space."
+}

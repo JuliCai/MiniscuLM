@@ -1,0 +1,4 @@
+{
+    "question": "What is a nation?",
+    "answer": "Group sharing culture and territory."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud backup.",
+    "answer": "Storing data copies in the cloud."
+}

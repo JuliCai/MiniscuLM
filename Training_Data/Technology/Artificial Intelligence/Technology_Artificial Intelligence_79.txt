@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in finance risk management?",
+    "answer": "Predicting and mitigating financial risks."
+}

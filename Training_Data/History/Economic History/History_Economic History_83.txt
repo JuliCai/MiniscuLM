@@ -1,0 +1,4 @@
+{
+    "question": "What was the Industrial Revolution's impact on labor?",
+    "answer": "Shift from agrarian to factory work."
+}

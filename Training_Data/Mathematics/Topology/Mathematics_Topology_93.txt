@@ -1,0 +1,4 @@
+{
+    "question": "What is a measurable space?",
+    "answer": "Set with sigma-algebra defined."
+}

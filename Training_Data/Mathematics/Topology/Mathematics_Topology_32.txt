@@ -1,0 +1,4 @@
+{
+    "question": "Define separable space.",
+    "answer": "Contains a countable dense subset."
+}

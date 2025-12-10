@@ -1,0 +1,4 @@
+{
+    "question": "Define locally compact space.",
+    "answer": "Every point has a compact neighborhood."
+}

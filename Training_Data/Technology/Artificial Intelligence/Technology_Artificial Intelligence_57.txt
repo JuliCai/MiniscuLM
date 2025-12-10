@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in speech recognition?",
+    "answer": "Converting speech to text using AI."
+}

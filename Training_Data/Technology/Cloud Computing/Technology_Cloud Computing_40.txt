@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud identity management?",
+    "answer": "Managing user access in cloud systems."
+}

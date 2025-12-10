@@ -1,0 +1,4 @@
+{
+    "question": "Explain the use of paradox in poetry.",
+    "answer": "A contradictory statement revealing truth."
+}

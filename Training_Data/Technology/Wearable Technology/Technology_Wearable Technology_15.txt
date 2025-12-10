@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables use Bluetooth?",
+    "answer": "Yes, for connecting with smartphones."
+}

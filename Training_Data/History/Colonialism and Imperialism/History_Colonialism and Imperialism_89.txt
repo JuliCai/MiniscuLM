@@ -1,0 +1,4 @@
+{
+    "question": "What was the main colonial crop in the Caribbean?",
+    "answer": "Sugar."
+}

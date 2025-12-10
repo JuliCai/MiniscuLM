@@ -1,0 +1,4 @@
+{
+    "question": "Name a feminist literary critic.",
+    "answer": "Elaine Showalter"
+}

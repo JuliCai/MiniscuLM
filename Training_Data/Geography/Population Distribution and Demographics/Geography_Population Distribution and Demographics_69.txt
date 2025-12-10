@@ -1,0 +1,4 @@
+{
+    "question": "What is migration pull factor?",
+    "answer": "Reasons to move to area."
+}

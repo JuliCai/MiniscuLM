@@ -1,0 +1,4 @@
+{
+    "question": "Who created the first law of thermodynamics?",
+    "answer": "Joule and Mayer."
+}

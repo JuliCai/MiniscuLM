@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect plot structure?",
+    "answer": "Chronology may align with historical events."
+}

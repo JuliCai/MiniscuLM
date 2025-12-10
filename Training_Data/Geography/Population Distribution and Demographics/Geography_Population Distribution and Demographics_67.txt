@@ -1,0 +1,4 @@
+{
+    "question": "Name a country with rapid population growth.",
+    "answer": "Nigeria."
+}

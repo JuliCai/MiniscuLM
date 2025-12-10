@@ -1,0 +1,4 @@
+{
+    "question": "What is multi-tenancy?",
+    "answer": "Multiple users share cloud resources securely."
+}

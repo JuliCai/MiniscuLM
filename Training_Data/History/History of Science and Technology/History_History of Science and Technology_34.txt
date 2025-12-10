@@ -1,0 +1,4 @@
+{
+    "question": "Who developed calculus independently?",
+    "answer": "Newton and Leibniz."
+}

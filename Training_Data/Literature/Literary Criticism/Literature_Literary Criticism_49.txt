@@ -1,0 +1,4 @@
+{
+    "question": "What does 'close reading' involve?",
+    "answer": "Detailed textual analysis."
+}

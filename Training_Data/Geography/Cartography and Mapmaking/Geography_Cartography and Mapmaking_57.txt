@@ -1,0 +1,4 @@
+{
+    "question": "What is remote sensing used for?",
+    "answer": "Mapping large areas remotely."
+}

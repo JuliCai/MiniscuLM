@@ -1,0 +1,4 @@
+{
+    "question": "Name a novel by Angela Carter.",
+    "answer": "The Bloody Chamber"
+}

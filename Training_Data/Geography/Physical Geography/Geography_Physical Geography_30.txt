@@ -1,0 +1,4 @@
+{
+    "question": "Which continent has the highest average elevation?",
+    "answer": "Antarctica."
+}

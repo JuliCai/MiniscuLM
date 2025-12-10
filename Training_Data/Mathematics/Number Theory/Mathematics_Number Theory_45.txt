@@ -1,0 +1,4 @@
+{
+    "question": "What is a perfect number less than 10?",
+    "answer": "6"
+}

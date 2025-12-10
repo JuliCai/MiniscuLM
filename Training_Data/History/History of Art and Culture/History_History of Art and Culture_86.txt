@@ -1,0 +1,4 @@
+{
+    "question": "When did the Cubism art movement start?",
+    "answer": "Early 20th century."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum decoherence?",
+    "answer": "Loss of quantum state due to environment interaction."
+}

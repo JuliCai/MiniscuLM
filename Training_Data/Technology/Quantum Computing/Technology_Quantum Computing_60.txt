@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum circuit simulator?",
+    "answer": "Software that simulates quantum circuits on classical computers."
+}

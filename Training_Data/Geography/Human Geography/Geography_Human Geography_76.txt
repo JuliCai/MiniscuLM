@@ -1,0 +1,4 @@
+{
+    "question": "What is a linguistic group?",
+    "answer": "People sharing a language."
+}

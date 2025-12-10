@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature include animations?",
+    "answer": "Yes, animations can be part of digital works."
+}

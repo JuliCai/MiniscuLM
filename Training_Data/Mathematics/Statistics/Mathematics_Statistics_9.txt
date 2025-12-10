@@ -1,0 +1,4 @@
+{
+    "question": "What does skewness measure?",
+    "answer": "Asymmetry of data distribution."
+}

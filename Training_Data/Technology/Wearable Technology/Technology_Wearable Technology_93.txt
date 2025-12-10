@@ -1,0 +1,4 @@
+{
+    "question": "Do all wearables have displays?",
+    "answer": "No, some are display-free."
+}

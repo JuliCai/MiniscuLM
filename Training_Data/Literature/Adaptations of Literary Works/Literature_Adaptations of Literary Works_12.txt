@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of a novel adapted into a video game?",
+    "answer": "The Witcher series."
+}

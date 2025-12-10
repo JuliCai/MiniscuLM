@@ -1,0 +1,4 @@
+{
+    "question": "What civilization created hieroglyphics?",
+    "answer": "Ancient Egyptians."
+}

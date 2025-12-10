@@ -1,0 +1,4 @@
+{
+    "question": "Who was Cecil Rhodes?",
+    "answer": "British imperialist in Africa."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was a key figure in the Salem witch trials?",
+    "answer": "Tituba"
+}

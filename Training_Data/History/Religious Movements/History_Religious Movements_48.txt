@@ -1,0 +1,4 @@
+{
+    "question": "What is the sacred text of Sikhism?",
+    "answer": "Guru Granth Sahib."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How is historical context used in dystopian novels?",
+    "answer": "Reflects fears of specific eras."
+}

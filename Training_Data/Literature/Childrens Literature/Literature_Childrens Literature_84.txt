@@ -1,0 +1,4 @@
+{
+    "question": "What is the main message in 'The Lorax'?",
+    "answer": "Protect the environment"
+}

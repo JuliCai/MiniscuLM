@@ -1,0 +1,4 @@
+{
+    "question": "What does a hygrometer measure?",
+    "answer": "Humidity levels in the air."
+}

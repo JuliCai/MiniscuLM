@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context challenge readers?",
+    "answer": "By presenting unfamiliar customs or events."
+}

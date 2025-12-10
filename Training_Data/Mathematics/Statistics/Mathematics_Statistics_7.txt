@@ -1,0 +1,4 @@
+{
+    "question": "Define probability.",
+    "answer": "Chance of an event occurring."
+}

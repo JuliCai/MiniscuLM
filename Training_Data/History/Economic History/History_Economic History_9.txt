@@ -1,0 +1,4 @@
+{
+    "question": "What caused the 1973 oil crisis?",
+    "answer": "OPEC oil embargo against the West."
+}

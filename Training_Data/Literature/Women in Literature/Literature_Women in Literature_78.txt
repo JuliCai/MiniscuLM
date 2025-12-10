@@ -1,0 +1,4 @@
+{
+    "question": "Name a female author known for horror fiction.",
+    "answer": "Shirley Jackson"
+}

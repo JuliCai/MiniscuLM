@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'The Lion, the Witch and the Wardrobe'?",
+    "answer": "C.S. Lewis"
+}

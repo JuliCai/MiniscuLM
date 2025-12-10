@@ -1,0 +1,4 @@
+{
+    "question": "What is data encryption?",
+    "answer": "Encoding data to prevent unauthorized access."
+}

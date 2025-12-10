@@ -1,0 +1,4 @@
+{
+    "question": "What is a recurrence base case?",
+    "answer": "Initial condition for recurrence relation."
+}

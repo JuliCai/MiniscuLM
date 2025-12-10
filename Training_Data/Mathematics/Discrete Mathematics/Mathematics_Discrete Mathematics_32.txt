@@ -1,0 +1,4 @@
+{
+    "question": "What is a spanning tree?",
+    "answer": "Tree containing all vertices."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of 5G on latency-sensitive apps?",
+    "answer": "Improves responsiveness."
+}

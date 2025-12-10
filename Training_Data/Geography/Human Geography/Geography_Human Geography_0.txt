@@ -1,0 +1,4 @@
+{
+    "question": "What is human geography?",
+    "answer": "Study of human activities and their spatial impact."
+}

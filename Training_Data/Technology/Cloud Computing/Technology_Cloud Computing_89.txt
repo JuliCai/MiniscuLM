@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud migration challenges.",
+    "answer": "Data security, compatibility, downtime."
+}

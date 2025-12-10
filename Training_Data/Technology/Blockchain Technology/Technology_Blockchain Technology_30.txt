@@ -1,0 +1,4 @@
+{
+    "question": "Define public key.",
+    "answer": "Cryptographic key shared publicly."
+}

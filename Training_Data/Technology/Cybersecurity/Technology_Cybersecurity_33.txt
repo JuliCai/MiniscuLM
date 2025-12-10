@@ -1,0 +1,4 @@
+{
+    "question": "What is cyber hygiene?",
+    "answer": "Practices to maintain cybersecurity health."
+}

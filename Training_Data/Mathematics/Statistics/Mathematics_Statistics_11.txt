@@ -1,0 +1,4 @@
+{
+    "question": "Define interquartile range.",
+    "answer": "Difference between Q3 and Q1."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main feature of NB-IoT?",
+    "answer": "Low power wide area connectivity."
+}

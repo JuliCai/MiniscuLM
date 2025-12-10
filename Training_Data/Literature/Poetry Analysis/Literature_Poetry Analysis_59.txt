@@ -1,0 +1,4 @@
+{
+    "question": "Explain the importance of setting in poetry.",
+    "answer": "Establishes mood and context."
+}

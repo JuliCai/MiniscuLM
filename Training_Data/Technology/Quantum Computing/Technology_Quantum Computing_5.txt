@@ -1,0 +1,4 @@
+{
+    "question": "What problem does Grover's algorithm address?",
+    "answer": "Searches unsorted databases faster than classical."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for area of a sector?",
+    "answer": "(\u03b8/360) \u00d7 \u03c0r\u00b2."
+}

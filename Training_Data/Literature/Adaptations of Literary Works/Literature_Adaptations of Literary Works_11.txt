@@ -1,0 +1,4 @@
+{
+    "question": "What challenges do adaptations face?",
+    "answer": "Condensing plot and character depth."
+}

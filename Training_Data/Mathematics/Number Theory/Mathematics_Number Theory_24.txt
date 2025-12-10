@@ -1,0 +1,4 @@
+{
+    "question": "Is 2 a divisor of every even number?",
+    "answer": "Yes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'interpellation.'",
+    "answer": "How ideology hails individuals."
+}

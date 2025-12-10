@@ -1,0 +1,4 @@
+{
+    "question": "What is the fundamental theorem of arithmetic?",
+    "answer": "Every integer has unique prime factorization."
+}

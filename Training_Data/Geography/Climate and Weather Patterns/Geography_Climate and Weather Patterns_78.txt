@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate feedback?",
+    "answer": "Process amplifying or reducing climate effects."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the Laplace transform of f(t) = 1?",
+    "answer": "1/s."
+}

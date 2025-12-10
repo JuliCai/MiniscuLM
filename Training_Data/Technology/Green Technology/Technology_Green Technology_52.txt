@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology influence energy consumption?",
+    "answer": "Promotes energy savings."
+}

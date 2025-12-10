@@ -1,0 +1,4 @@
+{
+    "question": "What is a histogram?",
+    "answer": "Bar graph for frequency distribution."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous ancient Egyptian art symbol.",
+    "answer": "Ankh."
+}

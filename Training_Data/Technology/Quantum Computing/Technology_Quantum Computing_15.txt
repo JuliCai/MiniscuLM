@@ -1,0 +1,4 @@
+{
+    "question": "Is quantum computing widely available?",
+    "answer": "No, still experimental and limited access."
+}

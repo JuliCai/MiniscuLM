@@ -1,0 +1,4 @@
+{
+    "question": "State Euler's formula for planar graphs.",
+    "answer": "V - E + F = 2."
+}

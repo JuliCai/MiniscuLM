@@ -1,0 +1,4 @@
+{
+    "question": "Integrate 1/(1 + x^2) dx.",
+    "answer": "arctan x + C"
+}

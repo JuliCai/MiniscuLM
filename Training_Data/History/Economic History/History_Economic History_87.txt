@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic impact of the Transatlantic slave trade?",
+    "answer": "Wealth for Europe, devastation for Africa."
+}

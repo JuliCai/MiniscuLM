@@ -1,0 +1,4 @@
+{
+    "question": "Define multivariate analysis.",
+    "answer": "Analysis of multiple variables."
+}

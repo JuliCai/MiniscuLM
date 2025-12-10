@@ -1,0 +1,4 @@
+{
+    "question": "What is a cumulative frequency?",
+    "answer": "Running total of frequencies."
+}

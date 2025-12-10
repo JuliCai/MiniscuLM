@@ -1,0 +1,4 @@
+{
+    "question": "What is the main trait of Realist drama?",
+    "answer": "Everyday situations."
+}

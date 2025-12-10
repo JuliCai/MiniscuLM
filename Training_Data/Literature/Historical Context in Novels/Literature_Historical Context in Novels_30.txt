@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of historical context in historical fiction?",
+    "answer": "To create authentic, believable settings."
+}

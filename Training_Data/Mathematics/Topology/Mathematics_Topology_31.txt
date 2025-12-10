@@ -1,0 +1,4 @@
+{
+    "question": "What is a connected component?",
+    "answer": "Maximal connected subset containing the point."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How many devices can 5G support per km\u00b2?",
+    "answer": "Up to 1 million devices."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main tool used in the American Revolution?",
+    "answer": "Guerrilla warfare and diplomacy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What art form is associated with the Maori?",
+    "answer": "Wood carving and tattooing."
+}

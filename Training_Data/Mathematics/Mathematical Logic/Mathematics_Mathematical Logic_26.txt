@@ -1,0 +1,4 @@
+{
+    "question": "What is a proof system?",
+    "answer": "Set of rules to derive theorems."
+}

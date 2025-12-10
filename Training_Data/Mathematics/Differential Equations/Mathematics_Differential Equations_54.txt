@@ -1,0 +1,4 @@
+{
+    "question": "Solve y' = y/x + x.",
+    "answer": "Use integrating factor or substitution."
+}

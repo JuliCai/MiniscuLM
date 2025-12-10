@@ -1,0 +1,4 @@
+{
+    "question": "What is a relay chain?",
+    "answer": "Main chain linking multiple blockchains."
+}

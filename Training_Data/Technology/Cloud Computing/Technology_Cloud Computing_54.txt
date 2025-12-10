@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud hypervisor?",
+    "answer": "Software creating and managing virtual machines."
+}

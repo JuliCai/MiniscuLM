@@ -1,0 +1,4 @@
+{
+    "question": "What defines the Postcolonial literature?",
+    "answer": "Effects of colonialism."
+}

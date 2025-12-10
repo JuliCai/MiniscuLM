@@ -1,0 +1,4 @@
+{
+    "question": "What is a map's azimuth?",
+    "answer": "Angle from north direction."
+}

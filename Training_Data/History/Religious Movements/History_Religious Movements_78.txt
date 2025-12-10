@@ -1,0 +1,4 @@
+{
+    "question": "What is Confucianism?",
+    "answer": "Ethical philosophy from China."
+}

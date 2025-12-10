@@ -1,0 +1,4 @@
+{
+    "question": "What is a CDN in cloud computing?",
+    "answer": "Content Delivery Network distributing content globally."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do you calculate the area of a parallelogram?",
+    "answer": "Base times height."
+}

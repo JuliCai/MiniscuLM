@@ -1,0 +1,4 @@
+{
+    "question": "Define private blockchain.",
+    "answer": "Restricted access blockchain for specific users."
+}

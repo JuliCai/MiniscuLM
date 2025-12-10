@@ -1,0 +1,4 @@
+{
+    "question": "Find derivative of cos x.",
+    "answer": "-sin x"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define homogeneous differential equation.",
+    "answer": "Equation with all terms of same degree in y and derivatives."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define closure of a set.",
+    "answer": "Smallest closed set containing the set."
+}

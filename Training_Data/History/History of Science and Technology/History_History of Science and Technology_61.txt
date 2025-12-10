@@ -1,0 +1,4 @@
+{
+    "question": "When was the first artificial heart implanted?",
+    "answer": "1982."
+}

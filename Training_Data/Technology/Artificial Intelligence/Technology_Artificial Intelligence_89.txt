@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in healthcare imaging?",
+    "answer": "Analyzing medical images for diagnosis."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a Hilbert-style proof?",
+    "answer": "Proof using axioms and modus ponens."
+}

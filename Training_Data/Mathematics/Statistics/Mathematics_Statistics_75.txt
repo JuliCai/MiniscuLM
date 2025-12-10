@@ -1,0 +1,4 @@
+{
+    "question": "What is logistic regression?",
+    "answer": "Model for binary outcomes."
+}

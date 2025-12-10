@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of migration on urban areas?",
+    "answer": "Population increase."
+}

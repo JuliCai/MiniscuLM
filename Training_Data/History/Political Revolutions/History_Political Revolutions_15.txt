@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution ended absolute monarchy in France?",
+    "answer": "French Revolution."
+}

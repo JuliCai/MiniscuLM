@@ -1,0 +1,4 @@
+{
+    "question": "How does climate affect population distribution?",
+    "answer": "Harsh climates deter settlement."
+}

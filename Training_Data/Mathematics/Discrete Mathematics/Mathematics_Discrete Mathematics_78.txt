@@ -1,0 +1,4 @@
+{
+    "question": "Define a propositional formula.",
+    "answer": "Logical expression with variables and operators."
+}

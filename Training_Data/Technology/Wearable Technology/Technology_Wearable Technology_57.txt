@@ -1,0 +1,4 @@
+{
+    "question": "What role do LEDs play in wearables?",
+    "answer": "Indicators and notifications."
+}

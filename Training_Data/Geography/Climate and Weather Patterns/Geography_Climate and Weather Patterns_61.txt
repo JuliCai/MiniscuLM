@@ -1,0 +1,4 @@
+{
+    "question": "What is the main characteristic of polar climates?",
+    "answer": "Extremely cold and dry."
+}

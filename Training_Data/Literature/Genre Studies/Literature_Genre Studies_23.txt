@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is characterized by realistic everyday events?",
+    "answer": "Realism."
+}

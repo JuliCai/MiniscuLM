@@ -1,0 +1,4 @@
+{
+    "question": "What is a sonnet?",
+    "answer": "A 14-line poem with a specific rhyme scheme."
+}

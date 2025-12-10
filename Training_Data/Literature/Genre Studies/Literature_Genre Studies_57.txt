@@ -1,0 +1,4 @@
+{
+    "question": "What genre features horror and suspense?",
+    "answer": "Gothic horror."
+}

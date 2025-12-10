@@ -1,0 +1,4 @@
+{
+    "question": "What is georeferencing?",
+    "answer": "Aligning maps to real coordinates."
+}

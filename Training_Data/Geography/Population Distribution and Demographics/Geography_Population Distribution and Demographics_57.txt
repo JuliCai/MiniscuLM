@@ -1,0 +1,4 @@
+{
+    "question": "What affects infant mortality?",
+    "answer": "Healthcare and hygiene."
+}

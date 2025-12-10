@@ -1,0 +1,4 @@
+{
+    "question": "Define spatial analysis in GIS.",
+    "answer": "Analyzing locations and spatial relationships."
+}

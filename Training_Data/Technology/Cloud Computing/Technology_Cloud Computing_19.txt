@@ -1,0 +1,4 @@
+{
+    "question": "What is edge computing?",
+    "answer": "Processing data near its source."
+}

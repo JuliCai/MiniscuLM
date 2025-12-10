@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of angles around a point?",
+    "answer": "360 degrees."
+}

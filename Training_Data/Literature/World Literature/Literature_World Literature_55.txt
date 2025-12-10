@@ -1,0 +1,4 @@
+{
+    "question": "What is the setting of 'The Stranger'?",
+    "answer": "Algeria"
+}

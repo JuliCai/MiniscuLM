@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of prime numbers less than 10?",
+    "answer": "2 + 3 + 5 + 7 = 17"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was a famous abolitionist and feminist?",
+    "answer": "Sojourner Truth"
+}

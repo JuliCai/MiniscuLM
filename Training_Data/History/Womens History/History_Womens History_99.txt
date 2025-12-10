@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was the first female governor of an Indian state?",
+    "answer": "Vijaya Lakshmi Pandit"
+}

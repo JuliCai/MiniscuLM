@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Rosetta Stone?",
+    "answer": "Deciphered Egyptian hieroglyphs."
+}

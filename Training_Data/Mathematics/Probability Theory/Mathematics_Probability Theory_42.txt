@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between probability and odds?",
+    "answer": "Probability is success/total; odds is success/failure."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an Eulerian circuit?",
+    "answer": "Circuit using each edge exactly once."
+}

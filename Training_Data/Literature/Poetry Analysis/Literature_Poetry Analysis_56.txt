@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between metaphor and simile?",
+    "answer": "Simile uses 'like' or 'as'; metaphor does not."
+}

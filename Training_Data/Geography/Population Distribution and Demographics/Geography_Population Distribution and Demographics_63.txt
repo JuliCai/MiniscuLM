@@ -1,0 +1,4 @@
+{
+    "question": "How does birth rate affect population growth?",
+    "answer": "Higher birth rate increases growth."
+}

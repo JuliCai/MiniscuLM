@@ -1,0 +1,4 @@
+{
+    "question": "What is cyber resilience?",
+    "answer": "Ability to recover from cyberattacks."
+}

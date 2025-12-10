@@ -1,0 +1,4 @@
+{
+    "question": "What is the min-cut theorem?",
+    "answer": "Max flow equals min cut capacity."
+}

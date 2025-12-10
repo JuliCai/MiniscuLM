@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of the Harlem Renaissance?",
+    "answer": "Black cultural expression."
+}

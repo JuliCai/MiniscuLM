@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain address?",
+    "answer": "Identifier for sending/receiving assets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between satire and parody?",
+    "answer": "Satire critiques; parody imitates humorously."
+}

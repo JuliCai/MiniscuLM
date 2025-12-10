@@ -1,0 +1,4 @@
+{
+    "question": "What is neo-colonialism?",
+    "answer": "Indirect control after independence."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an ANOVA test?",
+    "answer": "Compare means of multiple groups."
+}

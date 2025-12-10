@@ -1,0 +1,4 @@
+{
+    "question": "What is a phishing website?",
+    "answer": "Fake site designed to steal info."
+}

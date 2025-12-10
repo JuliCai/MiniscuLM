@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud resource pooling?",
+    "answer": "Sharing resources among multiple users."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the median in probability?",
+    "answer": "Value splitting probability into two equal halves."
+}

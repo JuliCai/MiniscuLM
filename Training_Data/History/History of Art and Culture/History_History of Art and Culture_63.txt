@@ -1,0 +1,4 @@
+{
+    "question": "What does Rococo art emphasize?",
+    "answer": "Ornate and playful details."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What document declared American independence?",
+    "answer": "Declaration of Independence."
+}

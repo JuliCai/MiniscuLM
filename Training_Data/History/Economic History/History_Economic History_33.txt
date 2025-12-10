@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Great Recession of 2008?",
+    "answer": "Housing market collapse and financial crisis."
+}

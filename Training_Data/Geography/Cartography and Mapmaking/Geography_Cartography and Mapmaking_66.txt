@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS layer?",
+    "answer": "A dataset in GIS software."
+}

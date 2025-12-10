@@ -1,0 +1,4 @@
+{
+    "question": "What is the solution of dy/dx = cos(x) y?",
+    "answer": "y = C e^{sin x}."
+}

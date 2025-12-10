@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS represent elevation?",
+    "answer": "Using contour lines or DEMs."
+}

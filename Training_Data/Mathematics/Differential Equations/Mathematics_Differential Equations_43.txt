@@ -1,0 +1,4 @@
+{
+    "question": "What is the inverse Laplace transform?",
+    "answer": "Operation returning original function from transform."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between historical context and background?",
+    "answer": "Background is broader; context is specific period factors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a tautology.",
+    "answer": "Proposition always true."
+}

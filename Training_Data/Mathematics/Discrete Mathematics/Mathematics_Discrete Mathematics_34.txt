@@ -1,0 +1,4 @@
+{
+    "question": "What is topological sorting?",
+    "answer": "Linear ordering of DAG vertices."
+}

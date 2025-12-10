@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of meter?",
+    "answer": "Controls the poem's rhythm."
+}

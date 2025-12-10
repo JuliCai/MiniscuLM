@@ -1,0 +1,4 @@
+{
+    "question": "Are there wearable devices for kids' safety?",
+    "answer": "Yes, with GPS and communication features."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart meter?",
+    "answer": "IoT device measuring energy usage."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the Euler equation?",
+    "answer": "Equation with variable coefficients like x^n y^{(n)}."
+}

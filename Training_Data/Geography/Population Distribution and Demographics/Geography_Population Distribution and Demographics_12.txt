@@ -1,0 +1,4 @@
+{
+    "question": "What affects birth rates?",
+    "answer": "Culture, economy, healthcare."
+}

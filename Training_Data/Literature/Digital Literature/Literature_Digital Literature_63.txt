@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital memoir?",
+    "answer": "A personal story told digitally."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What genre often features antiheroes?",
+    "answer": "Dark fantasy."
+}

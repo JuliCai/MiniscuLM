@@ -1,0 +1,4 @@
+{
+    "question": "Define a right prism.",
+    "answer": "Prism with rectangular lateral faces."
+}

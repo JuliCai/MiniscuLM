@@ -1,0 +1,4 @@
+{
+    "question": "What is the essence of Modernist fiction?",
+    "answer": "Fragmented and experimental."
+}

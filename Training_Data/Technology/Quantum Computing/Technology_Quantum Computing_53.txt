@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between analog and digital quantum computing?",
+    "answer": "Analog uses continuous variables; digital uses discrete."
+}

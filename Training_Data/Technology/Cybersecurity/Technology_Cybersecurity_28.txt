@@ -1,0 +1,4 @@
+{
+    "question": "What is a worm in cybersecurity?",
+    "answer": "Self-replicating malware spreading across networks."
+}

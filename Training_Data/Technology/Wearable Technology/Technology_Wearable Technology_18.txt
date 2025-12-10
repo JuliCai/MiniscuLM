@@ -1,0 +1,4 @@
+{
+    "question": "What materials are wearable devices made from?",
+    "answer": "Plastic, silicone, metal, and glass."
+}

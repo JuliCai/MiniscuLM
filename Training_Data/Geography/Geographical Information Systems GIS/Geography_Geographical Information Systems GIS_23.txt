@@ -1,0 +1,4 @@
+{
+    "question": "What is map scale in GIS?",
+    "answer": "Ratio of map distance to ground distance."
+}

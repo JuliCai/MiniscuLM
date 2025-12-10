@@ -1,0 +1,4 @@
+{
+    "question": "What is a probability tree?",
+    "answer": "Diagram of sequential event probabilities."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What role did cotton play in the Industrial Revolution?",
+    "answer": "Key raw material for textile industry."
+}

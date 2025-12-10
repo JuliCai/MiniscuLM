@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of 5G on telecommunication jobs?",
+    "answer": "Creates new roles and skills."
+}

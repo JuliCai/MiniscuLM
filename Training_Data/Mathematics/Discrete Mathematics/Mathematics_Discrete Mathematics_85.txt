@@ -1,0 +1,4 @@
+{
+    "question": "What is a well-founded relation?",
+    "answer": "No infinite descending chains."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is threat intelligence?",
+    "answer": "Information about cyber threats and actors."
+}

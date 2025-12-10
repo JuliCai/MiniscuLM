@@ -1,0 +1,4 @@
+{
+    "question": "Which desert covers most of Mongolia?",
+    "answer": "Gobi Desert."
+}

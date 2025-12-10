@@ -1,0 +1,4 @@
+{
+    "question": "Name a key figure of the Great Awakening.",
+    "answer": "Jonathan Edwards."
+}

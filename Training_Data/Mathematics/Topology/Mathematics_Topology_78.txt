@@ -1,0 +1,4 @@
+{
+    "question": "Define homology group.",
+    "answer": "Algebraic invariant measuring holes in space."
+}

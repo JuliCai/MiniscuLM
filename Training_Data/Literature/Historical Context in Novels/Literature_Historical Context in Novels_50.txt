@@ -1,0 +1,4 @@
+{
+    "question": "Is historical context always tied to real events?",
+    "answer": "Not always; can be fictionalized or symbolic."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is supervised learning?",
+    "answer": "Training AI with labeled data."
+}

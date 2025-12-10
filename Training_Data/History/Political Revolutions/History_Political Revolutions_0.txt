@@ -1,0 +1,4 @@
+{
+    "question": "What sparked the French Revolution?",
+    "answer": "Financial crisis and social inequality."
+}

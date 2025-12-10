@@ -1,0 +1,4 @@
+{
+    "question": "Define industrialization.",
+    "answer": "Development of industries in a region."
+}

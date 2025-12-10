@@ -1,0 +1,4 @@
+{
+    "question": "What is an orthophoto map?",
+    "answer": "Aerial photo corrected for scale."
+}

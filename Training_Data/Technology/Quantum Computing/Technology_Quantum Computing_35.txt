@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum oracle?",
+    "answer": "Black-box function used in algorithms like Grover's."
+}

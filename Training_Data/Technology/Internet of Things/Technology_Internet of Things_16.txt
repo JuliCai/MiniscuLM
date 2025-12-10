@@ -1,0 +1,4 @@
+{
+    "question": "What is Zigbee?",
+    "answer": "Low-power IoT communication protocol."
+}

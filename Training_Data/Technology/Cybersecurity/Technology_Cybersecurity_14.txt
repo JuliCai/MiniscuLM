@@ -1,0 +1,4 @@
+{
+    "question": "What is a security patch?",
+    "answer": "Software update fixing vulnerabilities."
+}

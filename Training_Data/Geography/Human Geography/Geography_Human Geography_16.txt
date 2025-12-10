@@ -1,0 +1,4 @@
+{
+    "question": "What is cultural diffusion?",
+    "answer": "Spread of cultural traits between societies."
+}

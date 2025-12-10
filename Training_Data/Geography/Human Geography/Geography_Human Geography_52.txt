@@ -1,0 +1,4 @@
+{
+    "question": "What is a refugee camp?",
+    "answer": "Temporary shelter for displaced people."
+}

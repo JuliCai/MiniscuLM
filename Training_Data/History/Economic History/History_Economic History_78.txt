@@ -1,0 +1,4 @@
+{
+    "question": "What is the economic role of tariffs?",
+    "answer": "Taxes on imported goods."
+}

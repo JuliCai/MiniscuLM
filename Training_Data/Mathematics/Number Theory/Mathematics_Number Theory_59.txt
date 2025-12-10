@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of digits of 1234?",
+    "answer": "10"
+}

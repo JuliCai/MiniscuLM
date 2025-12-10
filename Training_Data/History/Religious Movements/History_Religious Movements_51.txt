@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary teaching of Rastafarianism?",
+    "answer": "African identity and repatriation."
+}

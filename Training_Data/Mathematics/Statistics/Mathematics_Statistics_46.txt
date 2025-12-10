@@ -1,0 +1,4 @@
+{
+    "question": "Define heteroscedasticity.",
+    "answer": "Non-constant variance in errors."
+}

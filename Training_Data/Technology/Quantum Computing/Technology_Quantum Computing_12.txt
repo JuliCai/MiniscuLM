@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum supremacy?",
+    "answer": "Quantum computer solves problem classical can't feasibly."
+}

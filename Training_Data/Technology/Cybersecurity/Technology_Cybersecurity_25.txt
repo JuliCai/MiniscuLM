@@ -1,0 +1,4 @@
+{
+    "question": "What is a man-in-the-middle attack?",
+    "answer": "Intercepting communication between parties."
+}

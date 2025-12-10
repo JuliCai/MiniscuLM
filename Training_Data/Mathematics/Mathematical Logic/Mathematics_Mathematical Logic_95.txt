@@ -1,0 +1,4 @@
+{
+    "question": "What is an omega-consistency?",
+    "answer": "Stronger form of consistency."
+}

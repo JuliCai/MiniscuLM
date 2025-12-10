@@ -1,0 +1,4 @@
+{
+    "question": "What is a walk in graph theory?",
+    "answer": "Sequence of edges and vertices."
+}

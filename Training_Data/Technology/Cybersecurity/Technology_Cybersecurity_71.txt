@@ -1,0 +1,4 @@
+{
+    "question": "What is an advanced persistent threat?",
+    "answer": "Long-term targeted cyberattack."
+}

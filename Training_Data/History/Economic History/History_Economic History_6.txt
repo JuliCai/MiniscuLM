@@ -1,0 +1,4 @@
+{
+    "question": "Who was Adam Smith?",
+    "answer": "Father of modern economics, wrote The Wealth of Nations."
+}

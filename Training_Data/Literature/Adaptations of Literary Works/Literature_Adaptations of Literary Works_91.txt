@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018cross-media\u2019 adaptation?",
+    "answer": "Telling story across multiple media."
+}

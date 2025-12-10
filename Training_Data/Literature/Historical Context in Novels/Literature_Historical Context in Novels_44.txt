@@ -1,0 +1,4 @@
+{
+    "question": "Can historical context be used to critique society?",
+    "answer": "Yes, authors often use it to comment."
+}

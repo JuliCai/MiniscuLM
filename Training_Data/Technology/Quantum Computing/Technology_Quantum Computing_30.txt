@@ -1,0 +1,4 @@
+{
+    "question": "What is a Bell state?",
+    "answer": "Maximally entangled two-qubit quantum state."
+}

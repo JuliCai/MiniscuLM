@@ -1,0 +1,4 @@
+{
+    "question": "Do wearable devices require charging?",
+    "answer": "Yes, regularly depending on usage."
+}

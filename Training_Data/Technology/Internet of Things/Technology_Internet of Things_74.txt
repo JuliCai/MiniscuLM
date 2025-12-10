@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT firmware update?",
+    "answer": "Improves device functionality remotely."
+}

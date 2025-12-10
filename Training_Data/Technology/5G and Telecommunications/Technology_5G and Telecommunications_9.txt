@@ -1,0 +1,4 @@
+{
+    "question": "What is SA in 5G?",
+    "answer": "Standalone 5G network."
+}

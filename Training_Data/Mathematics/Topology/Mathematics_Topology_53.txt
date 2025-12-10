@@ -1,0 +1,4 @@
+{
+    "question": "What is a retract?",
+    "answer": "Map from space onto subspace that is identity on it."
+}

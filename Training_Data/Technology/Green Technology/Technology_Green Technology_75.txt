@@ -1,0 +1,4 @@
+{
+    "question": "What is the environmental impact of e-waste?",
+    "answer": "Toxic pollution and resource loss."
+}

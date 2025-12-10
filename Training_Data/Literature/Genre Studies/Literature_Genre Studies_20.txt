@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'gothic fiction.'",
+    "answer": "Dark, mysterious, and supernatural themes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context impact a novel\u2019s language?",
+    "answer": "Influences vocabulary and expressions."
+}

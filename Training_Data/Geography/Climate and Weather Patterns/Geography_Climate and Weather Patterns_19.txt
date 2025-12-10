@@ -1,0 +1,4 @@
+{
+    "question": "Which ocean current influences Western Europe\u2019s climate?",
+    "answer": "The Gulf Stream."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of data in AI?",
+    "answer": "Data is the fuel for AI learning."
+}

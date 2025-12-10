@@ -1,0 +1,4 @@
+{
+    "question": "What is a derangement?",
+    "answer": "Permutation with no fixed points."
+}

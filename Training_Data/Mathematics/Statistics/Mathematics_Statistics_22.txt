@@ -1,0 +1,4 @@
+{
+    "question": "What is a frequency distribution?",
+    "answer": "Counts of data values."
+}

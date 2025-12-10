@@ -1,0 +1,4 @@
+{
+    "question": "What is a polar vortex?",
+    "answer": "Persistent cold air mass over poles."
+}

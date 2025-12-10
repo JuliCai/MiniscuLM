@@ -1,0 +1,4 @@
+{
+    "question": "What does a scale on a map represent?",
+    "answer": "Distance ratio."
+}

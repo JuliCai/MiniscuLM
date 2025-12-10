@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum register?",
+    "answer": "Collection of multiple qubits for computation."
+}

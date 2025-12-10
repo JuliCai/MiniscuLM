@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of gender criticism?",
+    "answer": "Gender identity and roles."
+}

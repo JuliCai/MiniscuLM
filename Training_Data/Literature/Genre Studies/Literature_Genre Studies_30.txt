@@ -1,0 +1,4 @@
+{
+    "question": "What genre often includes gods and myths?",
+    "answer": "Mythology."
+}

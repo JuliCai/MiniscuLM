@@ -1,0 +1,4 @@
+{
+    "question": "What technology enables digital literature interactivity?",
+    "answer": "Hyperlinks and multimedia integration."
+}

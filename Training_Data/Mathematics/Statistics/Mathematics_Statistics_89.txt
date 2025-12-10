@@ -1,0 +1,4 @@
+{
+    "question": "What is systematic sampling?",
+    "answer": "Select every kth element."
+}

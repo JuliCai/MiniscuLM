@@ -1,0 +1,4 @@
+{
+    "question": "Integrate 1/(x^3) dx?",
+    "answer": "-1/(2x^2) + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the author of 'The Road'.",
+    "answer": "Cormac McCarthy"
+}

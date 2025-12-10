@@ -1,0 +1,4 @@
+{
+    "question": "What is a key element of allegory?",
+    "answer": "Symbolic meaning throughout the story."
+}

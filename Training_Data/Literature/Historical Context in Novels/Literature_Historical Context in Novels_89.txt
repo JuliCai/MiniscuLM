@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect endings?",
+    "answer": "Reflects period\u2019s possible outcomes."
+}

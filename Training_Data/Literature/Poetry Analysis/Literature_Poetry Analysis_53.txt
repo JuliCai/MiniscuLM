@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'persona' in poetry.",
+    "answer": "The assumed speaker's identity."
+}

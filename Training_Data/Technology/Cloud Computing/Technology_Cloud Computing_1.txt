@@ -1,0 +1,4 @@
+{
+    "question": "Name a major cloud provider.",
+    "answer": "Amazon Web Services (AWS)."
+}

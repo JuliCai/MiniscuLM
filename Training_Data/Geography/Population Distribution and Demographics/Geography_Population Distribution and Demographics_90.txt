@@ -1,0 +1,4 @@
+{
+    "question": "What is life expectancy indicator?",
+    "answer": "Health and living conditions."
+}

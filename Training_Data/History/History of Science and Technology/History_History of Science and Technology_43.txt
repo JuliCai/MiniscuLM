@@ -1,0 +1,4 @@
+{
+    "question": "When was anesthesia first used?",
+    "answer": "1846."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define ethnic conflict.",
+    "answer": "Violence between ethnic groups."
+}

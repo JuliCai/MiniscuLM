@@ -1,0 +1,4 @@
+{
+    "question": "Define urban hierarchy.",
+    "answer": "Ranking of cities by size and function."
+}

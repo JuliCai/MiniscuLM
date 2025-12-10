@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'The Tale of Peter Rabbit'?",
+    "answer": "Beatrix Potter"
+}

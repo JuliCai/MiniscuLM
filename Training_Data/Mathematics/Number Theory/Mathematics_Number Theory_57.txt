@@ -1,0 +1,4 @@
+{
+    "question": "Is 2 the only even prime?",
+    "answer": "Yes."
+}

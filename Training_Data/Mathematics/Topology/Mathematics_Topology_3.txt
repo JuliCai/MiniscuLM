@@ -1,0 +1,4 @@
+{
+    "question": "Define continuity in topology.",
+    "answer": "Preimage of open sets is open."
+}

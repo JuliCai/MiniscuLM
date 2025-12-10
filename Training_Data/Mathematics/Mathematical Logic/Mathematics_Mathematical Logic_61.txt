@@ -1,0 +1,4 @@
+{
+    "question": "What is a resolution rule?",
+    "answer": "Inference rule used in automated theorem proving."
+}

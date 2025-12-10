@@ -1,0 +1,4 @@
+{
+    "question": "What is a manifold?",
+    "answer": "Space locally homeomorphic to Euclidean space."
+}

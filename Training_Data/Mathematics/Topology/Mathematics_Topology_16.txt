@@ -1,0 +1,4 @@
+{
+    "question": "What is a limit point?",
+    "answer": "Every neighborhood contains another point of the set."
+}

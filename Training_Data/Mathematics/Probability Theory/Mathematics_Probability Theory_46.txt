@@ -1,0 +1,4 @@
+{
+    "question": "Define a probability measure.",
+    "answer": "Function assigning probabilities to events."
+}

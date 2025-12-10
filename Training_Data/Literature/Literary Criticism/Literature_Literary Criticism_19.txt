@@ -1,0 +1,4 @@
+{
+    "question": "Who coined 'the death of the author'?",
+    "answer": "Roland Barthes."
+}

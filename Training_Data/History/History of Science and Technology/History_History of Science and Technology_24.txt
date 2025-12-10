@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the polio vaccine?",
+    "answer": "Jonas Salk."
+}

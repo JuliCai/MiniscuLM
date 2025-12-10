@@ -1,0 +1,4 @@
+{
+    "question": "What device converts sunlight into electricity?",
+    "answer": "Solar panels."
+}

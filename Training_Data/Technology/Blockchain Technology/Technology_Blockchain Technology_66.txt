@@ -1,0 +1,4 @@
+{
+    "question": "What is an airdrop?",
+    "answer": "Free token distribution to users."
+}

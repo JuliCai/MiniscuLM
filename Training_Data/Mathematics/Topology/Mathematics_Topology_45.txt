@@ -1,0 +1,4 @@
+{
+    "question": "What is a cofinite topology?",
+    "answer": "Open sets are empty or complements are finite."
+}

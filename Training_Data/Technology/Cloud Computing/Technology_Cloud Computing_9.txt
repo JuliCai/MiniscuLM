@@ -1,0 +1,4 @@
+{
+    "question": "What is a hybrid cloud?",
+    "answer": "Combination of public and private clouds."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was John Maynard Keynes?",
+    "answer": "Economist advocating government intervention."
+}

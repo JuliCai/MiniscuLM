@@ -1,0 +1,4 @@
+{
+    "question": "What is intuitionistic logic?",
+    "answer": "Logic without law of excluded middle."
+}

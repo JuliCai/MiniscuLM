@@ -1,0 +1,4 @@
+{
+    "question": "What material is used for biodegradable packaging?",
+    "answer": "Plant-based plastics."
+}

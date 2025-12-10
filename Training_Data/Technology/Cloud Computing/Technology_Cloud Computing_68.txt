@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud edge location?",
+    "answer": "Site delivering cached content near users."
+}

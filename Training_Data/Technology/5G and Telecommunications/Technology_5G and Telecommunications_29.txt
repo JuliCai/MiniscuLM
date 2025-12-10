@@ -1,0 +1,4 @@
+{
+    "question": "What does IoT stand for?",
+    "answer": "Internet of Things."
+}

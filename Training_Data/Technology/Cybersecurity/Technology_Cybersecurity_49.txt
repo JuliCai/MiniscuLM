@@ -1,0 +1,4 @@
+{
+    "question": "What is a sandbox in cybersecurity?",
+    "answer": "Isolated environment to test code safely."
+}

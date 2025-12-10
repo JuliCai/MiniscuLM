@@ -1,0 +1,4 @@
+{
+    "question": "What is Pentecostalism?",
+    "answer": "A Christian movement emphasizing the Holy Spirit."
+}

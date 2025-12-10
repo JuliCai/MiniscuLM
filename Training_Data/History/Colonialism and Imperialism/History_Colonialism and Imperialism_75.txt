@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'White Man's Burden'?",
+    "answer": "Justification for imperialism."
+}

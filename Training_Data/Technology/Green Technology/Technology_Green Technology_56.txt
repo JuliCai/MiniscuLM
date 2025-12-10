@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of electric grids in green tech?",
+    "answer": "Efficient energy distribution."
+}

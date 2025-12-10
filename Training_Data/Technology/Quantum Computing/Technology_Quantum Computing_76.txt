@@ -1,0 +1,4 @@
+{
+    "question": "What is a hybrid quantum-classical algorithm?",
+    "answer": "Combines quantum and classical processing for tasks."
+}

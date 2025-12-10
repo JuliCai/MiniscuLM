@@ -1,0 +1,4 @@
+{
+    "question": "Who led the anti-colonial movement in Algeria?",
+    "answer": "Ahmed Ben Bella."
+}

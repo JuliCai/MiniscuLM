@@ -1,0 +1,4 @@
+{
+    "question": "Solve y'' + y = 0.",
+    "answer": "y = C1 cos x + C2 sin x."
+}

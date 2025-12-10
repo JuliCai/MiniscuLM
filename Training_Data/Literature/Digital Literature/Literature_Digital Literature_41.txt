@@ -1,0 +1,4 @@
+{
+    "question": "How does digital literature affect reading habits?",
+    "answer": "Encourages active and interactive reading."
+}

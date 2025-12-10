@@ -1,0 +1,4 @@
+{
+    "question": "What is a transversal line?",
+    "answer": "A line crossing two or more lines."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find integrating factor for dy/dx + P(x)y=Q(x).",
+    "answer": "\u03bc(x) = e^{\u222bP(x)dx}."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a Magical Realism author.",
+    "answer": "Gabriel Garc\u00eda M\u00e1rquez."
+}

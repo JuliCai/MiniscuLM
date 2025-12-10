@@ -1,0 +1,4 @@
+{
+    "question": "What is multi-factor authentication?",
+    "answer": "Using multiple authentication methods."
+}

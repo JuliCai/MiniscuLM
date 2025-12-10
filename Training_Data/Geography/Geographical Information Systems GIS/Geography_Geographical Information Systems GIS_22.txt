@@ -1,0 +1,4 @@
+{
+    "question": "What does overlay analysis do?",
+    "answer": "Combines spatial data layers."
+}

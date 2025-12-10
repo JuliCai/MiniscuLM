@@ -1,0 +1,4 @@
+{
+    "question": "Name an Existentialist writer.",
+    "answer": "Albert Camus."
+}

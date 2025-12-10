@@ -1,0 +1,4 @@
+{
+    "question": "What is the economic significance of NAFTA?",
+    "answer": "Trade agreement between US, Canada, Mexico."
+}

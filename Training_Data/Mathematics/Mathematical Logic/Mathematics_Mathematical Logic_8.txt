@@ -1,0 +1,4 @@
+{
+    "question": "What is the law of excluded middle?",
+    "answer": "P \u2228 \u00acP is always true."
+}

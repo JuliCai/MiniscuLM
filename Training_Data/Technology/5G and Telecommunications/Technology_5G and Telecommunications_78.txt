@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G enhance mobile broadband?",
+    "answer": "Higher speed and capacity."
+}

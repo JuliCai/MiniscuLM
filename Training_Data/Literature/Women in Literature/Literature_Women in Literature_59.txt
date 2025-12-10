@@ -1,0 +1,4 @@
+{
+    "question": "Who authored 'The Power'?",
+    "answer": "Naomi Alderman"
+}

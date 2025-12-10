@@ -1,0 +1,4 @@
+{
+    "question": "What is the method of undetermined coefficients?",
+    "answer": "Finding particular solutions by guessing form."
+}

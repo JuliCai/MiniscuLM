@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context be symbolic?",
+    "answer": "Represents broader societal issues."
+}

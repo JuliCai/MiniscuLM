@@ -1,0 +1,4 @@
+{
+    "question": "What is a firewall rule?",
+    "answer": "Instruction defining network traffic permissions."
+}

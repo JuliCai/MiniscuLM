@@ -1,0 +1,4 @@
+{
+    "question": "Define Euler characteristic for CW complexes.",
+    "answer": "Alternating sum of number of cells per dimension."
+}

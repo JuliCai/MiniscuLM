@@ -1,0 +1,4 @@
+{
+    "question": "What does '\u2194' represent in logic?",
+    "answer": "Logical biconditional operator."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define Euler characteristic of a graph.",
+    "answer": "Vertices minus edges."
+}

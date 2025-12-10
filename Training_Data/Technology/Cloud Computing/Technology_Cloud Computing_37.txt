@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud federation.",
+    "answer": "Interconnecting multiple cloud systems."
+}

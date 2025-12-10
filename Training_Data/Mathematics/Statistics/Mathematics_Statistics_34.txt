@@ -1,0 +1,4 @@
+{
+    "question": "Define statistic in statistics.",
+    "answer": "Sample characteristic."
+}

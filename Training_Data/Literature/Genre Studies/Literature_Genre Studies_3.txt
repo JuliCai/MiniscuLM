@@ -1,0 +1,4 @@
+{
+    "question": "Define the romance genre.",
+    "answer": "Focus on love and relationships."
+}

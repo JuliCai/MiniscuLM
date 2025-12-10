@@ -1,0 +1,4 @@
+{
+    "question": "Define a covering problem.",
+    "answer": "Selecting subsets covering entire set."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a Socialist writer.",
+    "answer": "George Orwell."
+}

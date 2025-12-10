@@ -1,0 +1,4 @@
+{
+    "question": "What is a private cloud?",
+    "answer": "Cloud infrastructure operated solely for one organization."
+}

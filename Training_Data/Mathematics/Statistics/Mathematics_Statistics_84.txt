@@ -1,0 +1,4 @@
+{
+    "question": "What is a time series forecast?",
+    "answer": "Predict future values."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does ecocriticism study?",
+    "answer": "Literature and environment."
+}

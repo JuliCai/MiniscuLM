@@ -1,0 +1,4 @@
+{
+    "question": "What is the Keynesian economic theory?",
+    "answer": "Government spending stimulates economic growth."
+}

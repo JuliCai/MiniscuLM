@@ -1,0 +1,4 @@
+{
+    "question": "How do adaptations affect original meaning?",
+    "answer": "They may change themes or tone."
+}

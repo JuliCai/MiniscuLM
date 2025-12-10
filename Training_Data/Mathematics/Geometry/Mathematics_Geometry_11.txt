@@ -1,0 +1,4 @@
+{
+    "question": "What is a scalene triangle?",
+    "answer": "A triangle with all unequal sides."
+}

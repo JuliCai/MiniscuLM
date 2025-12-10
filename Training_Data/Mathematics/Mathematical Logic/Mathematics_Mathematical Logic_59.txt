@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between soundness and completeness?",
+    "answer": "Soundness: provable implies true; completeness: true implies provable."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a heat island effect?",
+    "answer": "Higher temperatures in urban areas."
+}

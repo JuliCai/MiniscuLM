@@ -1,0 +1,4 @@
+{
+    "question": "What is a literal in logic?",
+    "answer": "An atomic formula or its negation."
+}

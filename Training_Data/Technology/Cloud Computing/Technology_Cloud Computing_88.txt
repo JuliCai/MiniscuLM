@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud auto-scaling?",
+    "answer": "Automatically adjusting resources based on load."
+}

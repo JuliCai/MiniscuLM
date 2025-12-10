@@ -1,0 +1,4 @@
+{
+    "question": "What is a haiku?",
+    "answer": "A 3-line Japanese poem with 5-7-5 syllables."
+}

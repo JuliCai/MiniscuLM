@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart irrigation system?",
+    "answer": "IoT-controlled watering."
+}

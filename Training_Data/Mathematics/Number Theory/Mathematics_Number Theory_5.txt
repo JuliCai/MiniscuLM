@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of divisors of 6?",
+    "answer": "1 + 2 + 3 + 6 = 12"
+}

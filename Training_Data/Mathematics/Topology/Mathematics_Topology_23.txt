@@ -1,0 +1,4 @@
+{
+    "question": "What is a discrete topology?",
+    "answer": "All subsets are open."
+}

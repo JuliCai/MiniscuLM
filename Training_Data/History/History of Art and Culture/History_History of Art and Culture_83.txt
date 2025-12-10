@@ -1,0 +1,4 @@
+{
+    "question": "What culture is known for intricate beadwork?",
+    "answer": "Native American tribes."
+}

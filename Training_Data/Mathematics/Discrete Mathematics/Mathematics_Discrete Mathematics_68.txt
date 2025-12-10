@@ -1,0 +1,4 @@
+{
+    "question": "What is a partition of a set?",
+    "answer": "Division into disjoint subsets covering set."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is eye tracking used in VR?",
+    "answer": "Yes, for interaction and rendering."
+}

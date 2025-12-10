@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the area of an equilateral triangle with side a.",
+    "answer": "(\u221a3/4) \u00d7 a\u00b2."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of guilds in medieval economy?",
+    "answer": "Regulated trades and maintained quality."
+}

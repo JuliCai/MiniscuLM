@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology promote circular economy?",
+    "answer": "By reusing and recycling materials."
+}

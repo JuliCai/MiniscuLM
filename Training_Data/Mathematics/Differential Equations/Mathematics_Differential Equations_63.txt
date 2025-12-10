@@ -1,0 +1,4 @@
+{
+    "question": "What is the method of Frobenius?",
+    "answer": "Series solution near regular singular point."
+}

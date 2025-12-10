@@ -1,0 +1,4 @@
+{
+    "question": "What is a boundary of a manifold?",
+    "answer": "Points without neighborhoods homeomorphic to Euclidean space."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a hash rate?",
+    "answer": "Computing power for mining."
+}

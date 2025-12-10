@@ -1,0 +1,4 @@
+{
+    "question": "What is reinforcement in AI?",
+    "answer": "Learning via feedback rewards."
+}

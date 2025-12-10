@@ -1,0 +1,4 @@
+{
+    "question": "Define a bijection.",
+    "answer": "A one-to-one and onto function."
+}

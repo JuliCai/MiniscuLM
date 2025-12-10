@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables monitor blood oxygen?",
+    "answer": "Yes, through pulse oximetry sensors."
+}

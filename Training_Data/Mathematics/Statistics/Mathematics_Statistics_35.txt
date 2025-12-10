@@ -1,0 +1,4 @@
+{
+    "question": "What is an empirical rule?",
+    "answer": "68-95-99.7% data in normal distribution."
+}

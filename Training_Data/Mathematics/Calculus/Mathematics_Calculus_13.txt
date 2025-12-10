@@ -1,0 +1,4 @@
+{
+    "question": "Integral of e^(2x) dx?",
+    "answer": "(1/2) e^(2x) + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a minimal element.",
+    "answer": "Element not greater than any other."
+}

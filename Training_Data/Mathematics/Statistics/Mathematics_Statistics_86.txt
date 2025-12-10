@@ -1,0 +1,4 @@
+{
+    "question": "What is a goodness-of-fit test?",
+    "answer": "Test model-data fit."
+}

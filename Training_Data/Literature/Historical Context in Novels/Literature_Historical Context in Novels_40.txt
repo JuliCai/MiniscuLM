@@ -1,0 +1,4 @@
+{
+    "question": "What techniques show historical context in novels?",
+    "answer": "Descriptions, dialect, customs, and events."
+}

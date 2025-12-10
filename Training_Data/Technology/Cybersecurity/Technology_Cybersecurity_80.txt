@@ -1,0 +1,4 @@
+{
+    "question": "What is two-factor authentication used for?",
+    "answer": "To increase login security."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does blockchain ensure security?",
+    "answer": "Cryptography and decentralization protect data."
+}

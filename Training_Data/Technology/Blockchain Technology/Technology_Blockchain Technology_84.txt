@@ -1,0 +1,4 @@
+{
+    "question": "What is a block producer?",
+    "answer": "Entity creating new blocks."
+}

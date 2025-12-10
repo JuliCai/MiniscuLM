@@ -1,0 +1,4 @@
+{
+    "question": "What is the orthocenter of a triangle?",
+    "answer": "Intersection of altitudes."
+}

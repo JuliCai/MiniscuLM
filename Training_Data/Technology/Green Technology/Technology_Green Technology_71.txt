@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of electric grids in sustainability?",
+    "answer": "Facilitates green energy integration."
+}

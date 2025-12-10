@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart city sensor used for?",
+    "answer": "Monitoring traffic or pollution."
+}

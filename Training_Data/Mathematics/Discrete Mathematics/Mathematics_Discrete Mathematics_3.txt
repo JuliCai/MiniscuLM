@@ -1,0 +1,4 @@
+{
+    "question": "What is a combinatorial proof?",
+    "answer": "Proof using counting arguments."
+}

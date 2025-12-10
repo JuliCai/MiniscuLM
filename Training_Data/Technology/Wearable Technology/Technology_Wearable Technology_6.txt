@@ -1,0 +1,4 @@
+{
+    "question": "Do smartwatches need smartphones?",
+    "answer": "Often, but some work independently."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a direct adaptation?",
+    "answer": "A version closely following source material."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does blockchain solve double-spending?",
+    "answer": "Consensus prevents duplicate transactions."
+}

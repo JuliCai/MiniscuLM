@@ -1,0 +1,4 @@
+{
+    "question": "Can AR display 3D objects?",
+    "answer": "Yes, in real world view."
+}

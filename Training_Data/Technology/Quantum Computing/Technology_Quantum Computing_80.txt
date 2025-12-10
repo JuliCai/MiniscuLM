@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of the Hadamard transform?",
+    "answer": "Creates equal superposition of qubit states."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic impact of the Berlin Wall?",
+    "answer": "Divided East and West Berlin economies."
+}

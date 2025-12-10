@@ -1,0 +1,4 @@
+{
+    "question": "Define bootstrapping.",
+    "answer": "Resampling to estimate statistics."
+}

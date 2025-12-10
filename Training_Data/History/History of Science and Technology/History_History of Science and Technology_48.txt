@@ -1,0 +1,4 @@
+{
+    "question": "What ancient device measured time?",
+    "answer": "Sundial."
+}

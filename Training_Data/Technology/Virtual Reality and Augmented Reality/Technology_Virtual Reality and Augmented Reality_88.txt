@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary challenge in AR?",
+    "answer": "Accurate real-world mapping."
+}

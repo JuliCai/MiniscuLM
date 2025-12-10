@@ -1,0 +1,4 @@
+{
+    "question": "What instrument measures atmospheric pressure?",
+    "answer": "A barometer."
+}

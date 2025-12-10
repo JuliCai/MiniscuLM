@@ -1,0 +1,4 @@
+{
+    "question": "Name a popular blockchain platform.",
+    "answer": "Ethereum is a widely used blockchain platform."
+}

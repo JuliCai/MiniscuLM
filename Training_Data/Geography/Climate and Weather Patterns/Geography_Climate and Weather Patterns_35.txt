@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between sleet and hail?",
+    "answer": "Sleet is frozen rain; hail is layered ice."
+}

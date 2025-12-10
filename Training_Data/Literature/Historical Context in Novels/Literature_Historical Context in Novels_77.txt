@@ -1,0 +1,4 @@
+{
+    "question": "How is historical context conveyed through props?",
+    "answer": "Objects reflect period technology and culture."
+}

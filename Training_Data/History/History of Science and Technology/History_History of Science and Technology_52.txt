@@ -1,0 +1,4 @@
+{
+    "question": "When was the first electrical telegraph made?",
+    "answer": "1837."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate proxy?",
+    "answer": "Data used to infer past climates."
+}

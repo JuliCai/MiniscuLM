@@ -1,0 +1,4 @@
+{
+    "question": "What did Watson and Crick discover?",
+    "answer": "DNA structure."
+}

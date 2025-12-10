@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart band?",
+    "answer": "A fitness tracker with smart features."
+}

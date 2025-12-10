@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018fan fiction\u2019 adaptation?",
+    "answer": "Unofficial stories by fans."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a demographic dividend?",
+    "answer": "Economic benefit from young workforce."
+}

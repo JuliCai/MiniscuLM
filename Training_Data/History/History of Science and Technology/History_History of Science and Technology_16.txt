@@ -1,0 +1,4 @@
+{
+    "question": "When was the telescope invented?",
+    "answer": "Early 17th century."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a generating tree.",
+    "answer": "Tree generating combinatorial objects."
+}

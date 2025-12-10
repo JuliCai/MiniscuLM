@@ -1,0 +1,4 @@
+{
+    "question": "What is a botnet?",
+    "answer": "Network of infected computers controlled remotely."
+}

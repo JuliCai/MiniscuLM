@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of spectrum auctions?",
+    "answer": "Allocate frequencies to operators."
+}

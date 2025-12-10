@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was the first female judge in the US?",
+    "answer": "Genevieve Rose Cline"
+}

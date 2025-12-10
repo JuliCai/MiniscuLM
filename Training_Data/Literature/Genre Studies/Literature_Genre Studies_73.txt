@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of autobiography.",
+    "answer": "A self-written life story."
+}

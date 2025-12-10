@@ -1,0 +1,4 @@
+{
+    "question": "What is population distribution map?",
+    "answer": "Shows where people live."
+}

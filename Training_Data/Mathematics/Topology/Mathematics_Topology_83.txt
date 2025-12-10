@@ -1,0 +1,4 @@
+{
+    "question": "What is a sheaf?",
+    "answer": "Assigns data consistently over open sets."
+}

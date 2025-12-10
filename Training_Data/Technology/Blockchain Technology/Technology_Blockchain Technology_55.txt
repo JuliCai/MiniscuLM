@@ -1,0 +1,4 @@
+{
+    "question": "What is a permissioned blockchain?",
+    "answer": "Blockchain with controlled access."
+}

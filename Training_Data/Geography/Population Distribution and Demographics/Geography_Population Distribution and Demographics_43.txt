@@ -1,0 +1,4 @@
+{
+    "question": "Name a region with negative population growth.",
+    "answer": "Eastern Europe."
+}

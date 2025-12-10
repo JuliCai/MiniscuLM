@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud elasticity example?",
+    "answer": "Auto-scaling web servers during traffic spikes."
+}

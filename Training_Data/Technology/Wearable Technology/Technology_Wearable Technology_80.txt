@@ -1,0 +1,4 @@
+{
+    "question": "What is a common issue with wearables?",
+    "answer": "Limited battery life."
+}

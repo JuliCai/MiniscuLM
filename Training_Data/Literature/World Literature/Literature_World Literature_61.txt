@@ -1,0 +1,4 @@
+{
+    "question": "Name the author of 'Don Quixote'.",
+    "answer": "Miguel de Cervantes"
+}

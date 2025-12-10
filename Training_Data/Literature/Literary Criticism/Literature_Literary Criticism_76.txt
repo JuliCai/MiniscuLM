@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of psychoanalytic criticism?",
+    "answer": "Unconscious desires in texts."
+}

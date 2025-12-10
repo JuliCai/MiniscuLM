@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud compliance standards.",
+    "answer": "Regulations cloud services must follow."
+}

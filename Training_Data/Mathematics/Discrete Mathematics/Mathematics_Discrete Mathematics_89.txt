@@ -1,0 +1,4 @@
+{
+    "question": "What is a planar graph?",
+    "answer": "Graph drawable without edge crossings."
+}

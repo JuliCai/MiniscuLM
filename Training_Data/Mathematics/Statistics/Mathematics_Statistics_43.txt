@@ -1,0 +1,4 @@
+{
+    "question": "What is a bar chart used for?",
+    "answer": "Compare categorical data."
+}

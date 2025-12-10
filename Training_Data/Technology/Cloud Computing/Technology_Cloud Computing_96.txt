@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud latency impact?",
+    "answer": "Delay affects cloud app responsiveness."
+}

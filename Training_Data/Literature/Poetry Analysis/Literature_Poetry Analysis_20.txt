@@ -1,0 +1,4 @@
+{
+    "question": "Identify an example of onomatopoeia.",
+    "answer": "Words that imitate sounds, like 'buzz'."
+}

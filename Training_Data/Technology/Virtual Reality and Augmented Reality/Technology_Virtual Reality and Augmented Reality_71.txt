@@ -1,0 +1,4 @@
+{
+    "question": "What is inside AR smartphone apps?",
+    "answer": "Camera and sensor inputs."
+}

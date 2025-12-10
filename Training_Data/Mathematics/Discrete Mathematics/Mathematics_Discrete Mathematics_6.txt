@@ -1,0 +1,4 @@
+{
+    "question": "Define a tree in graph theory.",
+    "answer": "Connected acyclic graph."
+}

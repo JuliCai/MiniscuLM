@@ -1,0 +1,4 @@
+{
+    "question": "What is the main goal of adaptations?",
+    "answer": "To retell story in a new form."
+}

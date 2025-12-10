@@ -1,0 +1,4 @@
+{
+    "question": "What is a trope in literature?",
+    "answer": "A common figure of speech."
+}

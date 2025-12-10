@@ -1,0 +1,4 @@
+{
+    "question": "What is correlation coefficient?",
+    "answer": "Normalized covariance between -1 and 1."
+}

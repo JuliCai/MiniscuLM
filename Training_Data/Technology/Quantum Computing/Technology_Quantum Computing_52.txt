@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum error-correcting code?",
+    "answer": "Method to protect quantum info against errors."
+}

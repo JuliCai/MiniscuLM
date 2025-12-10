@@ -1,0 +1,4 @@
+{
+    "question": "What was the Enlightenment focus?",
+    "answer": "Reason and individualism."
+}

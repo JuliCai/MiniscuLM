@@ -1,0 +1,4 @@
+{
+    "question": "What is the binomial coefficient?",
+    "answer": "Number of k-combinations from n elements."
+}

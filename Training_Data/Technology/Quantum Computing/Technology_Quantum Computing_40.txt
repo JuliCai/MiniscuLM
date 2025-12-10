@@ -1,0 +1,4 @@
+{
+    "question": "Explain the no-cloning theorem.",
+    "answer": "Quantum states cannot be copied exactly."
+}

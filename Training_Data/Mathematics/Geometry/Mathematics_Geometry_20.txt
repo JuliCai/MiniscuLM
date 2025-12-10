@@ -1,0 +1,4 @@
+{
+    "question": "How many diagonals in a pentagon?",
+    "answer": "Five diagonals."
+}

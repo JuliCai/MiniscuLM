@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud backup frequency.",
+    "answer": "How often data is backed up in cloud."
+}

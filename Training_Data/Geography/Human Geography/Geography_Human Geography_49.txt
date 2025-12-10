@@ -1,0 +1,4 @@
+{
+    "question": "Define ethnic enclave.",
+    "answer": "Area with high concentration of ethnic group."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define rural-urban migration.",
+    "answer": "Movement from countryside to cities."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a hyperparameter in AI?",
+    "answer": "Configurable settings for model training."
+}

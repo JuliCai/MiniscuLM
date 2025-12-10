@@ -1,0 +1,4 @@
+{
+    "question": "What is the base angle in an isosceles triangle?",
+    "answer": "The two equal angles."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous musical adapted from a book.",
+    "answer": "Les Mis\u00e9rables."
+}

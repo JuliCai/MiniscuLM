@@ -1,0 +1,4 @@
+{
+    "question": "What is biased sampling?",
+    "answer": "Non-random, unrepresentative sample."
+}

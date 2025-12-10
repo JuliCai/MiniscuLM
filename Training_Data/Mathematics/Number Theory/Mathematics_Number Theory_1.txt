@@ -1,0 +1,4 @@
+{
+    "question": "Is 29 a prime number?",
+    "answer": "Yes, 29 is prime."
+}

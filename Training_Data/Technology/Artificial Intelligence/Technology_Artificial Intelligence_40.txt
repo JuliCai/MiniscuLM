@@ -1,0 +1,4 @@
+{
+    "question": "What is a generative AI?",
+    "answer": "AI that creates new content."
+}

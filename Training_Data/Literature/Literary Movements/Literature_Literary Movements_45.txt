@@ -1,0 +1,4 @@
+{
+    "question": "What is the key trait of Absurdism?",
+    "answer": "Meaninglessness of life."
+}

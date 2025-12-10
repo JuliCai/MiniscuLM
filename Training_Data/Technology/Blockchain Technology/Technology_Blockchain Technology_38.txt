@@ -1,0 +1,4 @@
+{
+    "question": "What is a Merkle tree?",
+    "answer": "Data structure to verify data integrity."
+}

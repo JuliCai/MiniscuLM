@@ -1,0 +1,4 @@
+{
+    "question": "What is a binomial distribution?",
+    "answer": "Distribution of successes in fixed Bernoulli trials."
+}

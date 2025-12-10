@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum Turing machine?",
+    "answer": "Quantum analog of classical Turing machine model."
+}

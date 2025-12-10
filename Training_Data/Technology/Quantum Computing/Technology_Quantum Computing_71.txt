@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of quantum benchmarks?",
+    "answer": "Evaluate and compare quantum hardware performance."
+}

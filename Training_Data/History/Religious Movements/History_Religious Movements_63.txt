@@ -1,0 +1,4 @@
+{
+    "question": "What is the main scripture of Mormonism?",
+    "answer": "Book of Mormon."
+}

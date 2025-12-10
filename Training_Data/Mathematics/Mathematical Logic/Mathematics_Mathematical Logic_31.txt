@@ -1,0 +1,4 @@
+{
+    "question": "What is G\u00f6del's completeness theorem?",
+    "answer": "Every valid formula is provable."
+}

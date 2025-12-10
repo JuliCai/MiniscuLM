@@ -1,0 +1,4 @@
+{
+    "question": "Define paracompactness importance.",
+    "answer": "Ensures existence of partitions of unity."
+}

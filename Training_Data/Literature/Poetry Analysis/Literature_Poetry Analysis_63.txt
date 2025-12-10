@@ -1,0 +1,4 @@
+{
+    "question": "Explain the meaning of mood in poetry.",
+    "answer": "The atmosphere evoking emotion."
+}

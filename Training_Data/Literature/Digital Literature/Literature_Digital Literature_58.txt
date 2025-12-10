@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be offline?",
+    "answer": "Yes, downloadable digital works exist."
+}

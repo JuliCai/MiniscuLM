@@ -1,0 +1,4 @@
+{
+    "question": "What is a transmedia adaptation?",
+    "answer": "Story told across different media platforms."
+}

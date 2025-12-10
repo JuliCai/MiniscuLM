@@ -1,0 +1,4 @@
+{
+    "question": "What is the Fibonacci sequence?",
+    "answer": "Sequence where each term sum of previous two."
+}

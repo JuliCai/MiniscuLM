@@ -1,0 +1,4 @@
+{
+    "question": "Define expected value of a continuous variable.",
+    "answer": "Integral of x times PDF dx."
+}

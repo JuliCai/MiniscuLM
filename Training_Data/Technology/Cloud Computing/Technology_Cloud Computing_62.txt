@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud migration tool?",
+    "answer": "Software to assist moving workloads to cloud."
+}

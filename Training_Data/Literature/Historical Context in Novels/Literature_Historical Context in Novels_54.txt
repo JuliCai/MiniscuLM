@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect reader empathy?",
+    "answer": "Helps understand characters' struggles."
+}

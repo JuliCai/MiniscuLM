@@ -1,0 +1,4 @@
+{
+    "question": "What device is used in AR?",
+    "answer": "Smartphone or AR glasses."
+}

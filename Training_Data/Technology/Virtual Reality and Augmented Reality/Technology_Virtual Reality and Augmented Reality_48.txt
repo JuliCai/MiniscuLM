@@ -1,0 +1,4 @@
+{
+    "question": "What is the main challenge of VR?",
+    "answer": "Motion sickness and hardware cost."
+}

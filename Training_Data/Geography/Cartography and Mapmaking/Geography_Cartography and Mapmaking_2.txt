@@ -1,0 +1,4 @@
+{
+    "question": "What tool measures angles in surveying?",
+    "answer": "Theodolite."
+}

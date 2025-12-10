@@ -1,0 +1,4 @@
+{
+    "question": "Who led the Nationalist forces in the Spanish Civil War?",
+    "answer": "Francisco Franco."
+}

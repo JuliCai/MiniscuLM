@@ -1,0 +1,4 @@
+{
+    "question": "What is a kente cloth?",
+    "answer": "Traditional Ghanaian textile."
+}

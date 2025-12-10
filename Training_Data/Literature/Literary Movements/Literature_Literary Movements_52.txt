@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Dystopian novel.",
+    "answer": "1984 by Orwell."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define autonomous system.",
+    "answer": "System independent of independent variable explicitly."
+}

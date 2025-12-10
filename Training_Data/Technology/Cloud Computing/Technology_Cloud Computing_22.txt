@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud latency?",
+    "answer": "Delay in data transfer over cloud."
+}

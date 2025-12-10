@@ -1,0 +1,4 @@
+{
+    "question": "What is a fractal dimension?",
+    "answer": "Measure of complexity of fractal sets."
+}

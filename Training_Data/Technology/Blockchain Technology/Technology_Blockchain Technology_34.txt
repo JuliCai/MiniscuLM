@@ -1,0 +1,4 @@
+{
+    "question": "Name a use case of blockchain.",
+    "answer": "Supply chain tracking and verification."
+}

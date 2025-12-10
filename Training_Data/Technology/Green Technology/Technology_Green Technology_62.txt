@@ -1,0 +1,4 @@
+{
+    "question": "How do electric vehicles reduce noise pollution?",
+    "answer": "They operate quietly."
+}

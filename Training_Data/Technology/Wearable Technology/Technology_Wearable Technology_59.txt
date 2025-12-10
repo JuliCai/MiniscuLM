@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of waterproof rating?",
+    "answer": "Indicates wearability in water."
+}

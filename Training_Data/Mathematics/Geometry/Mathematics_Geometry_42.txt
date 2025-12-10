@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the height of an equilateral triangle?",
+    "answer": "(\u221a3/2) \u00d7 side length."
+}

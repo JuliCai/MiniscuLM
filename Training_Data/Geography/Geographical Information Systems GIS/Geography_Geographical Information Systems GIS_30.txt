@@ -1,0 +1,4 @@
+{
+    "question": "What role does GIS play in transportation?",
+    "answer": "Route planning and traffic analysis."
+}

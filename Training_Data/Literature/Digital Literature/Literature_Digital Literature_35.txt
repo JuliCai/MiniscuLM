@@ -1,0 +1,4 @@
+{
+    "question": "What distinguishes digital poetry?",
+    "answer": "Use of digital effects and interactive elements."
+}

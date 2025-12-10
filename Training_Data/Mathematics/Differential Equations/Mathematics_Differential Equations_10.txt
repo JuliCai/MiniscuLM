@@ -1,0 +1,4 @@
+{
+    "question": "Separate variables for dy/dx = xy.",
+    "answer": "dy/y = x dx."
+}

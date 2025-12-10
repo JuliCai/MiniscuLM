@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum control system?",
+    "answer": "System managing qubit operations and coherence."
+}

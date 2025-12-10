@@ -1,0 +1,4 @@
+{
+    "question": "How do green technologies relate to smart cities?",
+    "answer": "Enable sustainable urban management."
+}

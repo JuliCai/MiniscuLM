@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of Socialist literature?",
+    "answer": "Class struggle and revolution."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What technology powers AR glasses?",
+    "answer": "Sensors and cameras."
+}

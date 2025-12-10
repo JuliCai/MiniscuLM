@@ -1,0 +1,4 @@
+{
+    "question": "Which woman was a key figure in the French Resistance?",
+    "answer": "Lucie Aubrac"
+}

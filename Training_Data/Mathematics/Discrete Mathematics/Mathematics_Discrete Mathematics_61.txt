@@ -1,0 +1,4 @@
+{
+    "question": "Define Zorn's Lemma.",
+    "answer": "Every partially ordered set with chain upper bounds has maximal element."
+}

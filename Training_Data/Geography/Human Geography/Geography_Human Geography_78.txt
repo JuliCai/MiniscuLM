@@ -1,0 +1,4 @@
+{
+    "question": "What is a migration corridor?",
+    "answer": "Path migrants follow."
+}

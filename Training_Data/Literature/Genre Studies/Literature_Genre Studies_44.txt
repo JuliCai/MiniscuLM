@@ -1,0 +1,4 @@
+{
+    "question": "What genre focuses on space exploration?",
+    "answer": "Space opera."
+}

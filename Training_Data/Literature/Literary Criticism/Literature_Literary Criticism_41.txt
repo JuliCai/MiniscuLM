@@ -1,0 +1,4 @@
+{
+    "question": "Name a key figure in Marxist criticism.",
+    "answer": "Karl Marx."
+}

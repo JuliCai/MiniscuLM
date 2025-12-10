@@ -1,0 +1,4 @@
+{
+    "question": "What causes the Intertropical Convergence Zone?",
+    "answer": "Converging trade winds near equator."
+}

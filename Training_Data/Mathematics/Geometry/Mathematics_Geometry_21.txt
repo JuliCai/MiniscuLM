@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the area of a rectangle?",
+    "answer": "Length times width (lw)."
+}

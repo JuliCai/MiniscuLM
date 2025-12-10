@@ -1,0 +1,4 @@
+{
+    "question": "Name a European rival in colonizing Asia.",
+    "answer": "France."
+}

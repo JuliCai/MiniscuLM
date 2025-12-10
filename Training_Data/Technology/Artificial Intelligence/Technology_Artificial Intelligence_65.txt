@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in manufacturing?",
+    "answer": "Automation of production processes."
+}

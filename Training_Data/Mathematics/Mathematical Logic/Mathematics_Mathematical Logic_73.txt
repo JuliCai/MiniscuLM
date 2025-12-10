@@ -1,0 +1,4 @@
+{
+    "question": "What is a lattice in logic?",
+    "answer": "Partially ordered set with joins and meets."
+}

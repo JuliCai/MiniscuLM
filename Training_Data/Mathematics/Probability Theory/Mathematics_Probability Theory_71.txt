@@ -1,0 +1,4 @@
+{
+    "question": "Define a probability space.",
+    "answer": "Sample space, sigma-algebra, and probability measure."
+}

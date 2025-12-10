@@ -1,0 +1,4 @@
+{
+    "question": "Integral of tan x dx?",
+    "answer": "-ln|cos x| + C"
+}

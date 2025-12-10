@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first African American woman to win an Olympic gold?",
+    "answer": "Alice Coachman"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic base of Ancient Egypt?",
+    "answer": "Agriculture along the Nile River."
+}

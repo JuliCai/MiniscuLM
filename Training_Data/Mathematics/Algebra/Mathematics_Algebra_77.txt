@@ -1,0 +1,4 @@
+{
+    "question": "Solve: 2x + 3 = 2x + 3",
+    "answer": "Infinite solutions"
+}

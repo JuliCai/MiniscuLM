@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female governor in the United States?",
+    "answer": "Nellie Tayloe Ross"
+}

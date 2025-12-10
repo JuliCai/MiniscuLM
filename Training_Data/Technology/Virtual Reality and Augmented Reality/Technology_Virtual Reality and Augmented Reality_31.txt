@@ -1,0 +1,4 @@
+{
+    "question": "What is immersive technology?",
+    "answer": "Tech that simulates real environment."
+}

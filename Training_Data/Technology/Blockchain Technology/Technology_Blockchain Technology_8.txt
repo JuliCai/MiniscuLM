@@ -1,0 +1,4 @@
+{
+    "question": "What is a public blockchain?",
+    "answer": "A blockchain open to everyone."
+}

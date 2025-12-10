@@ -1,0 +1,4 @@
+{
+    "question": "Difference between blockchain and database?",
+    "answer": "Blockchain is decentralized; databases are centralized."
+}

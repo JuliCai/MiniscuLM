@@ -1,0 +1,4 @@
+{
+    "question": "What is password manager?",
+    "answer": "App storing and generating passwords."
+}

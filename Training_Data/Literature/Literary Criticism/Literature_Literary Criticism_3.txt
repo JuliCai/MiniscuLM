@@ -1,0 +1,4 @@
+{
+    "question": "Define 'reader-response criticism.'",
+    "answer": "Focuses on reader's interpretation."
+}

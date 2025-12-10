@@ -1,0 +1,4 @@
+{
+    "question": "Define economic sector: primary.",
+    "answer": "Extracting natural resources."
+}

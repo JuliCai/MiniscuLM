@@ -1,0 +1,4 @@
+{
+    "question": "Can VR cause eye strain?",
+    "answer": "Yes, after prolonged use."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name an advantage of electric public transport.",
+    "answer": "Lower urban air pollution."
+}

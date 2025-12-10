@@ -1,0 +1,4 @@
+{
+    "question": "Which coordinate system is used in GIS?",
+    "answer": "Latitude and longitude."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G harmful to health?",
+    "answer": "No conclusive evidence currently."
+}

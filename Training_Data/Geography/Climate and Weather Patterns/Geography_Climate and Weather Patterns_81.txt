@@ -1,0 +1,4 @@
+{
+    "question": "What defines a Mediterranean climate?",
+    "answer": "Wet winters and dry summers."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature valid for awards?",
+    "answer": "Yes, many awards recognize digital works."
+}

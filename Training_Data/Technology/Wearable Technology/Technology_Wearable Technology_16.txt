@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of GPS in wearables?",
+    "answer": "Tracking location and outdoor activities."
+}

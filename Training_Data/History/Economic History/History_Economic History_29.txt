@@ -1,0 +1,4 @@
+{
+    "question": "What is protectionism?",
+    "answer": "Restricting imports to protect domestic industries."
+}

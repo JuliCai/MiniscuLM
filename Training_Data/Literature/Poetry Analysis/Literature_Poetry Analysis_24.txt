@@ -1,0 +1,4 @@
+{
+    "question": "Define allegory.",
+    "answer": "A story with a hidden meaning."
+}

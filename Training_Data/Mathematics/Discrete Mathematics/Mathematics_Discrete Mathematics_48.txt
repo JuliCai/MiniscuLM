@@ -1,0 +1,4 @@
+{
+    "question": "Define injective function.",
+    "answer": "Function where different inputs have different outputs."
+}

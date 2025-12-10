@@ -1,0 +1,4 @@
+{
+    "question": "Which island is the largest in the Mediterranean?",
+    "answer": "Sicily."
+}

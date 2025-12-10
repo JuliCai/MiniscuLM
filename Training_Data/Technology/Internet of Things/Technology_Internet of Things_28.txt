@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT affect transportation?",
+    "answer": "Enables vehicle tracking and management."
+}

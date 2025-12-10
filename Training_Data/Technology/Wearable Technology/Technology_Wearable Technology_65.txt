@@ -1,0 +1,4 @@
+{
+    "question": "Are there wearables for stress relief?",
+    "answer": "Some provide guided breathing exercises."
+}

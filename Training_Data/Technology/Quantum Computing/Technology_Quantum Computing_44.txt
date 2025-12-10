@@ -1,0 +1,4 @@
+{
+    "question": "How does quantum computing impact drug discovery?",
+    "answer": "Simulates molecules more accurately and faster."
+}

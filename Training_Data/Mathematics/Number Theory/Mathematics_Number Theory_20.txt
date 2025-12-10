@@ -1,0 +1,4 @@
+{
+    "question": "What is the remainder when 10^3 is divided by 7?",
+    "answer": "6"
+}

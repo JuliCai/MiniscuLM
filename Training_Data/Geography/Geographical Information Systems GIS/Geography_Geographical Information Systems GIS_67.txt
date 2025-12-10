@@ -1,0 +1,4 @@
+{
+    "question": "What is remote sensing imagery?",
+    "answer": "Images collected from satellites or aircraft."
+}

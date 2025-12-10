@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the area of a kite?",
+    "answer": "(Diagonal1 \u00d7 Diagonal2) \u00f7 2."
+}

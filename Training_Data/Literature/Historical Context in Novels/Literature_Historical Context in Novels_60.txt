@@ -1,0 +1,4 @@
+{
+    "question": "How do historical novels differ from historical fantasy?",
+    "answer": "Historical novels are factual; fantasy includes magic."
+}

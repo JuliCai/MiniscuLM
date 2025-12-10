@@ -1,0 +1,4 @@
+{
+    "question": "What is the incenter of a triangle?",
+    "answer": "Intersection of angle bisectors."
+}

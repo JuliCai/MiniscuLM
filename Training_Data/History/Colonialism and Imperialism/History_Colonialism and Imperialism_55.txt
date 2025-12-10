@@ -1,0 +1,4 @@
+{
+    "question": "What sparked the Scramble for Africa?",
+    "answer": "Desire for raw materials."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the expected value of a fair six-sided die roll?",
+    "answer": "3.5"
+}

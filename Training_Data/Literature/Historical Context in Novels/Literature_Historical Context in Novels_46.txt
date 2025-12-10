@@ -1,0 +1,4 @@
+{
+    "question": "Name a method for integrating historical context subtly.",
+    "answer": "Through character memories or background hints."
+}

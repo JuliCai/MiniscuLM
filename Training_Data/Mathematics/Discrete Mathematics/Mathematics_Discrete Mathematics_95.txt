@@ -1,0 +1,4 @@
+{
+    "question": "What is a cut in a graph?",
+    "answer": "Partition of vertices into two sets."
+}

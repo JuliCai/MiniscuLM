@@ -1,0 +1,4 @@
+{
+    "question": "Can wearable tech improve productivity?",
+    "answer": "Yes, via notifications and health monitoring."
+}

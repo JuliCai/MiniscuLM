@@ -1,0 +1,4 @@
+{
+    "question": "What is the complement rule in probability?",
+    "answer": "P(not A) = 1 - P(A)"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of getting a sum of 7 with two dice?",
+    "answer": "6/36 or 1/6"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define quotient map.",
+    "answer": "Surjective map inducing quotient topology on codomain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS template?",
+    "answer": "Predefined map layout and settings."
+}

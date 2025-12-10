@@ -1,0 +1,4 @@
+{
+    "question": "Who is considered a messiah in Rastafarianism?",
+    "answer": "Haile Selassie."
+}

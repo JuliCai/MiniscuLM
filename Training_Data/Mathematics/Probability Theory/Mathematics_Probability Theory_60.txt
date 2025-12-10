@@ -1,0 +1,4 @@
+{
+    "question": "What is the expectation of a constant?",
+    "answer": "The constant itself."
+}

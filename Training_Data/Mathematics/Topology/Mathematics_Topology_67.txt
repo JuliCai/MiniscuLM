@@ -1,0 +1,4 @@
+{
+    "question": "What is a uniform space?",
+    "answer": "Generalizes metric spaces with uniform structure."
+}

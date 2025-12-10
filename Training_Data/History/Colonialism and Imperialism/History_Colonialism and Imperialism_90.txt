@@ -1,0 +1,4 @@
+{
+    "question": "Who was Mohandas Gandhi?",
+    "answer": "Leader of Indian independence."
+}

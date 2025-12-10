@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial interpolation?",
+    "answer": "Estimating unknown values between points."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find the second derivative of x^5.",
+    "answer": "20x^3"
+}

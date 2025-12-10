@@ -1,0 +1,4 @@
+{
+    "question": "What is the main character's name in 'Coraline'?",
+    "answer": "Coraline Jones"
+}

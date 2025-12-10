@@ -1,0 +1,4 @@
+{
+    "question": "What is a consistency proof?",
+    "answer": "Proof that no contradictions arise."
+}

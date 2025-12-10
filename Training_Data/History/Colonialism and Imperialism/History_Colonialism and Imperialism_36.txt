@@ -1,0 +1,4 @@
+{
+    "question": "Which war led to British control of India?",
+    "answer": "Battle of Plassey."
+}

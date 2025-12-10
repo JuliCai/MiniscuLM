@@ -1,0 +1,4 @@
+{
+    "question": "What is a cyber incident?",
+    "answer": "Any event compromising cybersecurity."
+}

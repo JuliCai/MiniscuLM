@@ -1,0 +1,4 @@
+{
+    "question": "Define a regular polygon.",
+    "answer": "All sides and angles are equal."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a differential equation?",
+    "answer": "An equation involving derivatives of a function."
+}

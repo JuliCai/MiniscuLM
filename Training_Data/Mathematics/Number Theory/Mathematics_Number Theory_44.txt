@@ -1,0 +1,4 @@
+{
+    "question": "What is the prime factorization of 100?",
+    "answer": "2\u00b2 \u00d7 5\u00b2"
+}

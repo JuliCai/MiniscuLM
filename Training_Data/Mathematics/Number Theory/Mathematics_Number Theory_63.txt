@@ -1,0 +1,4 @@
+{
+    "question": "What is a divisor of a number?",
+    "answer": "A number that divides it exactly."
+}

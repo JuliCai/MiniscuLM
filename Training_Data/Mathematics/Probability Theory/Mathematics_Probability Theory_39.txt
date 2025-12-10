@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of drawing a heart from a deck?",
+    "answer": "13/52 or 1/4"
+}

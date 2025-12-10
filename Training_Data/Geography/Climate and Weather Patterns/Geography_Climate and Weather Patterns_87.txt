@@ -1,0 +1,4 @@
+{
+    "question": "What causes the greenhouse gas methane?",
+    "answer": "Decomposition and livestock emissions."
+}

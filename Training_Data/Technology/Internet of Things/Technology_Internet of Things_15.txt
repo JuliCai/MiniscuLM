@@ -1,0 +1,4 @@
+{
+    "question": "What is IoT latency?",
+    "answer": "Delay between data sent and received."
+}

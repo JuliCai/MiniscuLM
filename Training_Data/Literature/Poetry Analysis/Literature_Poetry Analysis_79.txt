@@ -1,0 +1,4 @@
+{
+    "question": "Explain the use of irony.",
+    "answer": "Expressing meaning opposite to literal."
+}

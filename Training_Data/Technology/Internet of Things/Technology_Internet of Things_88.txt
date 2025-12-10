@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart parking system?",
+    "answer": "IoT detects available spots."
+}

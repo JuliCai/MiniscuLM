@@ -1,0 +1,4 @@
+{
+    "question": "What is a probabilistic model?",
+    "answer": "Model incorporating randomness."
+}

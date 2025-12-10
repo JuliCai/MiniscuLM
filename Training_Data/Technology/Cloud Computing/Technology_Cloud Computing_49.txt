@@ -1,0 +1,4 @@
+{
+    "question": "Explain the shared responsibility model.",
+    "answer": "Cloud provider and user share security roles."
+}

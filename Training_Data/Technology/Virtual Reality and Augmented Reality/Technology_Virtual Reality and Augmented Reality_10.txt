@@ -1,0 +1,4 @@
+{
+    "question": "Is Pok\u00e9mon Go an AR game?",
+    "answer": "Yes, it overlays Pok\u00e9mon on real world."
+}

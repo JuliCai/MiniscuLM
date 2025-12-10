@@ -1,0 +1,4 @@
+{
+    "question": "What did the Gold Standard mean?",
+    "answer": "Currency backed by gold reserves."
+}

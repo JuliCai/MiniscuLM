@@ -1,0 +1,4 @@
+{
+    "question": "What was the main outcome of the Iranian Revolution?",
+    "answer": "Establishment of Islamic Republic."
+}

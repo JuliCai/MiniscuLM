@@ -1,0 +1,4 @@
+{
+    "question": "What color often represents water on maps?",
+    "answer": "Blue."
+}

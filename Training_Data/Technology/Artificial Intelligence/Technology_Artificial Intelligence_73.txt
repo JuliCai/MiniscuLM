@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between AI and human intelligence?",
+    "answer": "AI lacks emotions and consciousness."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of cryogenics in quantum computers?",
+    "answer": "Keeps qubits at ultra-low temperatures for stability."
+}

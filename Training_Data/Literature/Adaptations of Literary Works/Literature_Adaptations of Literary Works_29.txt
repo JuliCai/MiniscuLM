@@ -1,0 +1,4 @@
+{
+    "question": "How do adaptations handle internal monologues?",
+    "answer": "Use narration or visual cues."
+}

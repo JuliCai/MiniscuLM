@@ -1,0 +1,4 @@
+{
+    "question": "Define disjunctive normal form.",
+    "answer": "Disjunction of conjunctions of literals."
+}

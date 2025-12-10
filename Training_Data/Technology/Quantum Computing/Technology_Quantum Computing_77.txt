@@ -1,0 +1,4 @@
+{
+    "question": "What is the challenge of scaling qubits?",
+    "answer": "Maintaining coherence and control across many qubits."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be collaborative?",
+    "answer": "Yes, multiple authors can contribute online."
+}

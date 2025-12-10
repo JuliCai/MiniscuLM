@@ -1,0 +1,4 @@
+{
+    "question": "Integrate cosh x dx.",
+    "answer": "sinh x + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is phishing?",
+    "answer": "A cyberattack to steal sensitive info."
+}

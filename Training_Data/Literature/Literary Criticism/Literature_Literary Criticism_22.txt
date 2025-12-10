@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of reader-response theory?",
+    "answer": "Meaning is created by readers."
+}

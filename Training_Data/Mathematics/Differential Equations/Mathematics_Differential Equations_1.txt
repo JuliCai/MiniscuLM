@@ -1,0 +1,4 @@
+{
+    "question": "Define an ordinary differential equation (ODE).",
+    "answer": "An equation with derivatives of one independent variable."
+}

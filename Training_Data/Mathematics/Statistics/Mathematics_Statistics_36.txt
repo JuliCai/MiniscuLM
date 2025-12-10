@@ -1,0 +1,4 @@
+{
+    "question": "What is linear regression?",
+    "answer": "Model predicting y from x."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define Ramsey number.",
+    "answer": "Minimum vertices to guarantee clique or independent set."
+}

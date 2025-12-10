@@ -1,0 +1,4 @@
+{
+    "question": "Name a communication method in IoT.",
+    "answer": "Bluetooth."
+}

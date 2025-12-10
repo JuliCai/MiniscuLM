@@ -1,0 +1,4 @@
+{
+    "question": "What was the main ideology behind the Cuban Revolution?",
+    "answer": "Communism."
+}

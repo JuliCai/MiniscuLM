@@ -1,0 +1,4 @@
+{
+    "question": "What is sharding?",
+    "answer": "Splitting blockchain into smaller parts."
+}

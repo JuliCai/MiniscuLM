@@ -1,0 +1,4 @@
+{
+    "question": "What is a virtual machine?",
+    "answer": "Emulated computer system on hardware."
+}

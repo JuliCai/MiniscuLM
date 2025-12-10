@@ -1,0 +1,4 @@
+{
+    "question": "What is Fermat\u2019s Little Theorem?",
+    "answer": "a^(p-1) \u2261 1 mod p for prime p."
+}

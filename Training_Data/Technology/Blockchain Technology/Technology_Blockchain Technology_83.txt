@@ -1,0 +1,4 @@
+{
+    "question": "Explain blockchain immutability.",
+    "answer": "Records can't be changed once written."
+}

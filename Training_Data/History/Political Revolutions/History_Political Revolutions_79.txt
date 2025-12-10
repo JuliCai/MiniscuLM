@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the October Revolution?",
+    "answer": "Bolshevik seizure of power."
+}

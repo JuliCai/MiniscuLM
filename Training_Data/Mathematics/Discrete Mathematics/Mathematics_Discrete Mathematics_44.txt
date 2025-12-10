@@ -1,0 +1,4 @@
+{
+    "question": "What is a function?",
+    "answer": "Relation assigning one output per input."
+}

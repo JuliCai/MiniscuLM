@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of the East India Company?",
+    "answer": "Controlled British trade in India."
+}

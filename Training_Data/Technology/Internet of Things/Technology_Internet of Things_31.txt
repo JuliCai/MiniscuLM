@@ -1,0 +1,4 @@
+{
+    "question": "Name a privacy concern with IoT cameras.",
+    "answer": "Unauthorized video access."
+}

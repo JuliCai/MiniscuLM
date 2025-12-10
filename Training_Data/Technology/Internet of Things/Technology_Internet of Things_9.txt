@@ -1,0 +1,4 @@
+{
+    "question": "What is edge computing in IoT?",
+    "answer": "Processing data near data source."
+}

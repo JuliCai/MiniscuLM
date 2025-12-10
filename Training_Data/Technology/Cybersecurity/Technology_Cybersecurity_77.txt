@@ -1,0 +1,4 @@
+{
+    "question": "What is a kill chain in cybersecurity?",
+    "answer": "Sequence of steps in cyberattack process."
+}

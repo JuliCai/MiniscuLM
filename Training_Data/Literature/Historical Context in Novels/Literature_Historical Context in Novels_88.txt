@@ -1,0 +1,4 @@
+{
+    "question": "Why is historical accuracy debated in fiction?",
+    "answer": "Balancing fact with creative freedom."
+}

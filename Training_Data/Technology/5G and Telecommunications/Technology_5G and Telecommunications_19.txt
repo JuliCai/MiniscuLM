@@ -1,0 +1,4 @@
+{
+    "question": "What is latency?",
+    "answer": "Time delay in data transmission."
+}

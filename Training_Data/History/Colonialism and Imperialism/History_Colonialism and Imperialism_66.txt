@@ -1,0 +1,4 @@
+{
+    "question": "What is imperialism's link to industrialization?",
+    "answer": "Need for raw materials and markets."
+}

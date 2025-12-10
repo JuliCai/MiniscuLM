@@ -1,0 +1,4 @@
+{
+    "question": "What is a parody adaptation?",
+    "answer": "A humorous imitation of the original."
+}

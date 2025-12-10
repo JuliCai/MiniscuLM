@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Scream?",
+    "answer": "Edvard Munch."
+}

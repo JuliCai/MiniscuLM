@@ -1,0 +1,4 @@
+{
+    "question": "Define Realism in literature.",
+    "answer": "Depicting everyday life accurately."
+}

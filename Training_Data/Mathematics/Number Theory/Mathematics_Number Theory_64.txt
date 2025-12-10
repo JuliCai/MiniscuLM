@@ -1,0 +1,4 @@
+{
+    "question": "Is 0 divisible by any number?",
+    "answer": "Yes, by all nonzero integers."
+}

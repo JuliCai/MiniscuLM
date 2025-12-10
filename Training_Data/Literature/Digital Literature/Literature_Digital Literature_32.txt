@@ -1,0 +1,4 @@
+{
+    "question": "How does multimedia enhance digital literature?",
+    "answer": "Adds audio, visuals, and interaction to text."
+}

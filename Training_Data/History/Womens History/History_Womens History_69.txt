@@ -1,0 +1,4 @@
+{
+    "question": "Name the woman who was a key figure in the Underground Railroad.",
+    "answer": "Harriet Tubman"
+}

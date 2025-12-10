@@ -1,0 +1,4 @@
+{
+    "question": "What does alliteration emphasize?",
+    "answer": "Repetition of initial consonant sounds."
+}

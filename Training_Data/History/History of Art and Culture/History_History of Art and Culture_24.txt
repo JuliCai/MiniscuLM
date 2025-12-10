@@ -1,0 +1,4 @@
+{
+    "question": "When did the Gothic art period occur?",
+    "answer": "12th to 16th century."
+}

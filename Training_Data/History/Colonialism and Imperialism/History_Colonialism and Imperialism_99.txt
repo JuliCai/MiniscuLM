@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary motive of the Spanish conquest?",
+    "answer": "Gold and territory."
+}

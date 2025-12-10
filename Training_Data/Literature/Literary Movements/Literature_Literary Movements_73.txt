@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of Romantic drama?",
+    "answer": "Emotion and individualism."
+}

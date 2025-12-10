@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between lyric and narrative poetry?",
+    "answer": "Lyric expresses emotion; narrative tells a story."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart grid?",
+    "answer": "An electricity network enabling efficient energy use."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do historical novels handle modern values?",
+    "answer": "Often contrast them with past norms."
+}

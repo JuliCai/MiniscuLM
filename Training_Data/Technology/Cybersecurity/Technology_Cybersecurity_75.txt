@@ -1,0 +1,4 @@
+{
+    "question": "What is a security breach?",
+    "answer": "Unauthorized access to data or systems."
+}

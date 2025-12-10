@@ -1,0 +1,4 @@
+{
+    "question": "Define a qubit.",
+    "answer": "Quantum bit, basic info unit in quantum computing."
+}

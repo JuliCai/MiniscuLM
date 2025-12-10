@@ -1,0 +1,4 @@
+{
+    "question": "What does poststructuralism challenge?",
+    "answer": "Fixed meanings in texts."
+}

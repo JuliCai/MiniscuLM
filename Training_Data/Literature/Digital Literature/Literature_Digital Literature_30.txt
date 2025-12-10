@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature accessible globally?",
+    "answer": "Yes, via the internet worldwide."
+}

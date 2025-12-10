@@ -1,0 +1,4 @@
+{
+    "question": "What is a nation-state?",
+    "answer": "Country where nation and state coincide."
+}

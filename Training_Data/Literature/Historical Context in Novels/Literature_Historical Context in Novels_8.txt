@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context influence themes?",
+    "answer": "Themes often reflect period issues."
+}

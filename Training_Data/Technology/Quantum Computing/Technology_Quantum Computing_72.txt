@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum teleportation protocol?",
+    "answer": "Transfers qubit states using entanglement and classical bits."
+}

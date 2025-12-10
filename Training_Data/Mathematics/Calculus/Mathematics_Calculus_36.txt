@@ -1,0 +1,4 @@
+{
+    "question": "Integral of 1/(x ln x) dx?",
+    "answer": "ln|ln x| + C"
+}

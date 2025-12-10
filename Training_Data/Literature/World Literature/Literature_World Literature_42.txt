@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Color Purple'?",
+    "answer": "Alice Walker"
+}

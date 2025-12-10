@@ -1,0 +1,4 @@
+{
+    "question": "Can quantum computers break RSA encryption?",
+    "answer": "Yes, using Shor's algorithm efficiently."
+}

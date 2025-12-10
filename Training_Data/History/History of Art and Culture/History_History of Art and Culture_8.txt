@@ -1,0 +1,4 @@
+{
+    "question": "Who created The Starry Night?",
+    "answer": "Vincent van Gogh."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud disaster recovery plan?",
+    "answer": "Strategy to restore cloud services after failure."
+}

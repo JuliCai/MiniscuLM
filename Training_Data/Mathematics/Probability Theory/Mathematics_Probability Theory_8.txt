@@ -1,0 +1,4 @@
+{
+    "question": "Define expected value.",
+    "answer": "Weighted average of all possible values."
+}

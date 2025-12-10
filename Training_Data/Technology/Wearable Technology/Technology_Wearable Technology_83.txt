@@ -1,0 +1,4 @@
+{
+    "question": "Are there wearables with solar charging?",
+    "answer": "Few devices incorporate solar cells."
+}

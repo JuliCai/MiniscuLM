@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary cause of the 1905 Russian Revolution?",
+    "answer": "Political dissatisfaction and unrest."
+}

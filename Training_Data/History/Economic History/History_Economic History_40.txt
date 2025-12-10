@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Panic of 1907?",
+    "answer": "Banking liquidity crisis in the US."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who created 'The Madwoman in the Attic'?",
+    "answer": "Sandra Gilbert and Susan Gubar"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What role does historical context play in satire?",
+    "answer": "Targets specific historical issues or figures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of sparse population?",
+    "answer": "Antarctica."
+}

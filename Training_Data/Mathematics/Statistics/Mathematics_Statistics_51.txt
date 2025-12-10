@@ -1,0 +1,4 @@
+{
+    "question": "What is a Poisson distribution?",
+    "answer": "Probability of events in fixed interval."
+}

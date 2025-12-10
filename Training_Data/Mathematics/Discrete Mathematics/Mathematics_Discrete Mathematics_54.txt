@@ -1,0 +1,4 @@
+{
+    "question": "What is a lattice?",
+    "answer": "Set with join and meet operations."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the origin of Sikhism?",
+    "answer": "Northern India."
+}

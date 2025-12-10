@@ -1,0 +1,4 @@
+{
+    "question": "What is cultural imperialism?",
+    "answer": "Imposing culture over another society."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a support vector machine?",
+    "answer": "A supervised learning model for classification."
+}

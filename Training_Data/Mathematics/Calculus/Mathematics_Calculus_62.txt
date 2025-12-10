@@ -1,0 +1,4 @@
+{
+    "question": "What is the derivative of log_a x?",
+    "answer": "1 / (x ln a)"
+}

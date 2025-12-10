@@ -1,0 +1,4 @@
+{
+    "question": "Define firewall.",
+    "answer": "A security system to block unauthorized access."
+}

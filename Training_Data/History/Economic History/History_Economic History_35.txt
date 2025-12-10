@@ -1,0 +1,4 @@
+{
+    "question": "Who was Friedrich Hayek?",
+    "answer": "Economist promoting free-market capitalism."
+}

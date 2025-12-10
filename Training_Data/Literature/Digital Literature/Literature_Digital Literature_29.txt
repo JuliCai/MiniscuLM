@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of digital literature?",
+    "answer": "It expands narrative possibilities and accessibility."
+}

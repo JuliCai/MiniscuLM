@@ -1,0 +1,4 @@
+{
+    "question": "Name a British colony in the Caribbean.",
+    "answer": "Jamaica."
+}

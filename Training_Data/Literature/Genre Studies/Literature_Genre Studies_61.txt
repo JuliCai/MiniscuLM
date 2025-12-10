@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of tragedy.",
+    "answer": "Stories with sad or disastrous endings."
+}

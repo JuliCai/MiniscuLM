@@ -1,0 +1,4 @@
+{
+    "question": "What is a geospatial raster?",
+    "answer": "Grid-based data like satellite images."
+}

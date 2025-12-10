@@ -1,0 +1,4 @@
+{
+    "question": "What is a proof tree?",
+    "answer": "Graphical representation of a proof."
+}

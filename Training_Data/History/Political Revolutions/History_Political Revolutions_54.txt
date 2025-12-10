@@ -1,0 +1,4 @@
+{
+    "question": "Which political revolution occurred in Cuba in 1959?",
+    "answer": "Cuban Revolution."
+}

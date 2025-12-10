@@ -1,0 +1,4 @@
+{
+    "question": "What is carrying capacity limit?",
+    "answer": "When resources run out."
+}

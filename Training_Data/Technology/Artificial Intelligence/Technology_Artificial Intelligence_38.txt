@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in cybersecurity?",
+    "answer": "Detecting threats using AI algorithms."
+}

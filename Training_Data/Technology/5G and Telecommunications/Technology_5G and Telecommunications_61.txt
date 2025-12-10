@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of 5G on network capacity?",
+    "answer": "Significantly increased capacity."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What role does coding play in digital literature?",
+    "answer": "It creates interactive and dynamic narratives."
+}

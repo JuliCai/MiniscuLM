@@ -1,0 +1,4 @@
+{
+    "question": "What is intertextuality?",
+    "answer": "Relationship between different texts."
+}

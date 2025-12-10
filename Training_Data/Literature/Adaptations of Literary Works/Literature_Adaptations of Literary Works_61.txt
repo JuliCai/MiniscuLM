@@ -1,0 +1,4 @@
+{
+    "question": "What is a \u2018screen adaptation\u2019?",
+    "answer": "A book adapted for film or TV."
+}

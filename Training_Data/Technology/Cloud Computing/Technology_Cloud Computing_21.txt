@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud redundancy.",
+    "answer": "Duplicating resources to prevent failure."
+}

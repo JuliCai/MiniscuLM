@@ -1,0 +1,4 @@
+{
+    "question": "Why is 5G important for smart cities?",
+    "answer": "Enables real-time data and automation."
+}

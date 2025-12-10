@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context influence narrative tension?",
+    "answer": "Conflicts arise from historical pressures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What culture developed the alphabet?",
+    "answer": "Phoenicians."
+}

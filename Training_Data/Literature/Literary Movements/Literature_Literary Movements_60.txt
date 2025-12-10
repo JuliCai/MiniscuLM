@@ -1,0 +1,4 @@
+{
+    "question": "What is the main trait of the New Criticism?",
+    "answer": "Close textual analysis."
+}

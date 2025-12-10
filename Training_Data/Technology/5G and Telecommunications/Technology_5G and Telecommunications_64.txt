@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of fiber optics in 5G?",
+    "answer": "Backbone for data transport."
+}

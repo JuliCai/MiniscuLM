@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud-native app deployment.",
+    "answer": "Deploying apps using cloud services and containers."
+}

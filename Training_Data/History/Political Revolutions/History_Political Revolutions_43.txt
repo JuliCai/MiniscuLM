@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Declaration of the Rights of Man?",
+    "answer": "French human rights document."
+}

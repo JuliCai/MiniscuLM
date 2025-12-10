@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G operate on existing towers?",
+    "answer": "Partially, but with upgrades."
+}

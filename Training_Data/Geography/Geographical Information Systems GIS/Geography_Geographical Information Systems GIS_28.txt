@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a GIS database?",
+    "answer": "Stores spatial and attribute data."
+}

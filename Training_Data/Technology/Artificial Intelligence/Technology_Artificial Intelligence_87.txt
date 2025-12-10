@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in sentiment analysis?",
+    "answer": "Determining emotions in text."
+}

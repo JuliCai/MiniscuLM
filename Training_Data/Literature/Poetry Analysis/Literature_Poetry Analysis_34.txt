@@ -1,0 +1,4 @@
+{
+    "question": "What is a motif?",
+    "answer": "A recurring element or idea."
+}

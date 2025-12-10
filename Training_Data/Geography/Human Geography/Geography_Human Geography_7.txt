@@ -1,0 +1,4 @@
+{
+    "question": "What is globalization's effect on culture?",
+    "answer": "Cultural homogenization and exchange."
+}

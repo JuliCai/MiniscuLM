@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of Qualcomm in 5G?",
+    "answer": "Develops 5G chipsets."
+}

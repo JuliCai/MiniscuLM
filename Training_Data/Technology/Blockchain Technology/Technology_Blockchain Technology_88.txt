@@ -1,0 +1,4 @@
+{
+    "question": "What is blockchain tokenomics?",
+    "answer": "Study of token economy design."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a cylinder.",
+    "answer": "3D figure with circular bases and curved surface."
+}

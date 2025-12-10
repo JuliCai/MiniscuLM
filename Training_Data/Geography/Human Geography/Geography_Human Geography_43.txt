@@ -1,0 +1,4 @@
+{
+    "question": "Define human development index (HDI).",
+    "answer": "Measure of life expectancy, education, income."
+}

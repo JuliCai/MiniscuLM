@@ -1,0 +1,4 @@
+{
+    "question": "What is a private key?",
+    "answer": "Secret key to access cryptocurrency."
+}

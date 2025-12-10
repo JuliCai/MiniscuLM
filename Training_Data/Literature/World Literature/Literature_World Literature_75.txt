@@ -1,0 +1,4 @@
+{
+    "question": "Which novel focuses on a dystopian society controlled by technology?",
+    "answer": "Brave New World"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main reason for the Boer Wars?",
+    "answer": "Control over South African land."
+}

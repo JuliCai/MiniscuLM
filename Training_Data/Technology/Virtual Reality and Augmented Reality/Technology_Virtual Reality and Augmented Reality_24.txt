@@ -1,0 +1,4 @@
+{
+    "question": "What is latency in VR?",
+    "answer": "Delay between movement and display update."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a normal modal logic?",
+    "answer": "Modal logic with normal axioms."
+}

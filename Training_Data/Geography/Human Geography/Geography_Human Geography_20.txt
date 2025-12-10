@@ -1,0 +1,4 @@
+{
+    "question": "Define remittance.",
+    "answer": "Money sent by migrants home."
+}

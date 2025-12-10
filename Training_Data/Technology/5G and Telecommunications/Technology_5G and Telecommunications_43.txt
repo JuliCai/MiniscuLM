@@ -1,0 +1,4 @@
+{
+    "question": "What is network slicing?",
+    "answer": "Dividing network for specific uses."
+}

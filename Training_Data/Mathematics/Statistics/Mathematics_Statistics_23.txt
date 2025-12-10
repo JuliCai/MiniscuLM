@@ -1,0 +1,4 @@
+{
+    "question": "What does 'n' represent in statistics?",
+    "answer": "Sample size."
+}

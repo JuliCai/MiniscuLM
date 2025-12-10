@@ -1,0 +1,4 @@
+{
+    "question": "Define statistical inference.",
+    "answer": "Drawing conclusions from data."
+}

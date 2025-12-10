@@ -1,0 +1,4 @@
+{
+    "question": "What is a map legend?",
+    "answer": "Explains symbols used on a map."
+}

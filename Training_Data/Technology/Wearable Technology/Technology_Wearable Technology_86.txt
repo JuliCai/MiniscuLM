@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables require software updates?",
+    "answer": "Yes, for improvements and security."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a key 5G technology.",
+    "answer": "Millimeter wave (mmWave)."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a symbol in literary criticism?",
+    "answer": "An object representing an idea."
+}

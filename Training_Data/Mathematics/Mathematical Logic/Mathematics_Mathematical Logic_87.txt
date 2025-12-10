@@ -1,0 +1,4 @@
+{
+    "question": "What is a free logic?",
+    "answer": "Logic allowing empty domains."
+}

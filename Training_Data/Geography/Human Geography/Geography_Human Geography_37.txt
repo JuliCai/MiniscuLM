@@ -1,0 +1,4 @@
+{
+    "question": "What is a shantytown?",
+    "answer": "Poor informal settlement."
+}

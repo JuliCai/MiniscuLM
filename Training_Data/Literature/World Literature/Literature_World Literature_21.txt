@@ -1,0 +1,4 @@
+{
+    "question": "What is the original language of 'The Metamorphosis'?",
+    "answer": "German"
+}

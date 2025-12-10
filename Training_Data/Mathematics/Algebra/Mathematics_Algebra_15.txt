@@ -1,0 +1,4 @@
+{
+    "question": "Find roots: x^2 - 4x + 4",
+    "answer": "x = 2"
+}

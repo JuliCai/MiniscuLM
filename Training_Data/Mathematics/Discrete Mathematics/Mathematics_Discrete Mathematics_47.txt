@@ -1,0 +1,4 @@
+{
+    "question": "What is an image of a function?",
+    "answer": "Outputs corresponding to inputs."
+}

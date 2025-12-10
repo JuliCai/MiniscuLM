@@ -1,0 +1,4 @@
+{
+    "question": "What is the smallest positive integer divisible by 2 and 3?",
+    "answer": "6"
+}

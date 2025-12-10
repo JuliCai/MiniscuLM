@@ -1,0 +1,4 @@
+{
+    "question": "What is a connected sum in topology?",
+    "answer": "Operation joining two spaces along a sphere."
+}

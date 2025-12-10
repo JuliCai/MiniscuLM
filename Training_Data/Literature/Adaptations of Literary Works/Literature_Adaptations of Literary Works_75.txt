@@ -1,0 +1,4 @@
+{
+    "question": "What is a literary adaptation\u2019s primary medium?",
+    "answer": "Books, films, theater, or TV."
+}

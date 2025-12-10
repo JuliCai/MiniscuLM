@@ -1,0 +1,4 @@
+{
+    "question": "Name a cloud data analytics service.",
+    "answer": "Amazon Redshift."
+}

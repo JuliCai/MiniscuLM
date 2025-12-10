@@ -1,0 +1,4 @@
+{
+    "question": "What is an interior point?",
+    "answer": "A point with a neighborhood inside the set."
+}

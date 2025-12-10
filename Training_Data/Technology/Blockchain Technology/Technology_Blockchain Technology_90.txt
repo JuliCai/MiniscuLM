@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart contract audit?",
+    "answer": "Review to find contract bugs."
+}

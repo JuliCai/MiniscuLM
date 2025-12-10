@@ -1,0 +1,4 @@
+{
+    "question": "What challenges do mmWave frequencies face?",
+    "answer": "Poor penetration and range."
+}

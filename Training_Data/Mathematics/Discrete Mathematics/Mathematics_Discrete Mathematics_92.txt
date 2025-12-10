@@ -1,0 +1,4 @@
+{
+    "question": "Define an automorphism of a graph.",
+    "answer": "Isomorphism from graph to itself."
+}

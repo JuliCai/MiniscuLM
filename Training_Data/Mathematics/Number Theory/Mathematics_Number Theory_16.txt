@@ -1,0 +1,4 @@
+{
+    "question": "Find gcd(48,180).",
+    "answer": "12"
+}

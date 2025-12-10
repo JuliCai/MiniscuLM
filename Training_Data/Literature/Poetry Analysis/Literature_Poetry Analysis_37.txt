@@ -1,0 +1,4 @@
+{
+    "question": "Define hyperbole.",
+    "answer": "Exaggeration for effect."
+}

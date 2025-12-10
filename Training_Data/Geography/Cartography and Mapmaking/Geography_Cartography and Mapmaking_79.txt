@@ -1,0 +1,4 @@
+{
+    "question": "What is a scale bar on a map?",
+    "answer": "Graphic distance indicator."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Integrate sec x tan x dx.",
+    "answer": "sec x + C"
+}

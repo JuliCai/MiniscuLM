@@ -1,0 +1,4 @@
+{
+    "question": "What is a sequent?",
+    "answer": "A statement of entailment between formulas."
+}

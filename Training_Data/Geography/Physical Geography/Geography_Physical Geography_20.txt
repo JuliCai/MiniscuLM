@@ -1,0 +1,4 @@
+{
+    "question": "Define a volcano.",
+    "answer": "An opening that erupts magma."
+}

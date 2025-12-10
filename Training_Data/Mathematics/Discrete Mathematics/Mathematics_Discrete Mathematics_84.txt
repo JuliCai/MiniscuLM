@@ -1,0 +1,4 @@
+{
+    "question": "Define strong induction.",
+    "answer": "Inductive step assumes all smaller cases."
+}

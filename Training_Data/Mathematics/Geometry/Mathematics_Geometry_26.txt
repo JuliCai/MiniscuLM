@@ -1,0 +1,4 @@
+{
+    "question": "Define a concave polygon.",
+    "answer": "Polygon with at least one interior angle > 180\u00b0."
+}

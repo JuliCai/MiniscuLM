@@ -1,0 +1,4 @@
+{
+    "question": "What was the Opium War about?",
+    "answer": "Trade disputes between Britain and China."
+}

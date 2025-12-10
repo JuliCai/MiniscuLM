@@ -1,0 +1,4 @@
+{
+    "question": "How does sanitation impact population?",
+    "answer": "Reduces disease and deaths."
+}

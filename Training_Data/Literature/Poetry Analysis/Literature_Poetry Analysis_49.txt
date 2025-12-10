@@ -1,0 +1,4 @@
+{
+    "question": "Define blank verse usage.",
+    "answer": "To mimic natural speech rhythm."
+}

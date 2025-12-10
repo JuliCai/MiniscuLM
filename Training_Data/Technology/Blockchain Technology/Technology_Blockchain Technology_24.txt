@@ -1,0 +1,4 @@
+{
+    "question": "What is blockchain scalability?",
+    "answer": "Ability to handle growing transaction volume."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT ecosystem?",
+    "answer": "Interconnected IoT devices and services."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can AR enhance shopping experience?",
+    "answer": "Yes, by previewing products."
+}

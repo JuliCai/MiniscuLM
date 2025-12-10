@@ -1,0 +1,4 @@
+{
+    "question": "How is GIS used in environmental science?",
+    "answer": "Tracking pollution and habitat changes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a TV series adapted from a novel.",
+    "answer": "Game of Thrones."
+}

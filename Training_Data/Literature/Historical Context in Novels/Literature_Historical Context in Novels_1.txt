@@ -1,0 +1,4 @@
+{
+    "question": "Why is historical context important?",
+    "answer": "It adds depth and realism to narratives."
+}

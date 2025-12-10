@@ -1,0 +1,4 @@
+{
+    "question": "What is the main benefit of 5G for consumers?",
+    "answer": "Faster internet speeds."
+}

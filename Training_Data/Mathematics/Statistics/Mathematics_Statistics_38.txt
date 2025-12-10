@@ -1,0 +1,4 @@
+{
+    "question": "Define random sampling.",
+    "answer": "Each member has equal chance."
+}

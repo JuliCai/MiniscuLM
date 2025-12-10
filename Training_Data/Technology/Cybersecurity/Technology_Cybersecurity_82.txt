@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital signature?",
+    "answer": "Encrypted signature verifying authenticity."
+}

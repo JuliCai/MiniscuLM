@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of gyroscopes in wearables?",
+    "answer": "Detect motion and orientation."
+}

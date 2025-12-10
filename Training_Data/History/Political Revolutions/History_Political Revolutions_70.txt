@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of the 1848 European revolutions?",
+    "answer": "Demand for democratic reforms."
+}

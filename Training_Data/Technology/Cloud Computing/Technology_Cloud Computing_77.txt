@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud service mesh.",
+    "answer": "Controls service-to-service communication in cloud."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define distributive lattice.",
+    "answer": "Meet and join distribute over each other."
+}

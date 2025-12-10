@@ -1,0 +1,4 @@
+{
+    "question": "What is a security certificate?",
+    "answer": "Digital file certifying identity."
+}

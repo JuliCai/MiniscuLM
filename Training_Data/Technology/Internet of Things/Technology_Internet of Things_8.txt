@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT impact healthcare?",
+    "answer": "Remote patient monitoring."
+}

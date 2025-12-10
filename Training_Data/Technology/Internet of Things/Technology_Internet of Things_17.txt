@@ -1,0 +1,4 @@
+{
+    "question": "Why is IoT data privacy important?",
+    "answer": "Protects user information from misuse."
+}

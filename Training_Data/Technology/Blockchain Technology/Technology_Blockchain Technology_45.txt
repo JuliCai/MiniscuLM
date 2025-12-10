@@ -1,0 +1,4 @@
+{
+    "question": "What is a genesis block?",
+    "answer": "The first block in a blockchain."
+}

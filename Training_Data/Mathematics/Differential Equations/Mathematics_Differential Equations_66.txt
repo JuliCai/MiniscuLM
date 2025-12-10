@@ -1,0 +1,4 @@
+{
+    "question": "Define Laplace transform of convolution.",
+    "answer": "L{f*g} = F(s) G(s)."
+}

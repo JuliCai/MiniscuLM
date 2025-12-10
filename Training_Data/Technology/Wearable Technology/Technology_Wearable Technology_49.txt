@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables detect UV exposure?",
+    "answer": "Some devices track UV levels."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of the Atlantic Charter?",
+    "answer": "Promoted self-determination post-WWII."
+}

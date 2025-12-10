@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous art piece from the Renaissance.",
+    "answer": "The School of Athens."
+}

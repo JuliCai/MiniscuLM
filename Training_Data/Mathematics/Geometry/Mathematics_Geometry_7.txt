@@ -1,0 +1,4 @@
+{
+    "question": "What is a tangent to a circle?",
+    "answer": "A line touching circle at one point."
+}

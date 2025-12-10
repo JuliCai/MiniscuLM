@@ -1,0 +1,4 @@
+{
+    "question": "What role does AI play in VR?",
+    "answer": "Enhances interaction and realism."
+}

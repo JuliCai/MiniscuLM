@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the DiVincenzo criteria?",
+    "answer": "Requirements for physical quantum computer implementation."
+}

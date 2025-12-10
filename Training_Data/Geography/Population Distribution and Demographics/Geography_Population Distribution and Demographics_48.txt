@@ -1,0 +1,4 @@
+{
+    "question": "What causes population clusters?",
+    "answer": "Fertile land and jobs."
+}

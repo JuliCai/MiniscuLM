@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate arcsin(x^2).",
+    "answer": "(2x)/\u221a(1 - x^4)"
+}

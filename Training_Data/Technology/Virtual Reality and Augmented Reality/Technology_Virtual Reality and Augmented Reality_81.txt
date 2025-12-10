@@ -1,0 +1,4 @@
+{
+    "question": "What is inside VR gloves?",
+    "answer": "Sensors tracking finger movement."
+}

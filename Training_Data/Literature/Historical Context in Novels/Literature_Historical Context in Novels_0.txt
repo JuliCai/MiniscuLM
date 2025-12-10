@@ -1,0 +1,4 @@
+{
+    "question": "What defines historical context in novels?",
+    "answer": "The time and setting influencing the story."
+}

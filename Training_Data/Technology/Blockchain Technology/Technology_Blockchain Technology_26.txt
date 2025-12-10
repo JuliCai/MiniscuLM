@@ -1,0 +1,4 @@
+{
+    "question": "Explain double-spending problem.",
+    "answer": "Spending digital currency twice fraudulently."
+}

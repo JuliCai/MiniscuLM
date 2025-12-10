@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Dust Bowl in 1930s US?",
+    "answer": "Severe drought and poor farming practices."
+}

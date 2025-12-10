@@ -1,0 +1,4 @@
+{
+    "question": "What is a first-countable space?",
+    "answer": "Each point has a countable neighborhood basis."
+}

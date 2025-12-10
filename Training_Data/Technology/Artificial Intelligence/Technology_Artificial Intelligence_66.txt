@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in education?",
+    "answer": "Personalized learning experiences."
+}

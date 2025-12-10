@@ -1,0 +1,4 @@
+{
+    "question": "What defines the Symbolist movement?",
+    "answer": "Emphasis on metaphor and suggestion."
+}

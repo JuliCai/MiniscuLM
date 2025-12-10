@@ -1,0 +1,4 @@
+{
+    "question": "What does GPS help with in cartography?",
+    "answer": "Precise location data."
+}

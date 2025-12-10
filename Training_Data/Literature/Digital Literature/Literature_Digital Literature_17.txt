@@ -1,0 +1,4 @@
+{
+    "question": "How do readers interact with digital literature?",
+    "answer": "By clicking, choosing paths, or multimedia input."
+}

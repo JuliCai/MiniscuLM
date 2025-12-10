@@ -1,0 +1,4 @@
+{
+    "question": "What does a GPS receiver do?",
+    "answer": "Determines position from satellites."
+}

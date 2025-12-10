@@ -1,0 +1,4 @@
+{
+    "question": "What is a mesh network in IoT?",
+    "answer": "Devices connect directly to each other."
+}

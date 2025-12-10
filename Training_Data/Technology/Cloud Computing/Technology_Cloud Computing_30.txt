@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud workload?",
+    "answer": "Task processed in the cloud."
+}

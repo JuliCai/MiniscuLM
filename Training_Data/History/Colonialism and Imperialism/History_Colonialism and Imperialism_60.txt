@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Cape Colony?",
+    "answer": "Strategic port controlled by Dutch, then British."
+}

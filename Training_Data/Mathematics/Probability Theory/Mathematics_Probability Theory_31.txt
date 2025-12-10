@@ -1,0 +1,4 @@
+{
+    "question": "What is a joint probability?",
+    "answer": "Probability of two events occurring together."
+}

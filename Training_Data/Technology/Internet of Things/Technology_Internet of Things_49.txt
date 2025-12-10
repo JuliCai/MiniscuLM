@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of IoT in logistics?",
+    "answer": "Package tracking."
+}

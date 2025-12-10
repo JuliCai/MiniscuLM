@@ -1,0 +1,4 @@
+{
+    "question": "How does deforestation affect climate?",
+    "answer": "Increases CO2 and global warming."
+}

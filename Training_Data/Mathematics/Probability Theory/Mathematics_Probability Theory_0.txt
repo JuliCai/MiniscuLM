@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of a fair coin landing heads?",
+    "answer": "0.5 or 50%"
+}

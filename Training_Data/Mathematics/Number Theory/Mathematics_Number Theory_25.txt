@@ -1,0 +1,4 @@
+{
+    "question": "Find the number of divisors of 28.",
+    "answer": "6"
+}

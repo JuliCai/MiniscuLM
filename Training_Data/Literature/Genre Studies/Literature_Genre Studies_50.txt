@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of myth.",
+    "answer": "Traditional stories explaining natural phenomena."
+}

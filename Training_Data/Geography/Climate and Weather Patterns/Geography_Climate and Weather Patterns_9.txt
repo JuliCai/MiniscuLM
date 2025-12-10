@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary source of Earth's energy?",
+    "answer": "The Sun."
+}

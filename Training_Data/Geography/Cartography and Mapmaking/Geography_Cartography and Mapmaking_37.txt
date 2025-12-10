@@ -1,0 +1,4 @@
+{
+    "question": "What is a geospatial dataset?",
+    "answer": "Location-based data collection."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a cross-cultural adaptation?",
+    "answer": "Adapting a work for a different culture."
+}

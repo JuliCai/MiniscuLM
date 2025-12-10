@@ -1,0 +1,4 @@
+{
+    "question": "How is GIS used in public health?",
+    "answer": "Mapping disease outbreaks."
+}

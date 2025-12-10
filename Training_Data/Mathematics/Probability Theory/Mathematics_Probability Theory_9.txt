@@ -1,0 +1,4 @@
+{
+    "question": "What is variance in probability?",
+    "answer": "Measure of spread of random variable values."
+}

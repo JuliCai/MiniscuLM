@@ -1,0 +1,4 @@
+{
+    "question": "What is data encryption standard (DES)?",
+    "answer": "Old symmetric-key encryption algorithm."
+}

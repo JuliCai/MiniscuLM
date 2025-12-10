@@ -1,0 +1,4 @@
+{
+    "question": "Integrate 3x dx.",
+    "answer": "(3/2)x^2 + C"
+}

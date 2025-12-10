@@ -1,0 +1,4 @@
+{
+    "question": "What is an elegy?",
+    "answer": "A poem mourning a death."
+}

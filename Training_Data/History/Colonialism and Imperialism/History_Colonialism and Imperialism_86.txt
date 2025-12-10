@@ -1,0 +1,4 @@
+{
+    "question": "Which empire colonized the Caribbean heavily?",
+    "answer": "Spain."
+}

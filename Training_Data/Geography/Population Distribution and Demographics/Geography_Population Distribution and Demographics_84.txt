@@ -1,0 +1,4 @@
+{
+    "question": "What is a youthful population characteristic?",
+    "answer": "High birth rates."
+}

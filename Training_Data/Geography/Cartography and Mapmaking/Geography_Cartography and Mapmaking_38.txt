@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between maps and globes?",
+    "answer": "Globes represent Earth in 3D."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G improve latency?",
+    "answer": "Reduces it to 1 ms or less."
+}

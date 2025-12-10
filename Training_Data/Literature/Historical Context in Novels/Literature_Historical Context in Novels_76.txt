@@ -1,0 +1,4 @@
+{
+    "question": "Can historical context affect narrative reliability?",
+    "answer": "Yes, biased perspectives reflect era views."
+}

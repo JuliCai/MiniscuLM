@@ -1,0 +1,4 @@
+{
+    "question": "Who was Raja Ram Mohan Roy?",
+    "answer": "Founder of Brahmo Samaj."
+}

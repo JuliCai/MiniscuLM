@@ -1,0 +1,4 @@
+{
+    "question": "How fast can 5G theoretically be?",
+    "answer": "Up to 10 Gbps."
+}

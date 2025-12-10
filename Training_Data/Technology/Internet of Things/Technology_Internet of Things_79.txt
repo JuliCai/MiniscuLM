@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT API?",
+    "answer": "Interface for device communication."
+}

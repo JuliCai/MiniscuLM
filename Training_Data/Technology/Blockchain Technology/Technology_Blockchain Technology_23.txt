@@ -1,0 +1,4 @@
+{
+    "question": "Difference between hard and soft fork?",
+    "answer": "Hard fork is incompatible; soft is compatible."
+}

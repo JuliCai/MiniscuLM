@@ -1,0 +1,4 @@
+{
+    "question": "What type of climate has permafrost?",
+    "answer": "Polar and subarctic climates."
+}

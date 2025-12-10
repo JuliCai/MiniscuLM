@@ -1,0 +1,4 @@
+{
+    "question": "Define the centroid of a triangle.",
+    "answer": "Intersection of medians."
+}

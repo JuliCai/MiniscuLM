@@ -1,0 +1,4 @@
+{
+    "question": "What is the style of Greek vase painting?",
+    "answer": "Black-figure and red-figure."
+}

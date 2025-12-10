@@ -1,0 +1,4 @@
+{
+    "question": "Define a lattice in order theory.",
+    "answer": "Set with meet and join operations."
+}

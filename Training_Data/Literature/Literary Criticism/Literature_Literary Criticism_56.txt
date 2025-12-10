@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of ideological criticism?",
+    "answer": "Reveal power structures."
+}

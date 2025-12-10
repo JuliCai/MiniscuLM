@@ -1,0 +1,4 @@
+{
+    "question": "What genre explores inner thoughts and feelings?",
+    "answer": "Psychological fiction."
+}

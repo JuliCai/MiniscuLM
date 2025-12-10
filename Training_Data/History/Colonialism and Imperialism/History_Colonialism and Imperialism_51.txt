@@ -1,0 +1,4 @@
+{
+    "question": "What did the Treaty of Tordesillas do?",
+    "answer": "Divided new lands between Spain and Portugal."
+}

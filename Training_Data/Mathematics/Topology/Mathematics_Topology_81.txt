@@ -1,0 +1,4 @@
+{
+    "question": "What is a nerve of a cover?",
+    "answer": "Simplicial complex representing cover intersections."
+}

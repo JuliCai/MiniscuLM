@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS support emergency response?",
+    "answer": "Mapping incidents and resource allocation."
+}

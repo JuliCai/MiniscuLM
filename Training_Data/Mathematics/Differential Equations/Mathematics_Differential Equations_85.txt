@@ -1,0 +1,4 @@
+{
+    "question": "What is the Laplace of derivative property?",
+    "answer": "L{y'} = sY(s) - y(0)."
+}

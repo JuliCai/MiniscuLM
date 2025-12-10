@@ -1,0 +1,4 @@
+{
+    "question": "What is a Gray code?",
+    "answer": "Sequence differing by one bit."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context create authenticity?",
+    "answer": "By accurately representing period details."
+}

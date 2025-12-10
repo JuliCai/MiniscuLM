@@ -1,0 +1,4 @@
+{
+    "question": "Who was Rudyard Kipling?",
+    "answer": "Author promoting imperialism."
+}

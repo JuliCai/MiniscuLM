@@ -1,0 +1,4 @@
+{
+    "question": "What is the measure of each angle in a regular pentagon?",
+    "answer": "108 degrees."
+}

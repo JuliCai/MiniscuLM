@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital adaptation?",
+    "answer": "A work adapted for digital platforms."
+}

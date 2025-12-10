@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of sensors in IoT?",
+    "answer": "Collect environmental data."
+}

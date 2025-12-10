@@ -1,0 +1,4 @@
+{
+    "question": "What is climate sensitivity?",
+    "answer": "Temperature change from CO2 doubling."
+}

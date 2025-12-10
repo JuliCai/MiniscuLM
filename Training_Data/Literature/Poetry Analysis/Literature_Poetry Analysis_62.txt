@@ -1,0 +1,4 @@
+{
+    "question": "What is a refrain's effect?",
+    "answer": "Creates rhythm and emphasis."
+}

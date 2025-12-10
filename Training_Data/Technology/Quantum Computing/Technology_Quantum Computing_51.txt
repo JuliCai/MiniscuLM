@@ -1,0 +1,4 @@
+{
+    "question": "How many qubits are needed to outperform classical computers?",
+    "answer": "Depends, but generally dozens to hundreds."
+}

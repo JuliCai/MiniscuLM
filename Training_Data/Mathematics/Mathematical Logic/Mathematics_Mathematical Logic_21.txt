@@ -1,0 +1,4 @@
+{
+    "question": "What does 'P \u2192 Q' mean?",
+    "answer": "If P then Q."
+}

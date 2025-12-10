@@ -1,0 +1,4 @@
+{
+    "question": "What is the measure of an interior angle in a regular hexagon?",
+    "answer": "120 degrees."
+}

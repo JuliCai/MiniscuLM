@@ -1,0 +1,4 @@
+{
+    "question": "How is quantum computing related to cryptography?",
+    "answer": "Threatens classical cryptography; enables quantum cryptography."
+}

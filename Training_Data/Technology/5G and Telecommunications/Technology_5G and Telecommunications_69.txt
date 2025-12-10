@@ -1,0 +1,4 @@
+{
+    "question": "How is 5G different from WiFi 6?",
+    "answer": "5G is cellular; WiFi is local."
+}

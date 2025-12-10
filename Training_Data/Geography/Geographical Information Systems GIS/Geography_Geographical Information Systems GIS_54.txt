@@ -1,0 +1,4 @@
+{
+    "question": "Name a limitation of GIS.",
+    "answer": "Data accuracy depends on source quality."
+}

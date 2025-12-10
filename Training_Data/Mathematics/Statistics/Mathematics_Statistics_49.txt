@@ -1,0 +1,4 @@
+{
+    "question": "What is a contingency table?",
+    "answer": "Cross-tabulation of categorical variables."
+}

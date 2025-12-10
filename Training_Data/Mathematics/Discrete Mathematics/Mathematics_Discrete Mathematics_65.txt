@@ -1,0 +1,4 @@
+{
+    "question": "Define bipartite graph.",
+    "answer": "Vertices divided into two sets with edges across."
+}

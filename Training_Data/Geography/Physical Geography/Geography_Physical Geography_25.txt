@@ -1,0 +1,4 @@
+{
+    "question": "What causes a tsunami?",
+    "answer": "Underwater earthquakes."
+}

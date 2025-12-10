@@ -1,0 +1,4 @@
+{
+    "question": "What is the degree of y'' + (dy/dx)^2 = 0?",
+    "answer": "Degree 2."
+}

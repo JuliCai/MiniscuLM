@@ -1,0 +1,4 @@
+{
+    "question": "How are transactions verified?",
+    "answer": "Nodes validate and reach consensus."
+}

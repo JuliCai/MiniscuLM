@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of green chemistry?",
+    "answer": "Designing safer chemicals and processes."
+}

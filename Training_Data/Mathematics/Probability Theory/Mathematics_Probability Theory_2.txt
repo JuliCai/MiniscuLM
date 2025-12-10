@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of probabilities of all outcomes?",
+    "answer": "1 (certainty)"
+}

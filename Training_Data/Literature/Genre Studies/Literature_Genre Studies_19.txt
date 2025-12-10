@@ -1,0 +1,4 @@
+{
+    "question": "What genre often includes quests?",
+    "answer": "Adventure."
+}

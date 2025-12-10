@@ -1,0 +1,4 @@
+{
+    "question": "How do GIS maps help in disaster management?",
+    "answer": "By mapping risk zones and resources."
+}

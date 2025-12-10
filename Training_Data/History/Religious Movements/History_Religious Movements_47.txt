@@ -1,0 +1,4 @@
+{
+    "question": "Who founded Sikhism?",
+    "answer": "Guru Nanak."
+}

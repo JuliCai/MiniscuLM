@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in agriculture?",
+    "answer": "Crop monitoring and yield prediction."
+}

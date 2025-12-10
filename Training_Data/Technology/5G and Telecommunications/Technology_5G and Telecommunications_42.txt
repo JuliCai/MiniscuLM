@@ -1,0 +1,4 @@
+{
+    "question": "What does 'low latency' mean in 5G?",
+    "answer": "Minimal delay in data transfer."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What did Nikola Tesla invent?",
+    "answer": "Alternating current system."
+}

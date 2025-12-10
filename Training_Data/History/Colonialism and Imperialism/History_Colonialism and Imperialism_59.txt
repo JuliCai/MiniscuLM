@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between colony and protectorate?",
+    "answer": "Colony is ruled directly; protectorate indirectly."
+}

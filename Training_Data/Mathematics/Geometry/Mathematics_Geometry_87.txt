@@ -1,0 +1,4 @@
+{
+    "question": "Define a minor arc in a circle.",
+    "answer": "Arc shorter than a semicircle."
+}

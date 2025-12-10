@@ -1,0 +1,4 @@
+{
+    "question": "How does culture influence demographics?",
+    "answer": "Affects birth and death rates."
+}

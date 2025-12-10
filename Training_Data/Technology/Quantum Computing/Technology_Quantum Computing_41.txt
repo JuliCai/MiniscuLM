@@ -1,0 +1,4 @@
+{
+    "question": "What is a topological qubit?",
+    "answer": "Qubit encoded in particle braiding for stability."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of wind?",
+    "answer": "Air pressure differences."
+}

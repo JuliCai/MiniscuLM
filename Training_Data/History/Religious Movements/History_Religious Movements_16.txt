@@ -1,0 +1,4 @@
+{
+    "question": "What was the Azusa Street Revival?",
+    "answer": "A Pentecostal revival in 1906."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is age structure?",
+    "answer": "Distribution of ages in population."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an estimator?",
+    "answer": "Rule to calculate parameter estimate."
+}

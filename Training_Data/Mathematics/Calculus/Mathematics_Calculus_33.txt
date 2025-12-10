@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate ln(x^2 + 1).",
+    "answer": "(2x)/(x^2 + 1)"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between radius and diameter?",
+    "answer": "Diameter is twice the radius."
+}

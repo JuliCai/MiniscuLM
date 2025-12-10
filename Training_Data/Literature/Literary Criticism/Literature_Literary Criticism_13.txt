@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of biographical criticism?",
+    "answer": "Author's life influences the text."
+}

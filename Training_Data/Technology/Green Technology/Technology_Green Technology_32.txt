@@ -1,0 +1,4 @@
+{
+    "question": "What is a downside of some green technologies?",
+    "answer": "High initial costs."
+}

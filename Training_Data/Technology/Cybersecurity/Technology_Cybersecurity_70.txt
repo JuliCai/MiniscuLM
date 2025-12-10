@@ -1,0 +1,4 @@
+{
+    "question": "What is cyber hygiene practice?",
+    "answer": "Regular actions to enhance security."
+}

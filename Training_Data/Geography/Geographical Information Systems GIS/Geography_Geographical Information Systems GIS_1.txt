@@ -1,0 +1,4 @@
+{
+    "question": "Name a primary use of GIS.",
+    "answer": "Mapping and spatial analysis."
+}

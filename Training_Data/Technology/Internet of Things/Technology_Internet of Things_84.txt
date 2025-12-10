@@ -1,0 +1,4 @@
+{
+    "question": "Name an IoT device used in fitness.",
+    "answer": "Smartwatch."
+}

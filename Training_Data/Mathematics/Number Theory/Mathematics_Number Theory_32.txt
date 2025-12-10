@@ -1,0 +1,4 @@
+{
+    "question": "What is the product of the first 3 primes?",
+    "answer": "2 \u00d7 3 \u00d7 5 = 30"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do hybrid cars work?",
+    "answer": "Combining electric and gasoline engines."
+}

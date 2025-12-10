@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Bretton Woods institutions?",
+    "answer": "IMF and World Bank shape global economy."
+}

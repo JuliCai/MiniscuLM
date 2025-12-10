@@ -1,0 +1,4 @@
+{
+    "question": "Define adjacency matrix.",
+    "answer": "Matrix representing edges between vertices."
+}

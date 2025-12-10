@@ -1,0 +1,4 @@
+{
+    "question": "What is an AI model?",
+    "answer": "A mathematical representation learned from data."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Integrate 1/x dx.",
+    "answer": "ln|x| + C"
+}

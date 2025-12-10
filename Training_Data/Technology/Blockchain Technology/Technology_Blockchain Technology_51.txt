@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain explorer?",
+    "answer": "Tool to view blockchain transactions and blocks."
+}

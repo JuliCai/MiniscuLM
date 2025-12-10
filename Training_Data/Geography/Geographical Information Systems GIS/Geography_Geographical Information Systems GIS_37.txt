@@ -1,0 +1,4 @@
+{
+    "question": "How is GIS used in archaeology?",
+    "answer": "Mapping and analyzing excavation sites."
+}

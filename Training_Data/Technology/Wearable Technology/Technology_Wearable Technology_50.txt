@@ -1,0 +1,4 @@
+{
+    "question": "What is the benefit of flexible wearables?",
+    "answer": "Comfort and adaptability."
+}

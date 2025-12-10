@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between vector and raster?",
+    "answer": "Vector uses shapes; raster uses grids."
+}

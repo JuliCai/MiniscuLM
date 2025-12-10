@@ -1,0 +1,4 @@
+{
+    "question": "Integral of cos x dx?",
+    "answer": "sin x + C"
+}

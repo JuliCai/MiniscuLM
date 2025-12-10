@@ -1,0 +1,4 @@
+{
+    "question": "Define simplicial complex.",
+    "answer": "Space built from simplices glued together."
+}

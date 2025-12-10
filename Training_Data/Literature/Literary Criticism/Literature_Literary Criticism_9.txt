@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of historical criticism?",
+    "answer": "Contextualizes literature historically."
+}

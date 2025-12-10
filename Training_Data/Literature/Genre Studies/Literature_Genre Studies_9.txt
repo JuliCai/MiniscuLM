@@ -1,0 +1,4 @@
+{
+    "question": "What is the main focus of satire?",
+    "answer": "Criticism through humor and irony."
+}

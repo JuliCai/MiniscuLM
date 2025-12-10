@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum circuit transpilation?",
+    "answer": "Optimizing circuits for specific hardware constraints."
+}

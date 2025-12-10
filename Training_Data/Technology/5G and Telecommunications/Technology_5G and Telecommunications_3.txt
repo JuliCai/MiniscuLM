@@ -1,0 +1,4 @@
+{
+    "question": "What frequency bands does 5G use?",
+    "answer": "Sub-6 GHz and mmWave."
+}

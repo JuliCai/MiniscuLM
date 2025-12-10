@@ -1,0 +1,4 @@
+{
+    "question": "What resource attracted colonizers to the Congo?",
+    "answer": "Rubber."
+}

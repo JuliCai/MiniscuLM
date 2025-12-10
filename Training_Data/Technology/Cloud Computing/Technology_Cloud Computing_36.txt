@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud governance?",
+    "answer": "Policies managing cloud usage."
+}

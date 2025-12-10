@@ -1,0 +1,4 @@
+{
+    "question": "What is the Bloch sphere?",
+    "answer": "Geometric representation of qubit state."
+}

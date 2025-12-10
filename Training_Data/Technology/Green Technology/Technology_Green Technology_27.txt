@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology impact biodiversity?",
+    "answer": "It protects natural habitats."
+}

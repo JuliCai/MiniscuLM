@@ -1,0 +1,4 @@
+{
+    "question": "What is a scatter plot used for?",
+    "answer": "Show relationship between two variables."
+}

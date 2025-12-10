@@ -1,0 +1,4 @@
+{
+    "question": "What is the cultural origin of Kabuki theater?",
+    "answer": "Japan."
+}

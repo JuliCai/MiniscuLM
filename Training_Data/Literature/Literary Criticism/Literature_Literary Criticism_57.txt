@@ -1,0 +1,4 @@
+{
+    "question": "Name a key aspect of Romantic criticism.",
+    "answer": "Emphasis on emotion and nature."
+}

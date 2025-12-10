@@ -1,0 +1,4 @@
+{
+    "question": "What genre focuses on moral lessons?",
+    "answer": "Didactic literature."
+}

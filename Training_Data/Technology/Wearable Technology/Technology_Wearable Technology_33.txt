@@ -1,0 +1,4 @@
+{
+    "question": "What is the advantage of smartwatches over phones?",
+    "answer": "Convenience and quick access."
+}

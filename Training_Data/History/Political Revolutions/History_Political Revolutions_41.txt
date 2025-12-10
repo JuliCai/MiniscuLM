@@ -1,0 +1,4 @@
+{
+    "question": "What is a common feature of most political revolutions?",
+    "answer": "Overthrow of existing power structures."
+}

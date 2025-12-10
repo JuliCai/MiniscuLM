@@ -1,0 +1,4 @@
+{
+    "question": "Where did the Shakers originate?",
+    "answer": "18th-century England and America."
+}

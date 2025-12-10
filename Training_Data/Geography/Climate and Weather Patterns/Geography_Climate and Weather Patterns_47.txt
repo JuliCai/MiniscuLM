@@ -1,0 +1,4 @@
+{
+    "question": "What is an isobar?",
+    "answer": "Line of equal atmospheric pressure."
+}

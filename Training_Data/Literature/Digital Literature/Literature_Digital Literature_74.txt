@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature more dynamic than print?",
+    "answer": "Yes, because of interactivity and multimedia."
+}

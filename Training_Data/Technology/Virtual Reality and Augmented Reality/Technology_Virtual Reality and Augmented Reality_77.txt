@@ -1,0 +1,4 @@
+{
+    "question": "What is the benefit of VR in education?",
+    "answer": "Engages students with immersive lessons."
+}

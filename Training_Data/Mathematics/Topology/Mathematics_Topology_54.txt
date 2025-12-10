@@ -1,0 +1,4 @@
+{
+    "question": "Define deformation retract.",
+    "answer": "Retract homotopic to identity map."
+}

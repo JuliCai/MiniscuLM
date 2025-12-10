@@ -1,0 +1,4 @@
+{
+    "question": "Name a Spanish colony in the Americas.",
+    "answer": "Mexico."
+}

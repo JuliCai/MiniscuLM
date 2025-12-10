@@ -1,0 +1,4 @@
+{
+    "question": "Define path-connectedness.",
+    "answer": "Any two points joined by a continuous path."
+}

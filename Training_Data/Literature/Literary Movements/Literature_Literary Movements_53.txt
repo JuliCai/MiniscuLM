@@ -1,0 +1,4 @@
+{
+    "question": "What is the key idea of Neoclassicism?",
+    "answer": "Revival of classical principles."
+}

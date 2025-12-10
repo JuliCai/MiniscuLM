@@ -1,0 +1,4 @@
+{
+    "question": "What causes lightning?",
+    "answer": "Electric charges in clouds."
+}

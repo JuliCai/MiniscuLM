@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital anthology's benefit?",
+    "answer": "Easy access to diverse works."
+}

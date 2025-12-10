@@ -1,0 +1,4 @@
+{
+    "question": "What battery life do wearables usually have?",
+    "answer": "Ranges from one day to a week."
+}

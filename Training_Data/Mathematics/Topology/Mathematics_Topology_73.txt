@@ -1,0 +1,4 @@
+{
+    "question": "What is a weak topology?",
+    "answer": "Coarsest topology making given maps continuous."
+}

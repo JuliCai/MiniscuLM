@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Battle of Adwa?",
+    "answer": "Ethiopian victory against Italy."
+}

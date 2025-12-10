@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT improve supply chains?",
+    "answer": "Real-time inventory tracking."
+}

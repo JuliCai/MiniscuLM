@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact of the Black Death on economy?",
+    "answer": "Labor shortages increased wages."
+}

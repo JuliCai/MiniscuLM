@@ -1,0 +1,4 @@
+{
+    "question": "What is the Wronskian of e^x and e^{-x}?",
+    "answer": "-2."
+}

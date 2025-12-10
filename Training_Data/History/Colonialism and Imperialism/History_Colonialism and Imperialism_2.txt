@@ -1,0 +1,4 @@
+{
+    "question": "Define imperialism.",
+    "answer": "Policy of extending power through diplomacy or military."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was a key reason for colonizing Australia?",
+    "answer": "Penal colony for Britain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do authors balance fact and fiction in historical context?",
+    "answer": "By blending accurate details with creative elements."
+}

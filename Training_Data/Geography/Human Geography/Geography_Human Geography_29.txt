@@ -1,0 +1,4 @@
+{
+    "question": "What is a cartogram?",
+    "answer": "Map distorted to show data."
+}

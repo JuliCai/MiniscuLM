@@ -1,0 +1,4 @@
+{
+    "question": "What is a green technology for heating?",
+    "answer": "Heat pumps."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate ln(x + sqrt(x^2 + 1)).",
+    "answer": "1/\u221a(x^2 + 1)"
+}

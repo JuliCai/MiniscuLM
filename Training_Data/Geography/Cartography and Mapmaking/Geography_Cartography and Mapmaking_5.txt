@@ -1,0 +1,4 @@
+{
+    "question": "What projection distorts area but preserves shape?",
+    "answer": "Mercator projection."
+}

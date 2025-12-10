@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital narrative?",
+    "answer": "A story told using digital media features."
+}

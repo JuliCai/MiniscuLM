@@ -1,0 +1,4 @@
+{
+    "question": "How do wars affect population?",
+    "answer": "Increase deaths and migration."
+}

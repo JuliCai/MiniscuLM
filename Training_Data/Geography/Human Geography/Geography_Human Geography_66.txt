@@ -1,0 +1,4 @@
+{
+    "question": "What is a colonialism?",
+    "answer": "Control over foreign territory."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain imagery in poetry.",
+    "answer": "Descriptive language appealing to senses."
+}

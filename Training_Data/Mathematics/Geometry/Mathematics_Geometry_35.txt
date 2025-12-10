@@ -1,0 +1,4 @@
+{
+    "question": "Define an angle bisector.",
+    "answer": "Line dividing an angle into two equal parts."
+}

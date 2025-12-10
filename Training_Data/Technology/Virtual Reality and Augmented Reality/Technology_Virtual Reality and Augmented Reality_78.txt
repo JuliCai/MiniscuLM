@@ -1,0 +1,4 @@
+{
+    "question": "What is 6DoF in VR?",
+    "answer": "Six degrees of freedom tracking."
+}

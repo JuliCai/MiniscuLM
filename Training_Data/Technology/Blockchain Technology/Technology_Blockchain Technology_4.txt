@@ -1,0 +1,4 @@
+{
+    "question": "What does decentralization mean in blockchain?",
+    "answer": "No central authority controls the network."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of getting no heads in three coin tosses?",
+    "answer": "(1/2)^3 = 1/8"
+}

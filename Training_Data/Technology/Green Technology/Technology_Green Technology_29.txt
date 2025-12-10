@@ -1,0 +1,4 @@
+{
+    "question": "Name a green energy storage method.",
+    "answer": "Lithium-ion batteries."
+}

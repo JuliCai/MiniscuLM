@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a qubit and a classical bit?",
+    "answer": "Qubit can be 0,1 or both; classical bit only 0 or 1."
+}

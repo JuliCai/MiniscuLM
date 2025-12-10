@@ -1,0 +1,4 @@
+{
+    "question": "What is gas in Ethereum?",
+    "answer": "Fee to execute transactions or contracts."
+}

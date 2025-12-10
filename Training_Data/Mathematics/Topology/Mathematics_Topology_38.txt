@@ -1,0 +1,4 @@
+{
+    "question": "Define paracompact space.",
+    "answer": "Every open cover has a locally finite refinement."
+}

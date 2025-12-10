@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of big data in AI?",
+    "answer": "Provides massive data for training AI models."
+}

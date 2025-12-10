@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum random number generator?",
+    "answer": "Uses quantum processes to generate true randomness."
+}

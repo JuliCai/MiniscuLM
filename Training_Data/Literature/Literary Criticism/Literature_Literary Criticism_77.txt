@@ -1,0 +1,4 @@
+{
+    "question": "What does 'catharsis' mean?",
+    "answer": "Emotional release for audience."
+}

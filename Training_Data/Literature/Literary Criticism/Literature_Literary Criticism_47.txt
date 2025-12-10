@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of postmodern criticism?",
+    "answer": "Questioning of truth and narratives."
+}

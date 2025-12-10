@@ -1,0 +1,4 @@
+{
+    "question": "What is digital writing?",
+    "answer": "Writing created with digital tools."
+}

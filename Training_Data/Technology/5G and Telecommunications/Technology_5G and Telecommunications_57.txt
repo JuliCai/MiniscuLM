@@ -1,0 +1,4 @@
+{
+    "question": "Does 5G technology support voice calls?",
+    "answer": "Yes, via VoNR."
+}

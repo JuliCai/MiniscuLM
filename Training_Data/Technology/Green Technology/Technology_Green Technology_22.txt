@@ -1,0 +1,4 @@
+{
+    "question": "What is energy efficiency?",
+    "answer": "Using less energy for the same output."
+}

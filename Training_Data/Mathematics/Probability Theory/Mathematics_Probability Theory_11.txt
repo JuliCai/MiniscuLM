@@ -1,0 +1,4 @@
+{
+    "question": "What is a sample space?",
+    "answer": "Set of all possible outcomes."
+}

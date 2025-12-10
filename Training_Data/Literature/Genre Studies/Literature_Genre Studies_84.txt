@@ -1,0 +1,4 @@
+{
+    "question": "What genre centers on moral tales?",
+    "answer": "Parables."
+}

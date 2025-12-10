@@ -1,0 +1,4 @@
+{
+    "question": "Define symmetric relation.",
+    "answer": "If aRb then bRa."
+}

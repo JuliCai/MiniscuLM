@@ -1,0 +1,4 @@
+{
+    "question": "What does 5G NR stand for?",
+    "answer": "New Radio, 5G air interface."
+}

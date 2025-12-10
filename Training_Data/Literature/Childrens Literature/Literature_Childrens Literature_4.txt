@@ -1,0 +1,4 @@
+{
+    "question": "In 'The Very Hungry Caterpillar', what does the caterpillar become?",
+    "answer": "A butterfly"
+}

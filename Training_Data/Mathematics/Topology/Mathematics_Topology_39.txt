@@ -1,0 +1,4 @@
+{
+    "question": "What is a connected space?",
+    "answer": "Cannot be separated into two nonempty open sets."
+}

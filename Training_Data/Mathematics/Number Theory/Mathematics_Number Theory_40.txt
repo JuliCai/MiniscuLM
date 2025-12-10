@@ -1,0 +1,4 @@
+{
+    "question": "Find the smallest positive integer solution to x \u2261 1 mod 2 and x \u2261 2 mod 3.",
+    "answer": "5"
+}

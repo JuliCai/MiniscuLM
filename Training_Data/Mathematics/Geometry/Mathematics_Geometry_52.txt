@@ -1,0 +1,4 @@
+{
+    "question": "Define a kite in geometry.",
+    "answer": "Quadrilateral with two pairs of equal adjacent sides."
+}

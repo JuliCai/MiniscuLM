@@ -1,0 +1,4 @@
+{
+    "question": "How does urban sprawl affect demographics?",
+    "answer": "Expands city population areas."
+}

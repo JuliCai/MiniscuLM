@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital short story?",
+    "answer": "A brief narrative published digitally."
+}

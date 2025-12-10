@@ -1,0 +1,4 @@
+{
+    "question": "What is the distance formula between two points?",
+    "answer": "\u221a[(x\u2082\u2212x\u2081)\u00b2 + (y\u2082\u2212y\u2081)\u00b2]."
+}

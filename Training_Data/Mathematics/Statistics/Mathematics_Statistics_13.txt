@@ -1,0 +1,4 @@
+{
+    "question": "Explain null hypothesis.",
+    "answer": "No effect or difference assumed."
+}

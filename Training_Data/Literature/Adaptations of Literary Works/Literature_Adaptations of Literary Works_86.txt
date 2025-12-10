@@ -1,0 +1,4 @@
+{
+    "question": "Name a novel adapted into an audio drama.",
+    "answer": "The Sandman."
+}

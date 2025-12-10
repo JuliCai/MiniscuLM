@@ -1,0 +1,4 @@
+{
+    "question": "Does digital literature challenge traditional authorship?",
+    "answer": "Yes, through collaboration and remixing."
+}

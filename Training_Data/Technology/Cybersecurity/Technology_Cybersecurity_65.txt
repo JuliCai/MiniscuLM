@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptographic key?",
+    "answer": "Secret value for encrypting data."
+}

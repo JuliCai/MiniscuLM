@@ -1,0 +1,4 @@
+{
+    "question": "What is a benefit of using bamboo in products?",
+    "answer": "Rapidly renewable resource."
+}

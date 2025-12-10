@@ -1,0 +1,4 @@
+{
+    "question": "What is the definition of a prime number?",
+    "answer": "A number with exactly two distinct divisors."
+}

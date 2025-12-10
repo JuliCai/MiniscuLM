@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of ignoring historical context?",
+    "answer": "Leads to misinterpretation of the story."
+}

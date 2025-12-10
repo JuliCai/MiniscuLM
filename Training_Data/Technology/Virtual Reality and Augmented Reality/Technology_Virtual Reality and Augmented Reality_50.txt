@@ -1,0 +1,4 @@
+{
+    "question": "What is foveated rendering?",
+    "answer": "Rendering high detail where user looks."
+}

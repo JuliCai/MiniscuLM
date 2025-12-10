@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Panic of 1873?",
+    "answer": "Bank failures and railroad speculation."
+}

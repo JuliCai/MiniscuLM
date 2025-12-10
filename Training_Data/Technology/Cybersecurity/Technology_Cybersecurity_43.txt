@@ -1,0 +1,4 @@
+{
+    "question": "What is a security token?",
+    "answer": "Physical or digital device for authentication."
+}

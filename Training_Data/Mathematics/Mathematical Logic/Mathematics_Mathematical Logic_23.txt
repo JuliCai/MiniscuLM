@@ -1,0 +1,4 @@
+{
+    "question": "What is a consistency in logic?",
+    "answer": "No contradictions in a set of formulas."
+}

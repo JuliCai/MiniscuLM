@@ -1,0 +1,4 @@
+{
+    "question": "How does urbanization affect local climate?",
+    "answer": "Creates heat islands, raising temperatures."
+}

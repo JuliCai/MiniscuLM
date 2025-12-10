@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the first practical refrigerator?",
+    "answer": "Carl von Linde."
+}

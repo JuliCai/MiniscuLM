@@ -1,0 +1,4 @@
+{
+    "question": "What effect does historical context have on imagery?",
+    "answer": "Imagery reflects period-specific visuals."
+}

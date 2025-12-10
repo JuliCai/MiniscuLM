@@ -1,0 +1,4 @@
+{
+    "question": "What did Sigmund Freud study?",
+    "answer": "Psychoanalysis."
+}

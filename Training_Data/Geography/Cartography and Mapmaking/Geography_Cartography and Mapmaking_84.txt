@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS attribute?",
+    "answer": "Non-spatial data linked to location."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What caused the 2008 financial crisis?",
+    "answer": "Housing bubble burst and risky loans."
+}

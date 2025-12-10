@@ -1,0 +1,4 @@
+{
+    "question": "Define carrying capacity.",
+    "answer": "Max population an area supports."
+}

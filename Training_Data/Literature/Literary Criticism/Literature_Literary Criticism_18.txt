@@ -1,0 +1,4 @@
+{
+    "question": "What is the hermeneutic circle?",
+    "answer": "Understanding text by parts and whole."
+}

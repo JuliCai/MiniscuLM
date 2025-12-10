@@ -1,0 +1,4 @@
+{
+    "question": "What was the main economic activity in feudal Europe?",
+    "answer": "Agriculture and manorial system."
+}

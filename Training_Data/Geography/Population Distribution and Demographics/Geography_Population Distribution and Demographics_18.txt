@@ -1,0 +1,4 @@
+{
+    "question": "What is infant mortality rate?",
+    "answer": "Deaths of infants per 1000 births."
+}

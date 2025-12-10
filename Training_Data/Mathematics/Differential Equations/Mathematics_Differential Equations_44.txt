@@ -1,0 +1,4 @@
+{
+    "question": "Solve y'' - y = 0 with y(0)=1, y'(0)=0.",
+    "answer": "y = cosh x."
+}

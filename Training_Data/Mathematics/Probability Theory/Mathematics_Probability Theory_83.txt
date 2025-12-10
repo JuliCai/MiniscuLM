@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of getting exactly 2 heads in 3 coin tosses?",
+    "answer": "3/8"
+}

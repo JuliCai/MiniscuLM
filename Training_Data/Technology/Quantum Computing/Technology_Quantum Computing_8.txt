@@ -1,0 +1,4 @@
+{
+    "question": "What hardware is used in quantum computers?",
+    "answer": "Superconducting circuits, trapped ions, topological qubits."
+}

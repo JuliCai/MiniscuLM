@@ -1,0 +1,4 @@
+{
+    "question": "What is digital folklore?",
+    "answer": "Traditional stories shared digitally."
+}

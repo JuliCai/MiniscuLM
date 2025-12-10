@@ -1,0 +1,4 @@
+{
+    "question": "What is a strong password?",
+    "answer": "A complex password hard to guess."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "If x = 3, find 2x^2",
+    "answer": "18"
+}

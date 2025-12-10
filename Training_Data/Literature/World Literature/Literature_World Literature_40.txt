@@ -1,0 +1,4 @@
+{
+    "question": "Who authored 'Love in the Time of Cholera'?",
+    "answer": "Gabriel Garc\u00eda M\u00e1rquez"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do oceans affect climate?",
+    "answer": "They moderate temperatures globally."
+}

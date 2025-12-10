@@ -1,0 +1,4 @@
+{
+    "question": "What does NSA mean in 5G?",
+    "answer": "Non-Standalone architecture."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of carbon offsetting?",
+    "answer": "Compensating emissions by green projects."
+}

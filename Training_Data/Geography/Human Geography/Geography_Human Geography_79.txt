@@ -1,0 +1,4 @@
+{
+    "question": "Define sustainability in human geography.",
+    "answer": "Meeting present needs without harm."
+}

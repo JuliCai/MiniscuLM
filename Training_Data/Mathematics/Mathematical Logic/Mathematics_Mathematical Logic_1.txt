@@ -1,0 +1,4 @@
+{
+    "question": "Define a contradiction in logic.",
+    "answer": "A formula false under every valuation."
+}

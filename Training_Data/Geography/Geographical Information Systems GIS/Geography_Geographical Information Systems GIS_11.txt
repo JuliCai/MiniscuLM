@@ -1,0 +1,4 @@
+{
+    "question": "What is a raster in GIS?",
+    "answer": "Grid-based digital image data."
+}

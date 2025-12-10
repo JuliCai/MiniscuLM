@@ -1,0 +1,4 @@
+{
+    "question": "Simplify: (x + y)^2",
+    "answer": "x^2 + 2xy + y^2"
+}

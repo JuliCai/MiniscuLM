@@ -1,0 +1,4 @@
+{
+    "question": "Name a negative social impact of colonialism.",
+    "answer": "Displacement of indigenous people."
+}

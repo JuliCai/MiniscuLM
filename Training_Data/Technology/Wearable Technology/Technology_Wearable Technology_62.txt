@@ -1,0 +1,4 @@
+{
+    "question": "How do wearables support fitness goals?",
+    "answer": "Tracking progress and motivating users."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Magical Realism?",
+    "answer": "Realistic narrative with magical elements."
+}

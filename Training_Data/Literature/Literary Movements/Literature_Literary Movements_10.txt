@@ -1,0 +1,4 @@
+{
+    "question": "What defines the Beat Generation?",
+    "answer": "Rebellious, nonconformist literary style."
+}

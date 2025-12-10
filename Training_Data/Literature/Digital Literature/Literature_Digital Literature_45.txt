@@ -1,0 +1,4 @@
+{
+    "question": "Are digital literature works peer-reviewed?",
+    "answer": "Some are, especially academic digital texts."
+}

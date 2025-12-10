@@ -1,0 +1,4 @@
+{
+    "question": "Define alliteration.",
+    "answer": "Repetition of initial consonant sounds."
+}

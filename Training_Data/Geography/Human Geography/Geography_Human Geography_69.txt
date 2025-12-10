@@ -1,0 +1,4 @@
+{
+    "question": "Define rural settlement.",
+    "answer": "Small population in countryside."
+}

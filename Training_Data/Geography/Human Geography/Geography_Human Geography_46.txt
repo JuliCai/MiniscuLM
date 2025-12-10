@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial diffusion?",
+    "answer": "Spread of phenomena over space."
+}

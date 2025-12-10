@@ -1,0 +1,4 @@
+{
+    "question": "What does a probability mass function (PMF) do?",
+    "answer": "Gives probabilities for discrete outcomes."
+}

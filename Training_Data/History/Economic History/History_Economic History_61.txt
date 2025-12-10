@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic system in Ancient Mesopotamia?",
+    "answer": "Agriculture and trade with city-states."
+}

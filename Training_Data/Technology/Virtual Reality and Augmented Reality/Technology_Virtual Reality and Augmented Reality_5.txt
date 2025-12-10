@@ -1,0 +1,4 @@
+{
+    "question": "What is mixed reality?",
+    "answer": "Combination of VR and AR elements."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of probabilities in a Poisson distribution?",
+    "answer": "1"
+}

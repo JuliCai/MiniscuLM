@@ -1,0 +1,4 @@
+{
+    "question": "Who was John Wycliffe?",
+    "answer": "Early reformer and Lollard leader."
+}

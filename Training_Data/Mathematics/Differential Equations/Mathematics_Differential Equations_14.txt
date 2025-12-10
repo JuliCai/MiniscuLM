@@ -1,0 +1,4 @@
+{
+    "question": "Define exact differential equation.",
+    "answer": "Equation where M dx + N dy = 0 is exact."
+}

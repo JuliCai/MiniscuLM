@@ -1,0 +1,4 @@
+{
+    "question": "What is the economic significance of the Treaty of Versailles?",
+    "answer": "Imposed reparations on Germany post-WWI."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a hypothesis?",
+    "answer": "Testable claim about population."
+}

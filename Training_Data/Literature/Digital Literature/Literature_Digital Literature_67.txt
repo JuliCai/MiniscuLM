@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be interactive theater?",
+    "answer": "Yes, combines digital media and performance."
+}

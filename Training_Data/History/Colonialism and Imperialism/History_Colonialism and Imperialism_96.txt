@@ -1,0 +1,4 @@
+{
+    "question": "What is assimilation policy in colonialism?",
+    "answer": "Forcing colonized to adopt colonizer's culture."
+}

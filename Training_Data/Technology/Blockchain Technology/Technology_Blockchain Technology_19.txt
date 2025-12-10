@@ -1,0 +1,4 @@
+{
+    "question": "Define token in blockchain.",
+    "answer": "Digital asset representing value or rights."
+}

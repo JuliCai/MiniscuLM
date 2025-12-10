@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G support VR?",
+    "answer": "By offering low latency and high bandwidth."
+}

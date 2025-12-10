@@ -1,0 +1,4 @@
+{
+    "question": "What is dependency ratio importance?",
+    "answer": "Shows economic burden."
+}

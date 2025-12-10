@@ -1,0 +1,4 @@
+{
+    "question": "What is a semantic entailment?",
+    "answer": "Logical consequence based on truth."
+}

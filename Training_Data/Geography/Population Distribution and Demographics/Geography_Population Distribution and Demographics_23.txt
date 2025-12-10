@@ -1,0 +1,4 @@
+{
+    "question": "How does government policy affect population?",
+    "answer": "Policies can encourage or restrict growth."
+}

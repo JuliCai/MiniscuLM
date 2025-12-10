@@ -1,0 +1,4 @@
+{
+    "question": "What is virtualization?",
+    "answer": "Creating virtual versions of resources."
+}

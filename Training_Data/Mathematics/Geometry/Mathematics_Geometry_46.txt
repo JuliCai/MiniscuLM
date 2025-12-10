@@ -1,0 +1,4 @@
+{
+    "question": "What is a regular tetrahedron?",
+    "answer": "A polyhedron with four equilateral triangle faces."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G suitable for rural areas?",
+    "answer": "Challenging due to infrastructure needs."
+}

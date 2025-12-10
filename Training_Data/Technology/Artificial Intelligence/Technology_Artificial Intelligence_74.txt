@@ -1,0 +1,4 @@
+{
+    "question": "What is AI-powered speech synthesis?",
+    "answer": "Generating human-like speech."
+}

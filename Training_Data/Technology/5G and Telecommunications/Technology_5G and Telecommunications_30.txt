@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G energy efficient?",
+    "answer": "More than 4G per bit transmitted."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be ephemeral?",
+    "answer": "Yes, some digital works may disappear over time."
+}

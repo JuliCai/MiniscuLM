@@ -1,0 +1,4 @@
+{
+    "question": "Define T0 space.",
+    "answer": "For any two points, one has a neighborhood not containing the other."
+}

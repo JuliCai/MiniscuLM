@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic role of colonial India?",
+    "answer": "Raw material supplier and market for Britain."
+}

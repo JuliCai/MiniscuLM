@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural assimilation.",
+    "answer": "Minority adopts majority culture."
+}

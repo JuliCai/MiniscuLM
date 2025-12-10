@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud bursting used for?",
+    "answer": "Handling traffic spikes by adding cloud resources."
+}

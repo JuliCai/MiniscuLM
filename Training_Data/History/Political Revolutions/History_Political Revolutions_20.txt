@@ -1,0 +1,4 @@
+{
+    "question": "What was the Reign of Terror?",
+    "answer": "Period of political purges in France."
+}

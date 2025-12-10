@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables help in mental health therapy?",
+    "answer": "Yes, through monitoring and feedback."
+}

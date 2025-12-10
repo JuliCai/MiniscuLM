@@ -1,0 +1,4 @@
+{
+    "question": "What is a choropleth map?",
+    "answer": "Map shaded by data values."
+}

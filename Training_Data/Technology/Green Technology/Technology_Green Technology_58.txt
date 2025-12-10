@@ -1,0 +1,4 @@
+{
+    "question": "How does green technology affect water quality?",
+    "answer": "Reduces contamination."
+}

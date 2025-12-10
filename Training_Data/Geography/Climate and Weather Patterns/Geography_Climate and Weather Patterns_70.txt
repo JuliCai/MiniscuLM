@@ -1,0 +1,4 @@
+{
+    "question": "What is a continental climate?",
+    "answer": "Climate with extreme temperature changes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a literary adaptation?",
+    "answer": "Transforming a literary work into another form."
+}

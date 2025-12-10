@@ -1,0 +1,4 @@
+{
+    "question": "What is emigration impact?",
+    "answer": "Lowers population size."
+}

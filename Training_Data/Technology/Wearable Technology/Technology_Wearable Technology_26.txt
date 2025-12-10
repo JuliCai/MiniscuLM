@@ -1,0 +1,4 @@
+{
+    "question": "How are wearables used in sports?",
+    "answer": "Tracking performance and biometrics."
+}

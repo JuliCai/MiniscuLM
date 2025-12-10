@@ -1,0 +1,4 @@
+{
+    "question": "How is AI used in IoT?",
+    "answer": "Analyzes data for intelligent decisions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is the author of 'Bridge to Terabithia'?",
+    "answer": "Katherine Paterson"
+}

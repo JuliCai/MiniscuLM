@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of randomness.",
+    "answer": "Lack of pattern or predictability."
+}

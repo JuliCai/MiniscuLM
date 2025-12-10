@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum annealer?",
+    "answer": "Special quantum device for optimization problems."
+}

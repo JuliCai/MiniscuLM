@@ -1,0 +1,4 @@
+{
+    "question": "Can AR help visually impaired users?",
+    "answer": "Yes, through object recognition."
+}

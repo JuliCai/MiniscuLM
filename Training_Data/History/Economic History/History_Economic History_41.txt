@@ -1,0 +1,4 @@
+{
+    "question": "What is barter economy?",
+    "answer": "Exchange of goods without money."
+}

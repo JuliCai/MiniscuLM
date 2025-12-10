@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum phase flip?",
+    "answer": "Changes the phase of a qubit state by \u03c0."
+}

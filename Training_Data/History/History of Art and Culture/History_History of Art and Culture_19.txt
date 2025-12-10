@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of cave paintings?",
+    "answer": "Earliest human art evidence."
+}

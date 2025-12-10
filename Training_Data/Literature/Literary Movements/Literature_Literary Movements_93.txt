@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of the Lost Generation?",
+    "answer": "Disillusionment post WWI."
+}

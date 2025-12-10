@@ -1,0 +1,4 @@
+{
+    "question": "What is economic imperialism?",
+    "answer": "Control via economic dominance."
+}

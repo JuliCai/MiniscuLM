@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum state tomography?",
+    "answer": "Reconstructing a quantum state via measurements."
+}

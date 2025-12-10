@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Indian Ocean trade?",
+    "answer": "Connected empires before European arrival."
+}

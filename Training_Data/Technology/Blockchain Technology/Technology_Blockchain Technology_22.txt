@@ -1,0 +1,4 @@
+{
+    "question": "What is a fork in blockchain?",
+    "answer": "Network split creating divergent chains."
+}

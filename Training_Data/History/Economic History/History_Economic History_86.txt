@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Bretton Woods gold exchange?",
+    "answer": "Fixed currency values to gold standard."
+}

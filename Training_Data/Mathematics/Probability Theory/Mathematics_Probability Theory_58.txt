@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of event A given B?",
+    "answer": "P(A|B) = P(A \u2229 B) / P(B)"
+}

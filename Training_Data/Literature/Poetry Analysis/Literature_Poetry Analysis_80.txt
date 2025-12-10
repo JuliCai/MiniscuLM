@@ -1,0 +1,4 @@
+{
+    "question": "What is a metaphor?",
+    "answer": "A direct comparison between two things."
+}

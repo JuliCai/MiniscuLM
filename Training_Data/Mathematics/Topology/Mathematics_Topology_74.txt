@@ -1,0 +1,4 @@
+{
+    "question": "Define Alexandroff compactification.",
+    "answer": "Adding one point to make space compact."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How is digital literature preserved?",
+    "answer": "Through digital storage and archiving."
+}

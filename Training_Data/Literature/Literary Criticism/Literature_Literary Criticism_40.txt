@@ -1,0 +1,4 @@
+{
+    "question": "What is the concept of 'voice' in literature?",
+    "answer": "Narrator's unique expression."
+}

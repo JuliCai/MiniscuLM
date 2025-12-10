@@ -1,0 +1,4 @@
+{
+    "question": "What did the Smoot-Hawley Tariff do?",
+    "answer": "Raised US tariffs, worsened the Great Depression."
+}

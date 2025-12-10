@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptoeconomics?",
+    "answer": "Economics using cryptography and incentives."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud disaster recovery.",
+    "answer": "Restoring systems after failure using cloud."
+}

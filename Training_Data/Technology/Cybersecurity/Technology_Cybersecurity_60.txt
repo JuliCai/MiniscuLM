@@ -1,0 +1,4 @@
+{
+    "question": "What is a security policy?",
+    "answer": "Rules to protect information assets."
+}

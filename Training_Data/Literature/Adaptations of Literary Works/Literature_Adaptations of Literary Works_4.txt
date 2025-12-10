@@ -1,0 +1,4 @@
+{
+    "question": "Why adapt literary works?",
+    "answer": "To reach wider audiences and explore new media."
+}

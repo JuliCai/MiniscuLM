@@ -1,0 +1,4 @@
+{
+    "question": "Name a genre focusing on social issues.",
+    "answer": "Social realism."
+}

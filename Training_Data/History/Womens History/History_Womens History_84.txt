@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female Prime Minister of New Zealand?",
+    "answer": "Jenny Shipley"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Panic of 1893?",
+    "answer": "Severe economic depression in the US."
+}

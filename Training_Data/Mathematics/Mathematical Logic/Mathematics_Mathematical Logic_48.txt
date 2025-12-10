@@ -1,0 +1,4 @@
+{
+    "question": "What is a proof by contradiction?",
+    "answer": "Assume negation to derive contradiction."
+}

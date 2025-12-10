@@ -1,0 +1,4 @@
+{
+    "question": "What is blockchain transparency?",
+    "answer": "Public visibility of transactions."
+}

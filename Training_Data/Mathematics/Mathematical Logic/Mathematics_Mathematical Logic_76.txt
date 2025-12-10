@@ -1,0 +1,4 @@
+{
+    "question": "What is a model theory?",
+    "answer": "Study of interpretation of formulas."
+}

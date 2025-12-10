@@ -1,0 +1,4 @@
+{
+    "question": "Define Euler characteristic.",
+    "answer": "An invariant calculated by V - E + F for polyhedra."
+}

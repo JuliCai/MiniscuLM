@@ -1,0 +1,4 @@
+{
+    "question": "What did Isaac Newton discover?",
+    "answer": "Laws of motion and gravity."
+}

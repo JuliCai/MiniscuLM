@@ -1,0 +1,4 @@
+{
+    "question": "Define a composite number.",
+    "answer": "A number with more than two divisors."
+}

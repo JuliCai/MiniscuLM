@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in transportation?",
+    "answer": "Optimizing routes and logistics."
+}

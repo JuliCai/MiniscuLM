@@ -1,0 +1,4 @@
+{
+    "question": "Explain quantum tunneling briefly.",
+    "answer": "Particles pass barriers they classically shouldn't."
+}

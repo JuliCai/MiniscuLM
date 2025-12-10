@@ -1,0 +1,4 @@
+{
+    "question": "What is a uniform discrete distribution on {1,2,3}?",
+    "answer": "Each value has probability 1/3."
+}

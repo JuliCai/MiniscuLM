@@ -1,0 +1,4 @@
+{
+    "question": "What is a chi-square test?",
+    "answer": "Test for categorical variable association."
+}

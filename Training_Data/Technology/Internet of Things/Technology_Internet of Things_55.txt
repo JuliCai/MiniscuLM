@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of latency in IoT?",
+    "answer": "Affects real-time responsiveness."
+}

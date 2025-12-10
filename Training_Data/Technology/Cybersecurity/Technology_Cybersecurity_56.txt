@@ -1,0 +1,4 @@
+{
+    "question": "What is a vulnerability scan?",
+    "answer": "Automated check for security weaknesses."
+}

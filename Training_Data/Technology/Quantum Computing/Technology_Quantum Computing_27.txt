@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum simulator?",
+    "answer": "Simulates quantum systems on quantum or classical devices."
+}

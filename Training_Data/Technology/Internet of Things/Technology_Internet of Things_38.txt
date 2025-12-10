@@ -1,0 +1,4 @@
+{
+    "question": "Why is standardization needed in IoT?",
+    "answer": "Ensures device compatibility."
+}

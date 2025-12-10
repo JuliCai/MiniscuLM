@@ -1,0 +1,4 @@
+{
+    "question": "What is a paradox in literature?",
+    "answer": "Contradictory statement with truth."
+}

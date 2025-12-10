@@ -1,0 +1,4 @@
+{
+    "question": "Which empire controlled the Philippines?",
+    "answer": "Spain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do drones support GIS?",
+    "answer": "Collecting high-resolution spatial data."
+}

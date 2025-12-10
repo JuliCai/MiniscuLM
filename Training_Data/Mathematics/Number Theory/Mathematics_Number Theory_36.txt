@@ -1,0 +1,4 @@
+{
+    "question": "What is the remainder when 2^5 is divided by 3?",
+    "answer": "2"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can VR be used for fitness?",
+    "answer": "Yes, via active VR games."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context shape a novel\u2019s climax?",
+    "answer": "Climax often tied to historical events."
+}

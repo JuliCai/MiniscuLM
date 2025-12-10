@@ -1,0 +1,4 @@
+{
+    "question": "What type of energy is tidal energy?",
+    "answer": "Energy from ocean tides."
+}

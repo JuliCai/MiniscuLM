@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables have GPS accuracy?",
+    "answer": "Generally accurate within a few meters."
+}

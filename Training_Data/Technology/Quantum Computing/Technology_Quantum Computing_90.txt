@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of noise in quantum computing?",
+    "answer": "Causes errors, limits reliability and coherence."
+}

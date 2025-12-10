@@ -1,0 +1,4 @@
+{
+    "question": "Who founded Zoroastrianism?",
+    "answer": "Zoroaster."
+}

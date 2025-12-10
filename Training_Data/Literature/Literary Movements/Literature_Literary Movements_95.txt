@@ -1,0 +1,4 @@
+{
+    "question": "What characterizes the New Wave science fiction?",
+    "answer": "Literary style and social themes."
+}

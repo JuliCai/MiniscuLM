@@ -1,0 +1,4 @@
+{
+    "question": "Integrate csc^2 x dx.",
+    "answer": "-cot x + C"
+}

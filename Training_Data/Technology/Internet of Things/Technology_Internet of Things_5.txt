@@ -1,0 +1,4 @@
+{
+    "question": "What role does cloud play in IoT?",
+    "answer": "Stores and processes IoT data remotely."
+}

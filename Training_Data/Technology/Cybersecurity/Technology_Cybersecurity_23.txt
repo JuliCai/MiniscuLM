@@ -1,0 +1,4 @@
+{
+    "question": "Define spyware.",
+    "answer": "Software spying on user activities."
+}

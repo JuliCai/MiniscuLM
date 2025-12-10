@@ -1,0 +1,4 @@
+{
+    "question": "Explain sample vs population.",
+    "answer": "Sample is subset; population is whole."
+}

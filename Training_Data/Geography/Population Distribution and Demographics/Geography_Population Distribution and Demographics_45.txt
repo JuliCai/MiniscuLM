@@ -1,0 +1,4 @@
+{
+    "question": "How does technology affect population?",
+    "answer": "Improves health and food supply."
+}

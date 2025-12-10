@@ -1,0 +1,4 @@
+{
+    "question": "How do wars affect demographics?",
+    "answer": "Increase death rates."
+}

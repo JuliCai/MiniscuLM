@@ -1,0 +1,4 @@
+{
+    "question": "Does AR require internet?",
+    "answer": "Not always, depends on app."
+}

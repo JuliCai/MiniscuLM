@@ -1,0 +1,4 @@
+{
+    "question": "Which woman led the charge in the Boston Tea Party?",
+    "answer": "Abigail Adams"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a probability density function (PDF).",
+    "answer": "Function describing probabilities for continuous variables."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS support climate studies?",
+    "answer": "Tracking climate change patterns."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in gaming?",
+    "answer": "Computer opponents or NPC behaviors."
+}

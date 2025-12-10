@@ -1,0 +1,4 @@
+{
+    "question": "Explain apostrophe in poetry.",
+    "answer": "Addressing an absent or imaginary person or object."
+}

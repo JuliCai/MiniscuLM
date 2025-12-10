@@ -1,0 +1,4 @@
+{
+    "question": "What is a truth assignment?",
+    "answer": "Assignment of truth values to variables."
+}

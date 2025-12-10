@@ -1,0 +1,4 @@
+{
+    "question": "Name the author of 'Pippi Longstocking'.",
+    "answer": "Astrid Lindgren"
+}

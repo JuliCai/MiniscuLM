@@ -1,0 +1,4 @@
+{
+    "question": "Define a loose adaptation.",
+    "answer": "An adaptation inspired by, but not faithful to, the original."
+}

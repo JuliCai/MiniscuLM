@@ -1,0 +1,4 @@
+{
+    "question": "What is the key feature of Postmodern fiction?",
+    "answer": "Irony and pastiche."
+}

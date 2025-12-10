@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of the Renaissance?",
+    "answer": "Humanism and rebirth."
+}

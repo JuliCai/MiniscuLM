@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain wallet?",
+    "answer": "Software storing private and public keys."
+}

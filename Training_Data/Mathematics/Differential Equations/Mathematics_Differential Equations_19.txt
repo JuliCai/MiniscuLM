@@ -1,0 +1,4 @@
+{
+    "question": "Define a particular solution.",
+    "answer": "A specific solution satisfying differential equation."
+}

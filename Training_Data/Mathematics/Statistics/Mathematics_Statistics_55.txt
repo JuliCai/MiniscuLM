@@ -1,0 +1,4 @@
+{
+    "question": "What is a permutation?",
+    "answer": "Ordered arrangement of items."
+}

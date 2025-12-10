@@ -1,0 +1,4 @@
+{
+    "question": "How does quantum Fourier transform work?",
+    "answer": "Transforms quantum states into frequency domain."
+}

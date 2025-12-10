@@ -1,0 +1,4 @@
+{
+    "question": "Define an IoT sensor.",
+    "answer": "Device that collects data from environment."
+}

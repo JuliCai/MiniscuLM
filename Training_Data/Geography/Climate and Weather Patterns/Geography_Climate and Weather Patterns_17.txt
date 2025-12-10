@@ -1,0 +1,4 @@
+{
+    "question": "What is a rain shadow?",
+    "answer": "Dry area behind a mountain range."
+}

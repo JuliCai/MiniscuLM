@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud API gateway.",
+    "answer": "Manages and routes API calls in cloud."
+}

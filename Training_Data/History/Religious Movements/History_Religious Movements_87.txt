@@ -1,0 +1,4 @@
+{
+    "question": "What was the focus of the Counter-Reformation?",
+    "answer": "Reform Catholic Church."
+}

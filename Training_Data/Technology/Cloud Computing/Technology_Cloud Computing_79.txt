@@ -1,0 +1,4 @@
+{
+    "question": "Explain cloud DevSecOps.",
+    "answer": "Integrating security into cloud DevOps."
+}

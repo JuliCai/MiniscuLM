@@ -1,0 +1,4 @@
+{
+    "question": "Why study historical context in literature?",
+    "answer": "To understand deeper story meanings."
+}

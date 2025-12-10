@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of mutually exclusive events with example.",
+    "answer": "Events that can't occur together, e.g., heads or tails."
+}

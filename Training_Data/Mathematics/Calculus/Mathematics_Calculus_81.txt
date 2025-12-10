@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate x ln x.",
+    "answer": "1 + ln x"
+}

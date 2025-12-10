@@ -1,0 +1,4 @@
+{
+    "question": "What is a drawback of wearable tech?",
+    "answer": "Privacy and data security risks."
+}

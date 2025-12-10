@@ -1,0 +1,4 @@
+{
+    "question": "What is a spatial query?",
+    "answer": "Searching features by location criteria."
+}

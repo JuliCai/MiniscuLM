@@ -1,0 +1,4 @@
+{
+    "question": "What is allusion in poetry?",
+    "answer": "A reference to another work or event."
+}

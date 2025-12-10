@@ -1,0 +1,4 @@
+{
+    "question": "What does a fitness tracker do?",
+    "answer": "Monitors physical activity and health metrics."
+}

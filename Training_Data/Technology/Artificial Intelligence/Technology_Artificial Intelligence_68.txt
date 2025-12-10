@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in customer service?",
+    "answer": "Chatbots answering queries."
+}

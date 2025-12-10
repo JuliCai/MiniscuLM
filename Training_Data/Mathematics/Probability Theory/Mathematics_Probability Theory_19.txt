@@ -1,0 +1,4 @@
+{
+    "question": "What is a Bernoulli trial?",
+    "answer": "An experiment with two outcomes: success or failure."
+}

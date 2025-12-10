@@ -1,0 +1,4 @@
+{
+    "question": "Who is a key theorist in structuralism?",
+    "answer": "Claude L\u00e9vi-Strauss."
+}

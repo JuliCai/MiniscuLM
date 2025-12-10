@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a central bank?",
+    "answer": "Controls money supply and interest rates."
+}

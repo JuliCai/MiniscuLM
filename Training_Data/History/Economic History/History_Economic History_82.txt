@@ -1,0 +1,4 @@
+{
+    "question": "What is the economic impact of globalization?",
+    "answer": "Increased trade and interconnected markets."
+}

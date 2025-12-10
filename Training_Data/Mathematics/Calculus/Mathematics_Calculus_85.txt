@@ -1,0 +1,4 @@
+{
+    "question": "Integral of sqrt(x) dx.",
+    "answer": "(2/3) x^{3/2} + C"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What cash crop was important in colonial America?",
+    "answer": "Tobacco."
+}

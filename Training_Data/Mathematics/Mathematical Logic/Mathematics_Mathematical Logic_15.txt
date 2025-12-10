@@ -1,0 +1,4 @@
+{
+    "question": "What is an inference rule?",
+    "answer": "Pattern to derive valid conclusions."
+}

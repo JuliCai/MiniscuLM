@@ -1,0 +1,4 @@
+{
+    "question": "Name a green technology in transportation infrastructure.",
+    "answer": "Electric vehicle charging stations."
+}

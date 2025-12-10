@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a legend?",
+    "answer": "Explain map symbols."
+}

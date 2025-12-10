@@ -1,0 +1,4 @@
+{
+    "question": "What is industrial capitalism?",
+    "answer": "Economic system based on industrial production."
+}

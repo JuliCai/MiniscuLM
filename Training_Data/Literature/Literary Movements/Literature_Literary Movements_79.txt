@@ -1,0 +1,4 @@
+{
+    "question": "What defines Comedy in literature?",
+    "answer": "Humor and happy endings."
+}

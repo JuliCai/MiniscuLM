@@ -1,0 +1,4 @@
+{
+    "question": "What is a domain in predicate logic?",
+    "answer": "Set over which variables range."
+}

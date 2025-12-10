@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Panic of 1929?",
+    "answer": "Stock market crash leading to Great Depression."
+}

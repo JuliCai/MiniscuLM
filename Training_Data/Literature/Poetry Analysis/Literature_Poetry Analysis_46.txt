@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of internal rhyme?",
+    "answer": "Rhyme within a single line."
+}

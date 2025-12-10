@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain bridge?",
+    "answer": "Connects different blockchains."
+}

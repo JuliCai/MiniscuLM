@@ -1,0 +1,4 @@
+{
+    "question": "Explain quantum teleportation briefly.",
+    "answer": "Transfers quantum state via entanglement."
+}

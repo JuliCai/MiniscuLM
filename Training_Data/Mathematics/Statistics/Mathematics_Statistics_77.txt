@@ -1,0 +1,4 @@
+{
+    "question": "What is a scatterplot matrix?",
+    "answer": "Plot of all variable pairs."
+}

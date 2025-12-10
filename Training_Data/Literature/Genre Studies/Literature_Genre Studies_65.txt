@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of horror.",
+    "answer": "Stories intended to scare or shock."
+}

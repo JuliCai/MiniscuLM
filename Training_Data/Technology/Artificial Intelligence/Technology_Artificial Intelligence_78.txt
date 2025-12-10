@@ -1,0 +1,4 @@
+{
+    "question": "What is AI hardware?",
+    "answer": "Specialized processors for AI tasks."
+}

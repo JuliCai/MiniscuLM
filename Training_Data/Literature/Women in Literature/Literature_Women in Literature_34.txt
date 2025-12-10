@@ -1,0 +1,4 @@
+{
+    "question": "Who authored 'The Bell Jar'?",
+    "answer": "Sylvia Plath"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of green roofs?",
+    "answer": "To insulate buildings and reduce heat."
+}

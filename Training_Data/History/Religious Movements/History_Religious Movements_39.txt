@@ -1,0 +1,4 @@
+{
+    "question": "What is Zoroastrianism?",
+    "answer": "Ancient Persian religion."
+}

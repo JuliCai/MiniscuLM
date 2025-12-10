@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary belief of Shakers?",
+    "answer": "Celibacy and communal living."
+}

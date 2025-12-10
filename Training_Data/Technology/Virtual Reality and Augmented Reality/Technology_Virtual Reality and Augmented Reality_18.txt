@@ -1,0 +1,4 @@
+{
+    "question": "Can AR be used in retail?",
+    "answer": "Yes, for virtual try-ons."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of ethical criticism?",
+    "answer": "Moral aspects of literature."
+}

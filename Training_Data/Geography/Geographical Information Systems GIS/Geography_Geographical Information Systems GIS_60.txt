@@ -1,0 +1,4 @@
+{
+    "question": "What is a spatial join?",
+    "answer": "Combining data based on location."
+}

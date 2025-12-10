@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female editor of a major US newspaper?",
+    "answer": "Margaret Fuller"
+}

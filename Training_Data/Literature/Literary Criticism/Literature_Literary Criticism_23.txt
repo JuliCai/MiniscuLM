@@ -1,0 +1,4 @@
+{
+    "question": "What is the goal of structuralist criticism?",
+    "answer": "Identify underlying structures in text."
+}

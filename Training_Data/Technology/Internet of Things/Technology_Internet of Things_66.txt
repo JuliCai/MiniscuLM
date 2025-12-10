@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of AI in IoT security?",
+    "answer": "Detects anomalies and threats."
+}

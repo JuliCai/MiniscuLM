@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of ignoring historical context in analysis?",
+    "answer": "Leads to incomplete understanding."
+}

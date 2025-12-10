@@ -1,0 +1,4 @@
+{
+    "question": "Define a perfect square.",
+    "answer": "An integer squared to form a number."
+}

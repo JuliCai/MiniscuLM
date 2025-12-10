@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud-native security?",
+    "answer": "Security designed for cloud environments."
+}

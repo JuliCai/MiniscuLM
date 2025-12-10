@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of inclusion-exclusion?",
+    "answer": "Counting method for overlapping sets."
+}

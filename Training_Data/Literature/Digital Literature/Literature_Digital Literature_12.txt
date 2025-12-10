@@ -1,0 +1,4 @@
+{
+    "question": "Give an example of digital literature format.",
+    "answer": "Interactive fiction or digital comics."
+}

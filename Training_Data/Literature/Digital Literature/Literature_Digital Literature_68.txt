@@ -1,0 +1,4 @@
+{
+    "question": "How does digital literature influence education?",
+    "answer": "Engages students with interactive texts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context help in character development?",
+    "answer": "It explains their backgrounds and choices."
+}

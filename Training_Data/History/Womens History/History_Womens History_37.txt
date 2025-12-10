@@ -1,0 +1,4 @@
+{
+    "question": "Name the woman who helped translate the Rosetta Stone.",
+    "answer": "Thomas Young's sister (unknown name)"
+}

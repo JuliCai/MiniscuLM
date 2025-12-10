@@ -1,0 +1,4 @@
+{
+    "question": "What culture created Mayan murals?",
+    "answer": "The Maya civilization."
+}

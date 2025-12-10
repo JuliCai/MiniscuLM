@@ -1,0 +1,4 @@
+{
+    "question": "How do visuals affect digital literature?",
+    "answer": "They enhance meaning and engagement."
+}

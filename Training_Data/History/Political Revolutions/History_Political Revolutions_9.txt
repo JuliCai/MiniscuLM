@@ -1,0 +1,4 @@
+{
+    "question": "What political ideology influenced the Chinese Revolution?",
+    "answer": "Communism."
+}

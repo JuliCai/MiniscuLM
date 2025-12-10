@@ -1,0 +1,4 @@
+{
+    "question": "What is a treatment effect?",
+    "answer": "Impact of intervention."
+}

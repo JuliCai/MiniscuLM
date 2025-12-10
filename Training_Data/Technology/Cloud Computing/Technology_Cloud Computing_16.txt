@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud migration.",
+    "answer": "Moving data or apps to the cloud."
+}

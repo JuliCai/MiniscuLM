@@ -1,0 +1,4 @@
+{
+    "question": "Who developed psychoanalytic criticism?",
+    "answer": "Sigmund Freud."
+}

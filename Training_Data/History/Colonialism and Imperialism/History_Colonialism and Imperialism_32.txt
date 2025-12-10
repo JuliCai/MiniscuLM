@@ -1,0 +1,4 @@
+{
+    "question": "Who was King Leopold II?",
+    "answer": "Belgian king exploiting Congo."
+}

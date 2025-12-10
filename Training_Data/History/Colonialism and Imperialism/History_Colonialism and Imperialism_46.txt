@@ -1,0 +1,4 @@
+{
+    "question": "Which treaty ended Spanish-American War?",
+    "answer": "Treaty of Paris 1898."
+}

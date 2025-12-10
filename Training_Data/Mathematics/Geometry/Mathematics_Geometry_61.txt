@@ -1,0 +1,4 @@
+{
+    "question": "Define the circumcenter of a triangle.",
+    "answer": "Intersection of perpendicular bisectors."
+}

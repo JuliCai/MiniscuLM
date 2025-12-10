@@ -1,0 +1,4 @@
+{
+    "question": "Name a Poststructuralist theorist.",
+    "answer": "Jacques Derrida."
+}

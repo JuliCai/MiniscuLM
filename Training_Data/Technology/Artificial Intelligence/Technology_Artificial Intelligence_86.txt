@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in text summarization?",
+    "answer": "Condensing long text automatically."
+}

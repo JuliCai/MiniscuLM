@@ -1,0 +1,4 @@
+{
+    "question": "What is an obtuse angle?",
+    "answer": "An angle greater than 90 degrees."
+}

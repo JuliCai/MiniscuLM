@@ -1,0 +1,4 @@
+{
+    "question": "What genre focuses on the psychological state?",
+    "answer": "Psychological fiction."
+}

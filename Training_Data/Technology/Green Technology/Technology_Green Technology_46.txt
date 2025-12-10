@@ -1,0 +1,4 @@
+{
+    "question": "What is the environmental impact of fossil fuels?",
+    "answer": "Air pollution and global warming."
+}

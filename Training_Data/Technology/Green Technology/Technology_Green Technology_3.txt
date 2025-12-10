@@ -1,0 +1,4 @@
+{
+    "question": "What is a common material used in green buildings?",
+    "answer": "Recycled steel."
+}

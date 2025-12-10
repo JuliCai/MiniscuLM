@@ -1,0 +1,4 @@
+{
+    "question": "Differentiate x^4 + 3x^2 - 2.",
+    "answer": "4x^3 + 6x"
+}

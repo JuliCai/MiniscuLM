@@ -1,0 +1,4 @@
+{
+    "question": "What is a brute force attack?",
+    "answer": "Trying many passwords rapidly."
+}

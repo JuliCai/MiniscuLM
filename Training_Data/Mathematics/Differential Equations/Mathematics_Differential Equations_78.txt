@@ -1,0 +1,4 @@
+{
+    "question": "What is the Cauchy-Euler equation?",
+    "answer": "Equation with variable coefficients of form x^n y^{(n)}."
+}

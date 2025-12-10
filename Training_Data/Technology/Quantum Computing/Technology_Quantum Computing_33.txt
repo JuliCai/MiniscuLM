@@ -1,0 +1,4 @@
+{
+    "question": "What does a phase shift gate do?",
+    "answer": "Changes the phase of a qubit's quantum state."
+}

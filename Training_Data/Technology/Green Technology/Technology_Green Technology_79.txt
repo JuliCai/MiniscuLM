@@ -1,0 +1,4 @@
+{
+    "question": "How do green technologies affect global warming?",
+    "answer": "They help mitigate it."
+}

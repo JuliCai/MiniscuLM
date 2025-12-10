@@ -1,0 +1,4 @@
+{
+    "question": "Who was Frida Kahlo?",
+    "answer": "Mexican surrealist painter."
+}

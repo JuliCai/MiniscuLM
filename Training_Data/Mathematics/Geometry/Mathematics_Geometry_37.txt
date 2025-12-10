@@ -1,0 +1,4 @@
+{
+    "question": "Find the length of the hypotenuse in a right triangle.",
+    "answer": "Use Pythagorean theorem."
+}

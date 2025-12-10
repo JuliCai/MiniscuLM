@@ -1,0 +1,4 @@
+{
+    "question": "What is the equator?",
+    "answer": "Imaginary line dividing Earth."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the area formula for a circle?",
+    "answer": "\u03c0 times radius squared (\u03c0r\u00b2)."
+}

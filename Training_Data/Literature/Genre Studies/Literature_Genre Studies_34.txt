@@ -1,0 +1,4 @@
+{
+    "question": "Which genre features futuristic technology?",
+    "answer": "Science fiction."
+}

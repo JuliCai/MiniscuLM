@@ -1,0 +1,4 @@
+{
+    "question": "Explain attribute data in GIS.",
+    "answer": "Information linked to spatial features."
+}

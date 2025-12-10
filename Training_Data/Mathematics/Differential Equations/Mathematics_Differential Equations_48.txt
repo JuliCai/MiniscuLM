@@ -1,0 +1,4 @@
+{
+    "question": "Solve dx/dt = 3x, dy/dt = -2y.",
+    "answer": "x = C1 e^{3t}, y = C2 e^{-2t}."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a clause in propositional logic.",
+    "answer": "Disjunction of literals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of energy-efficient appliances?",
+    "answer": "Reduce energy consumption."
+}

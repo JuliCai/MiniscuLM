@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'Rebecca'?",
+    "answer": "Daphne du Maurier"
+}

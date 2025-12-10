@@ -1,0 +1,4 @@
+{
+    "question": "What is quantum machine learning?",
+    "answer": "Applying quantum computing to machine learning tasks."
+}

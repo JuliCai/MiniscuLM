@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'linear differential operator.'",
+    "answer": "Operator linear in function and its derivatives."
+}

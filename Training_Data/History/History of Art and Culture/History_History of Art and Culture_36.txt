@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous art piece from the Baroque period.",
+    "answer": "Caravaggio's The Calling of St Matthew."
+}

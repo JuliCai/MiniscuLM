@@ -1,0 +1,4 @@
+{
+    "question": "What is a cyclone?",
+    "answer": "A low-pressure storm with rotating winds."
+}

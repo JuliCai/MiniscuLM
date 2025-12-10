@@ -1,0 +1,4 @@
+{
+    "question": "Are wearable devices environmentally friendly?",
+    "answer": "Depends on materials and recycling."
+}

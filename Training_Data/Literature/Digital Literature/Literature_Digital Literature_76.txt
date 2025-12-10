@@ -1,0 +1,4 @@
+{
+    "question": "Name a genre common in digital literature.",
+    "answer": "Interactive fiction or cyberpunk."
+}

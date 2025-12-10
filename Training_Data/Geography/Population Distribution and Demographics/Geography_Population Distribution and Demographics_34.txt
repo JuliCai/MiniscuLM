@@ -1,0 +1,4 @@
+{
+    "question": "How does healthcare improve demographics?",
+    "answer": "Lowers mortality rates."
+}

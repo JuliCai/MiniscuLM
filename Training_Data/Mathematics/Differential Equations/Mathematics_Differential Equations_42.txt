@@ -1,0 +1,4 @@
+{
+    "question": "Define Laplace transform.",
+    "answer": "Integral transform converting functions to s-domain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does digital literature differ from print?",
+    "answer": "It incorporates multimedia and interactivity."
+}

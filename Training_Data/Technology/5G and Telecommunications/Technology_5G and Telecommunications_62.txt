@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G bandwidth wider than 4G?",
+    "answer": "Yes, significantly wider."
+}

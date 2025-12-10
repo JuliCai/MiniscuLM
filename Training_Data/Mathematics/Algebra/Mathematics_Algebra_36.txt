@@ -1,0 +1,4 @@
+{
+    "question": "Find y-intercept of y = 2x + 5",
+    "answer": "5"
+}

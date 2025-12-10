@@ -1,0 +1,4 @@
+{
+    "question": "What is a syntactic entailment?",
+    "answer": "Derivation in proof system."
+}

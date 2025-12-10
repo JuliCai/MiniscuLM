@@ -1,0 +1,4 @@
+{
+    "question": "What is a rift valley?",
+    "answer": "A valley formed by tectonic plates."
+}

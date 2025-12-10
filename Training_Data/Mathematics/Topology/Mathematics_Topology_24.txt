@@ -1,0 +1,4 @@
+{
+    "question": "Define indiscrete topology.",
+    "answer": "Only empty set and whole space are open."
+}

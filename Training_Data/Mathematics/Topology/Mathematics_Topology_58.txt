@@ -1,0 +1,4 @@
+{
+    "question": "Define compact manifold.",
+    "answer": "Manifold that is compact as a topological space."
+}

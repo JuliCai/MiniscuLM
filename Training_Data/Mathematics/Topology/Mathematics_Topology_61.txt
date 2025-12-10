@@ -1,0 +1,4 @@
+{
+    "question": "What is a topological group?",
+    "answer": "Group with continuous multiplication and inversion."
+}

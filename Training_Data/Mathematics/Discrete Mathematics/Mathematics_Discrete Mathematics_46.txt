@@ -1,0 +1,4 @@
+{
+    "question": "Define codomain.",
+    "answer": "Set of possible outputs."
+}

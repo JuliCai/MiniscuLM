@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between analog and digital quantum simulators?",
+    "answer": "Analog simulate specific systems continuously; digital use gates."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural landscape.",
+    "answer": "Human-modified natural landscape."
+}

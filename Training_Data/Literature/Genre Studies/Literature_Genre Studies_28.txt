@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is known for plot twists?",
+    "answer": "Mystery."
+}

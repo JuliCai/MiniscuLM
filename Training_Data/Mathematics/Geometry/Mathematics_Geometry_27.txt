@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the area of a trapezoid?",
+    "answer": "(Base1 + Base2) \u00f7 2 \u00d7 height."
+}

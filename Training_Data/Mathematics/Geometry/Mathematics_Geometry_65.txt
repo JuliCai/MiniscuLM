@@ -1,0 +1,4 @@
+{
+    "question": "Define a sphere.",
+    "answer": "Set of points equidistant from center."
+}

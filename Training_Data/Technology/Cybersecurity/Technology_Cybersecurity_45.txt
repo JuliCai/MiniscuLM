@@ -1,0 +1,4 @@
+{
+    "question": "What is patch management?",
+    "answer": "Process of updating software patches."
+}

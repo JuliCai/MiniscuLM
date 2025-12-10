@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous sculpture from Ancient Greece.",
+    "answer": "Discobolus."
+}

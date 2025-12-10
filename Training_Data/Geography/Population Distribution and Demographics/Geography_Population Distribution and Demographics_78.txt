@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of a demographic transition stage?",
+    "answer": "Stage with declining death rates."
+}

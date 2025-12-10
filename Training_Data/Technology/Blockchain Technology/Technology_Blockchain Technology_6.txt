@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart contract?",
+    "answer": "Self-executing contract with coded rules."
+}

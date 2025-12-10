@@ -1,0 +1,4 @@
+{
+    "question": "Define similarity in geometry.",
+    "answer": "Same shape, different size."
+}

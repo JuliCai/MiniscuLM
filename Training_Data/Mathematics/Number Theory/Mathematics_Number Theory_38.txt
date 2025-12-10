@@ -1,0 +1,4 @@
+{
+    "question": "What is the least number divisible by 1 to 5?",
+    "answer": "60"
+}

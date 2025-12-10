@@ -1,0 +1,4 @@
+{
+    "question": "Explain irony in poetry.",
+    "answer": "A contrast between expectation and reality."
+}

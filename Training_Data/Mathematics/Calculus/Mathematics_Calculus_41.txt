@@ -1,0 +1,4 @@
+{
+    "question": "Find derivative of ln|x|.",
+    "answer": "1/x"
+}

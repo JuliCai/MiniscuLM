@@ -1,0 +1,4 @@
+{
+    "question": "Name a power source for IoT devices.",
+    "answer": "Battery."
+}

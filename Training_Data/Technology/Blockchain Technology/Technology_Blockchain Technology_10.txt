@@ -1,0 +1,4 @@
+{
+    "question": "What is consensus in blockchain?",
+    "answer": "Agreement among nodes on the ledger state."
+}

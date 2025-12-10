@@ -1,0 +1,4 @@
+{
+    "question": "What did Galileo Galilei improve?",
+    "answer": "The telescope."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is SSL?",
+    "answer": "Protocol for secure internet connections."
+}

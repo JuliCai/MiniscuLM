@@ -1,0 +1,4 @@
+{
+    "question": "What year did women gain the right to vote in the US?",
+    "answer": "1920"
+}

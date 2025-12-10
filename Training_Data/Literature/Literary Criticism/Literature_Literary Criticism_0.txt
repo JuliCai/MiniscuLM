@@ -1,0 +1,4 @@
+{
+    "question": "What is literary criticism?",
+    "answer": "Analysis and evaluation of literature."
+}

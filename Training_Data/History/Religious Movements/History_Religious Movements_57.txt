@@ -1,0 +1,4 @@
+{
+    "question": "What is the main belief of Anabaptists?",
+    "answer": "Believer's baptism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain mining in blockchain.",
+    "answer": "Validating transactions to create new blocks."
+}

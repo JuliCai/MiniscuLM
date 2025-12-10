@@ -1,0 +1,4 @@
+{
+    "question": "What is a planimetric map?",
+    "answer": "Shows horizontal positions only."
+}

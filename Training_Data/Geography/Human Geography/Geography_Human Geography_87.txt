@@ -1,0 +1,4 @@
+{
+    "question": "Define population momentum.",
+    "answer": "Population growth after fertility decline."
+}

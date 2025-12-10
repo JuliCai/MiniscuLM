@@ -1,0 +1,4 @@
+{
+    "question": "What is a key challenge in adapting dialogue?",
+    "answer": "Making it natural for new medium."
+}

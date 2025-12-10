@@ -1,0 +1,4 @@
+{
+    "question": "What is energy auditing?",
+    "answer": "Assessing energy use to improve efficiency."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do historical contexts influence genre blending?",
+    "answer": "Mixes historical facts with other genres."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a GIS shapefile?",
+    "answer": "A file format storing vector data."
+}

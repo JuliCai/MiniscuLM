@@ -1,0 +1,4 @@
+{
+    "question": "What is the probability of drawing two aces in succession without replacement?",
+    "answer": "(4/52) \u00d7 (3/51)"
+}

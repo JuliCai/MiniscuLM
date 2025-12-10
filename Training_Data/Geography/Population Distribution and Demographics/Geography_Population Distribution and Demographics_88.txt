@@ -1,0 +1,4 @@
+{
+    "question": "What is a population cluster?",
+    "answer": "A dense population area."
+}

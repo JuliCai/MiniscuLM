@@ -1,0 +1,4 @@
+{
+    "question": "What is blockchain latency?",
+    "answer": "Delay in transaction confirmation."
+}

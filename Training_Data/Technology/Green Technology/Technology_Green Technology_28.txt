@@ -1,0 +1,4 @@
+{
+    "question": "What is a zero-emission vehicle?",
+    "answer": "A vehicle that produces no exhaust gases."
+}

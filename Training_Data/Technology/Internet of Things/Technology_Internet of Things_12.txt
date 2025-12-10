@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital twin?",
+    "answer": "Virtual model of a physical object."
+}

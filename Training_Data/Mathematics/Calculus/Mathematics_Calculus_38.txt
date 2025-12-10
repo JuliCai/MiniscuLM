@@ -1,0 +1,4 @@
+{
+    "question": "Limit of (1 - cos x)/x^2 as x\u21920?",
+    "answer": "1/2"
+}

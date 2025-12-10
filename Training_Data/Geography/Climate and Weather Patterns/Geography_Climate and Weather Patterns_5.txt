@@ -1,0 +1,4 @@
+{
+    "question": "How do mountains affect rainfall?",
+    "answer": "They cause orographic precipitation."
+}

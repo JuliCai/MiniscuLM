@@ -1,0 +1,4 @@
+{
+    "question": "Which author is famous for magical realism?",
+    "answer": "Gabriel Garc\u00eda M\u00e1rquez"
+}

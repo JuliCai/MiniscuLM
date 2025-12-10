@@ -1,0 +1,4 @@
+{
+    "question": "What is a sphere of influence?",
+    "answer": "Area dominated without formal control."
+}

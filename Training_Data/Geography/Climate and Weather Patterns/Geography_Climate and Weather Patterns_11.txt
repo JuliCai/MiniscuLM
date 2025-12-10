@@ -1,0 +1,4 @@
+{
+    "question": "What causes hurricanes?",
+    "answer": "Warm ocean water and low pressure."
+}

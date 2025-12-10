@@ -1,0 +1,4 @@
+{
+    "question": "Define multicollinearity.",
+    "answer": "High correlation among predictors."
+}

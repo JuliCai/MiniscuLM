@@ -1,0 +1,4 @@
+{
+    "question": "What role do electric cars play?",
+    "answer": "They lower dependence on fossil fuels."
+}

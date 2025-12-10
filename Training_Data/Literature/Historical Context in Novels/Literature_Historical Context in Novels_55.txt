@@ -1,0 +1,4 @@
+{
+    "question": "What is a secondary source in historical context research?",
+    "answer": "Later analysis or interpretation of history."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a feature of smart earbuds?",
+    "answer": "Noise cancellation and voice assistance."
+}

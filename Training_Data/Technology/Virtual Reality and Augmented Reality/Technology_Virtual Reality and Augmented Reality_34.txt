@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial audio?",
+    "answer": "3D sound matching VR environment."
+}

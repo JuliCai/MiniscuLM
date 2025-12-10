@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context show social hierarchy?",
+    "answer": "Depicts class structures and roles."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud encryption?",
+    "answer": "Securing data using cryptography in cloud."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of metadata in GIS?",
+    "answer": "Describes data source and quality."
+}

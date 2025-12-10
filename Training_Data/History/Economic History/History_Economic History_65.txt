@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Latin American debt crisis?",
+    "answer": "Excessive borrowing and falling commodity prices."
+}

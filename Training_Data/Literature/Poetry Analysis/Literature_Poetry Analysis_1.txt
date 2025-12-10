@@ -1,0 +1,4 @@
+{
+    "question": "Identify the rhyme scheme in a Shakespearean sonnet.",
+    "answer": "ABABCDCDEFEFGG."
+}

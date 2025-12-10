@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female director to win an Oscar?",
+    "answer": "Kathryn Bigelow"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud cost optimization?",
+    "answer": "Reducing cloud expenses efficiently."
+}

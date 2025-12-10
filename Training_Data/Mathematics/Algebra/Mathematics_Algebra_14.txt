@@ -1,0 +1,4 @@
+{
+    "question": "Solve: x/4 = 3",
+    "answer": "x = 12"
+}

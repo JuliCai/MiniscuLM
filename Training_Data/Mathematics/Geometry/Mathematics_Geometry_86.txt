@@ -1,0 +1,4 @@
+{
+    "question": "What is a major arc in a circle?",
+    "answer": "Arc longer than a semicircle."
+}

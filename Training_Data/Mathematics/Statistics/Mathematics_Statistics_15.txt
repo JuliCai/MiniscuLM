@@ -1,0 +1,4 @@
+{
+    "question": "Difference between discrete and continuous data?",
+    "answer": "Discrete countable; continuous measurable."
+}

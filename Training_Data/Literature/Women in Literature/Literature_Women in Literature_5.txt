@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous play by Lorraine Hansberry.",
+    "answer": "A Raisin in the Sun"
+}

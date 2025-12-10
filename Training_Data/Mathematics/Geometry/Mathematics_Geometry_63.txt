@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a prism and a pyramid?",
+    "answer": "Prism has two identical bases; pyramid has one."
+}

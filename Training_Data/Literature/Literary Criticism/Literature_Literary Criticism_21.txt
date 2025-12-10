@@ -1,0 +1,4 @@
+{
+    "question": "What does formalist criticism avoid?",
+    "answer": "Historical or biographical context."
+}

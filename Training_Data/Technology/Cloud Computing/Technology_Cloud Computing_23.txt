@@ -1,0 +1,4 @@
+{
+    "question": "Explain containerization.",
+    "answer": "Packaging apps with dependencies for cloud."
+}

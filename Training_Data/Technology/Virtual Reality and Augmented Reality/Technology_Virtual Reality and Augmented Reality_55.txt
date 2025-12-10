@@ -1,0 +1,4 @@
+{
+    "question": "Is VR used in sports training?",
+    "answer": "Yes, to simulate gameplay."
+}

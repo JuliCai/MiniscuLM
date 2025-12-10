@@ -1,0 +1,4 @@
+{
+    "question": "What is the main feature of Gothic cathedrals?",
+    "answer": "Pointed arches and stained glass."
+}

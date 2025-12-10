@@ -1,0 +1,4 @@
+{
+    "question": "Can wearables monitor hydration levels?",
+    "answer": "Some experimental devices can."
+}

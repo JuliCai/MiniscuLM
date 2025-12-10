@@ -1,0 +1,4 @@
+{
+    "question": "Define parameter in statistics.",
+    "answer": "Population characteristic."
+}

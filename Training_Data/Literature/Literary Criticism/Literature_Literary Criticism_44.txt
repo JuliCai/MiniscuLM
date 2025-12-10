@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of ideology in criticism?",
+    "answer": "Shapes interpretation of texts."
+}

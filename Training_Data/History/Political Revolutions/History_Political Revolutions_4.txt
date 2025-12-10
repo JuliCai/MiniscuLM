@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution overthrew the Qing dynasty?",
+    "answer": "Xinhai Revolution."
+}

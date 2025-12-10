@@ -1,0 +1,4 @@
+{
+    "question": "What is the method of variation of parameters?",
+    "answer": "Finding particular solution using known solutions."
+}

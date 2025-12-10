@@ -1,0 +1,4 @@
+{
+    "question": "What is a butte?",
+    "answer": "Isolated hill with steep sides."
+}

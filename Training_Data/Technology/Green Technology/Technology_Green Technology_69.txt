@@ -1,0 +1,4 @@
+{
+    "question": "What role do sensors play in green tech?",
+    "answer": "Optimizing resource use."
+}

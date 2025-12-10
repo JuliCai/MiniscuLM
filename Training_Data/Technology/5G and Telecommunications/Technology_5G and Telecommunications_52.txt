@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G technology be used for home internet?",
+    "answer": "Yes, via fixed wireless access."
+}

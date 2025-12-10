@@ -1,0 +1,4 @@
+{
+    "question": "Can wearable tech track sleep patterns?",
+    "answer": "Yes, many wearables monitor sleep stages."
+}

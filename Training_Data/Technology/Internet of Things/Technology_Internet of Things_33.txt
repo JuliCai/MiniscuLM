@@ -1,0 +1,4 @@
+{
+    "question": "How is blockchain related to IoT?",
+    "answer": "Secures IoT data transactions."
+}

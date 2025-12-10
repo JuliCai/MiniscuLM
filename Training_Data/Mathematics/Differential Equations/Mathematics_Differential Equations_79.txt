@@ -1,0 +1,4 @@
+{
+    "question": "What is the solution of dy/dx = x/y?",
+    "answer": "y^2 = x^2 + C."
+}

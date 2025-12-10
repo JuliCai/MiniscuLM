@@ -1,0 +1,4 @@
+{
+    "question": "Define limit of a sequence in topology.",
+    "answer": "Point where sequence eventually lies in every neighborhood."
+}

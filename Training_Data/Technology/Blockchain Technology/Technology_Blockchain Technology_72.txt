@@ -1,0 +1,4 @@
+{
+    "question": "What is a light node?",
+    "answer": "Node downloading minimal blockchain data."
+}

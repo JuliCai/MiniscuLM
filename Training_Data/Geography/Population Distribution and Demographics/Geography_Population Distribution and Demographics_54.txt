@@ -1,0 +1,4 @@
+{
+    "question": "What is doubling time?",
+    "answer": "Time for population to double."
+}

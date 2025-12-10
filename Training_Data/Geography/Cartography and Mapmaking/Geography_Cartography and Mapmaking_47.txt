@@ -1,0 +1,4 @@
+{
+    "question": "What is remote sensing in cartography?",
+    "answer": "Collecting data from satellites."
+}

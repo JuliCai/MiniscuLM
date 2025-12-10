@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum advantage?",
+    "answer": "Quantum computer outperforms classical in practical task."
+}

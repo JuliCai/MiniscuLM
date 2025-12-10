@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of historical context in 'The Scarlet Letter'?",
+    "answer": "Puritanical New England society."
+}

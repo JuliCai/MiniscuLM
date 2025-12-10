@@ -1,0 +1,4 @@
+{
+    "question": "How does blockchain handle privacy?",
+    "answer": "Uses encryption and pseudonymity."
+}

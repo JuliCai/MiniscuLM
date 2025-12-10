@@ -1,0 +1,4 @@
+{
+    "question": "Which event started the Age of Imperialism?",
+    "answer": "Industrial Revolution."
+}

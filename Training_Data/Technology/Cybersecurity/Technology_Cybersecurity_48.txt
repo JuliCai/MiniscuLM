@@ -1,0 +1,4 @@
+{
+    "question": "What is a bug bounty?",
+    "answer": "Reward for finding software vulnerabilities."
+}

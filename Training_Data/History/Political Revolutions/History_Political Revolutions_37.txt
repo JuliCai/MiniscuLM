@@ -1,0 +1,4 @@
+{
+    "question": "What was the main outcome of the Glorious Revolution?",
+    "answer": "Bill of Rights in England."
+}

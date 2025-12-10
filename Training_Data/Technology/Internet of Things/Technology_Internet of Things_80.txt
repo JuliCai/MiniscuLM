@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of IoT device authentication?",
+    "answer": "Verify device identity."
+}

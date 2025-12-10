@@ -1,0 +1,4 @@
+{
+    "question": "Who was the leader of the Chinese Nationalists?",
+    "answer": "Chiang Kai-shek."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in fraud detection?",
+    "answer": "Identifying suspicious activities."
+}

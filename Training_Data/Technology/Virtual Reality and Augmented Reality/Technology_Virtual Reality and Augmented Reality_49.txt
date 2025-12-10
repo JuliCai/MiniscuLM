@@ -1,0 +1,4 @@
+{
+    "question": "Can AR be used for translation?",
+    "answer": "Yes, overlaying translated text."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the female suffragist who went on a hunger strike in prison.",
+    "answer": "Emmeline Pankhurst"
+}

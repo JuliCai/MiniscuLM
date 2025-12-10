@@ -1,0 +1,4 @@
+{
+    "question": "Can VR be wireless?",
+    "answer": "Yes, some headsets support it."
+}

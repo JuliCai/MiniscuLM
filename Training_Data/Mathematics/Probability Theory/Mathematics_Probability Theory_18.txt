@@ -1,0 +1,4 @@
+{
+    "question": "Calculate P(A and B) if A and B are independent.",
+    "answer": "P(A) \u00d7 P(B)"
+}

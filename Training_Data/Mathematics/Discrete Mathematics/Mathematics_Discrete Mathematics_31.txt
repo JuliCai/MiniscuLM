@@ -1,0 +1,4 @@
+{
+    "question": "Define a connected graph.",
+    "answer": "Graph where all vertices reachable."
+}

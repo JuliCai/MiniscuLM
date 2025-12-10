@@ -1,0 +1,4 @@
+{
+    "question": "What is a sigma-algebra?",
+    "answer": "A collection of subsets closed under complement and union."
+}

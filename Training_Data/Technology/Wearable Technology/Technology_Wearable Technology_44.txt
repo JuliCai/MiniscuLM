@@ -1,0 +1,4 @@
+{
+    "question": "How do wearables communicate?",
+    "answer": "Bluetooth, Wi-Fi, or cellular."
+}

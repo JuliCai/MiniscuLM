@@ -1,0 +1,4 @@
+{
+    "question": "What is a DDoS attack?",
+    "answer": "Overloading a server with traffic."
+}

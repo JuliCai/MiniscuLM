@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud vendor lock-in?",
+    "answer": "Dependency on one cloud provider."
+}

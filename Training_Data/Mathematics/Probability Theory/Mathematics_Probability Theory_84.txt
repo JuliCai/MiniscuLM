@@ -1,0 +1,4 @@
+{
+    "question": "What is the expected value of a uniform distribution on [0,1]?",
+    "answer": "0.5"
+}

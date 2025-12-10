@@ -1,0 +1,4 @@
+{
+    "question": "What is a raster cell?",
+    "answer": "Single unit of raster data."
+}

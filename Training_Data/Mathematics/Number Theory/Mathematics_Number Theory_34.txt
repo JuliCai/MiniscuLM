@@ -1,0 +1,4 @@
+{
+    "question": "What is the sum of the first five primes?",
+    "answer": "2 + 3 + 5 + 7 + 11 = 28"
+}

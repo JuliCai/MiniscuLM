@@ -1,0 +1,4 @@
+{
+    "question": "How does latitude affect climate?",
+    "answer": "Closer to poles, colder the climate."
+}

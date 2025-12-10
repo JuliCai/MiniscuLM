@@ -1,0 +1,4 @@
+{
+    "question": "What is AI in translation?",
+    "answer": "Automatically translating languages."
+}

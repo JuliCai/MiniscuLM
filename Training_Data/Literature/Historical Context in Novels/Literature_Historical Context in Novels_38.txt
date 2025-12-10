@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context influence plot pacing?",
+    "answer": "Events may align with historical timelines."
+}

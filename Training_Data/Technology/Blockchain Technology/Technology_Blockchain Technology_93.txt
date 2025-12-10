@@ -1,0 +1,4 @@
+{
+    "question": "What is a blockchain ledger?",
+    "answer": "Immutable record of transactions."
+}

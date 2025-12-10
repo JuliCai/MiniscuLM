@@ -1,0 +1,4 @@
+{
+    "question": "What is a ledger?",
+    "answer": "Record of all transactions."
+}

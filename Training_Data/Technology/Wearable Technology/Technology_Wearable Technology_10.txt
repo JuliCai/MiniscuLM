@@ -1,0 +1,4 @@
+{
+    "question": "How do fitness bands count steps?",
+    "answer": "Using accelerometers."
+}

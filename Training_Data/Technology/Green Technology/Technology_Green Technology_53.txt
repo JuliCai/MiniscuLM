@@ -1,0 +1,4 @@
+{
+    "question": "What is the environmental benefit of paper recycling?",
+    "answer": "Reduces deforestation."
+}

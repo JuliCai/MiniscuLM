@@ -1,0 +1,4 @@
+{
+    "question": "What is general AI?",
+    "answer": "AI with human-like cognitive abilities."
+}

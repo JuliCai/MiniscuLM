@@ -1,0 +1,4 @@
+{
+    "question": "Define metaphor in poetry.",
+    "answer": "A comparison without using 'like' or 'as'."
+}

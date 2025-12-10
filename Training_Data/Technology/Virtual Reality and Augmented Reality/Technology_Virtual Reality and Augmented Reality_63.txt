@@ -1,0 +1,4 @@
+{
+    "question": "Can VR be used in language learning?",
+    "answer": "Yes, immersive practice environments."
+}

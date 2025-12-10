@@ -1,0 +1,4 @@
+{
+    "question": "How do jet streams affect weather?",
+    "answer": "Steer weather systems globally."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Solve dy/dx + y tan x = sin x.",
+    "answer": "Use integrating factor \u03bc = sec x."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a stiff differential equation?",
+    "answer": "Equations with rapidly changing solutions."
+}

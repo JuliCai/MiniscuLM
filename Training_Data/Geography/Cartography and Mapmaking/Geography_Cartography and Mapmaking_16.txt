@@ -1,0 +1,4 @@
+{
+    "question": "What device replaced the compass in mapping?",
+    "answer": "GPS."
+}

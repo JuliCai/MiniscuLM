@@ -1,0 +1,4 @@
+{
+    "question": "What is a faithful adaptation example?",
+    "answer": "Pride and Prejudice (2005 film)."
+}

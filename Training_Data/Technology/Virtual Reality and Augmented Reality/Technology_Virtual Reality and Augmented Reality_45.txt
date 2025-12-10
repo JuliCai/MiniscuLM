@@ -1,0 +1,4 @@
+{
+    "question": "What is hand tracking in VR?",
+    "answer": "Detecting hand motions without controllers."
+}

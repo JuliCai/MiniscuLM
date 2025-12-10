@@ -1,0 +1,4 @@
+{
+    "question": "How do readers navigate digital literature?",
+    "answer": "Using links, menus, or interactive elements."
+}

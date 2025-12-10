@@ -1,0 +1,4 @@
+{
+    "question": "What is a common display type in wearables?",
+    "answer": "OLED or LCD screens."
+}

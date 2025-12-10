@@ -1,0 +1,4 @@
+{
+    "question": "What motivated European imperialism?",
+    "answer": "Industrialization and nationalism."
+}

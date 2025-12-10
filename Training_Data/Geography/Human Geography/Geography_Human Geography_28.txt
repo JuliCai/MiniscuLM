@@ -1,0 +1,4 @@
+{
+    "question": "Define suburbanization.",
+    "answer": "Growth of areas outside cities."
+}

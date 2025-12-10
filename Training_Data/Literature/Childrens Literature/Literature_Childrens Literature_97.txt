@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Indian in the Cupboard'?",
+    "answer": "Lynne Reid Banks"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of oceans in the carbon cycle?",
+    "answer": "Absorb and store atmospheric CO2."
+}

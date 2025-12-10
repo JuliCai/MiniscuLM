@@ -1,0 +1,4 @@
+{
+    "question": "Define autonomous differential equation.",
+    "answer": "Equation not explicitly dependent on independent variable."
+}

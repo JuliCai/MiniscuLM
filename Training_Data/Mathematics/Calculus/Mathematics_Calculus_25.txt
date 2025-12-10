@@ -1,0 +1,4 @@
+{
+    "question": "Derivative of inverse function f^(-1)(x)?",
+    "answer": "1 / f'(f^(-1)(x))"
+}

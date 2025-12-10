@@ -1,0 +1,4 @@
+{
+    "question": "Explain the concept of a stochastic process.",
+    "answer": "Collection of random variables indexed by time."
+}

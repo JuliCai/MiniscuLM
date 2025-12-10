@@ -1,0 +1,4 @@
+{
+    "question": "Is VR useful in architecture?",
+    "answer": "Yes, for virtual building walkthroughs."
+}

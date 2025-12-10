@@ -1,0 +1,4 @@
+{
+    "question": "How do trapped ion qubits work?",
+    "answer": "Ions manipulated with lasers to form qubits."
+}

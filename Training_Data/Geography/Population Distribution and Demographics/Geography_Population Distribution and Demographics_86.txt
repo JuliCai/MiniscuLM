@@ -1,0 +1,4 @@
+{
+    "question": "What is infant mortality?",
+    "answer": "Deaths of infants under one year."
+}

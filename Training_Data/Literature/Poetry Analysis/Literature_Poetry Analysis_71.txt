@@ -1,0 +1,4 @@
+{
+    "question": "Explain the use of symbolism in poetry.",
+    "answer": "To represent ideas beyond literal meaning."
+}

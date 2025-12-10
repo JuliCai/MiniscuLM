@@ -1,0 +1,4 @@
+{
+    "question": "What is a cyber exploit?",
+    "answer": "Using vulnerabilities to attack systems."
+}

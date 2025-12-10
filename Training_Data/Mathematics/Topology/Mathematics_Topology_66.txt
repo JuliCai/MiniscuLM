@@ -1,0 +1,4 @@
+{
+    "question": "Define metric completion.",
+    "answer": "Complete metric space containing original as dense subset."
+}

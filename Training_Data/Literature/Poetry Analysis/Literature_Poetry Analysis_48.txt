@@ -1,0 +1,4 @@
+{
+    "question": "What is the figurative meaning of a poem?",
+    "answer": "The symbolic or deeper meaning."
+}

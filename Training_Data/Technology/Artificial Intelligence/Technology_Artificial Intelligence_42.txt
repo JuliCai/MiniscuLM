@@ -1,0 +1,4 @@
+{
+    "question": "What is explainable AI?",
+    "answer": "AI whose decisions can be understood by humans."
+}

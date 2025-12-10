@@ -1,0 +1,4 @@
+{
+    "question": "What is a controlled NOT (CNOT) gate?",
+    "answer": "Two-qubit gate flipping target if control is 1."
+}

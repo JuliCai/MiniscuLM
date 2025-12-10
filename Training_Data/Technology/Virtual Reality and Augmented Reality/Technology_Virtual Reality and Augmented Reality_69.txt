@@ -1,0 +1,4 @@
+{
+    "question": "What is the resolution of VR displays?",
+    "answer": "Varies, often 1080p+ per eye."
+}

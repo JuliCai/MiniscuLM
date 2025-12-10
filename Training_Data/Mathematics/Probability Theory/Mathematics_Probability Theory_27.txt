@@ -1,0 +1,4 @@
+{
+    "question": "What is the mean of a binomial distribution?",
+    "answer": "n \u00d7 p"
+}

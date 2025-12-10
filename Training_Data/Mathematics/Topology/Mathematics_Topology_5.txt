@@ -1,0 +1,4 @@
+{
+    "question": "What is a closed set?",
+    "answer": "Complement of an open set."
+}

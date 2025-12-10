@@ -1,0 +1,4 @@
+{
+    "question": "How does education lower birth rates?",
+    "answer": "Increases awareness and career focus."
+}

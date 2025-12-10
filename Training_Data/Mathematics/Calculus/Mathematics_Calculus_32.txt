@@ -1,0 +1,4 @@
+{
+    "question": "Limit of (x - sin x)/x^3 as x\u21920?",
+    "answer": "1/6"
+}

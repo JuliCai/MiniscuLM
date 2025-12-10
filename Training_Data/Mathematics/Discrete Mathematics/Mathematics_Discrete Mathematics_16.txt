@@ -1,0 +1,4 @@
+{
+    "question": "State the formula for combinations.",
+    "answer": "C(n,k) = n!/(k!(n-k)!)."
+}

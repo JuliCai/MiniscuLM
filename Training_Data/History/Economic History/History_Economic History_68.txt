@@ -1,0 +1,4 @@
+{
+    "question": "What caused the South Korean economic miracle?",
+    "answer": "Export-driven industrialization and government policies."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a 51% attack?",
+    "answer": "Majority takeover to alter blockchain data."
+}

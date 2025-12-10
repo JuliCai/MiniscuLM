@@ -1,0 +1,4 @@
+{
+    "question": "What is an azimuthal projection?",
+    "answer": "Map projection from a point."
+}

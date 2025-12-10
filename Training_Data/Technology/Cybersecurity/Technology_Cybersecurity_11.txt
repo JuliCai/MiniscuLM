@@ -1,0 +1,4 @@
+{
+    "question": "What is a zero-day exploit?",
+    "answer": "An unknown software vulnerability attack."
+}

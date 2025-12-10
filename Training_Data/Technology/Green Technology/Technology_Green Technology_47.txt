@@ -1,0 +1,4 @@
+{
+    "question": "Define green tech in one word.",
+    "answer": "Eco-friendly."
+}

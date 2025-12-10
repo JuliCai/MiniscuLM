@@ -1,0 +1,4 @@
+{
+    "question": "What is an equidistant projection?",
+    "answer": "Preserves distances from center."
+}

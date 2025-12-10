@@ -1,0 +1,4 @@
+{
+    "question": "Who was the main leader of the Chinese Communist Revolution?",
+    "answer": "Mao Zedong."
+}

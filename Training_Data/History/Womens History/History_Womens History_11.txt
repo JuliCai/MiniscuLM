@@ -1,0 +1,4 @@
+{
+    "question": "Name the female pharaoh who expanded Egypt's trade.",
+    "answer": "Hatshepsut"
+}

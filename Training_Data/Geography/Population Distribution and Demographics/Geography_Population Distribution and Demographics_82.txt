@@ -1,0 +1,4 @@
+{
+    "question": "What is rural depopulation effect?",
+    "answer": "Less rural labor force."
+}

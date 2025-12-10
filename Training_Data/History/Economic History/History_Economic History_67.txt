@@ -1,0 +1,4 @@
+{
+    "question": "What was the economic base of the Aztec Empire?",
+    "answer": "Agriculture and tribute from conquered peoples."
+}

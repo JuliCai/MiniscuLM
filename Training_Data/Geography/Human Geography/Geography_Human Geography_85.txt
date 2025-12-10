@@ -1,0 +1,4 @@
+{
+    "question": "Define cultural pluralism.",
+    "answer": "Multiple cultures coexist peacefully."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Massive MIMO?",
+    "answer": "Multiple antennas to boost capacity."
+}

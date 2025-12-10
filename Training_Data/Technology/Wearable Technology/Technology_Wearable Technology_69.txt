@@ -1,0 +1,4 @@
+{
+    "question": "What is the challenge in wearable battery design?",
+    "answer": "Balancing size, capacity, and weight."
+}

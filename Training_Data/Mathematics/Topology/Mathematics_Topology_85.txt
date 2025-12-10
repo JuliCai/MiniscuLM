@@ -1,0 +1,4 @@
+{
+    "question": "What is a spectral sequence?",
+    "answer": "Tool for computing homology in filtered complexes."
+}

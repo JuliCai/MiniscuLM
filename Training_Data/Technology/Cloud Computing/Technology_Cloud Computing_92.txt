@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between IaaS and PaaS?",
+    "answer": "IaaS offers infrastructure; PaaS offers platform tools."
+}

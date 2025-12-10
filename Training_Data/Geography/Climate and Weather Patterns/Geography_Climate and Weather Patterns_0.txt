@@ -1,0 +1,4 @@
+{
+    "question": "What causes seasonal changes?",
+    "answer": "Earth's tilt and orbit around the Sun."
+}

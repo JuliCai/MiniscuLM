@@ -1,0 +1,4 @@
+{
+    "question": "Can AI generate digital literature?",
+    "answer": "Yes, AI can create or assist literary creation."
+}

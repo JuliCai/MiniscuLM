@@ -1,0 +1,4 @@
+{
+    "question": "Is 25 a perfect square?",
+    "answer": "Yes, 5\u00b2."
+}

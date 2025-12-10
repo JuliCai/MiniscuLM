@@ -1,0 +1,4 @@
+{
+    "question": "Which genre depicts life in rural areas?",
+    "answer": "Pastoral fiction."
+}

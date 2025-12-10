@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G safer than 4G?",
+    "answer": "Health effects are still studied."
+}

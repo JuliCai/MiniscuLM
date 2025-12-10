@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT platform?",
+    "answer": "Software to manage IoT devices."
+}

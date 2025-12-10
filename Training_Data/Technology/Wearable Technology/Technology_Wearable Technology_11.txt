@@ -1,0 +1,4 @@
+{
+    "question": "Are wearable devices waterproof?",
+    "answer": "Many are water-resistant, not fully waterproof."
+}

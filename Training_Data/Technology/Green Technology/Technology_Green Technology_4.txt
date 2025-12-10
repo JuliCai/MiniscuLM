@@ -1,0 +1,4 @@
+{
+    "question": "Define carbon footprint in green technology.",
+    "answer": "Total greenhouse gases emitted by activities."
+}

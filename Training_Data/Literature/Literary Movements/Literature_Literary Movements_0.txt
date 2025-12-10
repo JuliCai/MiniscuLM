@@ -1,0 +1,4 @@
+{
+    "question": "What is Romanticism in literature?",
+    "answer": "A movement emphasizing emotion and nature."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is reversible computing?",
+    "answer": "Computing where operations can be undone."
+}

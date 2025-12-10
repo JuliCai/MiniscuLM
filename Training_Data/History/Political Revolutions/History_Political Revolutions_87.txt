@@ -1,0 +1,4 @@
+{
+    "question": "Which revolution led to the rise of Napoleon?",
+    "answer": "French Revolution."
+}

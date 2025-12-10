@@ -1,0 +1,4 @@
+{
+    "question": "What is cultural context within historical context?",
+    "answer": "Customs and beliefs of the time."
+}

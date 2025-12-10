@@ -1,0 +1,4 @@
+{
+    "question": "Name a cloud automation tool.",
+    "answer": "Terraform."
+}

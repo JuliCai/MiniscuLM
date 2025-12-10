@@ -1,0 +1,4 @@
+{
+    "question": "What is a Hamiltonian path?",
+    "answer": "Path visiting each vertex once."
+}

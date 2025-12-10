@@ -1,0 +1,4 @@
+{
+    "question": "How do wearables relate to IoT?",
+    "answer": "They collect health data."
+}

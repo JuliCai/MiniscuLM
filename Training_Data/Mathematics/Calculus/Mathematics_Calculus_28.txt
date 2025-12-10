@@ -1,0 +1,4 @@
+{
+    "question": "Integral of csc x dx?",
+    "answer": "-ln|csc x + cot x| + C"
+}

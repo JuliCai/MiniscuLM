@@ -1,0 +1,4 @@
+{
+    "question": "What is a block validator?",
+    "answer": "Node confirming block validity."
+}

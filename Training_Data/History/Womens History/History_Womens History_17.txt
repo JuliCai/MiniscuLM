@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first woman elected to the US Congress?",
+    "answer": "Jeannette Rankin"
+}

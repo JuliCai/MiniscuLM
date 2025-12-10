@@ -1,0 +1,4 @@
+{
+    "question": "Define Urysohn's lemma.",
+    "answer": "Existence of continuous function separating closed sets."
+}

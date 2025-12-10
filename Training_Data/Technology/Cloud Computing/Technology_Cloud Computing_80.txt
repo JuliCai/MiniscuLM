@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud cost transparency?",
+    "answer": "Clear visibility of cloud expenses."
+}

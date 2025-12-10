@@ -1,0 +1,4 @@
+{
+    "question": "What is an archipelago?",
+    "answer": "A group of islands."
+}

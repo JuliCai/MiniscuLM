@@ -1,0 +1,4 @@
+{
+    "question": "What is a sequel adaptation?",
+    "answer": "A continuation based on original work."
+}

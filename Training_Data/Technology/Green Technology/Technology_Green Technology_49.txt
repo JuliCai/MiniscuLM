@@ -1,0 +1,4 @@
+{
+    "question": "How do photovoltaic cells work?",
+    "answer": "Convert sunlight directly into electricity."
+}

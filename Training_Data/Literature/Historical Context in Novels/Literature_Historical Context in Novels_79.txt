@@ -1,0 +1,4 @@
+{
+    "question": "How do historical contexts differ in global literature?",
+    "answer": "Each culture\u2019s history shapes stories uniquely."
+}

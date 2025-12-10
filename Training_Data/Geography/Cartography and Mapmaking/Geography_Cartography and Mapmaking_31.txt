@@ -1,0 +1,4 @@
+{
+    "question": "Which projection is commonly used in aviation?",
+    "answer": "Lambert conformal conic."
+}

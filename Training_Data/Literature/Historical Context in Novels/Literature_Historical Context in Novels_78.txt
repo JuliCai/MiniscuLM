@@ -1,0 +1,4 @@
+{
+    "question": "What role does historical context play in plot conflict?",
+    "answer": "Historical tensions create obstacles."
+}

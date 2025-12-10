@@ -1,0 +1,4 @@
+{
+    "question": "What is the mean of 2,4,6,8,10?",
+    "answer": "6"
+}

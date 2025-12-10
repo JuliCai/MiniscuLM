@@ -1,0 +1,4 @@
+{
+    "question": "Who authored 'The Handmaid's Tale'?",
+    "answer": "Margaret Atwood"
+}

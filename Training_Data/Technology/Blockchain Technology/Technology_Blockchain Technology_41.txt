@@ -1,0 +1,4 @@
+{
+    "question": "Explain tokenization.",
+    "answer": "Converting assets into digital tokens."
+}

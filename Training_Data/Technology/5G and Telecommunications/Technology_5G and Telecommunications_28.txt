@@ -1,0 +1,4 @@
+{
+    "question": "Can 5G improve autonomous vehicles?",
+    "answer": "Yes, by lowering latency."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the value of \u03c6(10)?",
+    "answer": "4"
+}

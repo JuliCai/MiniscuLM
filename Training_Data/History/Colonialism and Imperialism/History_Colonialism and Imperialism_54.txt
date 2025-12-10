@@ -1,0 +1,4 @@
+{
+    "question": "Who were the Boers?",
+    "answer": "Dutch settlers in South Africa."
+}

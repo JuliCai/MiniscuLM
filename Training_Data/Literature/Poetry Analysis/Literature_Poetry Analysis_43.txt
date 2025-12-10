@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of rhyme.",
+    "answer": "Creates musicality and structure."
+}

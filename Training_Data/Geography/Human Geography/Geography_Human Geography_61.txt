@@ -1,0 +1,4 @@
+{
+    "question": "Define global city.",
+    "answer": "City central in global economy."
+}

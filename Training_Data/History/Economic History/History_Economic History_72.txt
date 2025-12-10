@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of the Agricultural Revolution?",
+    "answer": "Transition from hunting to farming societies."
+}

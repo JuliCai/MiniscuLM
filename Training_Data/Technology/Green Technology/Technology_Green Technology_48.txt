@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of electric bikes?",
+    "answer": "Eco-friendly urban transportation."
+}

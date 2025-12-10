@@ -1,0 +1,4 @@
+{
+    "question": "Who initiated the New Deal?",
+    "answer": "Franklin D. Roosevelt during the Great Depression."
+}

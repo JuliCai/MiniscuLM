@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of comedy.",
+    "answer": "Light-hearted and humorous stories."
+}

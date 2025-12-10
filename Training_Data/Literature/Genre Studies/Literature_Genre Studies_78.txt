@@ -1,0 +1,4 @@
+{
+    "question": "Which genre uses humor to criticize society?",
+    "answer": "Satire."
+}

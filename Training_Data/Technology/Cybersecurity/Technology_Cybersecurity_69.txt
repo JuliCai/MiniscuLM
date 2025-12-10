@@ -1,0 +1,4 @@
+{
+    "question": "What is a sandboxing technique?",
+    "answer": "Running programs in isolated environment."
+}

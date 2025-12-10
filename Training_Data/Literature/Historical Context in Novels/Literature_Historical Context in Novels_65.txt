@@ -1,0 +1,4 @@
+{
+    "question": "What is the relationship between historical context and setting?",
+    "answer": "Context enriches the setting's meaning."
+}

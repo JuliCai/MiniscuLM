@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum gate?",
+    "answer": "Operation manipulating qubits' quantum state."
+}

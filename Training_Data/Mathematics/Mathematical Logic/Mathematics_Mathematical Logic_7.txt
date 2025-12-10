@@ -1,0 +1,4 @@
+{
+    "question": "What is a predicate in logic?",
+    "answer": "A function returning true or false."
+}

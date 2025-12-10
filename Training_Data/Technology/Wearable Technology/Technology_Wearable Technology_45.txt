@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of ECG in wearables?",
+    "answer": "Detecting heart conditions."
+}

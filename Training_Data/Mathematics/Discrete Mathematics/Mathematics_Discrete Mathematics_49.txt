@@ -1,0 +1,4 @@
+{
+    "question": "Define surjective function.",
+    "answer": "Function covering entire codomain."
+}

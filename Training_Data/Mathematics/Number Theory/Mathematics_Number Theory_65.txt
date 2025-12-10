@@ -1,0 +1,4 @@
+{
+    "question": "What is the modular inverse of 2 mod 5?",
+    "answer": "3"
+}

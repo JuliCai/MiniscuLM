@@ -1,0 +1,4 @@
+{
+    "question": "What is network slicing in 5G?",
+    "answer": "Creating virtual networks for different needs."
+}

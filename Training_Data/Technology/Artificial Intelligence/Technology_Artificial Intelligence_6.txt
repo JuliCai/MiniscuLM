@@ -1,0 +1,4 @@
+{
+    "question": "What is an algorithm?",
+    "answer": "A step-by-step procedure for calculations."
+}

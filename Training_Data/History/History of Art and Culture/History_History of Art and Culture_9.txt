@@ -1,0 +1,4 @@
+{
+    "question": "Define Baroque art.",
+    "answer": "Dramatic, detailed European style."
+}

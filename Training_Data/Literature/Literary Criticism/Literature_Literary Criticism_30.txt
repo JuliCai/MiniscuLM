@@ -1,0 +1,4 @@
+{
+    "question": "Name a key feature of modernist criticism.",
+    "answer": "Fragmentation and ambiguity."
+}

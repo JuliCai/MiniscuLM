@@ -1,0 +1,4 @@
+{
+    "question": "What is the moral lesson in 'The Tortoise and the Hare'?",
+    "answer": "Slow and steady wins"
+}

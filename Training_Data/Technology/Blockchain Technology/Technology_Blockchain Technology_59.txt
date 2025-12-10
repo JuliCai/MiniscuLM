@@ -1,0 +1,4 @@
+{
+    "question": "What is a block reward?",
+    "answer": "Incentive for miners adding blocks."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the author of 'The Divine Comedy'.",
+    "answer": "Dante Alighieri"
+}

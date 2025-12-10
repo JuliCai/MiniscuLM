@@ -1,0 +1,4 @@
+{
+    "question": "Who is associated with psychoanalytic literary theory?",
+    "answer": "Jacques Lacan."
+}

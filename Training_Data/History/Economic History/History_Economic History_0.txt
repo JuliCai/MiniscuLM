@@ -1,0 +1,4 @@
+{
+    "question": "What triggered the Great Depression?",
+    "answer": "The 1929 stock market crash."
+}

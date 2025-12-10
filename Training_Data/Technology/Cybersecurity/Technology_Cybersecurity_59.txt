@@ -1,0 +1,4 @@
+{
+    "question": "What is an insider threat?",
+    "answer": "Threat from within an organization."
+}

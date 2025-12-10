@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the first practical telephone?",
+    "answer": "Alexander Graham Bell."
+}

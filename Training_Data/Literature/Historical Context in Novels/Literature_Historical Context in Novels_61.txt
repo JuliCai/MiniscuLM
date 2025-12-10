@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of historical context in biography novels?",
+    "answer": "Provides background for real-life stories."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a transaction pool?",
+    "answer": "Unconfirmed transactions waiting processing."
+}

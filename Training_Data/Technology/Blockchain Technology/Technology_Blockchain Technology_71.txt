@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptographic signature?",
+    "answer": "Proof verifying authenticity of data."
+}

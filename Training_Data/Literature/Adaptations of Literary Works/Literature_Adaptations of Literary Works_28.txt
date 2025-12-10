@@ -1,0 +1,4 @@
+{
+    "question": "What is an audiobook adaptation?",
+    "answer": "A spoken-word recording of a book."
+}

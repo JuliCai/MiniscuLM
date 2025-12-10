@@ -1,0 +1,4 @@
+{
+    "question": "Define a sector angle.",
+    "answer": "Angle formed by two radii of a circle."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an actuator in IoT?",
+    "answer": "Device that performs actions based on data."
+}

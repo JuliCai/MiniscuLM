@@ -1,0 +1,4 @@
+{
+    "question": "What is the Pentecostalism movement?",
+    "answer": "Emphasis on Holy Spirit gifts."
+}

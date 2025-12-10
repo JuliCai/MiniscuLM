@@ -1,0 +1,4 @@
+{
+    "question": "Define the genre of fairy tale.",
+    "answer": "Stories involving magical creatures."
+}

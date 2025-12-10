@@ -1,0 +1,4 @@
+{
+    "question": "What is a common setting in historical fiction?",
+    "answer": "Past time periods with accurate details."
+}

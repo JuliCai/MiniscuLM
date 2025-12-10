@@ -1,0 +1,4 @@
+{
+    "question": "Name a common AI programming language.",
+    "answer": "Python is widely used for AI development."
+}

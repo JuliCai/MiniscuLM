@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS assist in resource management?",
+    "answer": "Tracking and managing natural resources."
+}

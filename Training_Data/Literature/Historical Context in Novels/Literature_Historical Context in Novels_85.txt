@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context guide reader expectations?",
+    "answer": "Prepares readers for period norms."
+}

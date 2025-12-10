@@ -1,0 +1,4 @@
+{
+    "question": "What is the main message in 'The Paper Bag Princess'?",
+    "answer": "Empowerment and courage"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'Bildungsroman'.",
+    "answer": "Coming-of-age novel."
+}

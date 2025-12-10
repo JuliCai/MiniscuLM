@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary theme of Romanticism art?",
+    "answer": "Emotion and nature."
+}

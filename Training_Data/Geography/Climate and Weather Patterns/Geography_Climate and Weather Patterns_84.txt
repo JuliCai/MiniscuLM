@@ -1,0 +1,4 @@
+{
+    "question": "What defines a humid subtropical climate?",
+    "answer": "Hot summers and mild winters."
+}

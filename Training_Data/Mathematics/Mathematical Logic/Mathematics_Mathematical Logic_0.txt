@@ -1,0 +1,4 @@
+{
+    "question": "What is a tautology in logic?",
+    "answer": "A formula true under every valuation."
+}

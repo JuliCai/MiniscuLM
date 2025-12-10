@@ -1,0 +1,4 @@
+{
+    "question": "Define ethical hacking.",
+    "answer": "Authorized hacking to find security flaws."
+}

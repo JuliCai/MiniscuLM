@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Panic of 1837?",
+    "answer": "Bank failures and speculative lending."
+}

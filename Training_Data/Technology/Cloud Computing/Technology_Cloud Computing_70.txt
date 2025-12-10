@@ -1,0 +1,4 @@
+{
+    "question": "What is cloud automation?",
+    "answer": "Using software to manage cloud tasks."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can historical context enrich a novel\u2019s setting?",
+    "answer": "Adds realism and vivid details."
+}

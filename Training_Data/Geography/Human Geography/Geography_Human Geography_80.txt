@@ -1,0 +1,4 @@
+{
+    "question": "What is a cultural taboo?",
+    "answer": "Prohibited cultural behavior."
+}

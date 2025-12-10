@@ -1,0 +1,4 @@
+{
+    "question": "Define cluster sampling.",
+    "answer": "Sampling entire groups."
+}

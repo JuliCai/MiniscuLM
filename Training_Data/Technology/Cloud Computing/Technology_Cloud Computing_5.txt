@@ -1,0 +1,4 @@
+{
+    "question": "What is a public cloud?",
+    "answer": "Cloud available to the public over the internet."
+}

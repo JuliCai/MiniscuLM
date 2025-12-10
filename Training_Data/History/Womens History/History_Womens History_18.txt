@@ -1,0 +1,4 @@
+{
+    "question": "Which female scientist contributed to DNA structure discovery?",
+    "answer": "Rosalind Franklin"
+}

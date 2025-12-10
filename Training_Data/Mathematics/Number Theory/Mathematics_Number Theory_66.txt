@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the number of divisors?",
+    "answer": "Multiply (exponent+1) for prime factors."
+}

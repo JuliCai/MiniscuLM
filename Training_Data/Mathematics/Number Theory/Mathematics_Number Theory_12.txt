@@ -1,0 +1,4 @@
+{
+    "question": "What is a perfect number?",
+    "answer": "Number equal to sum of divisors excluding itself."
+}

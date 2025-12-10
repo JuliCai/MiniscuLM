@@ -1,0 +1,4 @@
+{
+    "question": "When was the first photograph taken?",
+    "answer": "1826."
+}

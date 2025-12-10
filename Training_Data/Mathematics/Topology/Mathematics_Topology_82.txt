@@ -1,0 +1,4 @@
+{
+    "question": "Define Vietoris\u2013Rips complex.",
+    "answer": "Simplicial complex from metric space points."
+}

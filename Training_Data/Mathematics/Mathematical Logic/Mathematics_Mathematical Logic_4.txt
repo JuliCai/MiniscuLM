@@ -1,0 +1,4 @@
+{
+    "question": "What is modus ponens?",
+    "answer": "If P\u2192Q and P, then Q."
+}

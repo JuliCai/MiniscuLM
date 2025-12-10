@@ -1,0 +1,4 @@
+{
+    "question": "Name a novel adapted into an opera.",
+    "answer": "Madame Butterfly."
+}

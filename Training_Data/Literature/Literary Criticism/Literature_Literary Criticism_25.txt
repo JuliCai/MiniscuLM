@@ -1,0 +1,4 @@
+{
+    "question": "Define 'pathetic fallacy.'",
+    "answer": "Nature reflecting human emotions."
+}

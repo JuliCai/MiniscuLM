@@ -1,0 +1,4 @@
+{
+    "question": "Name a green tech innovation in lighting.",
+    "answer": "Smart LED bulbs."
+}

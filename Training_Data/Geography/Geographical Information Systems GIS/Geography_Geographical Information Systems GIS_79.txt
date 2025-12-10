@@ -1,0 +1,4 @@
+{
+    "question": "What is a spatial pattern?",
+    "answer": "Distribution arrangement of features."
+}

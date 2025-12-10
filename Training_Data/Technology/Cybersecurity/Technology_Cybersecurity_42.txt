@@ -1,0 +1,4 @@
+{
+    "question": "What is a cyber threat actor?",
+    "answer": "Individual or group causing cyber attacks."
+}

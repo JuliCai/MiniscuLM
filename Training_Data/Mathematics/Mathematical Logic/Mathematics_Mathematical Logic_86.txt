@@ -1,0 +1,4 @@
+{
+    "question": "What is a substitution lemma?",
+    "answer": "Lemma about substitution preserving truth."
+}

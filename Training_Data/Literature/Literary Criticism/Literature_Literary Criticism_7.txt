@@ -1,0 +1,4 @@
+{
+    "question": "What is deconstruction in literary criticism?",
+    "answer": "Analyzing contradictions in texts."
+}

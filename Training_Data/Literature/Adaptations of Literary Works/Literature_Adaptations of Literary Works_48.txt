@@ -1,0 +1,4 @@
+{
+    "question": "What is a silent adaptation?",
+    "answer": "A film without dialogue based on a book."
+}

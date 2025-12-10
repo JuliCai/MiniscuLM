@@ -1,0 +1,4 @@
+{
+    "question": "Define supplementary angles.",
+    "answer": "Two angles summing to 180 degrees."
+}

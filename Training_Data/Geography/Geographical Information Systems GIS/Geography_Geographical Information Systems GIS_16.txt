@@ -1,0 +1,4 @@
+{
+    "question": "What is GPS's role in GIS?",
+    "answer": "Collecting accurate location data."
+}

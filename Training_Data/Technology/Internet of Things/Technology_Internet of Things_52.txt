@@ -1,0 +1,4 @@
+{
+    "question": "What is an IoT smart appliance?",
+    "answer": "Connected household device."
+}

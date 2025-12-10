@@ -1,0 +1,4 @@
+{
+    "question": "What is a time series data?",
+    "answer": "Data collected over time."
+}

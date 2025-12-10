@@ -1,0 +1,4 @@
+{
+    "question": "What year was 5G first deployed?",
+    "answer": "2019."
+}

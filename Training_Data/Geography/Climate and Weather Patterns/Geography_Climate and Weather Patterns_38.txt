@@ -1,0 +1,4 @@
+{
+    "question": "How do clouds form?",
+    "answer": "Water vapor condenses into droplets."
+}

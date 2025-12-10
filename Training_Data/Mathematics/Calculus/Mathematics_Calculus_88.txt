@@ -1,0 +1,4 @@
+{
+    "question": "Integral of 1/(x^2 - a^2) dx?",
+    "answer": "(1/(2a)) ln|(x - a)/(x + a)| + C"
+}

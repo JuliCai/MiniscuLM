@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud access security broker (CASB)?",
+    "answer": "Security policy enforcement point between cloud users and providers."
+}

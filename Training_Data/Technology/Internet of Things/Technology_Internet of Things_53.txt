@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT contribute to smart farming?",
+    "answer": "Monitors soil and crops."
+}

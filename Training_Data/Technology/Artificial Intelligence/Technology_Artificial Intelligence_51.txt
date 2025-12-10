@@ -1,0 +1,4 @@
+{
+    "question": "What is the singularity in AI?",
+    "answer": "Hypothetical point where AI surpasses humans."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT save energy?",
+    "answer": "Optimizes device usage automatically."
+}

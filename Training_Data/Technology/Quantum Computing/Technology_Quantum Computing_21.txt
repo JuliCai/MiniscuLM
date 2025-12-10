@@ -1,0 +1,4 @@
+{
+    "question": "What makes quantum computing powerful?",
+    "answer": "Parallelism from superposition and entanglement."
+}

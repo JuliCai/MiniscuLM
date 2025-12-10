@@ -1,0 +1,4 @@
+{
+    "question": "What is cyber defense?",
+    "answer": "Actions to protect against cyber threats."
+}

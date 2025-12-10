@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between 5G and LTE?",
+    "answer": "5G is faster with lower latency."
+}

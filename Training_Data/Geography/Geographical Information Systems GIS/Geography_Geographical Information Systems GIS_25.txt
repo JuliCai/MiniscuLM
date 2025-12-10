@@ -1,0 +1,4 @@
+{
+    "question": "What is remote sensing?",
+    "answer": "Collecting data from satellites or aircraft."
+}

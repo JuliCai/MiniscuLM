@@ -1,0 +1,4 @@
+{
+    "question": "Define a filter in topology.",
+    "answer": "Collection of sets closed under finite intersections and supersets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Are there wearable devices for sleep apnea?",
+    "answer": "Yes, for monitoring breathing patterns."
+}

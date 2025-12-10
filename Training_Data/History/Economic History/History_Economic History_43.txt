@@ -1,0 +1,4 @@
+{
+    "question": "What is a trade deficit?",
+    "answer": "When imports exceed exports."
+}

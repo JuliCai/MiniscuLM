@@ -1,0 +1,4 @@
+{
+    "question": "Which female scientist was known for her work on radioactivity?",
+    "answer": "Marie Curie"
+}

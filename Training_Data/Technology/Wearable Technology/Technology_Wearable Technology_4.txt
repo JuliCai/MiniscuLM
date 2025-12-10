@@ -1,0 +1,4 @@
+{
+    "question": "Can wearable tech monitor heart rate?",
+    "answer": "Yes, many devices include heart rate sensors."
+}

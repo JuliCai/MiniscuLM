@@ -1,0 +1,4 @@
+{
+    "question": "Name a resistance leader in Kenya.",
+    "answer": "Jomo Kenyatta."
+}

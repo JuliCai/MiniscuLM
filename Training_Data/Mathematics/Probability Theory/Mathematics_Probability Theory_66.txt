@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between probability and frequency?",
+    "answer": "Probability is theoretical; frequency is observed."
+}

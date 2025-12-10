@@ -1,0 +1,4 @@
+{
+    "question": "What is a GPS coordinate format?",
+    "answer": "Degrees, minutes, seconds or decimal."
+}

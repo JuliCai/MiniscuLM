@@ -1,0 +1,4 @@
+{
+    "question": "How does historical context affect narrative voice?",
+    "answer": "Voice reflects era's attitudes and language."
+}

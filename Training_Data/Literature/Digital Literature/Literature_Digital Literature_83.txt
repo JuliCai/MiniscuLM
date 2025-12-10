@@ -1,0 +1,4 @@
+{
+    "question": "What is digital poetics?",
+    "answer": "Study of poetry in digital media."
+}

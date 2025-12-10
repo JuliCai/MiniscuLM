@@ -1,0 +1,4 @@
+{
+    "question": "How is IoT used in environmental monitoring?",
+    "answer": "Tracks air and water quality."
+}

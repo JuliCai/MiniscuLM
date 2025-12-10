@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of cloud in wearables?",
+    "answer": "Data storage and analysis."
+}

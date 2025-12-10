@@ -1,0 +1,4 @@
+{
+    "question": "What does '\u00ac' represent in logic?",
+    "answer": "Negation operator."
+}

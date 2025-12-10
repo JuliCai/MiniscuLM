@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum compiler?",
+    "answer": "Software translating algorithms to quantum gates."
+}

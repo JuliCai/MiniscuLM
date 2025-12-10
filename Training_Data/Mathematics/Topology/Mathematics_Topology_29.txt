@@ -1,0 +1,4 @@
+{
+    "question": "What is a compact Hausdorff space?",
+    "answer": "Compact space that is also Hausdorff."
+}

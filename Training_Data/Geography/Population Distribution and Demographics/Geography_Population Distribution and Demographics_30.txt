@@ -1,0 +1,4 @@
+{
+    "question": "What causes population decline?",
+    "answer": "Low births, high deaths, emigration."
+}

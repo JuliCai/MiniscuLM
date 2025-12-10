@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first governor-general of India?",
+    "answer": "Warren Hastings."
+}

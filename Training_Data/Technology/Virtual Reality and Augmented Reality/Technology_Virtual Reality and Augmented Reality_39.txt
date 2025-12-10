@@ -1,0 +1,4 @@
+{
+    "question": "What is inside AR glasses?",
+    "answer": "Transparent displays and sensors."
+}

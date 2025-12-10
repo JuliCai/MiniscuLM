@@ -1,0 +1,4 @@
+{
+    "question": "What did the East India Company do?",
+    "answer": "Controlled trade and territories in India."
+}

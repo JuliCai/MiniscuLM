@@ -1,0 +1,4 @@
+{
+    "question": "What weather is typical in a tropical rainforest?",
+    "answer": "Hot and rainy year-round."
+}

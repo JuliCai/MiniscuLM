@@ -1,0 +1,4 @@
+{
+    "question": "How does IoT use GPS?",
+    "answer": "For location tracking."
+}

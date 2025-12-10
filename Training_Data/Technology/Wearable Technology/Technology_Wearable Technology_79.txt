@@ -1,0 +1,4 @@
+{
+    "question": "Do wearables support music playback?",
+    "answer": "Many support music control or playback."
+}

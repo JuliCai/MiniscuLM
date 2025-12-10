@@ -1,0 +1,4 @@
+{
+    "question": "Can wearable tech connect to the internet?",
+    "answer": "Yes, via smartphones or Wi-Fi."
+}

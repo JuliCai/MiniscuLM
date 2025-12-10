@@ -1,0 +1,4 @@
+{
+    "question": "Define semantics in logic.",
+    "answer": "Meaning or truth of formulas."
+}

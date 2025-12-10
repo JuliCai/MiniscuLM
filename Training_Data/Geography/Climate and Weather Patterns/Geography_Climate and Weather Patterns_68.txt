@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of ocean currents?",
+    "answer": "Wind and Earth's rotation."
+}

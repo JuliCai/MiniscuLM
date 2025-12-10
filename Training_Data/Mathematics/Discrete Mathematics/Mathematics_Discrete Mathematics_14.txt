@@ -1,0 +1,4 @@
+{
+    "question": "Define combinations.",
+    "answer": "Selection of objects without order."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do authors avoid anachronisms?",
+    "answer": "Through careful research and fact-checking."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G contribute to smart manufacturing?",
+    "answer": "Enables connected machines."
+}

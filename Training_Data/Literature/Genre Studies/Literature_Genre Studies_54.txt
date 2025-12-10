@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'slice of life.'",
+    "answer": "Portrays everyday experiences realistically."
+}

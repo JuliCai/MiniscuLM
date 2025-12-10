@@ -1,0 +1,4 @@
+{
+    "question": "What is malware?",
+    "answer": "Malicious software designed to harm devices."
+}

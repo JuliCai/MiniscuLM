@@ -1,0 +1,4 @@
+{
+    "question": "What is an \u2018authorized adaptation\u2019?",
+    "answer": "Approved by original author or estate."
+}

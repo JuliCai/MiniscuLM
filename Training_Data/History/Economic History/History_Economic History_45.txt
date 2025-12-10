@@ -1,0 +1,4 @@
+{
+    "question": "What caused the Long Depression in the 19th century?",
+    "answer": "Overproduction and financial crises."
+}

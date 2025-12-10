@@ -1,0 +1,4 @@
+{
+    "question": "Which empire ruled most of South Asia?",
+    "answer": "British Empire."
+}

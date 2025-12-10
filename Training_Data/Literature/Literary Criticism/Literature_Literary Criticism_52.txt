@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of queer theory?",
+    "answer": "Challenges norms of sexuality."
+}

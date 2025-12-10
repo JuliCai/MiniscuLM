@@ -1,0 +1,4 @@
+{
+    "question": "What is an interpretation function?",
+    "answer": "Assigns meanings to symbols."
+}

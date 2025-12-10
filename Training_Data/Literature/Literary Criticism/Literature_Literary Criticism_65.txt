@@ -1,0 +1,4 @@
+{
+    "question": "What is the main focus of cultural materialism?",
+    "answer": "Material conditions influencing culture."
+}

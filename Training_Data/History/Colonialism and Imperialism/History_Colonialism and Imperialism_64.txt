@@ -1,0 +1,4 @@
+{
+    "question": "What was the Great Trek?",
+    "answer": "Migration of Boers inland from Cape Colony."
+}

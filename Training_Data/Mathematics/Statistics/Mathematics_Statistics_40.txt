@@ -1,0 +1,4 @@
+{
+    "question": "Define likelihood function.",
+    "answer": "Probability of data given parameters."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is map scale expressed as?",
+    "answer": "Ratio or bar scale."
+}

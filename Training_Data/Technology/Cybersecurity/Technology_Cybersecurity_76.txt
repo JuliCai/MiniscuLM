@@ -1,0 +1,4 @@
+{
+    "question": "What is a cryptojacking attack?",
+    "answer": "Unauthorized use of devices for mining cryptocurrency."
+}

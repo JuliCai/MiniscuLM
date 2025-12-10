@@ -1,0 +1,4 @@
+{
+    "question": "What is the general solution?",
+    "answer": "All possible solutions including constants."
+}

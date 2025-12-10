@@ -1,0 +1,4 @@
+{
+    "question": "What is a cyberattack?",
+    "answer": "Attempt to damage or access systems illegally."
+}

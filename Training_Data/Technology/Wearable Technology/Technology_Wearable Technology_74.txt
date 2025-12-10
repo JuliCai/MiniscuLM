@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of NFC in wearables?",
+    "answer": "Contactless payments and data transfer."
+}

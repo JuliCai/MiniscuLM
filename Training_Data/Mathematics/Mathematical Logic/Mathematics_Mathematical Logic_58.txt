@@ -1,0 +1,4 @@
+{
+    "question": "What is a well-formed formula (wff)?",
+    "answer": "Formula built according to syntax rules."
+}

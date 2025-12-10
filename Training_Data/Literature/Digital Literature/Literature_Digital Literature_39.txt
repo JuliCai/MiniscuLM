@@ -1,0 +1,4 @@
+{
+    "question": "Is digital literature popular among youth?",
+    "answer": "Yes, especially interactive and multimedia formats."
+}

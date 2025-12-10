@@ -1,0 +1,4 @@
+{
+    "question": "What is the main focus of Eco-criticism?",
+    "answer": "Literature and environment."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an oracle in blockchain?",
+    "answer": "Service providing external data to contracts."
+}

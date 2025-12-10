@@ -1,0 +1,4 @@
+{
+    "question": "What is the greatest common divisor of 24 and 36?",
+    "answer": "12"
+}

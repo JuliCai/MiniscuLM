@@ -1,0 +1,4 @@
+{
+    "question": "What is two-step verification?",
+    "answer": "Another term for two-factor authentication."
+}

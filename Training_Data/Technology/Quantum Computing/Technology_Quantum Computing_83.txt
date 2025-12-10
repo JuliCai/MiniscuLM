@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantum algorithm?",
+    "answer": "Algorithm leveraging quantum principles for computation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the modular result of 25 mod 4?",
+    "answer": "1"
+}

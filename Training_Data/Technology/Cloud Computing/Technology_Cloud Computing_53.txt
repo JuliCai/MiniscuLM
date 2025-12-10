@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud elasticity.",
+    "answer": "Ability to allocate and deallocate resources automatically."
+}

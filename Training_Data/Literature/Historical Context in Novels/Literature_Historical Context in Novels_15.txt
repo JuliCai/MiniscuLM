@@ -1,0 +1,4 @@
+{
+    "question": "What\u2019s the difference between setting and historical context?",
+    "answer": "Setting is place/time; context includes social conditions."
+}

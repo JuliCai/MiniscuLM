@@ -1,0 +1,4 @@
+{
+    "question": "What is a semiarid climate?",
+    "answer": "Low rainfall but not a desert."
+}

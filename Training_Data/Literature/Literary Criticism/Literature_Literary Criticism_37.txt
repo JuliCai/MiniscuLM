@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between plot and story?",
+    "answer": "Plot is event arrangement; story is content."
+}

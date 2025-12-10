@@ -1,0 +1,4 @@
+{
+    "question": "What is cyber risk management?",
+    "answer": "Identifying and mitigating cyber threats."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define effect size.",
+    "answer": "Magnitude of difference or association."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can digital literature be collaborative?",
+    "answer": "Yes, many projects involve teamwork."
+}

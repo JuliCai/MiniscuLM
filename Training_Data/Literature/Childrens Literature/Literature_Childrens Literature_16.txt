@@ -1,0 +1,4 @@
+{
+    "question": "In 'Charlotte's Web', what kind of animal is Charlotte?",
+    "answer": "A spider"
+}

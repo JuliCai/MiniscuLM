@@ -1,0 +1,4 @@
+{
+    "question": "What is the next prime after 97?",
+    "answer": "101"
+}

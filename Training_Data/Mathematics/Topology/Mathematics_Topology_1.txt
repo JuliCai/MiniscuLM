@@ -1,0 +1,4 @@
+{
+    "question": "Define open set in topology.",
+    "answer": "A set that belongs to the topology."
+}

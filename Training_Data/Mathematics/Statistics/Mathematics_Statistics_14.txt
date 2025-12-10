@@ -1,0 +1,4 @@
+{
+    "question": "What is correlation coefficient?",
+    "answer": "Measures linear relationship strength."
+}

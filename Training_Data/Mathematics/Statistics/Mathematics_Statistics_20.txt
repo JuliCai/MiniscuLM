@@ -1,0 +1,4 @@
+{
+    "question": "What is type II error?",
+    "answer": "False negative result."
+}

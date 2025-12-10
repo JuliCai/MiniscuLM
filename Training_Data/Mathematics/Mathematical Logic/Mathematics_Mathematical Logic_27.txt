@@ -1,0 +1,4 @@
+{
+    "question": "What is a Hilbert system?",
+    "answer": "A type of axiomatic proof system."
+}

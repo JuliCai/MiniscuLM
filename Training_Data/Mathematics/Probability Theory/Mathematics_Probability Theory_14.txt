@@ -1,0 +1,4 @@
+{
+    "question": "Explain the law of total probability.",
+    "answer": "Sum of probabilities over partitioned events."
+}

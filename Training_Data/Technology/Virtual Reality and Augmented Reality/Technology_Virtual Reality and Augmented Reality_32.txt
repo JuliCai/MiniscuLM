@@ -1,0 +1,4 @@
+{
+    "question": "What is stereoscopic vision in VR?",
+    "answer": "3D depth perception via two images."
+}

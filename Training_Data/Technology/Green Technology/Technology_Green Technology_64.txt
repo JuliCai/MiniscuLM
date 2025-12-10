@@ -1,0 +1,4 @@
+{
+    "question": "Name a technology that reduces industrial emissions.",
+    "answer": "Scrubbers."
+}

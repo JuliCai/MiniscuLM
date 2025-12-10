@@ -1,0 +1,4 @@
+{
+    "question": "What is a random sample?",
+    "answer": "Sample chosen randomly."
+}

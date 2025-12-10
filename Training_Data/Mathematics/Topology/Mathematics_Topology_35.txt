@@ -1,0 +1,4 @@
+{
+    "question": "What is a convergent sequence?",
+    "answer": "Sequence converges if limit exists in topology."
+}

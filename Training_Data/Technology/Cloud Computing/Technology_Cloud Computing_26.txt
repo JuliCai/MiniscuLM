@@ -1,0 +1,4 @@
+{
+    "question": "What is a cloud service model?",
+    "answer": "IaaS, PaaS, or SaaS."
+}

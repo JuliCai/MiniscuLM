@@ -1,0 +1,4 @@
+{
+    "question": "How does 5G improve video streaming?",
+    "answer": "Higher quality and less buffering."
+}

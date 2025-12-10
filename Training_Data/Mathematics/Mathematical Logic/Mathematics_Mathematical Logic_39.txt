@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a truth table?",
+    "answer": "To evaluate logical expressions."
+}

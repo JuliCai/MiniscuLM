@@ -1,0 +1,4 @@
+{
+    "question": "What did the Spanish encomienda system do?",
+    "answer": "Forced labor of natives."
+}

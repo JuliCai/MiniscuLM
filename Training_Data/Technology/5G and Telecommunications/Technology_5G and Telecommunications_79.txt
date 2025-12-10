@@ -1,0 +1,4 @@
+{
+    "question": "Is 5G available globally?",
+    "answer": "Available in many countries."
+}

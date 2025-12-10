@@ -1,0 +1,4 @@
+{
+    "question": "How does GIS aid in water resource management?",
+    "answer": "Mapping watersheds and water quality."
+}

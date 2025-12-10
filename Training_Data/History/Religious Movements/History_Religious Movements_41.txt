@@ -1,0 +1,4 @@
+{
+    "question": "What is the main concept of Zoroastrianism?",
+    "answer": "Good vs. evil."
+}

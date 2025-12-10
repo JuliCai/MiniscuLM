@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for the volume of a pyramid?",
+    "answer": "(1/3) \u00d7 base area \u00d7 height."
+}
