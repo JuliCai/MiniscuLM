@@ -1,0 +1,4 @@
+{
+    "question": "What is a stencil in street art?",
+    "answer": "A cut-out template for painting shapes."
+}

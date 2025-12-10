@@ -1,0 +1,4 @@
+{
+    "question": "What is a song's hook?",
+    "answer": "Catchy part that grabs attention."
+}

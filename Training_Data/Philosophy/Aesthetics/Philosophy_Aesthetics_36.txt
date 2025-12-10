@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic pluralism'?",
+    "answer": "Multiple forms of beauty coexist."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is HDR photography?",
+    "answer": "Combining exposures for detail."
+}

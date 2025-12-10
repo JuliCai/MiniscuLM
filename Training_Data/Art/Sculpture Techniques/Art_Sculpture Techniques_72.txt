@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of polishing stone?",
+    "answer": "To smooth and shine."
+}

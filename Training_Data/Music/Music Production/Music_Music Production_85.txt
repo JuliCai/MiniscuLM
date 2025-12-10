@@ -1,0 +1,4 @@
+{
+    "question": "What is a limiter ceiling?",
+    "answer": "Maximum output level allowed."
+}

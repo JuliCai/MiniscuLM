@@ -1,0 +1,4 @@
+{
+    "question": "How do cities regulate street art?",
+    "answer": "Permits and designated areas."
+}

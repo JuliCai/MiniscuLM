@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between direct and representative democracy?",
+    "answer": "Direct is by people; representative via elected."
+}

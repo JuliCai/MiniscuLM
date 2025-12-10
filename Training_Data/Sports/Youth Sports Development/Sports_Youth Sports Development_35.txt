@@ -1,0 +1,4 @@
+{
+    "question": "How does youth sports develop time management?",
+    "answer": "Balancing school and practice."
+}

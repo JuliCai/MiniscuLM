@@ -1,0 +1,4 @@
+{
+    "question": "What is the definition of knowledge according to Plato?",
+    "answer": "Justified true belief."
+}

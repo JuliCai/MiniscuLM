@@ -1,0 +1,4 @@
+{
+    "question": "What is a free kick?",
+    "answer": "Uncontested kick in soccer."
+}

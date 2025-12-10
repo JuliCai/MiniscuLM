@@ -1,0 +1,4 @@
+{
+    "question": "What is 'sensation' in aesthetics?",
+    "answer": "Immediate sensory response."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which movement uses collage techniques?",
+    "answer": "Cubism."
+}

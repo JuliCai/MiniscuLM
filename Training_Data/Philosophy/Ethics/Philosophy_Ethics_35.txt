@@ -1,0 +1,4 @@
+{
+    "question": "What is moral intuitionism?",
+    "answer": "Morals known through intuitive awareness."
+}

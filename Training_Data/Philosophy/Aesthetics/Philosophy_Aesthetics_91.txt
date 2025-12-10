@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic norm'?",
+    "answer": "Standards for beauty."
+}

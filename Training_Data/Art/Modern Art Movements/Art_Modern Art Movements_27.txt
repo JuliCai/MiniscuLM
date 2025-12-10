@@ -1,0 +1,4 @@
+{
+    "question": "What does Dadaism challenge?",
+    "answer": "Traditional art values."
+}

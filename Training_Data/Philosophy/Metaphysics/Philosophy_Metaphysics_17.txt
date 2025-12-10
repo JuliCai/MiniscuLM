@@ -1,0 +1,4 @@
+{
+    "question": "What is determinism?",
+    "answer": "Every event is caused by prior events."
+}

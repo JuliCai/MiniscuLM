@@ -1,0 +1,4 @@
+{
+    "question": "What is 'the picturesque'?",
+    "answer": "Aesthetic ideal of charming scenery."
+}

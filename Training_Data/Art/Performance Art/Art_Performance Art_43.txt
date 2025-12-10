@@ -1,0 +1,4 @@
+{
+    "question": "Is performance art part of contemporary art?",
+    "answer": "Yes, often contemporary."
+}

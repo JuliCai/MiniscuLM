@@ -1,0 +1,4 @@
+{
+    "question": "What gear is essential for ice skating?",
+    "answer": "Ice skates."
+}

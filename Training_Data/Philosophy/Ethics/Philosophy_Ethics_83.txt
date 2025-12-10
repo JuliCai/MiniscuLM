@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and culture?",
+    "answer": "Ethics is universal; culture is group-specific."
+}

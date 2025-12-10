@@ -1,0 +1,4 @@
+{
+    "question": "What is moral objectivism?",
+    "answer": "Some moral truths are independent of beliefs."
+}

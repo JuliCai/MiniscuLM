@@ -1,0 +1,4 @@
+{
+    "question": "Why is perspective important in photos?",
+    "answer": "Creates depth and interest."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a frontier?",
+    "answer": "Zone between states or regions."
+}

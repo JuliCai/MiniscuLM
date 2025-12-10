@@ -1,0 +1,4 @@
+{
+    "question": "What is a penalty box?",
+    "answer": "Area for penalized players."
+}

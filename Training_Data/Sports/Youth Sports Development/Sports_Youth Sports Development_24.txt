@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports improve academic performance?",
+    "answer": "Better focus and time management."
+}

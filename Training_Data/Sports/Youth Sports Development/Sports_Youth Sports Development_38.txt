@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of community in youth sports?",
+    "answer": "Provides support and resources."
+}

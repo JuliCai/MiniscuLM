@@ -1,0 +1,4 @@
+{
+    "question": "Define a perfect fifth interval.",
+    "answer": "Seven semitones apart."
+}

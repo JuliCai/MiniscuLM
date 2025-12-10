@@ -1,0 +1,4 @@
+{
+    "question": "Name one sport in the Winter Olympics.",
+    "answer": "Ice hockey"
+}

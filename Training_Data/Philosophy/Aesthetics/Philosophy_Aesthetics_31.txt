@@ -1,0 +1,4 @@
+{
+    "question": "What does 'beauty standards' refer to?",
+    "answer": "Cultural norms of attractiveness."
+}

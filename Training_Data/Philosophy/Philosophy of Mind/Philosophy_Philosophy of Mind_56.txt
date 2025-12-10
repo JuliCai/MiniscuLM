@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of language in thought?",
+    "answer": "Language shapes or expresses thoughts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define metaphysical nihilism.",
+    "answer": "Possibility that nothing exists."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art smudge brush?",
+    "answer": "Tool blending pixels."
+}

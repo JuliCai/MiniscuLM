@@ -1,0 +1,4 @@
+{
+    "question": "What is Aboriginal dot painting?",
+    "answer": "Indigenous Australian art with dots."
+}

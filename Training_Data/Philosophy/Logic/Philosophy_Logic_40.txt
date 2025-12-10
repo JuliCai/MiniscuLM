@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical constant?",
+    "answer": "Symbols whose meaning never changes."
+}

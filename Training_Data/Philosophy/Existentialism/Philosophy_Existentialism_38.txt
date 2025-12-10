@@ -1,0 +1,4 @@
+{
+    "question": "What is 'being-in-itself'?",
+    "answer": "Objects without consciousness."
+}

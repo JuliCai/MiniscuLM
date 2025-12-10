@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between 8-bit and 16-bit color?",
+    "answer": "Color depth difference."
+}

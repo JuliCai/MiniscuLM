@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical atom?",
+    "answer": "An indivisible proposition in logic."
+}

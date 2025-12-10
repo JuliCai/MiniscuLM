@@ -1,0 +1,4 @@
+{
+    "question": "What is a sharp note?",
+    "answer": "Note raised by one semitone."
+}

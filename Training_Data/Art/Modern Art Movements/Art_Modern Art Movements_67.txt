@@ -1,0 +1,4 @@
+{
+    "question": "Who was a pioneer of Abstract art?",
+    "answer": "Wassily Kandinsky."
+}

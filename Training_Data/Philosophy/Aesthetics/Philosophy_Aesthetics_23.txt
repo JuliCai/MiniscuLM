@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' in aesthetics?",
+    "answer": "Pleasant or meaningful qualities."
+}

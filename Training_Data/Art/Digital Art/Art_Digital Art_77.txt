@@ -1,0 +1,4 @@
+{
+    "question": "What is digital art pixelation?",
+    "answer": "Visible pixels in image."
+}

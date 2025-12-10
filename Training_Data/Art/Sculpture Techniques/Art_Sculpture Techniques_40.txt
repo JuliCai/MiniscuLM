@@ -1,0 +1,4 @@
+{
+    "question": "What is a common finish for stone sculptures?",
+    "answer": "Polishing."
+}

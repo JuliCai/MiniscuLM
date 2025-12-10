@@ -1,0 +1,4 @@
+{
+    "question": "What is a common instrument in Chinese traditional music?",
+    "answer": "The erhu is a traditional Chinese instrument."
+}

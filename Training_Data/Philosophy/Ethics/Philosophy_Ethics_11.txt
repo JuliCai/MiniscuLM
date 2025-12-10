@@ -1,0 +1,4 @@
+{
+    "question": "Explain natural law theory.",
+    "answer": "Morality based on human nature and reason."
+}

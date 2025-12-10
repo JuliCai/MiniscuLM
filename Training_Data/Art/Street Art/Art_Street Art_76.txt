@@ -1,0 +1,4 @@
+{
+    "question": "What is a legal graffiti wall?",
+    "answer": "A wall for permitted graffiti."
+}

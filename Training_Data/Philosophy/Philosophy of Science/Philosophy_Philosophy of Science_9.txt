@@ -1,0 +1,4 @@
+{
+    "question": "Define instrumentalism in philosophy of science.",
+    "answer": "Theories are tools for prediction, not truth claims."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Poland?",
+    "answer": "PLK (Polska Liga Koszyk\u00f3wki)."
+}

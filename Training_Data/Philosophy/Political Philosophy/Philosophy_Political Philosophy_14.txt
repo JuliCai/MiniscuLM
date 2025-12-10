@@ -1,0 +1,4 @@
+{
+    "question": "Define democracy.",
+    "answer": "Government by the people, typically majority."
+}

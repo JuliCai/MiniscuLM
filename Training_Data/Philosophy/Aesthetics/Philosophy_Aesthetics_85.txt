@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' in contemporary aesthetics?",
+    "answer": "Diverse and context-dependent."
+}

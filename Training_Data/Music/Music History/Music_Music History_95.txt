@@ -1,0 +1,4 @@
+{
+    "question": "Who is known as the 'King of Ragtime'?",
+    "answer": "Scott Joplin."
+}

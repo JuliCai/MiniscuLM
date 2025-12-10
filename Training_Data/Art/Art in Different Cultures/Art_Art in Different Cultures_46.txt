@@ -1,0 +1,4 @@
+{
+    "question": "What art form is prominent in the Day of the Dead?",
+    "answer": "Sugar skulls and altars."
+}

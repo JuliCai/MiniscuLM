@@ -1,0 +1,4 @@
+{
+    "question": "When was the first World Cup held?",
+    "answer": "1930."
+}

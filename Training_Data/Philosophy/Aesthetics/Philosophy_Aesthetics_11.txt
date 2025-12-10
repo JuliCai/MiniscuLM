@@ -1,0 +1,4 @@
+{
+    "question": "What is 'formalism' in aesthetics?",
+    "answer": "Focus on form over content."
+}

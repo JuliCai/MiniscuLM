@@ -1,0 +1,4 @@
+{
+    "question": "Describe the essence of Fauvism.",
+    "answer": "Wild brushwork and color."
+}

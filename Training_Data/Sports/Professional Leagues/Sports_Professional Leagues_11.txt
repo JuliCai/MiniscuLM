@@ -1,0 +1,4 @@
+{
+    "question": "Which sport does La Liga represent?",
+    "answer": "Soccer (Football)."
+}

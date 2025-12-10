@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is associated with the art of glass mosaics?",
+    "answer": "Byzantine culture."
+}

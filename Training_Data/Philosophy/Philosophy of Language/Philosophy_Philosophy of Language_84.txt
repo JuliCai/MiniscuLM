@@ -1,0 +1,4 @@
+{
+    "question": "What is 'contextualism' in language?",
+    "answer": "Meaning depends on context."
+}

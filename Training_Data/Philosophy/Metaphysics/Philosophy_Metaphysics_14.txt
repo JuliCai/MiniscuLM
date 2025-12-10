@@ -1,0 +1,4 @@
+{
+    "question": "Explain metaphysical nominalism.",
+    "answer": "Universals are names, not real entities."
+}

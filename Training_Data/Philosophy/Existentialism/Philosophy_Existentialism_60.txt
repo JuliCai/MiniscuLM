@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism view society?",
+    "answer": "Often as oppressive or alienating."
+}

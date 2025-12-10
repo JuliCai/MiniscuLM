@@ -1,0 +1,4 @@
+{
+    "question": "What culture is associated with totem poles?",
+    "answer": "Pacific Northwest Native Americans."
+}

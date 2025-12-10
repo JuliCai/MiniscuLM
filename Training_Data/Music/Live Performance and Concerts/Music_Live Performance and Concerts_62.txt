@@ -1,0 +1,4 @@
+{
+    "question": "What does 'sold-out show' mean?",
+    "answer": "No tickets left."
+}

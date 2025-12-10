@@ -1,0 +1,4 @@
+{
+    "question": "Who created the sculpture The Thinker?",
+    "answer": "Auguste Rodin."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a climatic barrier?",
+    "answer": "Climate preventing species spread."
+}

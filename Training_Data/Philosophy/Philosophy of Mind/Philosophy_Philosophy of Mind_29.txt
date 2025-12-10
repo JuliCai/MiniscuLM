@@ -1,0 +1,4 @@
+{
+    "question": "What is the extended mind thesis?",
+    "answer": "Mind extends beyond the brain."
+}

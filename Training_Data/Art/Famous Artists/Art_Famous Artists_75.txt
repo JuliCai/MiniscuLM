@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is known for the painting The Son of Man?",
+    "answer": "Ren\u00e9 Magritte."
+}

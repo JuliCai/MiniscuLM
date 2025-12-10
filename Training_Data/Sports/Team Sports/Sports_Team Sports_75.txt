@@ -1,0 +1,4 @@
+{
+    "question": "Which sport has 'free agency'?",
+    "answer": "Common in team sports."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'realism' in art depict?",
+    "answer": "Everyday life accurately."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional Japanese musical instrument.",
+    "answer": "The shamisen is a traditional Japanese instrument."
+}

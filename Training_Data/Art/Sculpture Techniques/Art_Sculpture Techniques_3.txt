@@ -1,0 +1,4 @@
+{
+    "question": "Explain the lost-wax casting technique.",
+    "answer": "Wax model replaced by molten metal."
+}

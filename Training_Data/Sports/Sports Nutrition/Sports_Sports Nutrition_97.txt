@@ -1,0 +1,4 @@
+{
+    "question": "What is glycogen supercompensation?",
+    "answer": "Increased glycogen storage"
+}

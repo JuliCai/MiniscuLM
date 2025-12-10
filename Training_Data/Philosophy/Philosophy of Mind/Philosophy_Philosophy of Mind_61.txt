@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between consciousness and self-consciousness?",
+    "answer": "Self-consciousness is awareness of self."
+}

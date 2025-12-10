@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Lithuania?",
+    "answer": "LKL (Lithuanian Basketball League)."
+}

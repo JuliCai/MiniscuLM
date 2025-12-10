@@ -1,0 +1,4 @@
+{
+    "question": "Who said 'Man is condemned to be free'?",
+    "answer": "Jean-Paul Sartre."
+}

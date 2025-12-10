@@ -1,0 +1,4 @@
+{
+    "question": "What is a penalty corner in hockey?",
+    "answer": "Set play after foul."
+}

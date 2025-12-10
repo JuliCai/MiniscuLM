@@ -1,0 +1,4 @@
+{
+    "question": "Who is Joseph Beuys?",
+    "answer": "A key performance artist."
+}

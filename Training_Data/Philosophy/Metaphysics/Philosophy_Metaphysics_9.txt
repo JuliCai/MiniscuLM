@@ -1,0 +1,4 @@
+{
+    "question": "What is idealism?",
+    "answer": "Reality is fundamentally mental or spiritual."
+}

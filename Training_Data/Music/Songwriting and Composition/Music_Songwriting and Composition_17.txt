@@ -1,0 +1,4 @@
+{
+    "question": "How to start songwriting?",
+    "answer": "Find inspiration or a chord progression."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do photographers convey emotions?",
+    "answer": "Through subject, lighting, and composition."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is often associated with the 1960s counterculture?",
+    "answer": "Psychedelic Rock"
+}

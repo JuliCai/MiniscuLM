@@ -1,0 +1,4 @@
+{
+    "question": "Who is Jean-Jacques Rousseau?",
+    "answer": "Philosopher of social contract and freedom."
+}

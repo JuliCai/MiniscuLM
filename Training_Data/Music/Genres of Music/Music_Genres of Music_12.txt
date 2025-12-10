@@ -1,0 +1,4 @@
+{
+    "question": "Which genre emphasizes storytelling in lyrics?",
+    "answer": "Folk"
+}

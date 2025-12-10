@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between correlation and causation?",
+    "answer": "Correlation is association; causation implies cause-effect."
+}

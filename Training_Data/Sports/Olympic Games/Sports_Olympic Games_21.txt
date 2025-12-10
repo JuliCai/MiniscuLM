@@ -1,0 +1,4 @@
+{
+    "question": "Name a sport introduced in 2016 Olympics.",
+    "answer": "Golf"
+}

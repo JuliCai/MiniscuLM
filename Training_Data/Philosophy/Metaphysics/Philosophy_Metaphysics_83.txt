@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical necessity?",
+    "answer": "What must exist."
+}

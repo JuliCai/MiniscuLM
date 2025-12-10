@@ -1,0 +1,4 @@
+{
+    "question": "Define plural democracy.",
+    "answer": "Democracy with multiple political parties."
+}

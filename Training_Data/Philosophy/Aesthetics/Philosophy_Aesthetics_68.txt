@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic judgment' according to Kant?",
+    "answer": "Universal but subjective pleasure."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument produces sound by vibrating strings?",
+    "answer": "The guitar produces sound by vibrating strings."
+}

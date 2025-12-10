@@ -1,0 +1,4 @@
+{
+    "question": "What is political philosophy?",
+    "answer": "Study of government, politics, and justice."
+}

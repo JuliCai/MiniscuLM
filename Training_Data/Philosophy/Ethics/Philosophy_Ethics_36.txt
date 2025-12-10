@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between justice and fairness?",
+    "answer": "Justice is legal; fairness is moral equality."
+}

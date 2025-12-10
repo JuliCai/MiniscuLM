@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical perspective'?",
+    "answer": "Viewpoint used in critique."
+}

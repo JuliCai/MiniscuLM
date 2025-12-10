@@ -1,0 +1,4 @@
+{
+    "question": "What does Chinese brush painting emphasize?",
+    "answer": "Nature and simplicity."
+}

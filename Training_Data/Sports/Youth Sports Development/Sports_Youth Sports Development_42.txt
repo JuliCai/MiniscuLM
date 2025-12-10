@@ -1,0 +1,4 @@
+{
+    "question": "What is a key attribute in youth sports leadership?",
+    "answer": "Communication."
+}

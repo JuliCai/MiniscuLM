@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival food vendor?",
+    "answer": "Seller of meals at event."
+}

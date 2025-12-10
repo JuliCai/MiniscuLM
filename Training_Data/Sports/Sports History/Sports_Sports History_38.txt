@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female Olympic figure skating champion?",
+    "answer": "Madge Syers, 1908."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What instrument is large and part of a string family?",
+    "answer": "The double bass is large in strings."
+}

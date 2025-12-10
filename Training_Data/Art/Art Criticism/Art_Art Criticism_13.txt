@@ -1,0 +1,4 @@
+{
+    "question": "What is 'Marxist art criticism'?",
+    "answer": "Art viewed through class struggle."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first male swimmer to win 3 Olympic golds?",
+    "answer": "Johnny Weissmuller."
+}

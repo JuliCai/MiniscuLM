@@ -1,0 +1,4 @@
+{
+    "question": "What does 'quotation' imply in language?",
+    "answer": "Citing exact words."
+}

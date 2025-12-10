@@ -1,0 +1,4 @@
+{
+    "question": "Can performance art critique society?",
+    "answer": "Yes, often does."
+}

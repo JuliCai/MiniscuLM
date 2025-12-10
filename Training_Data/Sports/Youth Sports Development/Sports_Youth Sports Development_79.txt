@@ -1,0 +1,4 @@
+{
+    "question": "What is a typical youth sports team size?",
+    "answer": "10-15 players."
+}

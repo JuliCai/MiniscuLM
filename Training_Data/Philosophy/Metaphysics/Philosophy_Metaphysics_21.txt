@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between appearance and reality?",
+    "answer": "Phenomena vs. true nature."
+}

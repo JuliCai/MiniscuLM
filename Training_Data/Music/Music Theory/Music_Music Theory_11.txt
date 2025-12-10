@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'syncopation'.",
+    "answer": "Emphasis on off-beats."
+}

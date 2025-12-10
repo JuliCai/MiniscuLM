@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of armature?",
+    "answer": "Support framework for sculptures."
+}

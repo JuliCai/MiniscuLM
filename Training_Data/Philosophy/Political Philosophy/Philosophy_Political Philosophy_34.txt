@@ -1,0 +1,4 @@
+{
+    "question": "Define political ideology.",
+    "answer": "Set of beliefs about politics and society."
+}

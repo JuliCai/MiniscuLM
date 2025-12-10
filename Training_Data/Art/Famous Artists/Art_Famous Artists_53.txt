@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist who painted Self-Portrait with Thorn Necklace.",
+    "answer": "Frida Kahlo."
+}

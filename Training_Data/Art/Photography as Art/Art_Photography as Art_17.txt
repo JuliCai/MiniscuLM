@@ -1,0 +1,4 @@
+{
+    "question": "How does color impact photographic art?",
+    "answer": "Sets tone and evokes feelings."
+}

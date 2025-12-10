@@ -1,0 +1,4 @@
+{
+    "question": "What is a bombing run?",
+    "answer": "Covering multiple spots quickly."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define modeling in sculpture.",
+    "answer": "Shaping pliable material by hand or tools."
+}

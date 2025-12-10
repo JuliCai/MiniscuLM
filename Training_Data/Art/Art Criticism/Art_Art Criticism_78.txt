@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic narrative examples'?",
+    "answer": "Historical scenes."
+}

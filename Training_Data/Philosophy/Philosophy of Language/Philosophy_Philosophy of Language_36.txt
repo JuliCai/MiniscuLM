@@ -1,0 +1,4 @@
+{
+    "question": "Define 'propositional attitude'.",
+    "answer": "Mental state towards a proposition."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Last Supper?",
+    "answer": "Leonardo da Vinci."
+}

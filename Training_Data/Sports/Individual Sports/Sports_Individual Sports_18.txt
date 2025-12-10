@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport that involves weight lifting competitively.",
+    "answer": "Weightlifting."
+}

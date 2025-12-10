@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic distance'?",
+    "answer": "Emotional detachment during art experience."
+}

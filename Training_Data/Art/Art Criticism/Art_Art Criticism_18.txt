@@ -1,0 +1,4 @@
+{
+    "question": "Name a method of art criticism.",
+    "answer": "Psychoanalytic criticism."
+}

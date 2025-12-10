@@ -1,0 +1,4 @@
+{
+    "question": "What is political alienation?",
+    "answer": "Feeling disconnected from political process."
+}

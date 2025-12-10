@@ -1,0 +1,4 @@
+{
+    "question": "What is a tidal bore?",
+    "answer": "A wave caused by incoming tide."
+}

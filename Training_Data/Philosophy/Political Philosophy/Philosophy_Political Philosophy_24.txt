@@ -1,0 +1,4 @@
+{
+    "question": "Explain the concept of rights.",
+    "answer": "Entitlements or permissions in society."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the most medals in 2018 Winter Olympics?",
+    "answer": "Norway"
+}

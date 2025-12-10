@@ -1,0 +1,4 @@
+{
+    "question": "What is the placebo effect in sports?",
+    "answer": "Performance improvement due to belief in treatment."
+}

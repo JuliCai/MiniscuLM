@@ -1,0 +1,4 @@
+{
+    "question": "What is linguistic determinism?",
+    "answer": "Language determines thought."
+}

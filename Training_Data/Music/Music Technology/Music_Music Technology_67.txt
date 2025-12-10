@@ -1,0 +1,4 @@
+{
+    "question": "What is MIDI note on message?",
+    "answer": "Signal to start playing a note."
+}

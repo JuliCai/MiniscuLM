@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous performance artist.",
+    "answer": "Marina Abramovi\u0107."
+}

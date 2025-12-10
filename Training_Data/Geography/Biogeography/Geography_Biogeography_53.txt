@@ -1,0 +1,4 @@
+{
+    "question": "What is biotic factor?",
+    "answer": "Living components affecting species."
+}

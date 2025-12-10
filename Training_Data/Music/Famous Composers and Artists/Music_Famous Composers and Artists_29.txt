@@ -1,0 +1,4 @@
+{
+    "question": "Who composed the opera La Traviata?",
+    "answer": "Giuseppe Verdi."
+}

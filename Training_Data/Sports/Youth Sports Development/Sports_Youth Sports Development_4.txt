@@ -1,0 +1,4 @@
+{
+    "question": "What age group is considered youth in sports?",
+    "answer": "Typically under 18 years old."
+}

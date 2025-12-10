@@ -1,0 +1,4 @@
+{
+    "question": "In which sport is the decathlon contested?",
+    "answer": "Athletics"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'being-for-itself' mean?",
+    "answer": "Conscious beings aware of their existence."
+}

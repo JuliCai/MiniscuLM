@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical significance of space?",
+    "answer": "Where objects exist."
+}

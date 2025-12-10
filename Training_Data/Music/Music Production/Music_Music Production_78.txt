@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain compressor used for?",
+    "answer": "Create pumping effect in mix."
+}

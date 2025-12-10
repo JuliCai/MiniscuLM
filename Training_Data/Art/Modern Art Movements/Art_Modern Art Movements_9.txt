@@ -1,0 +1,4 @@
+{
+    "question": "Name an artist from the Dada movement.",
+    "answer": "Marcel Duchamp."
+}

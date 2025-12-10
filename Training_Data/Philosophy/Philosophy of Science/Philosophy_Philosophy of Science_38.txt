@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between qualitative and quantitative data?",
+    "answer": "Qualitative describes qualities; quantitative measures quantities."
+}

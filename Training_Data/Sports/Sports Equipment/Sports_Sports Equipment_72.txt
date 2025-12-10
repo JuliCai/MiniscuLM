@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear used for horseback riding.",
+    "answer": "Saddle and helmet."
+}

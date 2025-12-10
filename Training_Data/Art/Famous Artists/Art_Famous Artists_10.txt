@@ -1,0 +1,4 @@
+{
+    "question": "Who is known for the Blue Period?",
+    "answer": "Pablo Picasso."
+}

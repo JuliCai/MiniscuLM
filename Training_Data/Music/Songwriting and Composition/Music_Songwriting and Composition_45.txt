@@ -1,0 +1,4 @@
+{
+    "question": "Why are metaphors used in lyrics?",
+    "answer": "To add depth and imagery."
+}

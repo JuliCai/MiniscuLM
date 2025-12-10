@@ -1,0 +1,4 @@
+{
+    "question": "What protects the head in cycling?",
+    "answer": "Helmet."
+}

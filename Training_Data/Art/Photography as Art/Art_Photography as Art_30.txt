@@ -1,0 +1,4 @@
+{
+    "question": "How do shadows contribute to art photos?",
+    "answer": "Add depth and mystery."
+}

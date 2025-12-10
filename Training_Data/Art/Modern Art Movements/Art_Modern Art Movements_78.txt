@@ -1,0 +1,4 @@
+{
+    "question": "What defines Neo-Expressionism?",
+    "answer": "Intense subjectivity."
+}

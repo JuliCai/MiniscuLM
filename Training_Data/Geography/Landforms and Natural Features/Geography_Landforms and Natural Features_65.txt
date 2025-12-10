@@ -1,0 +1,4 @@
+{
+    "question": "What is a promontory?",
+    "answer": "A high point of land projecting."
+}

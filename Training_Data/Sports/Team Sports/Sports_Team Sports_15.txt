@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a bat and ball?",
+    "answer": "Baseball and cricket use bat."
+}

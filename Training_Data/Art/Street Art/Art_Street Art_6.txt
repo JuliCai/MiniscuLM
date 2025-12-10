@@ -1,0 +1,4 @@
+{
+    "question": "Can street art be illegal?",
+    "answer": "Yes, without permission it is illegal."
+}

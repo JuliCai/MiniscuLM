@@ -1,0 +1,4 @@
+{
+    "question": "What is 'the Other' in existentialism?",
+    "answer": "Others influence our self-awareness."
+}

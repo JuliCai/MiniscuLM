@@ -1,0 +1,4 @@
+{
+    "question": "What is a plugin wrapper?",
+    "answer": "Software hosting plugins inside DAWs."
+}

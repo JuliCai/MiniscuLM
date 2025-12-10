@@ -1,0 +1,4 @@
+{
+    "question": "Describe the style of Dutch Golden Age paintings.",
+    "answer": "Realistic and detailed."
+}

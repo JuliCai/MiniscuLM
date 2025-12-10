@@ -1,0 +1,4 @@
+{
+    "question": "Name a percussion instrument that is struck by hands.",
+    "answer": "The conga is struck by hands."
+}

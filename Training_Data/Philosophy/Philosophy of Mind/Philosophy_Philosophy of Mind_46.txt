@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of supervenience?",
+    "answer": "Mental depends on physical properties."
+}

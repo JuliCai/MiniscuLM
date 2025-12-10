@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of imagery in injury rehab?",
+    "answer": "Maintains skills and motivation during recovery."
+}

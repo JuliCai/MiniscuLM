@@ -1,0 +1,4 @@
+{
+    "question": "What is an instrumental break?",
+    "answer": "A music-only section in a song."
+}

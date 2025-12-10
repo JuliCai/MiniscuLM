@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic normativity'?",
+    "answer": "Rules guiding aesthetic judgments."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the meaning of graffiti?",
+    "answer": "Writing or drawing on surfaces."
+}

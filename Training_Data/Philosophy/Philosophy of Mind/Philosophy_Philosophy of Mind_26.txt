@@ -1,0 +1,4 @@
+{
+    "question": "What is the distinction between access and phenomenal consciousness?",
+    "answer": "Access is reportable; phenomenal is experience."
+}

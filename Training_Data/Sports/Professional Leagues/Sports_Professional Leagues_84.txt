@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Hungary?",
+    "answer": "Nemzeti Bajnoks\u00e1g I/A."
+}

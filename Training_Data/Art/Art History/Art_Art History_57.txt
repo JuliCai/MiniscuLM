@@ -1,0 +1,4 @@
+{
+    "question": "What technique did Georges Seurat pioneer?",
+    "answer": "Pointillism."
+}

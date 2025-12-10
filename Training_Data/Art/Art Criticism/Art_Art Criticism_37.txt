@@ -1,0 +1,4 @@
+{
+    "question": "What is 'emotional response' to art?",
+    "answer": "Feelings evoked by artwork."
+}

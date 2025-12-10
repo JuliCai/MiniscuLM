@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic closure failure?",
+    "answer": "Knowledge doesn't transfer logically."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a tag and a piece?",
+    "answer": "Tag is simple signature; piece is complex."
+}

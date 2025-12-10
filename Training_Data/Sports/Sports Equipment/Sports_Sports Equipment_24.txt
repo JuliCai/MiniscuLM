@@ -1,0 +1,4 @@
+{
+    "question": "Which gear is used in rock climbing?",
+    "answer": "Harness and ropes."
+}

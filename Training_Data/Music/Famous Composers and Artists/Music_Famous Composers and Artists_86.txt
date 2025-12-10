@@ -1,0 +1,4 @@
+{
+    "question": "Who painted American Gothic?",
+    "answer": "Grant Wood."
+}

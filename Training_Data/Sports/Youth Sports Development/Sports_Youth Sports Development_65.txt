@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports support mental toughness?",
+    "answer": "Through challenges and competition."
+}

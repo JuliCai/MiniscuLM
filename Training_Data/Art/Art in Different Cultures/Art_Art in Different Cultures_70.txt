@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional Korean painting technique.",
+    "answer": "Minhwa."
+}

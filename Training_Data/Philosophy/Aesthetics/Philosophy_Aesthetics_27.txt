@@ -1,0 +1,4 @@
+{
+    "question": "What is 'taste culture'?",
+    "answer": "Shared aesthetic preferences."
+}

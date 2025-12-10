@@ -1,0 +1,4 @@
+{
+    "question": "What does 'prima facie duty' mean?",
+    "answer": "An apparent duty unless overridden."
+}

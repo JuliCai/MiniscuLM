@@ -1,0 +1,4 @@
+{
+    "question": "What file format is best for digital painting?",
+    "answer": "PSD or TIFF."
+}

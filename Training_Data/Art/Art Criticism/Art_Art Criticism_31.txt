@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic value'?",
+    "answer": "Importance or worth of art."
+}

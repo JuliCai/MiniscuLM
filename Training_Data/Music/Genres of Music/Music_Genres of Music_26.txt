@@ -1,0 +1,4 @@
+{
+    "question": "What genre is often acoustic and narrative?",
+    "answer": "Folk"
+}

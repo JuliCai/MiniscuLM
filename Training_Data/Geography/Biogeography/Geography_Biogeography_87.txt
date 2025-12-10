@@ -1,0 +1,4 @@
+{
+    "question": "What is a population bottleneck?",
+    "answer": "Sharp reduction in population size."
+}

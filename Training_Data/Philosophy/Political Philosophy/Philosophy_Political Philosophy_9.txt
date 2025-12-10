@@ -1,0 +1,4 @@
+{
+    "question": "Define liberty in political philosophy.",
+    "answer": "Freedom from oppressive restrictions."
+}

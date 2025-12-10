@@ -1,0 +1,4 @@
+{
+    "question": "Define 'semantic anomaly'.",
+    "answer": "Sentence with nonsensical meaning."
+}

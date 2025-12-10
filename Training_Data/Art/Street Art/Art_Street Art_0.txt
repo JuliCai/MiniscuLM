@@ -1,0 +1,4 @@
+{
+    "question": "What is street art?",
+    "answer": "Art created in public spaces."
+}

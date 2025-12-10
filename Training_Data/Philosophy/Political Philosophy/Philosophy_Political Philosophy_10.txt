@@ -1,0 +1,4 @@
+{
+    "question": "What is justice according to Rawls?",
+    "answer": "Fairness as fairness in society."
+}

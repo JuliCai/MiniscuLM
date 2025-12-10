@@ -1,0 +1,4 @@
+{
+    "question": "Define the principle of explosion.",
+    "answer": "From contradiction, any statement can be inferred."
+}

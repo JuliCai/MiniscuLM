@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of perception in empiricism?",
+    "answer": "Primary source of knowledge."
+}

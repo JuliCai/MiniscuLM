@@ -1,0 +1,4 @@
+{
+    "question": "Who is a key figure in Op Art?",
+    "answer": "Victor Vasarely."
+}

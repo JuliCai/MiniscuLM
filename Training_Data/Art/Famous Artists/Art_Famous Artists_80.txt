@@ -1,0 +1,4 @@
+{
+    "question": "Who created the painting The Arnolfini Portrait?",
+    "answer": "Jan van Eyck."
+}

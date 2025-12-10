@@ -1,0 +1,4 @@
+{
+    "question": "What is the doctrine of double effect?",
+    "answer": "Permitting harm if unintended side effect."
+}

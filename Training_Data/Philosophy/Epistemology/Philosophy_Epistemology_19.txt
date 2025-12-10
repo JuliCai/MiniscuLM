@@ -1,0 +1,4 @@
+{
+    "question": "What is contextualism in epistemology?",
+    "answer": "Knowledge varies with context."
+}

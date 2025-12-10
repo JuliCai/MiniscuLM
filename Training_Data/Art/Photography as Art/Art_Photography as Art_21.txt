@@ -1,0 +1,4 @@
+{
+    "question": "How does contrast enhance art photos?",
+    "answer": "Highlights differences and shapes."
+}

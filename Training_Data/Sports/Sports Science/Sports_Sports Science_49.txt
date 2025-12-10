@@ -1,0 +1,4 @@
+{
+    "question": "Explain the importance of rest days.",
+    "answer": "Allow recovery and adaptation."
+}

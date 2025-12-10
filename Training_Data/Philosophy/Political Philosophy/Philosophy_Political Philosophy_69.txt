@@ -1,0 +1,4 @@
+{
+    "question": "Who is Simone de Beauvoir in politics?",
+    "answer": "Feminist existentialist philosopher."
+}

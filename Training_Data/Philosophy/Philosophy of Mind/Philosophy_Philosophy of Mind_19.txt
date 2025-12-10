@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of homunculus fallacy?",
+    "answer": "Avoids infinite regress in explaining mind."
+}

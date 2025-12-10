@@ -1,0 +1,4 @@
+{
+    "question": "Name a sport with offsides rule.",
+    "answer": "Soccer and hockey have offsides."
+}

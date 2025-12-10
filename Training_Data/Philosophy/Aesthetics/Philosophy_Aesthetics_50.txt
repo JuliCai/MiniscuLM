@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic education'?",
+    "answer": "Teaching appreciation of beauty."
+}

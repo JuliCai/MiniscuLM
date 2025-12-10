@@ -1,0 +1,4 @@
+{
+    "question": "What is a political boundary dispute?",
+    "answer": "Disagreement over border control."
+}

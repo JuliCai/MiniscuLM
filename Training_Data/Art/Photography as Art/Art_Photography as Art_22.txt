@@ -1,0 +1,4 @@
+{
+    "question": "What is bokeh effect?",
+    "answer": "Blurred background lights in photos."
+}

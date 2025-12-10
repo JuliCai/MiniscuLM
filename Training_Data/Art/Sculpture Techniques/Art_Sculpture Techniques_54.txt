@@ -1,0 +1,4 @@
+{
+    "question": "What is a collage in sculpture?",
+    "answer": "Assembling different materials."
+}

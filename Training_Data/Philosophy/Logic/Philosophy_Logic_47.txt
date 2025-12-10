@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical consequence relation'.",
+    "answer": "Relation between premises and conclusion in logic."
+}

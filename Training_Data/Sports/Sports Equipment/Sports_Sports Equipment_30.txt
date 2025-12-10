@@ -1,0 +1,4 @@
+{
+    "question": "What is used in horse riding?",
+    "answer": "Saddle and bridle."
+}

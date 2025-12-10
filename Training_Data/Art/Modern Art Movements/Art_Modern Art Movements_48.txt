@@ -1,0 +1,4 @@
+{
+    "question": "Describe Pop Art's color palette.",
+    "answer": "Bright and bold."
+}

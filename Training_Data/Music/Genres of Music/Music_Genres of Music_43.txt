@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is linked to the Motown label?",
+    "answer": "Soul"
+}

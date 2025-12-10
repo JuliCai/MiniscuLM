@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semiotic analysis examples'?",
+    "answer": "Symbol meanings."
+}

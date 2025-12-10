@@ -1,0 +1,4 @@
+{
+    "question": "Name a common motif in Islamic art.",
+    "answer": "Geometric patterns."
+}

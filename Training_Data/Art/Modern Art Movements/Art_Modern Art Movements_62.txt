@@ -1,0 +1,4 @@
+{
+    "question": "What is the main idea of Futurism?",
+    "answer": "Speed and dynamism."
+}

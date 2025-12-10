@@ -1,0 +1,4 @@
+{
+    "question": "Is audience participation mandatory?",
+    "answer": "Not always."
+}

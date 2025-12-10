@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between knowledge by acquaintance and by description?",
+    "answer": "Direct experience vs. indirect knowledge."
+}

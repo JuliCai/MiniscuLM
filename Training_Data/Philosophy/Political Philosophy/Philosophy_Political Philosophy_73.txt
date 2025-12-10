@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of anarchy.",
+    "answer": "Absence of government or authority."
+}

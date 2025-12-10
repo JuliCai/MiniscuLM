@@ -1,0 +1,4 @@
+{
+    "question": "What food helps reduce inflammation?",
+    "answer": "Fatty fish"
+}

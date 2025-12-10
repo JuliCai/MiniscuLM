@@ -1,0 +1,4 @@
+{
+    "question": "What is 'hermeneutics' in art?",
+    "answer": "Theory of interpretation."
+}

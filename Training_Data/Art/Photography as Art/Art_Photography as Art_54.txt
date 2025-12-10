@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a tripod in art photography?",
+    "answer": "Stabilizes camera for sharpness."
+}

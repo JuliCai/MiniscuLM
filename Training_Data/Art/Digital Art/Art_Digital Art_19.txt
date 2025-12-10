@@ -1,0 +1,4 @@
+{
+    "question": "What is a stylus used for?",
+    "answer": "Input device for drawing on tablets."
+}

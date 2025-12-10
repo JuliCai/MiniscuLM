@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between art and craft?",
+    "answer": "Art is expressive; craft is functional."
+}

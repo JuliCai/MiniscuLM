@@ -1,0 +1,4 @@
+{
+    "question": "When did basketball become an Olympic sport?",
+    "answer": "1936."
+}

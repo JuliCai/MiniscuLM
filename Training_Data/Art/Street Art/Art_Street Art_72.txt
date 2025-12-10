@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a mural and graffiti?",
+    "answer": "Murals are large paintings; graffiti is often text."
+}

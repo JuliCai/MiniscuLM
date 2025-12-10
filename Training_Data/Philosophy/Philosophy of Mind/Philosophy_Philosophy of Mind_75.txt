@@ -1,0 +1,4 @@
+{
+    "question": "What is the relationship between emotions and cognition?",
+    "answer": "Emotions influence cognitive processes."
+}

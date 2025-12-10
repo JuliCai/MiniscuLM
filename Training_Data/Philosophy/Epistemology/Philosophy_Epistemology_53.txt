@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of intuition in rationalism?",
+    "answer": "Source of innate knowledge."
+}

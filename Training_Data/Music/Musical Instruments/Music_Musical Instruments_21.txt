@@ -1,0 +1,4 @@
+{
+    "question": "Name a string instrument played with fingers.",
+    "answer": "The guitar is played with fingers."
+}

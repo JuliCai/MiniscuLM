@@ -1,0 +1,4 @@
+{
+    "question": "What is pixel density?",
+    "answer": "Pixels per inch on screen."
+}

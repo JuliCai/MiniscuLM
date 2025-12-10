@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic vacuity'?",
+    "answer": "Expression lacking meaning."
+}

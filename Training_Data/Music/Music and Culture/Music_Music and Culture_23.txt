@@ -1,0 +1,4 @@
+{
+    "question": "Which culture popularized the tango dance?",
+    "answer": "Tango originated in Argentine culture."
+}

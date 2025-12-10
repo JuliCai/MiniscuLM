@@ -1,0 +1,4 @@
+{
+    "question": "How can athletes use cognitive restructuring?",
+    "answer": "To change negative thoughts into positive ones."
+}

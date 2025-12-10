@@ -1,0 +1,4 @@
+{
+    "question": "What is a street art mural?",
+    "answer": "Large public painting."
+}

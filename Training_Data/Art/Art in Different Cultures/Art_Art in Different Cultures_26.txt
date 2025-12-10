@@ -1,0 +1,4 @@
+{
+    "question": "What culture is associated with kente cloth?",
+    "answer": "Ghanaian culture."
+}

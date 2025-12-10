@@ -1,0 +1,4 @@
+{
+    "question": "What is ethical pluralism?",
+    "answer": "Multiple valid ethical principles coexist."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is automation in a DAW?",
+    "answer": "Automatically changing parameters over time."
+}

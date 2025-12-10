@@ -1,0 +1,4 @@
+{
+    "question": "What is biofeedback in sports psychology?",
+    "answer": "Using physiological data to control mental states."
+}

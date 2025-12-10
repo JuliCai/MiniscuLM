@@ -1,0 +1,4 @@
+{
+    "question": "What sport is the NHL associated with?",
+    "answer": "Ice Hockey."
+}

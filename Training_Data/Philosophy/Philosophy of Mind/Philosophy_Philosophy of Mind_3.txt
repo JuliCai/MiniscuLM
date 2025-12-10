@@ -1,0 +1,4 @@
+{
+    "question": "Explain the mind-body problem.",
+    "answer": "How mind and body interact or relate."
+}

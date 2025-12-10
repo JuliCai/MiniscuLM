@@ -1,0 +1,4 @@
+{
+    "question": "Which culture developed the art of mosaic?",
+    "answer": "Roman and Byzantine cultures."
+}

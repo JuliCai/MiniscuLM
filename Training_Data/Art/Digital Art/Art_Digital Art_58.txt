@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art tablet driver?",
+    "answer": "Software enabling tablet functionality."
+}

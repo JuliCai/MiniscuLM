@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports prevent dropout?",
+    "answer": "Keep activities fun and inclusive."
+}

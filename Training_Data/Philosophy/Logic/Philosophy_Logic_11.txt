@@ -1,0 +1,4 @@
+{
+    "question": "Define inductive reasoning.",
+    "answer": "Reasoning from specific cases to general conclusions."
+}

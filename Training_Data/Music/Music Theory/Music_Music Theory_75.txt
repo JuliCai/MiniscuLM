@@ -1,0 +1,4 @@
+{
+    "question": "Define 'monophony'.",
+    "answer": "Single melodic line."
+}

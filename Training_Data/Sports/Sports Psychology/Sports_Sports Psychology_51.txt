@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of relaxation techniques?",
+    "answer": "They reduce stress and improve focus."
+}

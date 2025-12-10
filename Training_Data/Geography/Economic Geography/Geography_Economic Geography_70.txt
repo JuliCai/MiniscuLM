@@ -1,0 +1,4 @@
+{
+    "question": "What causes regional economic disparities?",
+    "answer": "Uneven development and investment."
+}

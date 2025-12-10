@@ -1,0 +1,4 @@
+{
+    "question": "What food helps muscle growth?",
+    "answer": "Lean meat"
+}

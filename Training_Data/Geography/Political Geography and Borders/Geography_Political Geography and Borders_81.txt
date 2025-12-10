@@ -1,0 +1,4 @@
+{
+    "question": "What is a political geography?",
+    "answer": "Study of political spatial structures."
+}

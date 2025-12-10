@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism relate to absurdity?",
+    "answer": "Life is absurd but we must create meaning."
+}

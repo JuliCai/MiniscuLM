@@ -1,0 +1,4 @@
+{
+    "question": "Which device is common for digital drawing?",
+    "answer": "Graphics tablet."
+}

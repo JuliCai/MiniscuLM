@@ -1,0 +1,4 @@
+{
+    "question": "Name a key figure in Surrealism.",
+    "answer": "Max Ernst."
+}

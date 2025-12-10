@@ -1,0 +1,4 @@
+{
+    "question": "What is 'speech act theory'?",
+    "answer": "Study of language as action."
+}

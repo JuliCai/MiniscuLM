@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of anxiety on performance?",
+    "answer": "Can impair focus and coordination if excessive."
+}

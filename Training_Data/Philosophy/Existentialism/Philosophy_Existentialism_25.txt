@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism view despair?",
+    "answer": "As a condition of confronting freedom."
+}

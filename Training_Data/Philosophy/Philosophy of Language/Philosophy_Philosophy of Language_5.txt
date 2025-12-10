@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between syntax and semantics?",
+    "answer": "Syntax: structure; Semantics: meaning."
+}

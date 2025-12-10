@@ -1,0 +1,4 @@
+{
+    "question": "How is bronze typically cast?",
+    "answer": "Using lost-wax method."
+}

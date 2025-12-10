@@ -1,0 +1,4 @@
+{
+    "question": "Which artist painted The Raft of the Medusa?",
+    "answer": "Th\u00e9odore G\u00e9ricault."
+}

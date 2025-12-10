@@ -1,0 +1,4 @@
+{
+    "question": "What is a chromatic scale?",
+    "answer": "Scale of all twelve semitones."
+}

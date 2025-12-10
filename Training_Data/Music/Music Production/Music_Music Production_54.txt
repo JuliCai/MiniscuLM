@@ -1,0 +1,4 @@
+{
+    "question": "What is a sampler pad?",
+    "answer": "Button triggering samples."
+}

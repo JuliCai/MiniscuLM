@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is essential for swimming?",
+    "answer": "Swimsuit and goggles."
+}

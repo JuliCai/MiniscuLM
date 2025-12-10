@@ -1,0 +1,4 @@
+{
+    "question": "What instrument is played by striking keys?",
+    "answer": "The piano is played by striking keys."
+}

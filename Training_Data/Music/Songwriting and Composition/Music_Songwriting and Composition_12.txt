@@ -1,0 +1,4 @@
+{
+    "question": "What is a pre-chorus?",
+    "answer": "Section linking verse to chorus."
+}

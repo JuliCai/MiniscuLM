@@ -1,0 +1,4 @@
+{
+    "question": "What is a synthesizer?",
+    "answer": "Electronic instrument creating sounds."
+}

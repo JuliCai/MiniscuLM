@@ -1,0 +1,4 @@
+{
+    "question": "What is a proof system?",
+    "answer": "A formal method for deriving conclusions."
+}

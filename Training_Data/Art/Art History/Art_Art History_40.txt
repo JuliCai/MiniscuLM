@@ -1,0 +1,4 @@
+{
+    "question": "What does 'baroque' art emphasize?",
+    "answer": "Drama and grandeur."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can smartphone photos be art?",
+    "answer": "Yes, with creative vision."
+}

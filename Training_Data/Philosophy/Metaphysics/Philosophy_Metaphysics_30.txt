@@ -1,0 +1,4 @@
+{
+    "question": "What is the nature of existence?",
+    "answer": "What it means to 'be'."
+}

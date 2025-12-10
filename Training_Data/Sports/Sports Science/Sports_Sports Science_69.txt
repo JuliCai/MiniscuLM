@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of strength training.",
+    "answer": "Increased muscle mass."
+}

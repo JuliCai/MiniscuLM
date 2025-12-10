@@ -1,0 +1,4 @@
+{
+    "question": "Which genre uses traditional African instruments?",
+    "answer": "Afrobeat"
+}

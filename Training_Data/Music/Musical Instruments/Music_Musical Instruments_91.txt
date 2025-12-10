@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is commonly used in blues music?",
+    "answer": "The harmonica is common in blues."
+}

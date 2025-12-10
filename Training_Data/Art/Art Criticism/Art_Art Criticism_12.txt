@@ -1,0 +1,4 @@
+{
+    "question": "What does 'semiotic analysis' study?",
+    "answer": "Signs and symbols in art."
+}

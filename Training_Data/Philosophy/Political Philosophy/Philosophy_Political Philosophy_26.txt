@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'Two Treatises of Government'?",
+    "answer": "John Locke."
+}

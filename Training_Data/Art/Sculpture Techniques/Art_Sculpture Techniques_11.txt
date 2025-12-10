@@ -1,0 +1,4 @@
+{
+    "question": "Define patina in sculpture.",
+    "answer": "Surface finish or coloration on metal."
+}

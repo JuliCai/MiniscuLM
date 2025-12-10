@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'leap of faith'?",
+    "answer": "Belief beyond rational evidence."
+}

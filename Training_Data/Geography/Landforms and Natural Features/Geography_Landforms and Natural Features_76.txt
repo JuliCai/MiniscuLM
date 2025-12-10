@@ -1,0 +1,4 @@
+{
+    "question": "What is a coastline?",
+    "answer": "Where land meets the sea."
+}

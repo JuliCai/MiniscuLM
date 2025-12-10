@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of responsibility?",
+    "answer": "Accepting consequences of choices."
+}

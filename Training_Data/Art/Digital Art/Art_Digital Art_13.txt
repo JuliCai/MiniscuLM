@@ -1,0 +1,4 @@
+{
+    "question": "Explain the term 'rendering' in digital art.",
+    "answer": "Generating final image from 3D model."
+}

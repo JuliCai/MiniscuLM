@@ -1,0 +1,4 @@
+{
+    "question": "Name a minor scale note pattern.",
+    "answer": "Whole, half, whole, whole, half, whole, whole."
+}

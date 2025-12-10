@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist who created The Kiss sculpture.",
+    "answer": "Auguste Rodin."
+}

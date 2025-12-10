@@ -1,0 +1,4 @@
+{
+    "question": "What is the Turing Test?",
+    "answer": "Test if machine mimics human intelligence."
+}

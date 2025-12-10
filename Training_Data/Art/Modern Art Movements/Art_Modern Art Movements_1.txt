@@ -1,0 +1,4 @@
+{
+    "question": "Who pioneered Abstract Expressionism?",
+    "answer": "Jackson Pollock."
+}

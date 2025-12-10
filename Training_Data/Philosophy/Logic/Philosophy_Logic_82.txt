@@ -1,0 +1,4 @@
+{
+    "question": "What is a completeness theorem?",
+    "answer": "All true statements are provable in the system."
+}

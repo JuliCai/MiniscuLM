@@ -1,0 +1,4 @@
+{
+    "question": "What is a hook line?",
+    "answer": "Most memorable lyric phrase."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of falsification in science?",
+    "answer": "Refuting incorrect hypotheses."
+}

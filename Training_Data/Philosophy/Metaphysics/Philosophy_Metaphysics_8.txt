@@ -1,0 +1,4 @@
+{
+    "question": "What does 'causality' mean in metaphysics?",
+    "answer": "Relationship between cause and effect."
+}

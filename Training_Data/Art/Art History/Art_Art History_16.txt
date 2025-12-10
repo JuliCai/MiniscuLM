@@ -1,0 +1,4 @@
+{
+    "question": "What technique uses small dots of color?",
+    "answer": "Pointillism."
+}

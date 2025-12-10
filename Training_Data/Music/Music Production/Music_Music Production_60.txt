@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain ducking?",
+    "answer": "Lowering volume triggered by another sound."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is street art always visual?",
+    "answer": "Mostly visual, rarely performance."
+}

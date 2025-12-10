@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW stereo spread?",
+    "answer": "Widens sound across stereo field."
+}

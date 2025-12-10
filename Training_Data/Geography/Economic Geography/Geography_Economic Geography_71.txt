@@ -1,0 +1,4 @@
+{
+    "question": "What is economic agglomeration?",
+    "answer": "Clustering of businesses benefits."
+}

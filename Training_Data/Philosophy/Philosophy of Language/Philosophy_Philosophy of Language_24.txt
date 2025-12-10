@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'truth-conditional' theory of meaning?",
+    "answer": "Meaning based on truth conditions."
+}

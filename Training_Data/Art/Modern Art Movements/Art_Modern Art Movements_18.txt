@@ -1,0 +1,4 @@
+{
+    "question": "Name a prominent Abstract Expressionist.",
+    "answer": "Mark Rothko."
+}

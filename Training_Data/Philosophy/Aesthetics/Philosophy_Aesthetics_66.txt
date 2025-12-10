@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic autonomy'?",
+    "answer": "Art's independence from moral function."
+}

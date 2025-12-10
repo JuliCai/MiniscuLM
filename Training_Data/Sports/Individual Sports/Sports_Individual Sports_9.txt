@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a horse and a rider to jump obstacles?",
+    "answer": "Equestrian."
+}

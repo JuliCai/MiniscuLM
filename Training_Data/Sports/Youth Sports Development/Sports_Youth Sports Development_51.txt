@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports teach conflict resolution?",
+    "answer": "Managing disagreements on teams."
+}

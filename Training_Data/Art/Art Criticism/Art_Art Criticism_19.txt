@@ -1,0 +1,4 @@
+{
+    "question": "What is 'postmodern criticism'?",
+    "answer": "Challenges traditional art narratives."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define a priori knowledge.",
+    "answer": "Knowledge independent of experience."
+}

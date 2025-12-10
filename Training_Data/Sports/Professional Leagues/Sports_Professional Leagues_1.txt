@@ -1,0 +1,4 @@
+{
+    "question": "Name the professional basketball league in the USA.",
+    "answer": "The NBA (National Basketball Association)."
+}

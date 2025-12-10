@@ -1,0 +1,4 @@
+{
+    "question": "What is a phylogeographic study?",
+    "answer": "Examines genetic lineages geographically."
+}

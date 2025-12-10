@@ -1,0 +1,4 @@
+{
+    "question": "What is a strait?",
+    "answer": "A narrow waterway between lands."
+}

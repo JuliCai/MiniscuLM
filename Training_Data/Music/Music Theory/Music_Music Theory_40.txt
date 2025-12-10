@@ -1,0 +1,4 @@
+{
+    "question": "What is a natural sign?",
+    "answer": "Cancels a sharp or flat."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is deliberative democracy?",
+    "answer": "Decision-making through discussion and reasoning."
+}

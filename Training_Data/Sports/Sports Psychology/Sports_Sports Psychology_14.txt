@@ -1,0 +1,4 @@
+{
+    "question": "How can team cohesion influence sports outcomes?",
+    "answer": "Enhances cooperation and collective effort."
+}

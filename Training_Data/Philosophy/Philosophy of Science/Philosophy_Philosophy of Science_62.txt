@@ -1,0 +1,4 @@
+{
+    "question": "What is a scientific model?",
+    "answer": "Simplified representation of a system."
+}

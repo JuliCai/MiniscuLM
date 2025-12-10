@@ -1,0 +1,4 @@
+{
+    "question": "Name a common electrolyte lost in sweat.",
+    "answer": "Sodium"
+}

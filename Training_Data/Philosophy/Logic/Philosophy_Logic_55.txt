@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical entailment'.",
+    "answer": "If premises true, conclusion must be true."
+}

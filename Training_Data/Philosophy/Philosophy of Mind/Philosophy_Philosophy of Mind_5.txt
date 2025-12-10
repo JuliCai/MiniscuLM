@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'hard problem' of consciousness?",
+    "answer": "Why and how subjective experiences arise."
+}

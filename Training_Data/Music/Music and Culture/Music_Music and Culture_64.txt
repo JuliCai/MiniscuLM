@@ -1,0 +1,4 @@
+{
+    "question": "How does music reflect historical events?",
+    "answer": "Songs capture and comment on history."
+}

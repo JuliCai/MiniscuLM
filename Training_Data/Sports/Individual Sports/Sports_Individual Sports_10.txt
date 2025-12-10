@@ -1,0 +1,4 @@
+{
+    "question": "What sport requires hitting a ball against a wall with your hand?",
+    "answer": "Handball."
+}

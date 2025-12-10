@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'Mary's room' thought experiment?",
+    "answer": "Knowing facts vs. experiencing color."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What do you wear for protection in cricket?",
+    "answer": "Pads and helmet."
+}

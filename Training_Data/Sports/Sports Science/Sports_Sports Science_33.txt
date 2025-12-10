@@ -1,0 +1,4 @@
+{
+    "question": "Define muscle fatigue.",
+    "answer": "Reduced muscle force output."
+}

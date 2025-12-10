@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports promote lifelong fitness?",
+    "answer": "Instill exercise habits early."
+}

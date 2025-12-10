@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between mind and soul?",
+    "answer": "Soul is spiritual; mind is mental."
+}

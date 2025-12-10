@@ -1,0 +1,4 @@
+{
+    "question": "Define 'contradiction' in logic.",
+    "answer": "A statement that is always false."
+}

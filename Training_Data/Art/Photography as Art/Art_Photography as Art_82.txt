@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of contrast in color photography?",
+    "answer": "Enhances separation and focus."
+}

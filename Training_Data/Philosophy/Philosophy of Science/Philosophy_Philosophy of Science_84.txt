@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between correlation and causation?",
+    "answer": "Correlation does not imply causation."
+}

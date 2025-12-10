@@ -1,0 +1,4 @@
+{
+    "question": "Who is Isaiah Berlin?",
+    "answer": "Philosopher of liberty and pluralism."
+}

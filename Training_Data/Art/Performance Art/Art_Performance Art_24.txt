@@ -1,0 +1,4 @@
+{
+    "question": "What distinguishes performance art from dance?",
+    "answer": "Concept focus vs. choreography."
+}

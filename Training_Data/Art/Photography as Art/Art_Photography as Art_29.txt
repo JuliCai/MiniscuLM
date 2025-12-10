@@ -1,0 +1,4 @@
+{
+    "question": "What is symmetry in photography?",
+    "answer": "Balanced mirroring of elements."
+}

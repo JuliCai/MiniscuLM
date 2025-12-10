@@ -1,0 +1,4 @@
+{
+    "question": "What is the medium of an etching?",
+    "answer": "Metal plate with acid."
+}

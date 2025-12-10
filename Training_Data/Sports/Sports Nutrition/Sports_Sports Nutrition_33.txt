@@ -1,0 +1,4 @@
+{
+    "question": "What is the glycemic index?",
+    "answer": "Measure of carb absorption speed"
+}

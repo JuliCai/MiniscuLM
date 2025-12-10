@@ -1,0 +1,4 @@
+{
+    "question": "What material is commonly used for casting?",
+    "answer": "Metal, especially bronze."
+}

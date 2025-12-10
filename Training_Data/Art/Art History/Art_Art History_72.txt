@@ -1,0 +1,4 @@
+{
+    "question": "What style emphasizes spontaneity?",
+    "answer": "Abstract Expressionism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between belief and knowledge?",
+    "answer": "Knowledge requires truth and justification."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical operator'.",
+    "answer": "A symbol connecting logical statements."
+}

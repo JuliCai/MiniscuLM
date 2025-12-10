@@ -1,0 +1,4 @@
+{
+    "question": "Describe the term 'visual-motor behavior rehearsal'.",
+    "answer": "Combining visualization with physical practice."
+}

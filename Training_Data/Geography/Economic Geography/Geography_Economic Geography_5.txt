@@ -1,0 +1,4 @@
+{
+    "question": "What impacts location of industries?",
+    "answer": "Resource availability and transportation."
+}

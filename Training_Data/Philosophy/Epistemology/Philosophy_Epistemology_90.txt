@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic closure principle?",
+    "answer": "Knowledge transfers through known implications."
+}

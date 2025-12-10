@@ -1,0 +1,4 @@
+{
+    "question": "What is a triptych?",
+    "answer": "Three-paneled artwork."
+}

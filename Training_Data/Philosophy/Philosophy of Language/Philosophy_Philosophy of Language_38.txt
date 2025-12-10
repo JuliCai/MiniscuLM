@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between denotation and connotation?",
+    "answer": "Denotation: literal; Connotation: associated meaning."
+}

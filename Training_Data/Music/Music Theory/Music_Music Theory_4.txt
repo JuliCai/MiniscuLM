@@ -1,0 +1,4 @@
+{
+    "question": "What is a time signature?",
+    "answer": "It shows beats per measure and note value."
+}

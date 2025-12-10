@@ -1,0 +1,4 @@
+{
+    "question": "Define qualia in philosophy of mind.",
+    "answer": "Individual subjective experiences or sensations."
+}

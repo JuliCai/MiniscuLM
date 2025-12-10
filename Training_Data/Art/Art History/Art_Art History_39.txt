@@ -1,0 +1,4 @@
+{
+    "question": "Which artist painted Campbell's Soup Cans?",
+    "answer": "Andy Warhol."
+}

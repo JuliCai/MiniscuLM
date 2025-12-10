@@ -1,0 +1,4 @@
+{
+    "question": "Which team has the most Super Bowl wins?",
+    "answer": "Pittsburgh Steelers and Patriots (6)."
+}

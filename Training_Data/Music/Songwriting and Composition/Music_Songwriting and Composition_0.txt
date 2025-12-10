@@ -1,0 +1,4 @@
+{
+    "question": "What is a chorus in songwriting?",
+    "answer": "A repeated section with the main message."
+}

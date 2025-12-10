@@ -1,0 +1,4 @@
+{
+    "question": "What is substance dualism?",
+    "answer": "Mind and body are distinct substances."
+}

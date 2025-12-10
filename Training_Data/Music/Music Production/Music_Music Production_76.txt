@@ -1,0 +1,4 @@
+{
+    "question": "What is a vocal comping?",
+    "answer": "Combining best vocal takes."
+}

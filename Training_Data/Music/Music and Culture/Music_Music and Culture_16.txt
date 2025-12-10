@@ -1,0 +1,4 @@
+{
+    "question": "How does music promote cultural unity?",
+    "answer": "Music brings people together across cultures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Cartesian dualism?",
+    "answer": "Mind and body are separate substances."
+}

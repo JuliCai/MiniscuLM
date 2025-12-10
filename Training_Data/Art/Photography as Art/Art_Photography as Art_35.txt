@@ -1,0 +1,4 @@
+{
+    "question": "What is a photographic series?",
+    "answer": "Set of related themed photos."
+}

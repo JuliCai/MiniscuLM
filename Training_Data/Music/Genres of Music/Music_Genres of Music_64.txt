@@ -1,0 +1,4 @@
+{
+    "question": "What genre features synthesized pop with a futuristic sound?",
+    "answer": "Synthpop"
+}

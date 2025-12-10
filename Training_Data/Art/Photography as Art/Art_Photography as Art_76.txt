@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of spontaneity in art photography?",
+    "answer": "Captures authentic moments."
+}

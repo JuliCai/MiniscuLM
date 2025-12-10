@@ -1,0 +1,4 @@
+{
+    "question": "What is the golden hour in photography?",
+    "answer": "Time after sunrise for soft light."
+}

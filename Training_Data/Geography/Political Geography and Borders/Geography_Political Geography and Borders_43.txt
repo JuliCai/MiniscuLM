@@ -1,0 +1,4 @@
+{
+    "question": "What is a supranational organization?",
+    "answer": "Group of countries with shared governance."
+}

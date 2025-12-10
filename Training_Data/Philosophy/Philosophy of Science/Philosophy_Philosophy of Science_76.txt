@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a hypothesis and a law?",
+    "answer": "Hypothesis predicts; law describes consistent phenomena."
+}

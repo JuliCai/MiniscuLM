@@ -1,0 +1,4 @@
+{
+    "question": "Which culture uses tapa cloth?",
+    "answer": "Pacific Island cultures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW MIDI editor?",
+    "answer": "Tool for editing MIDI notes."
+}

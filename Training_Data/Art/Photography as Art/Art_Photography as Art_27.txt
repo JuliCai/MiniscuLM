@@ -1,0 +1,4 @@
+{
+    "question": "What is candid photography?",
+    "answer": "Unposed, natural moments captured."
+}

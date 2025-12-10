@@ -1,0 +1,4 @@
+{
+    "question": "Which team won the first NBA championship?",
+    "answer": "Philadelphia Warriors."
+}

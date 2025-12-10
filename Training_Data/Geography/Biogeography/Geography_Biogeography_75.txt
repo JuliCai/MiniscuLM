@@ -1,0 +1,4 @@
+{
+    "question": "What is a biodiversity refuge?",
+    "answer": "Area where species survive adverse conditions."
+}

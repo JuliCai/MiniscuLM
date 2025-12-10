@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between photojournalism and art photography?",
+    "answer": "Journalism informs; art expresses."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of music in festivals?",
+    "answer": "Music energizes and unites festival participants."
+}

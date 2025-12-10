@@ -1,0 +1,4 @@
+{
+    "question": "Define MET in exercise.",
+    "answer": "Metabolic equivalent task."
+}

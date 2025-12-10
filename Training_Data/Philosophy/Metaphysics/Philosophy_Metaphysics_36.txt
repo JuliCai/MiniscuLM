@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between essence and accident?",
+    "answer": "Essential vs. non-essential properties."
+}

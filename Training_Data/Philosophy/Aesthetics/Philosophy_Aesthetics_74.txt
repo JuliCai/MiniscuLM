@@ -1,0 +1,4 @@
+{
+    "question": "What is 'imitation' in aesthetics?",
+    "answer": "Representation of reality."
+}

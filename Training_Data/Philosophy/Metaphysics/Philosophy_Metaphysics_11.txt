@@ -1,0 +1,4 @@
+{
+    "question": "What is the problem of universals?",
+    "answer": "Whether properties exist independently of objects."
+}

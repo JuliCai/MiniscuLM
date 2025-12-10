@@ -1,0 +1,4 @@
+{
+    "question": "Who is Mary Wollstonecraft?",
+    "answer": "Early feminist philosopher."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'encore' in concerts.",
+    "answer": "Extra performance after the main show ends."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a miking technique?",
+    "answer": "Placement of microphones for sound capture."
+}

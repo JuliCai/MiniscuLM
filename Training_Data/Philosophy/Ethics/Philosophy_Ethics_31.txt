@@ -1,0 +1,4 @@
+{
+    "question": "What is a moral agent?",
+    "answer": "An entity capable of making ethical choices."
+}

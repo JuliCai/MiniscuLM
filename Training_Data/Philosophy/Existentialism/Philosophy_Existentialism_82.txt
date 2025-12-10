@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism define authenticity?",
+    "answer": "Living genuinely according to self."
+}

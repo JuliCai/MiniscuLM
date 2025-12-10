@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic value' measurement?",
+    "answer": "No universal metric."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How is a winner decided in soccer?",
+    "answer": "Most goals scored wins."
+}

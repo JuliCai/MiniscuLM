@@ -1,0 +1,4 @@
+{
+    "question": "Which ball is used in basketball?",
+    "answer": "A basketball."
+}

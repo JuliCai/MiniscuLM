@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'ugly' in aesthetics?",
+    "answer": "Opposite or absence of beauty."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an enclave?",
+    "answer": "Territory surrounded by another country."
+}

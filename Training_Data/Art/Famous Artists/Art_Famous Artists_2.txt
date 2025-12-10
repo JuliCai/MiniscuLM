@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Spanish surrealist painter.",
+    "answer": "Salvador Dal\u00ed."
+}

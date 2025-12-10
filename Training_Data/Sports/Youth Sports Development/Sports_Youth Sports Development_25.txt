@@ -1,0 +1,4 @@
+{
+    "question": "What is a typical youth sports season length?",
+    "answer": "3-6 months."
+}

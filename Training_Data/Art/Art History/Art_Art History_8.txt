@@ -1,0 +1,4 @@
+{
+    "question": "What style is Claude Monet associated with?",
+    "answer": "Impressionism."
+}

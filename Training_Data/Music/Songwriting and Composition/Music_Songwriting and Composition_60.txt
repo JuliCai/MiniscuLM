@@ -1,0 +1,4 @@
+{
+    "question": "What is strophic form?",
+    "answer": "Song form with repeated music for verses."
+}

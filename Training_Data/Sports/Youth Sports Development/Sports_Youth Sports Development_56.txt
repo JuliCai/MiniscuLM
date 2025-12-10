@@ -1,0 +1,4 @@
+{
+    "question": "What is a benefit of multi-sport participation?",
+    "answer": "Reduced injury risk."
+}

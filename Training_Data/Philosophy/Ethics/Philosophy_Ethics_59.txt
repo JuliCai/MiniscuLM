@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of utility?",
+    "answer": "Maximize happiness, minimize pain."
+}

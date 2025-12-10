@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysics?",
+    "answer": "Study of reality's fundamental nature."
+}

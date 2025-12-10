@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a small ball and paddle on a table?",
+    "answer": "Table tennis."
+}

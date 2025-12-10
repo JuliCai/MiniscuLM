@@ -1,0 +1,4 @@
+{
+    "question": "Who is Carl Schmitt?",
+    "answer": "Political theorist on sovereignty and decision."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical supervenience?",
+    "answer": "Higher-level properties depend on lower-level."
+}

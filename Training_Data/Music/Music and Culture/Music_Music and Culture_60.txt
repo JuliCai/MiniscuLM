@@ -1,0 +1,4 @@
+{
+    "question": "What role does music play in education?",
+    "answer": "Music teaches cultural history and skills."
+}

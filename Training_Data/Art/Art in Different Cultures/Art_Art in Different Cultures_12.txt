@@ -1,0 +1,4 @@
+{
+    "question": "Which culture uses sand mandalas?",
+    "answer": "Tibetan Buddhism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define intrinsic motivation in sports.",
+    "answer": "Driven by personal satisfaction and enjoyment."
+}

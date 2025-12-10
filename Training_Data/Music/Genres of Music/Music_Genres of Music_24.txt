@@ -1,0 +1,4 @@
+{
+    "question": "What genre uses synthesizers heavily?",
+    "answer": "Electronic"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What protective gear is worn in motocross?",
+    "answer": "Helmet and pads."
+}

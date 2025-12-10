@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the first Rugby World Cup?",
+    "answer": "New Zealand."
+}

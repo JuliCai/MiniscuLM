@@ -1,0 +1,4 @@
+{
+    "question": "What software is used for digital comics?",
+    "answer": "Clip Studio Paint."
+}

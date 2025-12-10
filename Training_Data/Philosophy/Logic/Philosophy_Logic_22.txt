@@ -1,0 +1,4 @@
+{
+    "question": "What is propositional logic?",
+    "answer": "Logic dealing with propositions and connectives."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic base theory.'",
+    "answer": "Economic growth driven by export activities."
+}

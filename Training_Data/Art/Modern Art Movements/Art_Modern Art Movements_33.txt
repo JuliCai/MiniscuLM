@@ -1,0 +1,4 @@
+{
+    "question": "Who was a pioneer of Conceptual Art?",
+    "answer": "Joseph Kosuth."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'ritardando'.",
+    "answer": "Gradually slowing down."
+}

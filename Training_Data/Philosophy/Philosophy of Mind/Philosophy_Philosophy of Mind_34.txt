@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of self-awareness.",
+    "answer": "Recognition of oneself as an individual."
+}

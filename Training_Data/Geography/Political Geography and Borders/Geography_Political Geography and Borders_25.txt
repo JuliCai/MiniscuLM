@@ -1,0 +1,4 @@
+{
+    "question": "Which mountain range forms a natural border?",
+    "answer": "Himalayas."
+}

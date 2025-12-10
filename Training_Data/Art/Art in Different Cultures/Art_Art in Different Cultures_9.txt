@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional art form in Native American culture.",
+    "answer": "Pottery and beadwork."
+}

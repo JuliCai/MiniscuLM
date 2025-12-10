@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW clip?",
+    "answer": "Segment of audio or MIDI data."
+}

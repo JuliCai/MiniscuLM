@@ -1,0 +1,4 @@
+{
+    "question": "Define 'conjunction' in logic.",
+    "answer": "A logical AND between two statements."
+}

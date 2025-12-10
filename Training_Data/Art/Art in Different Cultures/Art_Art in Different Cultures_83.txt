@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is famous for Persian carpet weaving?",
+    "answer": "Iranian culture."
+}

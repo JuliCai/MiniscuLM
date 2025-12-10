@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and philosophy?",
+    "answer": "Philosophy is broad; ethics is about morality."
+}

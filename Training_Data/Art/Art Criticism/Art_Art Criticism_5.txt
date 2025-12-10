@@ -1,0 +1,4 @@
+{
+    "question": "How does 'subjective criticism' work?",
+    "answer": "Based on personal opinion."
+}

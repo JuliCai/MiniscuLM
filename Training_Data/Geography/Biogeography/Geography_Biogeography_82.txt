@@ -1,0 +1,4 @@
+{
+    "question": "Define ecological succession.",
+    "answer": "Gradual change in ecosystem species."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What period followed the Middle Ages in art?",
+    "answer": "The Renaissance."
+}

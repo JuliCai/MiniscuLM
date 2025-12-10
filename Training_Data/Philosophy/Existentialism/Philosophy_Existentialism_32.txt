@@ -1,0 +1,4 @@
+{
+    "question": "Which philosopher said 'Hell is other people'?",
+    "answer": "Jean-Paul Sartre."
+}

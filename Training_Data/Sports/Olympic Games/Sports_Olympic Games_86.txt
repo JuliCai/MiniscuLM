@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport with Olympic rings and vaulting horse.",
+    "answer": "Gymnastics"
+}

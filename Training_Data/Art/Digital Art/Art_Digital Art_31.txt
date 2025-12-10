@@ -1,0 +1,4 @@
+{
+    "question": "What does 'resolution' refer to?",
+    "answer": "Image detail level."
+}

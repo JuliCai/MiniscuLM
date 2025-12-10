@@ -1,0 +1,4 @@
+{
+    "question": "What is 'conceptual art'?",
+    "answer": "Art focused on ideas over form."
+}

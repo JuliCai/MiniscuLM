@@ -1,0 +1,4 @@
+{
+    "question": "What role do assumptions play in science?",
+    "answer": "They underpin theories and models."
+}

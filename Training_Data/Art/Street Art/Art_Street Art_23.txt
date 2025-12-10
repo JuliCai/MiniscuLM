@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between graffiti and street art?",
+    "answer": "Graffiti is text-based, street art more diverse."
+}

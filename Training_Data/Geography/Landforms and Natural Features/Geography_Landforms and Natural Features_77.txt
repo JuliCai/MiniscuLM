@@ -1,0 +1,4 @@
+{
+    "question": "What is a mesa's characteristic?",
+    "answer": "Flat top with steep sides."
+}

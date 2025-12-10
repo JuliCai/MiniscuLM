@@ -1,0 +1,4 @@
+{
+    "question": "Name a type of fast-twitch muscle fiber.",
+    "answer": "Type IIb fiber."
+}

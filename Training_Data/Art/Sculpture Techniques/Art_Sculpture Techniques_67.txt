@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a chisel?",
+    "answer": "Cutting or shaping material."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is scientific skepticism?",
+    "answer": "Questioning claims without sufficient evidence."
+}

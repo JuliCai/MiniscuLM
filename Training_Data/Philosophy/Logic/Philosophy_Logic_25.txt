@@ -1,0 +1,4 @@
+{
+    "question": "Explain logical consequence.",
+    "answer": "Conclusion follows necessarily from premises."
+}

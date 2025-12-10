@@ -1,0 +1,4 @@
+{
+    "question": "Name a country split by a political border.",
+    "answer": "Korea."
+}

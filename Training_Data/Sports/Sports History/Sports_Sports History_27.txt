@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete was nicknamed 'The Flying Finn'?",
+    "answer": "Paavo Nurmi."
+}

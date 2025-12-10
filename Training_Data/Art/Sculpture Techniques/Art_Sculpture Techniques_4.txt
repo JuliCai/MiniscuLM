@@ -1,0 +1,4 @@
+{
+    "question": "What is assemblage in sculpture?",
+    "answer": "Combining found objects into art."
+}

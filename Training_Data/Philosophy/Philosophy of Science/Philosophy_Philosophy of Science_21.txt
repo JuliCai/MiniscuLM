@@ -1,0 +1,4 @@
+{
+    "question": "Who is considered the father of modern philosophy of science?",
+    "answer": "Francis Bacon."
+}

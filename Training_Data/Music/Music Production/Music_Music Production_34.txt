@@ -1,0 +1,4 @@
+{
+    "question": "What does 'wet' mean in effects?",
+    "answer": "Signal with effect applied."
+}

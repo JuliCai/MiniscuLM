@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic technique examples'?",
+    "answer": "Oil painting, engraving."
+}

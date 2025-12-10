@@ -1,0 +1,4 @@
+{
+    "question": "What do boxers wear on their feet?",
+    "answer": "Boxing shoes."
+}

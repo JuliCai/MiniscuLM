@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first female to compete in Olympic boxing?",
+    "answer": "Nicola Adams."
+}

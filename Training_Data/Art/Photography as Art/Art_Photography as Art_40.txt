@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of background in photography?",
+    "answer": "Supports or distracts from subject."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between act and rule utilitarianism?",
+    "answer": "Act focuses on individual acts; rule on general rules."
+}

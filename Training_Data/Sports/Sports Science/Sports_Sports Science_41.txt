@@ -1,0 +1,4 @@
+{
+    "question": "What is interval training?",
+    "answer": "Alternating high and low intensity."
+}

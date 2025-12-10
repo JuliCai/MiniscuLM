@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in New Zealand?",
+    "answer": "NZNBL (New Zealand National Basketball League)."
+}

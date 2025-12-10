@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional American football league in Australia?",
+    "answer": "AFL (Australian Football League)."
+}

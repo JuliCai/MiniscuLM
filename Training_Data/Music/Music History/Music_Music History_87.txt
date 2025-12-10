@@ -1,0 +1,4 @@
+{
+    "question": "Who is the composer of Symphony No. 6 'Pastoral'?",
+    "answer": "Ludwig van Beethoven."
+}

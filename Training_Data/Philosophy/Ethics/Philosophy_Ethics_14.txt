@@ -1,0 +1,4 @@
+{
+    "question": "What is virtue?",
+    "answer": "A positive moral character trait."
+}

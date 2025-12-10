@@ -1,0 +1,4 @@
+{
+    "question": "Name a subtractive sculpture technique.",
+    "answer": "Carving."
+}

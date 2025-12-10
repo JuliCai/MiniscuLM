@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is used in badminton?",
+    "answer": "Racket and shuttlecock."
+}

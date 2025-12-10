@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical fallacy?",
+    "answer": "An error in reasoning that weakens an argument."
+}

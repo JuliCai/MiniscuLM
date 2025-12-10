@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of a sports psychologist?",
+    "answer": "Supports athletes' mental health and performance."
+}

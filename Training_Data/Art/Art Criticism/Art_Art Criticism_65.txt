@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic perspective'?",
+    "answer": "Point of view."
+}

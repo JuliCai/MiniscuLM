@@ -1,0 +1,4 @@
+{
+    "question": "Which region is known for disputed borders?",
+    "answer": "Kashmir."
+}

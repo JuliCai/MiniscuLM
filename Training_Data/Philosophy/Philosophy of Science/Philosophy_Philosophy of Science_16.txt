@@ -1,0 +1,4 @@
+{
+    "question": "What is Occam's Razor?",
+    "answer": "Simpler explanations are preferred over complex ones."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define constructivism in science.",
+    "answer": "Knowledge is constructed by scientists, not discovered."
+}

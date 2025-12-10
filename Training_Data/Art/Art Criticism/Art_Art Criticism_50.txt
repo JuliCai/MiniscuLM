@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic intention's' importance?",
+    "answer": "Guides interpretation."
+}

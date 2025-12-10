@@ -1,0 +1,4 @@
+{
+    "question": "How does youth sports teach responsibility?",
+    "answer": "Following rules and commitments."
+}

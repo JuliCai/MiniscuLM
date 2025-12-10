@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between sense and reference?",
+    "answer": "Sense: meaning; Reference: actual object."
+}

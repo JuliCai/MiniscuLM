@@ -1,0 +1,4 @@
+{
+    "question": "What is latency in music tech?",
+    "answer": "Delay between input and output sound."
+}

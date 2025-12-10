@@ -1,0 +1,4 @@
+{
+    "question": "What genre features high-pitched vocals and fast tempos?",
+    "answer": "Power Metal"
+}

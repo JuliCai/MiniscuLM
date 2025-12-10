@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between rationalism and empiricism?",
+    "answer": "Reason vs. experience as knowledge basis."
+}

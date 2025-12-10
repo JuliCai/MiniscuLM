@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic paradox'?",
+    "answer": "Contradictory meaning in language."
+}

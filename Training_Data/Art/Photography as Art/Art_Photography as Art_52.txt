@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between digital and film photography?",
+    "answer": "Medium and processing method."
+}

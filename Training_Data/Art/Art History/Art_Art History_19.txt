@@ -1,0 +1,4 @@
+{
+    "question": "What is chiaroscuro?",
+    "answer": "The use of strong light and shadow."
+}

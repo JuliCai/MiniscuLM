@@ -1,0 +1,4 @@
+{
+    "question": "Explain distributive justice.",
+    "answer": "Fair allocation of resources and benefits."
+}

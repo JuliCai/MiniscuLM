@@ -1,0 +1,4 @@
+{
+    "question": "Which league uses a football with an oval shape?",
+    "answer": "Australian Football League (AFL)."
+}

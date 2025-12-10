@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and aesthetics?",
+    "answer": "Ethics concerns right/wrong; aesthetics concerns beauty."
+}

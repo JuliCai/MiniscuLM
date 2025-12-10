@@ -1,0 +1,4 @@
+{
+    "question": "What is the main characteristic of Baroque art?",
+    "answer": "Dramatic lighting and movement."
+}

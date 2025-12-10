@@ -1,0 +1,4 @@
+{
+    "question": "What is muscle hypertrophy?",
+    "answer": "Increase in muscle size."
+}

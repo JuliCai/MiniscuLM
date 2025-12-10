@@ -1,0 +1,4 @@
+{
+    "question": "Explain the metaphysical problem of universals.",
+    "answer": "Do properties exist independently?"
+}

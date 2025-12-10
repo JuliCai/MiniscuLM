@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of Descartes' 'Cogito'?",
+    "answer": "Foundation of certain knowledge."
+}

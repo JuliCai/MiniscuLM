@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of bivalence?",
+    "answer": "Every proposition is either true or false."
+}

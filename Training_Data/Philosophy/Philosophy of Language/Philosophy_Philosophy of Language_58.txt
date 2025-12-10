@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'semantic content'.",
+    "answer": "Information conveyed by expression."
+}

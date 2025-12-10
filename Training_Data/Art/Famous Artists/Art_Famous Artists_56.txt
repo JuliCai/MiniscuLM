@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Bathers?",
+    "answer": "Paul C\u00e9zanne."
+}

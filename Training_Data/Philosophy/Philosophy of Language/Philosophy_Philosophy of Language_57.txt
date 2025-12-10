@@ -1,0 +1,4 @@
+{
+    "question": "What is 'linguistic relativity'?",
+    "answer": "Language influences thought patterns."
+}

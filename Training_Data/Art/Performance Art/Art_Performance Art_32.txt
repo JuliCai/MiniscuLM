@@ -1,0 +1,4 @@
+{
+    "question": "How is pain used in performance art?",
+    "answer": "To explore vulnerability or endurance."
+}

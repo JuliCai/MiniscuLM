@@ -1,0 +1,4 @@
+{
+    "question": "Explain sand casting briefly.",
+    "answer": "Molten metal poured into sand mold."
+}

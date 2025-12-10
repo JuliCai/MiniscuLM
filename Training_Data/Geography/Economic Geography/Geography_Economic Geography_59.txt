@@ -1,0 +1,4 @@
+{
+    "question": "Name a challenge of economic geography.",
+    "answer": "Unequal resource distribution."
+}

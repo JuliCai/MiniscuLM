@@ -1,0 +1,4 @@
+{
+    "question": "How do coaches use psychology to improve teams?",
+    "answer": "By building trust, motivation, and communication skills."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is John Searle?",
+    "answer": "Philosopher known for Chinese Room."
+}

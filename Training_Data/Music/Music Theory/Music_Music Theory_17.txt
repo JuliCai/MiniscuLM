@@ -1,0 +1,4 @@
+{
+    "question": "What is a diminished chord?",
+    "answer": "Chord with minor third and diminished fifth."
+}

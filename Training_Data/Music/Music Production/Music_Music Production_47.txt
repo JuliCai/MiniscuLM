@@ -1,0 +1,4 @@
+{
+    "question": "What is a MIDI note?",
+    "answer": "Note data sent to instruments."
+}

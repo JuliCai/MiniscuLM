@@ -1,0 +1,4 @@
+{
+    "question": "How can photography challenge art traditions?",
+    "answer": "By pushing creative boundaries."
+}

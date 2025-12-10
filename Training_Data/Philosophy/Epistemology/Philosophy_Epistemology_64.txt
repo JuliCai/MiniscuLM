@@ -1,0 +1,4 @@
+{
+    "question": "What does 'epistemic closure' refer to?",
+    "answer": "Knowledge is closed under known entailment."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a trade bloc?",
+    "answer": "Group of countries with trade agreements."
+}

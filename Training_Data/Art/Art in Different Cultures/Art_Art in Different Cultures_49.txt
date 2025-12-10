@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional Japanese pottery style.",
+    "answer": "Raku ware."
+}

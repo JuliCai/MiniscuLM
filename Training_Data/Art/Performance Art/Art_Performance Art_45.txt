@@ -1,0 +1,4 @@
+{
+    "question": "Can performance art be recorded?",
+    "answer": "Yes, but loses immediacy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between descriptive and normative ethics?",
+    "answer": "Describes morals; prescribes morals."
+}

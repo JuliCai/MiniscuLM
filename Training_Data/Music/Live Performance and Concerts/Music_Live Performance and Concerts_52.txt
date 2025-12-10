@@ -1,0 +1,4 @@
+{
+    "question": "What is a concert sponsor?",
+    "answer": "Company supporting event financially."
+}

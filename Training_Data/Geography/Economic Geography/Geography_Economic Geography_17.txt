@@ -1,0 +1,4 @@
+{
+    "question": "What is a Special Economic Zone (SEZ)?",
+    "answer": "Region with special economic regulations."
+}

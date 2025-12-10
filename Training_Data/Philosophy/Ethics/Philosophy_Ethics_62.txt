@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and morality?",
+    "answer": "Often used interchangeably; subtle differences exist."
+}

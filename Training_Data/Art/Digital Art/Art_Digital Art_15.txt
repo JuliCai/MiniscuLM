@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital canvas?",
+    "answer": "Workspace for digital drawing."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a swale?",
+    "answer": "A shallow depression for water drainage."
+}

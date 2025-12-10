@@ -1,0 +1,4 @@
+{
+    "question": "How do natural resources affect economy?",
+    "answer": "Attract industries and jobs."
+}

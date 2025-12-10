@@ -1,0 +1,4 @@
+{
+    "question": "What is a negative mold?",
+    "answer": "A mold that is an impression of the object."
+}

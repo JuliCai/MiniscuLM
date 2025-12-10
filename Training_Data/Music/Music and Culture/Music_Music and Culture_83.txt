@@ -1,0 +1,4 @@
+{
+    "question": "Name a musical instrument from the Middle East.",
+    "answer": "The oud is a Middle Eastern lute."
+}

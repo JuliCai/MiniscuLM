@@ -1,0 +1,4 @@
+{
+    "question": "What is 'symbolic reference'?",
+    "answer": "Use of symbols to represent."
+}

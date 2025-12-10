@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear used in weightlifting.",
+    "answer": "Barbell and weights."
+}

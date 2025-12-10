@@ -1,0 +1,4 @@
+{
+    "question": "What is performative utterance?",
+    "answer": "Speech that enacts an action."
+}

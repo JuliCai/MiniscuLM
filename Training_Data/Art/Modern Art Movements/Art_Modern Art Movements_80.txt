@@ -1,0 +1,4 @@
+{
+    "question": "Name an influential Pop Art piece.",
+    "answer": "Marilyn Diptych."
+}

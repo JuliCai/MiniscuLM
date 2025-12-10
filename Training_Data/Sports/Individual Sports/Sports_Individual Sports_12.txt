@@ -1,0 +1,4 @@
+{
+    "question": "What individual sport uses a foil, epee, or sabre?",
+    "answer": "Fencing."
+}

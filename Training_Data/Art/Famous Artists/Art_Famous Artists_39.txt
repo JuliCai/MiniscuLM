@@ -1,0 +1,4 @@
+{
+    "question": "Which artist painted The Sleeping Gypsy?",
+    "answer": "Henri Rousseau."
+}

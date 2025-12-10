@@ -1,0 +1,4 @@
+{
+    "question": "Define fascism.",
+    "answer": "Authoritarian ultranationalist political system."
+}

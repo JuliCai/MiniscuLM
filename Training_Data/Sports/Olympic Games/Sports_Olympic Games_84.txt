@@ -1,0 +1,4 @@
+{
+    "question": "What year did the first Paralympics occur?",
+    "answer": "1960"
+}

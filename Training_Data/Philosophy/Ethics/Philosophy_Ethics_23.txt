@@ -1,0 +1,4 @@
+{
+    "question": "Explain emotivism.",
+    "answer": "Moral statements express emotions, not facts."
+}

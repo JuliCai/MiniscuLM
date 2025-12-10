@@ -1,0 +1,4 @@
+{
+    "question": "What role does emotion play in aesthetics?",
+    "answer": "Central to experiencing art's value."
+}

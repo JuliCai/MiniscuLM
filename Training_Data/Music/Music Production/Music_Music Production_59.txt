@@ -1,0 +1,4 @@
+{
+    "question": "What is a chorus pedal?",
+    "answer": "Effect adding chorus sound to instruments."
+}

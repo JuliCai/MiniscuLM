@@ -1,0 +1,4 @@
+{
+    "question": "What is a plateau?",
+    "answer": "An elevated flat area of land."
+}

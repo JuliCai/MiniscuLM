@@ -1,0 +1,4 @@
+{
+    "question": "What is a key feature of Byzantine art?",
+    "answer": "Use of gold mosaics."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do cultural values influence music?",
+    "answer": "Values shape musical themes and styles."
+}

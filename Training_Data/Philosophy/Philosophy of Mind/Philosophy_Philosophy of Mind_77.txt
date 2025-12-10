@@ -1,0 +1,4 @@
+{
+    "question": "What is the split-brain phenomenon?",
+    "answer": "Severed corpus callosum divides mind."
+}

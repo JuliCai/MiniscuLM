@@ -1,0 +1,4 @@
+{
+    "question": "Who is Leo Strauss?",
+    "answer": "Political philosopher focused on classical texts."
+}

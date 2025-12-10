@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical connective?",
+    "answer": "Words like and, or, not, implying logical relations."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is Antonio Gramsci?",
+    "answer": "Marxist philosopher of cultural hegemony."
+}

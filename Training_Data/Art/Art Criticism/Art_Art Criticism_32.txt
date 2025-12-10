@@ -1,0 +1,4 @@
+{
+    "question": "What is 'visual analysis'?",
+    "answer": "Studying visual elements."
+}

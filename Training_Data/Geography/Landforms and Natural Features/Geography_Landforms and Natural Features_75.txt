@@ -1,0 +1,4 @@
+{
+    "question": "What is an isthmus used for?",
+    "answer": "Connects two land masses."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What sport involves riding a horse and shooting targets?",
+    "answer": "Modern pentathlon."
+}

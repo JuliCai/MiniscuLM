@@ -1,0 +1,4 @@
+{
+    "question": "What is a muralist\u2019s challenge?",
+    "answer": "Large scale and weather."
+}

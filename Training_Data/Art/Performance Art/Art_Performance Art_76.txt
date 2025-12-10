@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of silence?",
+    "answer": "Enhances focus or meaning."
+}

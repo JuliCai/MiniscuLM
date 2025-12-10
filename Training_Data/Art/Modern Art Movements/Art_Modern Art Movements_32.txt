@@ -1,0 +1,4 @@
+{
+    "question": "What is the key feature of Post-Impressionism?",
+    "answer": "Expressive use of color."
+}

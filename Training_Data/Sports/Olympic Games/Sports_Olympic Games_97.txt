@@ -1,0 +1,4 @@
+{
+    "question": "Which country hosted the 1994 Winter Olympics?",
+    "answer": "Norway"
+}

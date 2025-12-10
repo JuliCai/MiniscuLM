@@ -1,0 +1,4 @@
+{
+    "question": "Who is Immanuel Kant?",
+    "answer": "Philosopher known for deontological ethics."
+}

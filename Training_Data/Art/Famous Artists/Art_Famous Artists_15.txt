@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is famous for abstract drip paintings?",
+    "answer": "Jackson Pollock."
+}

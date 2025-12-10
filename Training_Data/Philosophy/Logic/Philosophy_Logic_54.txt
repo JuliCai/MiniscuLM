@@ -1,0 +1,4 @@
+{
+    "question": "What is a hypothesis in logical argument?",
+    "answer": "An assumption to be tested or proven."
+}

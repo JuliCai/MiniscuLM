@@ -1,0 +1,4 @@
+{
+    "question": "Define 'depth of field' in photography.",
+    "answer": "Range of sharp focus in an image."
+}

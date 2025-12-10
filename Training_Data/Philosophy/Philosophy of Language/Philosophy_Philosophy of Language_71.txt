@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic entailment'?",
+    "answer": "Meaning implies another meaning."
+}

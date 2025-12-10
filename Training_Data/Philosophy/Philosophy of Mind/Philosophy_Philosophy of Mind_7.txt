@@ -1,0 +1,4 @@
+{
+    "question": "What does 'intentionality' mean?",
+    "answer": "Mind's capacity to represent things."
+}

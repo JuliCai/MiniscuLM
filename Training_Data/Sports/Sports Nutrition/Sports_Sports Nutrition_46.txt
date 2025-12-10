@@ -1,0 +1,4 @@
+{
+    "question": "What supplement aids endurance?",
+    "answer": "Beta-alanine"
+}

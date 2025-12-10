@@ -1,0 +1,4 @@
+{
+    "question": "What is a disputed territory?",
+    "answer": "Area claimed by multiple states."
+}

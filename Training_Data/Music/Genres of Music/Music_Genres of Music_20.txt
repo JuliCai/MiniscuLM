@@ -1,0 +1,4 @@
+{
+    "question": "Which genre features call and response patterns?",
+    "answer": "Gospel"
+}

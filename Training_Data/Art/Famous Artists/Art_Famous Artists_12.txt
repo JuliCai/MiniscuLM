@@ -1,0 +1,4 @@
+{
+    "question": "Who painted Girl with a Pearl Earring?",
+    "answer": "Johannes Vermeer."
+}

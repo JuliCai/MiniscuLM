@@ -1,0 +1,4 @@
+{
+    "question": "What does 'geopolitics' study?",
+    "answer": "Influence of geography on politics."
+}

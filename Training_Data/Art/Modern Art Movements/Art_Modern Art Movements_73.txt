@@ -1,0 +1,4 @@
+{
+    "question": "Who created 'No. 5, 1948'?",
+    "answer": "Jackson Pollock."
+}

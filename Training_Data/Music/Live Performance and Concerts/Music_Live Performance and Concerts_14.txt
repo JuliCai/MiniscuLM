@@ -1,0 +1,4 @@
+{
+    "question": "What is stage lighting?",
+    "answer": "Lights used to enhance performances."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does team leadership influence performance?",
+    "answer": "Guides motivation and conflict resolution."
+}

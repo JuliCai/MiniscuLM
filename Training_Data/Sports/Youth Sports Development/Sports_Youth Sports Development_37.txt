@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports encourage healthy habits?",
+    "answer": "Regular exercise and diet awareness."
+}

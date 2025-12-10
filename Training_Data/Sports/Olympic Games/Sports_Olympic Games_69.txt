@@ -1,0 +1,4 @@
+{
+    "question": "Which country hosted the 1998 Winter Olympics?",
+    "answer": "Japan"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does music reflect gender roles?",
+    "answer": "Music can reinforce or challenge gender norms."
+}

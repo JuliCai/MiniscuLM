@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Latvia?",
+    "answer": "Latvian Basketball League."
+}

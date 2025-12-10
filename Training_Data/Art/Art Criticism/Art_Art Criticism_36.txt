@@ -1,0 +1,4 @@
+{
+    "question": "What is 'context' in art criticism?",
+    "answer": "Historical and cultural factors."
+}

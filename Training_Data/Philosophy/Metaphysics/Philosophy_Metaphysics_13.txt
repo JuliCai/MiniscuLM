@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical realism?",
+    "answer": "Objects exist independently of perception."
+}

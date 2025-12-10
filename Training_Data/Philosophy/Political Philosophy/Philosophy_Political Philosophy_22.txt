@@ -1,0 +1,4 @@
+{
+    "question": "What is communitarianism?",
+    "answer": "Focus on community and social cohesion."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of pain in Chris Burden's work?",
+    "answer": "Explores limits and sacrifice."
+}

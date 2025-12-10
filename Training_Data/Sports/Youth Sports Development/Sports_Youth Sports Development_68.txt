@@ -1,0 +1,4 @@
+{
+    "question": "What is a common motivational tool in youth sports?",
+    "answer": "Goal setting."
+}

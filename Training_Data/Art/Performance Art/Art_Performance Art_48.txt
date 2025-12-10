@@ -1,0 +1,4 @@
+{
+    "question": "What is relational aesthetics?",
+    "answer": "Art based on social interactions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical theory'?",
+    "answer": "Analyzing culture and power."
+}

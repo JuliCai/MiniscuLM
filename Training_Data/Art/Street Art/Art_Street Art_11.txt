@@ -1,0 +1,4 @@
+{
+    "question": "What is a graffiti tag?",
+    "answer": "A stylized signature of the artist."
+}

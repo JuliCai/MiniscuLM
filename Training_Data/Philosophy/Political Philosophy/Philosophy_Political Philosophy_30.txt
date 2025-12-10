@@ -1,0 +1,4 @@
+{
+    "question": "Who is Michel Foucault?",
+    "answer": "Philosopher on power and knowledge relations."
+}

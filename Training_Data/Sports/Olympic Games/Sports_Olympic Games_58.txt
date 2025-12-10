@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1956 Olympics?",
+    "answer": "Melbourne"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a volcanic island?",
+    "answer": "Island formed by volcanic activity."
+}

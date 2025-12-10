@@ -1,0 +1,4 @@
+{
+    "question": "Define materialism.",
+    "answer": "Only matter and physical things exist."
+}

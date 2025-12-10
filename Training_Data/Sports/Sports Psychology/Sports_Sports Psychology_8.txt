@@ -1,0 +1,4 @@
+{
+    "question": "What does 'self-talk' mean in sports psychology?",
+    "answer": "Internal dialogue influencing confidence and focus."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'psychological momentum' in sports.",
+    "answer": "Perception of gaining advantage during competition."
+}

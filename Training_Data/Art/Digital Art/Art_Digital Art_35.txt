@@ -1,0 +1,4 @@
+{
+    "question": "What is rigging in digital animation?",
+    "answer": "Skeleton setup for character movement."
+}

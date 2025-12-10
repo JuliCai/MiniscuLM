@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of music in weddings?",
+    "answer": "Music celebrates and marks marriage traditions."
+}

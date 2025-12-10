@@ -1,0 +1,4 @@
+{
+    "question": "What is a potential negative of excessive competition?",
+    "answer": "Stress and burnout."
+}

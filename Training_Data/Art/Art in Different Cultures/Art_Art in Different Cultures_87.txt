@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of Dia de los Muertos art?",
+    "answer": "Honoring ancestors."
+}

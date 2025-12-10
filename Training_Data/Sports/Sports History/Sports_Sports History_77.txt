@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete won the first Olympic 100m sprint?",
+    "answer": "Thomas Burke."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a street art motif?",
+    "answer": "Recurring design or theme."
+}

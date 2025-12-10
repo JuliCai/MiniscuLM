@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between knowledge and wisdom?",
+    "answer": "Wisdom includes judgment and experience."
+}

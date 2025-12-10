@@ -1,0 +1,4 @@
+{
+    "question": "What is a scientific paradigm?",
+    "answer": "A framework containing theories and methods in science."
+}

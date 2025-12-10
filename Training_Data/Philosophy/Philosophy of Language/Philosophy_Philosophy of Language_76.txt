@@ -1,0 +1,4 @@
+{
+    "question": "Define 'illocution'.",
+    "answer": "Speaker's intention in utterance."
+}

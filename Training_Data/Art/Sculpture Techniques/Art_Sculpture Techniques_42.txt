@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a mold?",
+    "answer": "To replicate a sculpture."
+}

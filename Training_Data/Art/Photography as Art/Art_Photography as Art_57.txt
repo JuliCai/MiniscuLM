@@ -1,0 +1,4 @@
+{
+    "question": "How does scale influence photography as art?",
+    "answer": "Shows size relationships."
+}

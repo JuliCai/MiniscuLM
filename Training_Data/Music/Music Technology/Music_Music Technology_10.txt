@@ -1,0 +1,4 @@
+{
+    "question": "What does ADC mean?",
+    "answer": "Analog to Digital Converter."
+}

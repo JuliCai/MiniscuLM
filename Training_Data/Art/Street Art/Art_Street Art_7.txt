@@ -1,0 +1,4 @@
+{
+    "question": "What style is Banksy known for?",
+    "answer": "Stencil graffiti with social messages."
+}

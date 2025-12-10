@@ -1,0 +1,4 @@
+{
+    "question": "What is the Olympic motto?",
+    "answer": "Citius, Altius, Fortius"
+}

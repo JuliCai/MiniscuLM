@@ -1,0 +1,4 @@
+{
+    "question": "How does music influence culture?",
+    "answer": "Music reflects and shapes cultural identity and values."
+}

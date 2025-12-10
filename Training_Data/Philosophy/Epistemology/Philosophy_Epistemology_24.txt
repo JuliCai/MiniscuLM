@@ -1,0 +1,4 @@
+{
+    "question": "What is testimonial knowledge?",
+    "answer": "Knowledge gained from others' reports."
+}

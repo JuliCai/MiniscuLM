@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports reduce screen time?",
+    "answer": "Promotes physical activity."
+}

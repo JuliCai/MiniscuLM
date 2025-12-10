@@ -1,0 +1,4 @@
+{
+    "question": "Name the Olympic sport involving ice skating jumps.",
+    "answer": "Figure skating"
+}

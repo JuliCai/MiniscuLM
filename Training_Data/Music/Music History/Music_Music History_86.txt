@@ -1,0 +1,4 @@
+{
+    "question": "What music era is known for strict counterpoint?",
+    "answer": "Baroque."
+}

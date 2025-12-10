@@ -1,0 +1,4 @@
+{
+    "question": "What role does pattern play in photography?",
+    "answer": "Creates rhythm and interest."
+}

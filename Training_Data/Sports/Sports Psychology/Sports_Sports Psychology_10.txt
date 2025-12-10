@@ -1,0 +1,4 @@
+{
+    "question": "What is mental toughness?",
+    "answer": "Ability to maintain performance under stress."
+}

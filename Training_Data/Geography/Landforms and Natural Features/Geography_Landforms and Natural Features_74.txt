@@ -1,0 +1,4 @@
+{
+    "question": "What is a butte formed from?",
+    "answer": "Erosion of plateau."
+}

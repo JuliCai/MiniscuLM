@@ -1,0 +1,4 @@
+{
+    "question": "Who is the father of epistemology?",
+    "answer": "Ren\u00e9 Descartes."
+}

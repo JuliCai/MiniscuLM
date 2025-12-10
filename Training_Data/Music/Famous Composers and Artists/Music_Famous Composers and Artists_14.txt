@@ -1,0 +1,4 @@
+{
+    "question": "Who composed The Magic Flute?",
+    "answer": "Wolfgang Amadeus Mozart."
+}

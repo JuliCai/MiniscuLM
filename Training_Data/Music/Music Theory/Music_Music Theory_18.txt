@@ -1,0 +1,4 @@
+{
+    "question": "Define 'counterpoint'.",
+    "answer": "Independent melodic lines played simultaneously."
+}

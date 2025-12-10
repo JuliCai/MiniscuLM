@@ -1,0 +1,4 @@
+{
+    "question": "What is existentialism?",
+    "answer": "A philosophy about individual existence and freedom."
+}

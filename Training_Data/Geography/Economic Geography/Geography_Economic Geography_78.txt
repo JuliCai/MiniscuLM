@@ -1,0 +1,4 @@
+{
+    "question": "What is regional specialization?",
+    "answer": "Area focuses on certain industries."
+}

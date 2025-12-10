@@ -1,0 +1,4 @@
+{
+    "question": "What is 'theoretical virtue' in science?",
+    "answer": "Qualities like simplicity, coherence, and explanatory power."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a low-pass filter?",
+    "answer": "Allows low frequencies to pass."
+}

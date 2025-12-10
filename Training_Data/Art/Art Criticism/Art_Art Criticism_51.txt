@@ -1,0 +1,4 @@
+{
+    "question": "What is 'viewer interpretation'?",
+    "answer": "Audience's understanding."
+}

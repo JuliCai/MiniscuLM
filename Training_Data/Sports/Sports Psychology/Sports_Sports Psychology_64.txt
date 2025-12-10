@@ -1,0 +1,4 @@
+{
+    "question": "How does goal setting affect motivation?",
+    "answer": "Provides clear targets, enhancing effort."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who created the Statue of Liberty?",
+    "answer": "Fr\u00e9d\u00e9ric Auguste Bartholdi."
+}

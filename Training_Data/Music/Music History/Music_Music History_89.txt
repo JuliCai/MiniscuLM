@@ -1,0 +1,4 @@
+{
+    "question": "Who composed the opera The Marriage of Figaro?",
+    "answer": "Wolfgang Amadeus Mozart."
+}

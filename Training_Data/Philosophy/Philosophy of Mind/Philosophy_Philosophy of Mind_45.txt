@@ -1,0 +1,4 @@
+{
+    "question": "What is the relevance of neuroscience to philosophy of mind?",
+    "answer": "Studies brain mechanisms of mind."
+}

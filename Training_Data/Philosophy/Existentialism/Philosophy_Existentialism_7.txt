@@ -1,0 +1,4 @@
+{
+    "question": "What is 'bad faith' in existentialism?",
+    "answer": "Self-deception denying one's freedom."
+}

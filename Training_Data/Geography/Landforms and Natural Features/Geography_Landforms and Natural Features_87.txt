@@ -1,0 +1,4 @@
+{
+    "question": "What is a plateau's elevation?",
+    "answer": "Higher than surrounding land."
+}

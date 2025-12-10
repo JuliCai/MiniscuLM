@@ -1,0 +1,4 @@
+{
+    "question": "What is a mural festival?",
+    "answer": "Event celebrating mural paintings."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is ethical nihilism?",
+    "answer": "Belief that no moral values exist."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What instrument is commonly used in rock music?",
+    "answer": "The electric guitar is common in rock."
+}

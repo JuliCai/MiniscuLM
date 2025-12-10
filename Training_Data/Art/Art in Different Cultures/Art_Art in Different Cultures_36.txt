@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is known for intricate lace-making?",
+    "answer": "European cultures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a try in rugby?",
+    "answer": "Score by grounding ball over goal."
+}

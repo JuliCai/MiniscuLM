@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic externalism?",
+    "answer": "Justification depends on external factors."
+}

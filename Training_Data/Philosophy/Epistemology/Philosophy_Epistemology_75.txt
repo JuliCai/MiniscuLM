@@ -1,0 +1,4 @@
+{
+    "question": "What is fallibilism?",
+    "answer": "Beliefs can be justified but false."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'metaphor' mean in philosophy?",
+    "answer": "Figurative language conveying meaning."
+}

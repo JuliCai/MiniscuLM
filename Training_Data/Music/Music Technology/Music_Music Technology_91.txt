@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW clip consolidation?",
+    "answer": "Merging clips into one."
+}

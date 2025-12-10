@@ -1,0 +1,4 @@
+{
+    "question": "What is the state of nature?",
+    "answer": "Hypothetical pre-society human condition."
+}

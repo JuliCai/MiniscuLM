@@ -1,0 +1,4 @@
+{
+    "question": "What does a compressor do?",
+    "answer": "Reduces dynamic range of audio."
+}

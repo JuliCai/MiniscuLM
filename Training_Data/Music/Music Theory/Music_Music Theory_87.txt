@@ -1,0 +1,4 @@
+{
+    "question": "Define 'bass line'.",
+    "answer": "Lowest part in harmony."
+}

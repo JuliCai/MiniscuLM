@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW transport?",
+    "answer": "Controls play, stop, record functions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What technique uses hammer and chisel?",
+    "answer": "Stone carving."
+}

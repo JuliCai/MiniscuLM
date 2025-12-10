@@ -1,0 +1,4 @@
+{
+    "question": "Name a combat sport using gloves and a ring.",
+    "answer": "Boxing."
+}

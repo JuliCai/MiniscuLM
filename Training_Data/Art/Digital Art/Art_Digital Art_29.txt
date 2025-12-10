@@ -1,0 +1,4 @@
+{
+    "question": "What is a tablet display?",
+    "answer": "Screen allowing direct drawing input."
+}

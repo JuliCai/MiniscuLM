@@ -1,0 +1,4 @@
+{
+    "question": "What is MIDI channel?",
+    "answer": "Separate communication path for MIDI."
+}

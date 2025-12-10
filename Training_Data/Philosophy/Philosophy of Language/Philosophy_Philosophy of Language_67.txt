@@ -1,0 +1,4 @@
+{
+    "question": "What is 'speech community'?",
+    "answer": "People sharing language norms."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define metaphysical reductionism.",
+    "answer": "Reducing complex phenomena to simpler parts."
+}

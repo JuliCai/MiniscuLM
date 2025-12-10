@@ -1,0 +1,4 @@
+{
+    "question": "What is a stereo track?",
+    "answer": "Two channel audio track."
+}

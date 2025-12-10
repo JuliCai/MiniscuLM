@@ -1,0 +1,4 @@
+{
+    "question": "What does 'sound argument' mean?",
+    "answer": "A valid argument with all true premises."
+}

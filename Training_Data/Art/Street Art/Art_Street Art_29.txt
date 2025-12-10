@@ -1,0 +1,4 @@
+{
+    "question": "What style is seen in street art?",
+    "answer": "Abstract, realistic, pop art."
+}

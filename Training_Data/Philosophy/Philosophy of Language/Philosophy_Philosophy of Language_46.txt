@@ -1,0 +1,4 @@
+{
+    "question": "What is an 'illocutionary act'?",
+    "answer": "Intended action by speaking."
+}

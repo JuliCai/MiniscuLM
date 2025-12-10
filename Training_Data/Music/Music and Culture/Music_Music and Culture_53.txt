@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of music in indigenous cultures?",
+    "answer": "Music preserves heritage and spiritual beliefs."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Garden of Earthly Delights?",
+    "answer": "Hieronymus Bosch."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a VST plugin?",
+    "answer": "Software instrument or effect in DAWs."
+}

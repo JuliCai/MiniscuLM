@@ -1,0 +1,4 @@
+{
+    "question": "What is a common challenge in youth sports?",
+    "answer": "Balancing competition and fun."
+}

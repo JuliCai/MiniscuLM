@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous metaphysical work.",
+    "answer": "Aristotle's Metaphysics."
+}

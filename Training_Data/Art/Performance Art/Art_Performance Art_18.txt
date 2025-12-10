@@ -1,0 +1,4 @@
+{
+    "question": "How does performance art challenge norms?",
+    "answer": "By breaking traditional art rules."
+}

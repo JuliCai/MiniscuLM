@@ -1,0 +1,4 @@
+{
+    "question": "Define knowledge in epistemology.",
+    "answer": "Justified true belief."
+}

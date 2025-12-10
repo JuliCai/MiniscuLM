@@ -1,0 +1,4 @@
+{
+    "question": "Define melody.",
+    "answer": "A sequence of musical notes forming a tune."
+}

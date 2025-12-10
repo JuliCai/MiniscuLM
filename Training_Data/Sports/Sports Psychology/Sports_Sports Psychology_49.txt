@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'inverted-U hypothesis'?",
+    "answer": "Performance peaks at moderate arousal levels."
+}

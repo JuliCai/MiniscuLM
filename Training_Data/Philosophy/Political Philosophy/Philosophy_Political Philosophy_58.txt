@@ -1,0 +1,4 @@
+{
+    "question": "What is political legitimacy?",
+    "answer": "Acceptance of authority by the people."
+}

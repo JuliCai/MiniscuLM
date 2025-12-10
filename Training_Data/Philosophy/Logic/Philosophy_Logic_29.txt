@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between validity and soundness.",
+    "answer": "Validity relates to form; soundness includes truth."
+}

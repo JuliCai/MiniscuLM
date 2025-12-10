@@ -1,0 +1,4 @@
+{
+    "question": "Which art movement emerged in the 1960s?",
+    "answer": "Pop Art."
+}

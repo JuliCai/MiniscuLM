@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of uniformity?",
+    "answer": "Natural laws are consistent across time and space."
+}

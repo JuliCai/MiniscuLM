@@ -1,0 +1,4 @@
+{
+    "question": "What is a conditional statement?",
+    "answer": "An if-then statement linking two propositions."
+}

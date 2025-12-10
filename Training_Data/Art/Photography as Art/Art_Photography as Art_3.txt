@@ -1,0 +1,4 @@
+{
+    "question": "What is composition in photography?",
+    "answer": "Arrangement of elements in a photo."
+}

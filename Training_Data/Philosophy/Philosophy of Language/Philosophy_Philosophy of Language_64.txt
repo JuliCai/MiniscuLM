@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of 'syntax'?",
+    "answer": "Rules for sentence structure."
+}

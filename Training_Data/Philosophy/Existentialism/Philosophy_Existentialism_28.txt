@@ -1,0 +1,4 @@
+{
+    "question": "Name Camus' famous essay.",
+    "answer": "'The Myth of Sisyphus.'"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What role does time play in metaphysics?",
+    "answer": "Nature and existence of time."
+}

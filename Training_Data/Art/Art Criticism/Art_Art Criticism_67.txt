@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic symbolism examples'?",
+    "answer": "Dove for peace."
+}

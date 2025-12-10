@@ -1,0 +1,4 @@
+{
+    "question": "What is minimalism in art?",
+    "answer": "Simplicity and minimal elements."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between equality and equity?",
+    "answer": "Sameness vs. fairness in treatment."
+}

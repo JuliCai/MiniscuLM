@@ -1,0 +1,4 @@
+{
+    "question": "What is a sequence in music?",
+    "answer": "Repeated melodic pattern at different pitches."
+}

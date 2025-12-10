@@ -1,0 +1,4 @@
+{
+    "question": "Who proposed the demarcation problem?",
+    "answer": "Karl Popper."
+}

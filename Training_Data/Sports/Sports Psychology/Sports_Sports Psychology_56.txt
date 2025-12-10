@@ -1,0 +1,4 @@
+{
+    "question": "What factors influence self-confidence in sports?",
+    "answer": "Past successes, feedback, and preparation."
+}

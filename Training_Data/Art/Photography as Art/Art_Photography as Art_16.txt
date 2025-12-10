@@ -1,0 +1,4 @@
+{
+    "question": "What is framing in photography?",
+    "answer": "Using elements to encase the subject."
+}

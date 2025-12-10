@@ -1,0 +1,4 @@
+{
+    "question": "Which individual sport involves lifting heavy weights?",
+    "answer": "Weightlifting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain input?",
+    "answer": "Signal triggering an effect dynamically."
+}

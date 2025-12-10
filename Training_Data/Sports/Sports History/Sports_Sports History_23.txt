@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the first Winter Olympics?",
+    "answer": "Chamonix, 1924."
+}

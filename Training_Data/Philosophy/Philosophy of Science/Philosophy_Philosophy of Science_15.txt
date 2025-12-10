@@ -1,0 +1,4 @@
+{
+    "question": "What is the problem of theory-ladenness?",
+    "answer": "Observations are influenced by theoretical beliefs."
+}

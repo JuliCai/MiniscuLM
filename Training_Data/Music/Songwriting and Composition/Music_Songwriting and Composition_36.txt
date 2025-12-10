@@ -1,0 +1,4 @@
+{
+    "question": "What does 'bridge' typically do?",
+    "answer": "Provides contrast before final chorus."
+}

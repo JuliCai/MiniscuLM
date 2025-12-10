@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art for art's sake'?",
+    "answer": "Art valued independently of utility."
+}

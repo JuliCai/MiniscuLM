@@ -1,0 +1,4 @@
+{
+    "question": "Define sampling in music.",
+    "answer": "Using recorded sounds in new compositions."
+}

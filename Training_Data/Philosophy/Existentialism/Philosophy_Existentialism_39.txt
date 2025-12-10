@@ -1,0 +1,4 @@
+{
+    "question": "What is existentialism's stance on social norms?",
+    "answer": "Often challenges conformity and norms."
+}

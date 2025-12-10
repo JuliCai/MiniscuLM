@@ -1,0 +1,4 @@
+{
+    "question": "What art movement used everyday objects?",
+    "answer": "Dada."
+}

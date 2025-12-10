@@ -1,0 +1,4 @@
+{
+    "question": "Define 'locutionary act'.",
+    "answer": "The act of saying something."
+}

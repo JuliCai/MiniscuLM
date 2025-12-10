@@ -1,0 +1,4 @@
+{
+    "question": "What is Abstract Expressionism's focus?",
+    "answer": "Emotional intensity."
+}

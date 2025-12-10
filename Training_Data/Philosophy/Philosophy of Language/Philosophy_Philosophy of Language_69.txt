@@ -1,0 +1,4 @@
+{
+    "question": "What is 'referential opacity'?",
+    "answer": "Substitution can change truth value."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a stencil?",
+    "answer": "Cut-out template for painting."
+}

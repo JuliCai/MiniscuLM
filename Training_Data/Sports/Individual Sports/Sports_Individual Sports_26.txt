@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport where players try to hit a ball over a net with a racket.",
+    "answer": "Tennis."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can confidence affect athletes?",
+    "answer": "Increases risk-taking and resilience under pressure."
+}

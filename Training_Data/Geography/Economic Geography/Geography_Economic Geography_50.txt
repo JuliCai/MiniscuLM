@@ -1,0 +1,4 @@
+{
+    "question": "What is economic specialization?",
+    "answer": "Focus on specific industries."
+}

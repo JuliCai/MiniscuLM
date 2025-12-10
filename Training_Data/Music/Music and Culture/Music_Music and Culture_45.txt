@@ -1,0 +1,4 @@
+{
+    "question": "What is a common theme in country music?",
+    "answer": "Country music often tells stories of life."
+}

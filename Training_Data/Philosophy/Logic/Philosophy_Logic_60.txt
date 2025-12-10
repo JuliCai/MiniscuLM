@@ -1,0 +1,4 @@
+{
+    "question": "What is a conditional proof?",
+    "answer": "Proving an implication by assuming antecedent."
+}

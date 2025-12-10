@@ -1,0 +1,4 @@
+{
+    "question": "Explain metaphysical pluralism.",
+    "answer": "Multiple fundamental substances exist."
+}

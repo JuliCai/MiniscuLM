@@ -1,0 +1,4 @@
+{
+    "question": "Who holds the record for most NBA championships?",
+    "answer": "Bill Russell with 11 titles."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of sleep hygiene for athletes?",
+    "answer": "Ensures quality rest for recovery."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How is 'style' analyzed?",
+    "answer": "By visual characteristics."
+}

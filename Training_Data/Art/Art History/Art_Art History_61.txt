@@ -1,0 +1,4 @@
+{
+    "question": "What does 'Impression' in Impressionism mean?",
+    "answer": "Momentary effect of light."
+}

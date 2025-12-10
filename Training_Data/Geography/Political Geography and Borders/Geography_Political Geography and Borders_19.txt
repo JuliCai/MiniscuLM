@@ -1,0 +1,4 @@
+{
+    "question": "What is a territorial sea?",
+    "answer": "Sea zone controlled by a state."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the equipment for skateboarding.",
+    "answer": "Skateboard and helmet."
+}

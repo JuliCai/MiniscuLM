@@ -1,0 +1,4 @@
+{
+    "question": "Define in-the-round sculpture.",
+    "answer": "Freestanding sculpture viewable from all sides."
+}

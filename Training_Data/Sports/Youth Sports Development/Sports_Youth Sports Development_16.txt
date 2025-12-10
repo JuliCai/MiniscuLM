@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of physical education in youth sports?",
+    "answer": "Foundation for athletic skills."
+}

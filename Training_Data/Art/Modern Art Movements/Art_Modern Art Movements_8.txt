@@ -1,0 +1,4 @@
+{
+    "question": "Which movement emphasizes spontaneity?",
+    "answer": "Abstract Expressionism."
+}

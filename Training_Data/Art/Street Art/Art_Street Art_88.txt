@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of location in street art?",
+    "answer": "Enhances message and visibility."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a shuttle?",
+    "answer": "Badminton uses a shuttlecock."
+}

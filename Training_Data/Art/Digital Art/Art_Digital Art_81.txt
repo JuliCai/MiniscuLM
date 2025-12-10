@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art frame rate?",
+    "answer": "Frames per second in animation."
+}

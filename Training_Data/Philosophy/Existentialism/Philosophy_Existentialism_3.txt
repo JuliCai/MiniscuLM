@@ -1,0 +1,4 @@
+{
+    "question": "What does 'existence precedes essence' mean?",
+    "answer": "We define ourselves by actions, not nature."
+}

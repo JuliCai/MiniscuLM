@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic innovation examples'?",
+    "answer": "Cubism, abstract art."
+}

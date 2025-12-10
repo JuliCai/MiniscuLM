@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival wristband?",
+    "answer": "Access pass for multi-day events."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting camp?",
+    "answer": "Event for collaborative songwriting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'expressionism'?",
+    "answer": "Art emphasizing emotional experience."
+}

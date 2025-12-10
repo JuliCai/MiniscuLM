@@ -1,0 +1,4 @@
+{
+    "question": "How does music affect national identity?",
+    "answer": "Music symbolizes and unites nations."
+}

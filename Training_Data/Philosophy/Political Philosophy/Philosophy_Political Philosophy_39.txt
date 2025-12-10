@@ -1,0 +1,4 @@
+{
+    "question": "Define meritocracy.",
+    "answer": "Rule by those with ability and talent."
+}

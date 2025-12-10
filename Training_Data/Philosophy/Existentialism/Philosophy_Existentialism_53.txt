@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of choice in identity?",
+    "answer": "Choice creates personal identity."
+}

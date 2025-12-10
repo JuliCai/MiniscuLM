@@ -1,0 +1,4 @@
+{
+    "question": "What is a frequency spectrum?",
+    "answer": "Range of all frequencies present."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between stencil and freehand?",
+    "answer": "Stencil uses templates, freehand is manual."
+}

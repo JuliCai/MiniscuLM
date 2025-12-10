@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'language as representation'.",
+    "answer": "Language models reality."
+}

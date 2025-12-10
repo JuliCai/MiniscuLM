@@ -1,0 +1,4 @@
+{
+    "question": "What is the is-ought problem?",
+    "answer": "Can't derive moral ought from factual is."
+}

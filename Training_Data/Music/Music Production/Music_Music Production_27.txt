@@ -1,0 +1,4 @@
+{
+    "question": "Explain quantization in music.",
+    "answer": "Aligning notes to grid for timing."
+}

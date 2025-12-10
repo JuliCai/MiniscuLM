@@ -1,0 +1,4 @@
+{
+    "question": "Who is Jeremy Bentham?",
+    "answer": "Founder of utilitarianism."
+}

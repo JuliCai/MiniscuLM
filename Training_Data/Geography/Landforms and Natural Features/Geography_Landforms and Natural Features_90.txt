@@ -1,0 +1,4 @@
+{
+    "question": "What is a sea stack?",
+    "answer": "Isolated rock formation in ocean."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW bus?",
+    "answer": "Route multiple tracks to one output."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Why avoid heavy meals before exercise?",
+    "answer": "Can cause discomfort"
+}

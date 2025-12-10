@@ -1,0 +1,4 @@
+{
+    "question": "What is a decay in synthesis?",
+    "answer": "Time for sound to fade after attack."
+}

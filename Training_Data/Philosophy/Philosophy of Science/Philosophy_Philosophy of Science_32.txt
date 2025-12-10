@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of prediction in science.",
+    "answer": "Testing theories by forecasting outcomes."
+}

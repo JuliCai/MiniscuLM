@@ -1,0 +1,4 @@
+{
+    "question": "What is used for measuring time in races?",
+    "answer": "Stopwatch."
+}

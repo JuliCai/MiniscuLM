@@ -1,0 +1,4 @@
+{
+    "question": "How do pop songs reflect youth culture?",
+    "answer": "Pop lyrics often mirror youth trends and issues."
+}

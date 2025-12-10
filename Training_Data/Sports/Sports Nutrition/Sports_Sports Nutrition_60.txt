@@ -1,0 +1,4 @@
+{
+    "question": "What does a sports diet exclude?",
+    "answer": "Excessive junk food"
+}

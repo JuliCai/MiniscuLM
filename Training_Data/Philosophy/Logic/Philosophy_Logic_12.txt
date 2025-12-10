@@ -1,0 +1,4 @@
+{
+    "question": "What is abductive reasoning?",
+    "answer": "Inference to the best explanation from observations."
+}

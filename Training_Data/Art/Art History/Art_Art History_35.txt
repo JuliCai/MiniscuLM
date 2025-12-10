@@ -1,0 +1,4 @@
+{
+    "question": "What art style uses bright colors and thick paint?",
+    "answer": "Fauvism."
+}

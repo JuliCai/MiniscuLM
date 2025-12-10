@@ -1,0 +1,4 @@
+{
+    "question": "What is 'figurative meaning'?",
+    "answer": "Non-literal, metaphorical meaning."
+}

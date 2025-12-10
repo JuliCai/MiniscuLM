@@ -1,0 +1,4 @@
+{
+    "question": "Define the problem of other minds.",
+    "answer": "How to know others have minds."
+}

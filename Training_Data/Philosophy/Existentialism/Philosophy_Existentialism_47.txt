@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of absurdity?",
+    "answer": "Life has no inherent meaning."
+}

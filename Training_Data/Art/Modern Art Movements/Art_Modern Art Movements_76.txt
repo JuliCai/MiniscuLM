@@ -1,0 +1,4 @@
+{
+    "question": "What art form did Fluxus promote?",
+    "answer": "Experimental and interdisciplinary."
+}

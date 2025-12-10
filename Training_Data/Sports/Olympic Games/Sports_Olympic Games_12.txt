@@ -1,0 +1,4 @@
+{
+    "question": "Name the Olympic mascot for 1992 Barcelona Games.",
+    "answer": "Cobi"
+}

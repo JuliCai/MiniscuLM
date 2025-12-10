@@ -1,0 +1,4 @@
+{
+    "question": "What is social ethics?",
+    "answer": "Morality governing society's behavior."
+}

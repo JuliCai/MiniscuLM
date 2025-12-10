@@ -1,0 +1,4 @@
+{
+    "question": "What is a fallacy of equivocation?",
+    "answer": "Using a word with multiple meanings ambiguously."
+}

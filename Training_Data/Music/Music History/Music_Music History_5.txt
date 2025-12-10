@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is central in blues music?",
+    "answer": "The guitar."
+}

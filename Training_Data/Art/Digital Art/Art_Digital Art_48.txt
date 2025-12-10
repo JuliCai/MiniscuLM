@@ -1,0 +1,4 @@
+{
+    "question": "What is a vector path?",
+    "answer": "Line defined by points."
+}

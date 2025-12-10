@@ -1,0 +1,4 @@
+{
+    "question": "What is a biconditional statement?",
+    "answer": "P if and only if Q; both imply each other."
+}

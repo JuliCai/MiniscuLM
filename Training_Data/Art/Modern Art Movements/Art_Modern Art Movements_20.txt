@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the collage?",
+    "answer": "Pablo Picasso and Georges Braque."
+}

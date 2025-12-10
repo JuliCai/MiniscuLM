@@ -1,0 +1,4 @@
+{
+    "question": "What sport has innings?",
+    "answer": "Baseball and cricket have innings."
+}

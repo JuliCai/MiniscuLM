@@ -1,0 +1,4 @@
+{
+    "question": "What causes an earthquake?",
+    "answer": "Movement of tectonic plates."
+}

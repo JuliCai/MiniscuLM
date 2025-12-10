@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Structure of Scientific Revolutions'?",
+    "answer": "Thomas Kuhn."
+}

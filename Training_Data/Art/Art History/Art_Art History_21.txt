@@ -1,0 +1,4 @@
+{
+    "question": "Name an artist from the Dutch Golden Age.",
+    "answer": "Rembrandt."
+}

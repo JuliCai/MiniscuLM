@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is known for surrealism and double images?",
+    "answer": "Ren\u00e9 Magritte."
+}

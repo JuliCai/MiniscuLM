@@ -1,0 +1,4 @@
+{
+    "question": "What is a moral theory?",
+    "answer": "A system explaining right and wrong."
+}

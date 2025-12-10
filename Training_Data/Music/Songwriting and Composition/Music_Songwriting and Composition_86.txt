@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting chord?",
+    "answer": "Group of notes played together."
+}

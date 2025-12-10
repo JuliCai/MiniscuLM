@@ -1,0 +1,4 @@
+{
+    "question": "What role does the audience play?",
+    "answer": "Active participant or observer."
+}

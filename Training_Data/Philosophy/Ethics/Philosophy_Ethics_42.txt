@@ -1,0 +1,4 @@
+{
+    "question": "What is moral responsibility?",
+    "answer": "Being accountable for one's actions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does composition guide the viewer?",
+    "answer": "Leads eyes through the image."
+}

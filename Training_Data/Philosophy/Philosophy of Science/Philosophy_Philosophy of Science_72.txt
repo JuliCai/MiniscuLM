@@ -1,0 +1,4 @@
+{
+    "question": "What is a paradigm?",
+    "answer": "Shared scientific practices and beliefs."
+}

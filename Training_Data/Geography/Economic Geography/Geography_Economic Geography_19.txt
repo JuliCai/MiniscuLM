@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'rust belt' in the USA?",
+    "answer": "Declining industrial region."
+}

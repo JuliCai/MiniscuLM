@@ -1,0 +1,4 @@
+{
+    "question": "What is 'language acquisition device'?",
+    "answer": "Innate mechanism for learning language."
+}

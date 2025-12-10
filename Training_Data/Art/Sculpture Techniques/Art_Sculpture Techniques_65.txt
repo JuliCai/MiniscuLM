@@ -1,0 +1,4 @@
+{
+    "question": "What is the main material in lost-wax casting?",
+    "answer": "Wax."
+}

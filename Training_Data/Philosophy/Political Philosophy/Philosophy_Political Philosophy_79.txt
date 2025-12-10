@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of ideology.",
+    "answer": "System of political ideas and values."
+}

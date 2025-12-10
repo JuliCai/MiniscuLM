@@ -1,0 +1,4 @@
+{
+    "question": "How does technology affect economic geography?",
+    "answer": "Changes production and trade methods."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What culture is associated with reggae?",
+    "answer": "Reggae is linked to Jamaican culture."
+}

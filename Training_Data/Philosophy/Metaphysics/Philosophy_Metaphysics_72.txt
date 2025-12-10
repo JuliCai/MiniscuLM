@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical fatalism?",
+    "answer": "Future is fixed."
+}

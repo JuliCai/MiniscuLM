@@ -1,0 +1,4 @@
+{
+    "question": "How does mindfulness training benefit athletes?",
+    "answer": "Improves focus and reduces anxiety."
+}

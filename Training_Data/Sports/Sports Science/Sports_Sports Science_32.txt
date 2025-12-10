@@ -1,0 +1,4 @@
+{
+    "question": "What is a concussion?",
+    "answer": "Brain injury from impact."
+}

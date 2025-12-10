@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art history's' relation to criticism?",
+    "answer": "Provides context for critique."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a keystone species?",
+    "answer": "Species crucial for ecosystem balance."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the premier professional hockey league in Russia.",
+    "answer": "KHL (Kontinental Hockey League)."
+}

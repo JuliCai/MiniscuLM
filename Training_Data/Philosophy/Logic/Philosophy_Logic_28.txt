@@ -1,0 +1,4 @@
+{
+    "question": "What is a premise?",
+    "answer": "A statement supporting a conclusion."
+}

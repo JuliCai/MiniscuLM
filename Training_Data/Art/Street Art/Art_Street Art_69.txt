@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of street art on tourism?",
+    "answer": "Attracts visitors."
+}

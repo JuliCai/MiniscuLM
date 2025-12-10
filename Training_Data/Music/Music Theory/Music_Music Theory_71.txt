@@ -1,0 +1,4 @@
+{
+    "question": "Define 'tonic chord'.",
+    "answer": "Chord built on tonic note."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a street artist\u2019s signature?",
+    "answer": "Unique tag or symbol."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does functionalism state?",
+    "answer": "Mental states are defined by function."
+}

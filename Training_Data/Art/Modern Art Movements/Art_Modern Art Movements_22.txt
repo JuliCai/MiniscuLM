@@ -1,0 +1,4 @@
+{
+    "question": "Describe the Bauhaus movement.",
+    "answer": "Functional and modern design."
+}

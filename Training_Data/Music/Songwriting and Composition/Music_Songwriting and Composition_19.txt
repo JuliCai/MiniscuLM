@@ -1,0 +1,4 @@
+{
+    "question": "Define syncopation.",
+    "answer": "Emphasizing off-beats rhythmically."
+}

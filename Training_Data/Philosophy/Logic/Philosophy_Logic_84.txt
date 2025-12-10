@@ -1,0 +1,4 @@
+{
+    "question": "What is a semantic tableau?",
+    "answer": "A tree method for testing satisfiability of formulas."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'emotional regulation' in athletes.",
+    "answer": "Managing emotions to maintain performance."
+}

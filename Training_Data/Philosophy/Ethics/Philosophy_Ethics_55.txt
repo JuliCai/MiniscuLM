@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between positive and negative freedom?",
+    "answer": "Positive is freedom to; negative is freedom from."
+}

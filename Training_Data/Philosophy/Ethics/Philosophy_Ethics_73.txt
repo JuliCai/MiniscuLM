@@ -1,0 +1,4 @@
+{
+    "question": "What is moral agency?",
+    "answer": "Ability to make ethical decisions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Why is music important in ceremonies?",
+    "answer": "Music marks and celebrates cultural ceremonies."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a proposition?",
+    "answer": "The meaning expressed by a declarative sentence."
+}

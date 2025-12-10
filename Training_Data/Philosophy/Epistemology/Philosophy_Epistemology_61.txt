@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of testimony in epistemology?",
+    "answer": "Source of knowledge from others."
+}

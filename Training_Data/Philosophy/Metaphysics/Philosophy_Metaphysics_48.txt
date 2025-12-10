@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical role of consciousness?",
+    "answer": "Its nature and relation to reality."
+}

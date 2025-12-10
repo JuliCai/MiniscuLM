@@ -1,0 +1,4 @@
+{
+    "question": "Which island is divided by a political border?",
+    "answer": "Ireland."
+}

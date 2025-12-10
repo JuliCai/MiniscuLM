@@ -1,0 +1,4 @@
+{
+    "question": "Who is Albert Camus?",
+    "answer": "An existentialist and absurdist writer."
+}

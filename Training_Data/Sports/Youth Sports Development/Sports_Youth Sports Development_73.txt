@@ -1,0 +1,4 @@
+{
+    "question": "How can youth athletes prevent overuse injuries?",
+    "answer": "Cross-training and rest."
+}

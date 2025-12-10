@@ -1,0 +1,4 @@
+{
+    "question": "Is performance art documented?",
+    "answer": "Yes, via media."
+}

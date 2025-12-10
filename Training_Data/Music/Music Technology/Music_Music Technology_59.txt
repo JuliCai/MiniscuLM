@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW snap function?",
+    "answer": "Aligns edits to grid points."
+}

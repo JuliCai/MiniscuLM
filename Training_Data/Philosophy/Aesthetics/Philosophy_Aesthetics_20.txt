@@ -1,0 +1,4 @@
+{
+    "question": "Can nature be aesthetic?",
+    "answer": "Yes, often inspires beauty."
+}

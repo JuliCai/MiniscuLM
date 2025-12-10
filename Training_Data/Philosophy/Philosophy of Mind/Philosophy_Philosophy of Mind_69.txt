@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between first-person and third-person perspectives?",
+    "answer": "First-person is subjective; third-person objective."
+}

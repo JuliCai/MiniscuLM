@@ -1,0 +1,4 @@
+{
+    "question": "What influence did African music have on jazz?",
+    "answer": "African rhythms shaped jazz's foundation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between foundationalism and infinitism?",
+    "answer": "Basic beliefs vs. infinite regress."
+}

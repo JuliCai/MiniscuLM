@@ -1,0 +1,4 @@
+{
+    "question": "What is used in pole vaulting?",
+    "answer": "Pole vault pole."
+}

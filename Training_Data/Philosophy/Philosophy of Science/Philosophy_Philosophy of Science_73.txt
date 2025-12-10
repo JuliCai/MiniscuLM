@@ -1,0 +1,4 @@
+{
+    "question": "What does the term 'scientific revolution' mean?",
+    "answer": "Fundamental change in scientific thought."
+}

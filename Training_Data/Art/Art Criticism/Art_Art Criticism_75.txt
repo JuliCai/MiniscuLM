@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic content examples'?",
+    "answer": "Themes of love."
+}

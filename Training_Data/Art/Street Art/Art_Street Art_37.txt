@@ -1,0 +1,4 @@
+{
+    "question": "Is street art influenced by hip-hop?",
+    "answer": "Yes, graffiti is a hip-hop element."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first woman to win an Olympic gold?",
+    "answer": "H\u00e9l\u00e8ne de Pourtal\u00e8s in 1900."
+}

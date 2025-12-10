@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and politics?",
+    "answer": "Ethics concerns morality; politics concerns power."
+}

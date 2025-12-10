@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of a lasso tool?",
+    "answer": "Select irregular areas."
+}

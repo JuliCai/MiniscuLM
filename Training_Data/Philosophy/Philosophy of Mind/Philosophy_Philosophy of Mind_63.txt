@@ -1,0 +1,4 @@
+{
+    "question": "Define phenomenal consciousness.",
+    "answer": "Subjective experience or feeling."
+}

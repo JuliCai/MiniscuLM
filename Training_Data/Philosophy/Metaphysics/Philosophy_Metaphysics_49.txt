@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical view of panpsychism?",
+    "answer": "Consciousness is universal."
+}

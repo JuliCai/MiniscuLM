@@ -1,0 +1,4 @@
+{
+    "question": "What is a sampler?",
+    "answer": "Instrument playing back recorded sounds."
+}

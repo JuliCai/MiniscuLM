@@ -1,0 +1,4 @@
+{
+    "question": "What is a lyric hook?",
+    "answer": "Catchy phrase in lyrics."
+}

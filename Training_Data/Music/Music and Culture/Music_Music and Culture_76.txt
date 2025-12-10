@@ -1,0 +1,4 @@
+{
+    "question": "What is the influence of African rhythms on Latin music?",
+    "answer": "African rhythms shaped many Latin styles."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a pad in synthesis?",
+    "answer": "Soft, atmospheric sound."
+}

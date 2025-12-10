@@ -1,0 +1,4 @@
+{
+    "question": "What is a border checkpoint?",
+    "answer": "Place for border inspection."
+}

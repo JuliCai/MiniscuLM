@@ -1,0 +1,4 @@
+{
+    "question": "What do swimmers wear on their eyes?",
+    "answer": "Goggles."
+}

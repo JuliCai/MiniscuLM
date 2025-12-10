@@ -1,0 +1,4 @@
+{
+    "question": "What is social contract theory?",
+    "answer": "Morality arises from agreements among individuals."
+}

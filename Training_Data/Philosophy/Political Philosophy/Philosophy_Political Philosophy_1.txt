@@ -1,0 +1,4 @@
+{
+    "question": "Who is John Locke?",
+    "answer": "Philosopher known for social contract theory."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country first hosted the Winter Olympics?",
+    "answer": "France."
+}

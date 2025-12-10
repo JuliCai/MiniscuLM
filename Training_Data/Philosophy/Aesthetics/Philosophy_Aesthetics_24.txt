@@ -1,0 +1,4 @@
+{
+    "question": "What does 'aesthetic value' mean?",
+    "answer": "Worth based on beauty or art."
+}

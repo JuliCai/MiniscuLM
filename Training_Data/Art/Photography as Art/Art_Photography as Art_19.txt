@@ -1,0 +1,4 @@
+{
+    "question": "Can photography be considered fine art?",
+    "answer": "Yes, when creatively expressed."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is political nihilism?",
+    "answer": "Rejection of political and social norms."
+}

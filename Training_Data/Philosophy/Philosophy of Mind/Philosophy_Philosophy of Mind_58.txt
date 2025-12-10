@@ -1,0 +1,4 @@
+{
+    "question": "Explain dual-aspect theory.",
+    "answer": "Mind and matter are two aspects."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is known for pop art portraits?",
+    "answer": "Andy Warhol."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define eccentric muscle contraction.",
+    "answer": "Muscle lengthens under tension."
+}

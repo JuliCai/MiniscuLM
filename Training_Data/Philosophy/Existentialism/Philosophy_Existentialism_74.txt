@@ -1,0 +1,4 @@
+{
+    "question": "What is 'self-deception' in existentialism?",
+    "answer": "Denying one's freedom."
+}

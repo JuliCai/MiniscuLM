@@ -1,0 +1,4 @@
+{
+    "question": "Name an existentialist play.",
+    "answer": "'No Exit' by Jean-Paul Sartre."
+}

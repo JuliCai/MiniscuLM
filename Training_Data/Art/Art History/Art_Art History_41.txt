@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous female artist from the 20th century.",
+    "answer": "Frida Kahlo."
+}

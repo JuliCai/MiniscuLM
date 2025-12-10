@@ -1,0 +1,4 @@
+{
+    "question": "What is a silhouette in photography?",
+    "answer": "Dark subject against bright background."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is panpsychism?",
+    "answer": "Mind or consciousness is universal."
+}

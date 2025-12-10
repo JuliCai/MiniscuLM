@@ -1,0 +1,4 @@
+{
+    "question": "What is digital sculpting?",
+    "answer": "3D modeling by shaping virtual clay."
+}

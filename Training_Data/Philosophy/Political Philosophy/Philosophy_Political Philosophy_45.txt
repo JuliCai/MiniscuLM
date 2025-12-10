@@ -1,0 +1,4 @@
+{
+    "question": "Who is Alasdair MacIntyre?",
+    "answer": "Philosopher of virtue ethics and politics."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a buffer state?",
+    "answer": "Neutral country between rivals."
+}

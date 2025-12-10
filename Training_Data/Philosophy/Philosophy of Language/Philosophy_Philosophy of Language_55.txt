@@ -1,0 +1,4 @@
+{
+    "question": "Who is Noam Chomsky?",
+    "answer": "Linguist and philosopher of language."
+}

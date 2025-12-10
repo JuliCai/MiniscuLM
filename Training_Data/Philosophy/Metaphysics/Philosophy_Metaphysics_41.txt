@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical realism about properties?",
+    "answer": "Properties exist independently of objects."
+}

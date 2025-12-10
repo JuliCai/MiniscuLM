@@ -1,0 +1,4 @@
+{
+    "question": "What is an A minor chord?",
+    "answer": "Chord with A, C, and E notes."
+}

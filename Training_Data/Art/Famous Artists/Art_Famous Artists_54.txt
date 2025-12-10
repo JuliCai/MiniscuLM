@@ -1,0 +1,4 @@
+{
+    "question": "Who created the painting The Fighting Temeraire?",
+    "answer": "J.M.W. Turner."
+}

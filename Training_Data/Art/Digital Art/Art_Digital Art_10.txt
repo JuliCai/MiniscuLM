@@ -1,0 +1,4 @@
+{
+    "question": "Which software is used for 3D digital art?",
+    "answer": "Blender."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW track?",
+    "answer": "Single audio or MIDI channel in DAW."
+}

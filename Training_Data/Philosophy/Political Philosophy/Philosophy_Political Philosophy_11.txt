@@ -1,0 +1,4 @@
+{
+    "question": "Who is Niccol\u00f2 Machiavelli?",
+    "answer": "Author of 'The Prince', political realism."
+}

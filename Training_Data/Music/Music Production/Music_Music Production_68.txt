@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain trigger?",
+    "answer": "Input signal activating sidechain effect."
+}

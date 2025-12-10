@@ -1,0 +1,4 @@
+{
+    "question": "Which league is known for the NBA All-Star Game?",
+    "answer": "NBA."
+}

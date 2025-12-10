@@ -1,0 +1,4 @@
+{
+    "question": "How do reflections add to photographic art?",
+    "answer": "Create symmetry and layers."
+}

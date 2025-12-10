@@ -1,0 +1,4 @@
+{
+    "question": "What is contraposition?",
+    "answer": "Switching and negating hypothesis and conclusion in an implication."
+}

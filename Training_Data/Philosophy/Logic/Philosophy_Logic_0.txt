@@ -1,0 +1,4 @@
+{
+    "question": "What is a syllogism?",
+    "answer": "A form of deductive reasoning with two premises."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is scientific empiricism?",
+    "answer": "Knowledge through sensory experience."
+}

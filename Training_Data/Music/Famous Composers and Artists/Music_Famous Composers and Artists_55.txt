@@ -1,0 +1,4 @@
+{
+    "question": "Who composed the opera The Barber of Seville?",
+    "answer": "Gioachino Rossini."
+}

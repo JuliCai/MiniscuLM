@@ -1,0 +1,4 @@
+{
+    "question": "What equipment influences photographic art?",
+    "answer": "Camera, lenses, and lighting tools."
+}

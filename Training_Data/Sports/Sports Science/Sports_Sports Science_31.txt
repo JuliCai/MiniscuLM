@@ -1,0 +1,4 @@
+{
+    "question": "Explain the principle of specificity.",
+    "answer": "Training matches sport demands."
+}

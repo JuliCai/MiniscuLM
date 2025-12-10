@@ -1,0 +1,4 @@
+{
+    "question": "How many players on court in basketball?",
+    "answer": "Five players per team."
+}

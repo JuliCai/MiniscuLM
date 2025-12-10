@@ -1,0 +1,4 @@
+{
+    "question": "What is Fauvism known for?",
+    "answer": "Bold, vivid colors."
+}

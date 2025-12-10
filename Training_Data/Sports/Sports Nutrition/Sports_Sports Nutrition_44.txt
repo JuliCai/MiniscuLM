@@ -1,0 +1,4 @@
+{
+    "question": "How does iron deficiency affect athletes?",
+    "answer": "Causes fatigue"
+}

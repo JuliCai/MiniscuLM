@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is small and often used in folk music?",
+    "answer": "The mandolin is small in folk music."
+}

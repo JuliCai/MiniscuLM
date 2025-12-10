@@ -1,0 +1,4 @@
+{
+    "question": "What is moral absolutism?",
+    "answer": "Fixed moral truths regardless of context."
+}

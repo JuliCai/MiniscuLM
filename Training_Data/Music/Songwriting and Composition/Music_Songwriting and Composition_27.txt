@@ -1,0 +1,4 @@
+{
+    "question": "What is a lyric meter?",
+    "answer": "The rhythmic structure of lyrics."
+}

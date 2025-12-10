@@ -1,0 +1,4 @@
+{
+    "question": "Who is the founder of Cubism?",
+    "answer": "Pablo Picasso."
+}

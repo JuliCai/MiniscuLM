@@ -1,0 +1,4 @@
+{
+    "question": "Which country controls the Panama Canal?",
+    "answer": "Panama."
+}

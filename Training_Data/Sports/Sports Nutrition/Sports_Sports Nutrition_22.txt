@@ -1,0 +1,4 @@
+{
+    "question": "What protein source is vegan-friendly?",
+    "answer": "Legumes or tofu"
+}

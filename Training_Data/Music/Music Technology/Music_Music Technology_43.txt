@@ -1,0 +1,4 @@
+{
+    "question": "What is a spectral analyzer?",
+    "answer": "Visualizes frequency content of audio."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does motivation affect athletes?",
+    "answer": "Boosts effort and persistence in training."
+}

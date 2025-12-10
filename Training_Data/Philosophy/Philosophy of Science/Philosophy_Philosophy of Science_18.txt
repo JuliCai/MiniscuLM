@@ -1,0 +1,4 @@
+{
+    "question": "What is a scientific law?",
+    "answer": "A statement describing consistent natural phenomena."
+}

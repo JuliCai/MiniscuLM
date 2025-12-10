@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of a mold in casting?",
+    "answer": "Shape the liquid material."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can street art be digital?",
+    "answer": "Yes, projections or digital murals."
+}

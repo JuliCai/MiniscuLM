@@ -1,0 +1,4 @@
+{
+    "question": "What is the origin of the blues?",
+    "answer": "Blues originated in African American communities."
+}

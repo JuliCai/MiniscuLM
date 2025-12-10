@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical notation'.",
+    "answer": "Symbols used to express logical statements."
+}

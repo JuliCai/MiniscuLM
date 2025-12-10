@@ -1,0 +1,4 @@
+{
+    "question": "What is a ticket refund?",
+    "answer": "Money returned for canceled show."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is a pioneer of abstract expressionism?",
+    "answer": "Willem de Kooning."
+}

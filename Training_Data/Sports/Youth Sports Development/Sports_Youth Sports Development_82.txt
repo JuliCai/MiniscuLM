@@ -1,0 +1,4 @@
+{
+    "question": "How can sportsmanship be encouraged?",
+    "answer": "Fair play emphasis."
+}

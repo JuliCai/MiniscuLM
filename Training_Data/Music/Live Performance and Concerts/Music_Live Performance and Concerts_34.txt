@@ -1,0 +1,4 @@
+{
+    "question": "What is a seated concert?",
+    "answer": "Concert with assigned seats."
+}

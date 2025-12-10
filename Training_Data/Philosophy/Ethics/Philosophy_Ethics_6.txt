@@ -1,0 +1,4 @@
+{
+    "question": "What does 'moral absolutism' mean?",
+    "answer": "Some morals are universally true."
+}

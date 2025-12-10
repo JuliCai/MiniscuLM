@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantize grid?",
+    "answer": "Timing grid for note alignment."
+}

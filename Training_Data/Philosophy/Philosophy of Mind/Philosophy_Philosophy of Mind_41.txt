@@ -1,0 +1,4 @@
+{
+    "question": "Who coined the term 'qualia'?",
+    "answer": "Philosophers like C.I. Lewis and Clarence Irving."
+}

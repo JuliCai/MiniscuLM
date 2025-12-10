@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first golfer to win the Masters?",
+    "answer": "Horton Smith, 1934."
+}

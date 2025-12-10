@@ -1,0 +1,4 @@
+{
+    "question": "Explain republicanism.",
+    "answer": "Emphasis on civic virtue and public good."
+}

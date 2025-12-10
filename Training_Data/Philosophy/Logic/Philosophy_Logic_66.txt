@@ -1,0 +1,4 @@
+{
+    "question": "What is a disjunction?",
+    "answer": "A logical OR statement between propositions."
+}

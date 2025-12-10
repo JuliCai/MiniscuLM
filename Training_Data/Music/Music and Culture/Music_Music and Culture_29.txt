@@ -1,0 +1,4 @@
+{
+    "question": "How do lyrics reflect cultural issues?",
+    "answer": "Lyrics address societal challenges and beliefs."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a sound bleed?",
+    "answer": "Unwanted audio spill between mics."
+}

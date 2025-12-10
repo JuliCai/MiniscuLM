@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Creation of Adam?",
+    "answer": "Michelangelo."
+}

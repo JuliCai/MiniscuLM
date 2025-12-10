@@ -1,0 +1,4 @@
+{
+    "question": "What is rationalism?",
+    "answer": "Knowledge through reason alone."
+}

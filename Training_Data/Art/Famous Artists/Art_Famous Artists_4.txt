@@ -1,0 +1,4 @@
+{
+    "question": "Which artist cut off his own ear?",
+    "answer": "Vincent van Gogh."
+}

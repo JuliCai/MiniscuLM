@@ -1,0 +1,4 @@
+{
+    "question": "What is the origin of hip-hop music?",
+    "answer": "Hip-hop began in 1970s New York City."
+}

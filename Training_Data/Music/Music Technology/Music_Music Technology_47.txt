@@ -1,0 +1,4 @@
+{
+    "question": "What is a gate in audio?",
+    "answer": "Reduces noise below threshold."
+}

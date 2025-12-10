@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW sidechain ducking?",
+    "answer": "Lowering volume when triggered."
+}

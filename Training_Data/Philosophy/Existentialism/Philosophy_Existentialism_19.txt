@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist's stance on God?",
+    "answer": "Varies; some reject, others focus on faith."
+}

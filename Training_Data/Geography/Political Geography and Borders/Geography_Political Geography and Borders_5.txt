@@ -1,0 +1,4 @@
+{
+    "question": "What is a demilitarized zone?",
+    "answer": "Area with no military forces allowed."
+}

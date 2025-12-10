@@ -1,0 +1,4 @@
+{
+    "question": "What is a population in biogeography?",
+    "answer": "Group of same species in an area."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is used in archery?",
+    "answer": "Bow and arrows."
+}

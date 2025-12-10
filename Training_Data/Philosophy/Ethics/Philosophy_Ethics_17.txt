@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and law?",
+    "answer": "Ethics are moral guidelines; laws are enforced rules."
+}

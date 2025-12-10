@@ -1,0 +1,4 @@
+{
+    "question": "What is 'indexical'?",
+    "answer": "Word pointing to context."
+}

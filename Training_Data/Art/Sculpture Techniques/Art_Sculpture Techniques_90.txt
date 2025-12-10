@@ -1,0 +1,4 @@
+{
+    "question": "What is the lost-wax method?",
+    "answer": "Casting from wax model."
+}

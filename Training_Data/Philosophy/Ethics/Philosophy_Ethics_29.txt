@@ -1,0 +1,4 @@
+{
+    "question": "Define altruism.",
+    "answer": "Selfless concern for others' welfare."
+}

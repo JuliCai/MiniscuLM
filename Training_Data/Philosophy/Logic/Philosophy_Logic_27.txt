@@ -1,0 +1,4 @@
+{
+    "question": "Define consistency in logic.",
+    "answer": "No contradictions within a set of statements."
+}

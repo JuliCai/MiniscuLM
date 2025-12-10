@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of shock in performance art?",
+    "answer": "To provoke thought or reaction."
+}

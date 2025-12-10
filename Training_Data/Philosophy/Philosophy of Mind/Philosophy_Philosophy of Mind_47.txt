@@ -1,0 +1,4 @@
+{
+    "question": "Explain mind uploading concept.",
+    "answer": "Transferring mind to digital form."
+}

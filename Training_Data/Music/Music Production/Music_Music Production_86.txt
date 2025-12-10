@@ -1,0 +1,4 @@
+{
+    "question": "What is a sidechain input in compressor?",
+    "answer": "Signal controlling compression effect."
+}

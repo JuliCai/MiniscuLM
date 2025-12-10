@@ -1,0 +1,4 @@
+{
+    "question": "What is falsifiability in science?",
+    "answer": "Criterion for scientific theories to be testable and refutable."
+}

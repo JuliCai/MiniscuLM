@@ -1,0 +1,4 @@
+{
+    "question": "What is 'ornament' in aesthetics?",
+    "answer": "Decorative elements in art."
+}

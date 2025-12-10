@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic shift'?",
+    "answer": "Change in word meaning over time."
+}

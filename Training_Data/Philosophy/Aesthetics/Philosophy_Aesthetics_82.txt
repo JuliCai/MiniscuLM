@@ -1,0 +1,4 @@
+{
+    "question": "What is 'cognitive value' in art?",
+    "answer": "Knowledge gained from art."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does feminism study politically?",
+    "answer": "Gender equality and women's rights."
+}

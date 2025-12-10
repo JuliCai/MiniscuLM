@@ -1,0 +1,4 @@
+{
+    "question": "How does street art impact communities?",
+    "answer": "It can inspire or provoke thought."
+}

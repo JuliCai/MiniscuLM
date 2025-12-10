@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is known for wooden totem poles?",
+    "answer": "Pacific Northwest Indigenous."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical anti-realism?",
+    "answer": "Reality dependent on mind."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define scientific realism.",
+    "answer": "Belief that scientific theories describe reality accurately."
+}

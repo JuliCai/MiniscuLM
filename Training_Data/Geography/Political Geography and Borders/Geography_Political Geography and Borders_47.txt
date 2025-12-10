@@ -1,0 +1,4 @@
+{
+    "question": "What is an international zone?",
+    "answer": "Area governed by multiple countries."
+}

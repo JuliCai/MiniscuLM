@@ -1,0 +1,4 @@
+{
+    "question": "What is a common youth sports safety measure?",
+    "answer": "Proper equipment use."
+}

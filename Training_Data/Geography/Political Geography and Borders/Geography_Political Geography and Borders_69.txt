@@ -1,0 +1,4 @@
+{
+    "question": "What is a border region?",
+    "answer": "Area near a political boundary."
+}

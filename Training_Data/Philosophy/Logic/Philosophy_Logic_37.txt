@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between necessary and sufficient conditions.",
+    "answer": "Necessary must be true; sufficient guarantees truth."
+}

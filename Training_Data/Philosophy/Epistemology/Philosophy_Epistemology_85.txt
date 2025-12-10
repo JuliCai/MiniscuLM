@@ -1,0 +1,4 @@
+{
+    "question": "What is skepticism about the external world?",
+    "answer": "Doubting reality beyond perception."
+}

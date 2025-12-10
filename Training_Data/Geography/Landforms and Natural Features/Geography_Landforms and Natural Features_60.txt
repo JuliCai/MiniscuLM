@@ -1,0 +1,4 @@
+{
+    "question": "Define a volcanic crater.",
+    "answer": "A bowl-shaped volcanic depression."
+}

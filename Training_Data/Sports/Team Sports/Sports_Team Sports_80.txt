@@ -1,0 +1,4 @@
+{
+    "question": "How long is a basketball quarter?",
+    "answer": "12 minutes in NBA."
+}

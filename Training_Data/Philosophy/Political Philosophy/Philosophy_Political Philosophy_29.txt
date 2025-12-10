@@ -1,0 +1,4 @@
+{
+    "question": "What is the veil of ignorance?",
+    "answer": "Rawls' thought experiment for fairness."
+}

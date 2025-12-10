@@ -1,0 +1,4 @@
+{
+    "question": "Name a performance art piece.",
+    "answer": "Marina Abramovi\u0107's 'The Artist Is Present'."
+}

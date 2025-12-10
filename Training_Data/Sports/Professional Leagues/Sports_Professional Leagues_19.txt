@@ -1,0 +1,4 @@
+{
+    "question": "Name the top professional basketball league in China.",
+    "answer": "CBA (Chinese Basketball Association)."
+}

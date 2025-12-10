@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear needed for fencing.",
+    "answer": "Foil or \u00e9p\u00e9e."
+}

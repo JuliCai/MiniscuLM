@@ -1,0 +1,4 @@
+{
+    "question": "What is liberalism?",
+    "answer": "Political philosophy favoring liberty and equality."
+}

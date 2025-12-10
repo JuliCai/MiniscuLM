@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW arrangement view?",
+    "answer": "Where tracks are sequenced over time."
+}

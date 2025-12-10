@@ -1,0 +1,4 @@
+{
+    "question": "What is a free variable?",
+    "answer": "A variable not bound by quantifiers."
+}

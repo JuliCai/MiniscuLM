@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between positive and negative rights?",
+    "answer": "Positive require action; negative require non-interference."
+}

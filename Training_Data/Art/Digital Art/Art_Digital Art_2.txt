@@ -1,0 +1,4 @@
+{
+    "question": "What tool mimics traditional painting digitally?",
+    "answer": "Digital brush tool."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a common supplement for joint health?",
+    "answer": "Glucosamine"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a smudge tool?",
+    "answer": "Blend colors by dragging."
+}

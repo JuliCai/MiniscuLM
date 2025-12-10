@@ -1,0 +1,4 @@
+{
+    "question": "What is a LFO?",
+    "answer": "Low-frequency oscillator modulating sound."
+}

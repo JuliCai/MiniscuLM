@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Old Guitarist?",
+    "answer": "Pablo Picasso."
+}

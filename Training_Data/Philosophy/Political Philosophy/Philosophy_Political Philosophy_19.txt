@@ -1,0 +1,4 @@
+{
+    "question": "Who is Karl Marx?",
+    "answer": "Philosopher of communism and class struggle."
+}

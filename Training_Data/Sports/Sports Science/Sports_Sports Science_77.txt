@@ -1,0 +1,4 @@
+{
+    "question": "Name a physiological benefit of regular exercise.",
+    "answer": "Improved cardiovascular health."
+}

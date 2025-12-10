@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical debate between realism and idealism?",
+    "answer": "Reality mind-independent vs mind-dependent."
+}

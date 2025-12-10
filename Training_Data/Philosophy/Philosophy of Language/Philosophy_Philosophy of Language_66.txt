@@ -1,0 +1,4 @@
+{
+    "question": "What is 'linguistic competence'?",
+    "answer": "Knowledge of language rules."
+}

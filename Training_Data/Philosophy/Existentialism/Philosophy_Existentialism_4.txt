@@ -1,0 +1,4 @@
+{
+    "question": "Name an existentialist novel.",
+    "answer": "'Nausea' by Jean-Paul Sartre."
+}

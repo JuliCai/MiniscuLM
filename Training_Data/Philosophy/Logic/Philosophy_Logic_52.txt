@@ -1,0 +1,4 @@
+{
+    "question": "What is a reductio ad absurdum?",
+    "answer": "Proving statement by showing contradiction if false."
+}

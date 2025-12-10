@@ -1,0 +1,4 @@
+{
+    "question": "Define 'spatial interaction.'",
+    "answer": "Movement between locations."
+}

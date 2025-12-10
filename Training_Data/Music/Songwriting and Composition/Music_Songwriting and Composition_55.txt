@@ -1,0 +1,4 @@
+{
+    "question": "What does 'rhyme scheme' mean?",
+    "answer": "Pattern of rhymes in lyrics."
+}

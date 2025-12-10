@@ -1,0 +1,4 @@
+{
+    "question": "Which Olympic event involves shooting and skiing?",
+    "answer": "Biathlon"
+}

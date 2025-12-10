@@ -1,0 +1,4 @@
+{
+    "question": "What is an alluvial fan?",
+    "answer": "Sediment formed fan-shaped deposit."
+}

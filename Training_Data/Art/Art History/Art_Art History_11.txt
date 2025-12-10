@@ -1,0 +1,4 @@
+{
+    "question": "What does 'abstract art' emphasize?",
+    "answer": "Shapes and colors over realistic forms."
+}

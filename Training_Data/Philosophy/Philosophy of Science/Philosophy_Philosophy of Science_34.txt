@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of peer review?",
+    "answer": "Ensures quality and credibility in scientific research."
+}

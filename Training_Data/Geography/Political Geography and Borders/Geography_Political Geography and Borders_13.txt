@@ -1,0 +1,4 @@
+{
+    "question": "What does sovereignty mean?",
+    "answer": "Full control over a territory."
+}

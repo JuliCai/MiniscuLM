@@ -1,0 +1,4 @@
+{
+    "question": "How does skepticism challenge epistemology?",
+    "answer": "By doubting possibility of knowledge."
+}

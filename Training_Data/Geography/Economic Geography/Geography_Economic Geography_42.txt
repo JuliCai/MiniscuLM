@@ -1,0 +1,4 @@
+{
+    "question": "How does climate affect economic geography?",
+    "answer": "Determines agricultural viability."
+}

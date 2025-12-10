@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of a sports psychologist during injury?",
+    "answer": "Providing mental support and coping strategies."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is economic clustering advantage?",
+    "answer": "Shared services and reduced costs."
+}

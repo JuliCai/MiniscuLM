@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between graffiti and vandalism?",
+    "answer": "Permission determines legality."
+}

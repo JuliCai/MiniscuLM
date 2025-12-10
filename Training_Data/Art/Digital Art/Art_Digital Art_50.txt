@@ -1,0 +1,4 @@
+{
+    "question": "What is digital airbrushing?",
+    "answer": "Soft color application technique."
+}

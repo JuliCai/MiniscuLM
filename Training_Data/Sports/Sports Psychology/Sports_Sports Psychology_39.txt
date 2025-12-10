@@ -1,0 +1,4 @@
+{
+    "question": "Define 'social facilitation' in sports.",
+    "answer": "Improved performance due to audience presence."
+}

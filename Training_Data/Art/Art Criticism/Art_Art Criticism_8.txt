@@ -1,0 +1,4 @@
+{
+    "question": "What is meant by 'aesthetic judgment'?",
+    "answer": "Evaluating beauty in art."
+}

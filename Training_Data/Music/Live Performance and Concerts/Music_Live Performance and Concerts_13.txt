@@ -1,0 +1,4 @@
+{
+    "question": "What is a VIP pass at concerts?",
+    "answer": "Special ticket for exclusive access."
+}

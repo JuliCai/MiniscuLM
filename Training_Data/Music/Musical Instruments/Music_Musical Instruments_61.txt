@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is famous for its wah-wah sound?",
+    "answer": "The electric guitar is famous for wah-wah."
+}

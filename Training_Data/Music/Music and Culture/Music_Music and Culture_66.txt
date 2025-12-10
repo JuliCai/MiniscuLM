@@ -1,0 +1,4 @@
+{
+    "question": "How does music influence dance styles?",
+    "answer": "Music tempo and rhythm shape dance movements."
+}

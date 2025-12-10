@@ -1,0 +1,4 @@
+{
+    "question": "Explain the Gettier problem.",
+    "answer": "Challenges justified true belief as knowledge."
+}

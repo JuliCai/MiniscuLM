@@ -1,0 +1,4 @@
+{
+    "question": "What defines Cubism in art?",
+    "answer": "Geometric shapes and multiple viewpoints."
+}

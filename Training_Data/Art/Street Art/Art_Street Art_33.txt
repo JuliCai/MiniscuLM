@@ -1,0 +1,4 @@
+{
+    "question": "What is bombing in graffiti?",
+    "answer": "Tagging many places quickly."
+}

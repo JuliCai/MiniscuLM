@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'dynamics' in music.",
+    "answer": "Variations in loudness."
+}

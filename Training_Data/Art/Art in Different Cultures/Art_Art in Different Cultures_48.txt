@@ -1,0 +1,4 @@
+{
+    "question": "What is the main focus in Surrealist art?",
+    "answer": "Dreams and subconscious."
+}

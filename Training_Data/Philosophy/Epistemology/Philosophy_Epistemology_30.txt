@@ -1,0 +1,4 @@
+{
+    "question": "What is the M\u00fcnchhausen trilemma?",
+    "answer": "Three unsatisfactory justification options."
+}

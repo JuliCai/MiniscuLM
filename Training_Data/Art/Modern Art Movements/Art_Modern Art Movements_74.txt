@@ -1,0 +1,4 @@
+{
+    "question": "What is the Bauhaus style known for?",
+    "answer": "Simplicity and function."
+}

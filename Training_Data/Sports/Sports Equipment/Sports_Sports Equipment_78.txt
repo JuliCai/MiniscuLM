@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear used in polo.",
+    "answer": "Polo mallet and ball."
+}

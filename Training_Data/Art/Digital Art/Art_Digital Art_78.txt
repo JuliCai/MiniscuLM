@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of the pen tool?",
+    "answer": "Draw precise paths."
+}

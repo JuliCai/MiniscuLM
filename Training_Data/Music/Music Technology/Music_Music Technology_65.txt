@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW track freeze?",
+    "answer": "Renders track to save CPU."
+}

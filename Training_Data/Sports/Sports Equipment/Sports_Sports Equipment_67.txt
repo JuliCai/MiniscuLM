@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear used in triathlon.",
+    "answer": "Bike, running shoes, and wetsuit."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who proposed the theory of descriptions?",
+    "answer": "Bertrand Russell."
+}

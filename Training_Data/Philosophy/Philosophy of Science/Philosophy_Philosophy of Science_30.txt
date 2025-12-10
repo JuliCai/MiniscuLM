@@ -1,0 +1,4 @@
+{
+    "question": "What is the correspondence theory of truth?",
+    "answer": "Truth corresponds to objective reality."
+}

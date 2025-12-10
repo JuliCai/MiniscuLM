@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of a histogram?",
+    "answer": "Shows image tone distribution."
+}

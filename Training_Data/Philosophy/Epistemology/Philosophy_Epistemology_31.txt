@@ -1,0 +1,4 @@
+{
+    "question": "What does 'Gettier case' demonstrate?",
+    "answer": "Justified true belief may be insufficient."
+}

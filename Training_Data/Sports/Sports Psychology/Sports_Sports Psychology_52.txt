@@ -1,0 +1,4 @@
+{
+    "question": "How does social support influence athletes?",
+    "answer": "Provides emotional and practical assistance."
+}

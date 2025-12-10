@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic appreciation'?",
+    "answer": "Recognition of beauty."
+}

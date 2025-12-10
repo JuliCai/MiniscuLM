@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between civil rights and civil liberties.",
+    "answer": "Rights to equality vs. freedoms from government."
+}

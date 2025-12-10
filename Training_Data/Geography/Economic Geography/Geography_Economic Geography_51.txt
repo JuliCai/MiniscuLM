@@ -1,0 +1,4 @@
+{
+    "question": "Name a factor in site selection.",
+    "answer": "Land cost."
+}

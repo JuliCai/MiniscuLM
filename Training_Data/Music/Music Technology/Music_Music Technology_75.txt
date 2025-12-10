@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW auxiliary send?",
+    "answer": "Sends audio to effects or buses."
+}

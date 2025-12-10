@@ -1,0 +1,4 @@
+{
+    "question": "Who is a pioneer in color photography?",
+    "answer": "William Eggleston."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW MIDI quantize?",
+    "answer": "Aligns MIDI notes to grid."
+}

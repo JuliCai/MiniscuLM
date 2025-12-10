@@ -1,0 +1,4 @@
+{
+    "question": "What is a scale degree 7 called?",
+    "answer": "Leading tone."
+}

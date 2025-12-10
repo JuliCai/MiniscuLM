@@ -1,0 +1,4 @@
+{
+    "question": "How does motion blur add artistic effect?",
+    "answer": "Suggests movement and energy."
+}

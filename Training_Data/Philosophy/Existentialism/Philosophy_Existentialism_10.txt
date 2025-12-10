@@ -1,0 +1,4 @@
+{
+    "question": "Which philosopher is linked to existentialism and theology?",
+    "answer": "S\u00f8ren Kierkegaard."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic genre examples'?",
+    "answer": "Landscape, portrait."
+}

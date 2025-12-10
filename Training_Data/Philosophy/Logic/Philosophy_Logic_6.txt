@@ -1,0 +1,4 @@
+{
+    "question": "Define modus tollens.",
+    "answer": "If P then Q; not Q; therefore not P."
+}

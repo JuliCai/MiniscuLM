@@ -1,0 +1,4 @@
+{
+    "question": "What is a dotted note?",
+    "answer": "Note extended by half its value."
+}

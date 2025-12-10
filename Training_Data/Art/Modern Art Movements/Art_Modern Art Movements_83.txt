@@ -1,0 +1,4 @@
+{
+    "question": "What does Cubism reject?",
+    "answer": "Single viewpoint."
+}

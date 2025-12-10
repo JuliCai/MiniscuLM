@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a small white ball and a bat?",
+    "answer": "Cricket."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does music affect cultural identity?",
+    "answer": "It strengthens a group's shared identity."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'contextual criticism'?",
+    "answer": "Evaluates art based on context."
+}

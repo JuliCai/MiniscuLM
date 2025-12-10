@@ -1,0 +1,4 @@
+{
+    "question": "What is 'symbolism' in art?",
+    "answer": "Use of symbols to convey meaning."
+}

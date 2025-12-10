@@ -1,0 +1,4 @@
+{
+    "question": "Who is Friedrich Nietzsche in politics?",
+    "answer": "Critic of democracy and morality."
+}

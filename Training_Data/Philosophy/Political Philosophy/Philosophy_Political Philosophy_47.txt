@@ -1,0 +1,4 @@
+{
+    "question": "Explain elitism in political philosophy.",
+    "answer": "Rule by a privileged elite group."
+}

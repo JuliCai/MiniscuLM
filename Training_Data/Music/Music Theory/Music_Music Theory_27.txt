@@ -1,0 +1,4 @@
+{
+    "question": "What is a scale degree?",
+    "answer": "Position of a note in scale."
+}

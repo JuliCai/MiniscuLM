@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical consequence?",
+    "answer": "A statement necessarily following from premises."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can audience interaction change the work?",
+    "answer": "Yes, it can transform it."
+}

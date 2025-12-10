@@ -1,0 +1,4 @@
+{
+    "question": "What is sidechain compression?",
+    "answer": "Compression triggered by another signal."
+}

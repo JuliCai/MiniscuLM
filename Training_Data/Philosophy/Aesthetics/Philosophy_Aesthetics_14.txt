@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous aesthetic philosopher.",
+    "answer": "David Hume."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'ambiguity' in language?",
+    "answer": "Multiple meanings for one expression."
+}

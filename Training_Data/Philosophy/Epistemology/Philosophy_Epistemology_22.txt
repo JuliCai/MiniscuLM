@@ -1,0 +1,4 @@
+{
+    "question": "Define epistemic virtue.",
+    "answer": "Traits promoting knowledge acquisition."
+}

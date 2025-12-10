@@ -1,0 +1,4 @@
+{
+    "question": "Which team won the first Stanley Cup?",
+    "answer": "Montreal Hockey Club."
+}

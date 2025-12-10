@@ -1,0 +1,4 @@
+{
+    "question": "What is the main difference between carving and modeling?",
+    "answer": "Carving removes material; modeling adds material."
+}

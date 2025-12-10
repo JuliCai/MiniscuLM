@@ -1,0 +1,4 @@
+{
+    "question": "What is the main medium of fresco painting?",
+    "answer": "Water-based pigments on wet plaster."
+}

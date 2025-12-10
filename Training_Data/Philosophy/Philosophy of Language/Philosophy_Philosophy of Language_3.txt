@@ -1,0 +1,4 @@
+{
+    "question": "What is the Sapir-Whorf hypothesis?",
+    "answer": "Language influences thought and perception."
+}

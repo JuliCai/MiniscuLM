@@ -1,0 +1,4 @@
+{
+    "question": "What role does folk music play in culture?",
+    "answer": "Folk music preserves cultural stories and traditions."
+}

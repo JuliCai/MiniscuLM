@@ -1,0 +1,4 @@
+{
+    "question": "How do existentialists view death?",
+    "answer": "As an inevitable limit."
+}

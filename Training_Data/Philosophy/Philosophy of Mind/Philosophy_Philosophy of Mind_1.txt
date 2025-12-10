@@ -1,0 +1,4 @@
+{
+    "question": "Define physicalism in simple terms.",
+    "answer": "Everything is physical or material."
+}

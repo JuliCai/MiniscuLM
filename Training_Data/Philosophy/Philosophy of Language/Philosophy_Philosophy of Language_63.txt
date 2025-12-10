@@ -1,0 +1,4 @@
+{
+    "question": "What is 'conversational implicature'?",
+    "answer": "Implied meaning inferred from context."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define modus ponens.",
+    "answer": "If P then Q; P; therefore Q."
+}

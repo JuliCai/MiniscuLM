@@ -1,0 +1,4 @@
+{
+    "question": "Name a country with an island border dispute.",
+    "answer": "Japan."
+}

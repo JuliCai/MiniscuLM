@@ -1,0 +1,4 @@
+{
+    "question": "How does early exposure to sports benefit youth?",
+    "answer": "Builds foundational skills."
+}

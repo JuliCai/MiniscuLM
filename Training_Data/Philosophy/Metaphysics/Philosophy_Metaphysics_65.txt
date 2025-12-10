@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical view of time as cyclical?",
+    "answer": "Time repeats in cycles."
+}

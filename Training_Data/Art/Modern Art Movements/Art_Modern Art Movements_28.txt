@@ -1,0 +1,4 @@
+{
+    "question": "Which movement is characterized by optical illusions?",
+    "answer": "Op Art."
+}

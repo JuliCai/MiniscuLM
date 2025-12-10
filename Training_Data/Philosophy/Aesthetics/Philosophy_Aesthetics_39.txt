@@ -1,0 +1,4 @@
+{
+    "question": "What role does culture play in aesthetics?",
+    "answer": "Shapes aesthetic values and norms."
+}

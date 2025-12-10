@@ -1,0 +1,4 @@
+{
+    "question": "Name a strategy to prevent athlete burnout.",
+    "answer": "Balanced training and adequate rest periods."
+}

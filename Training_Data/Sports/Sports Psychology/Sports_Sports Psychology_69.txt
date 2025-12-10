@@ -1,0 +1,4 @@
+{
+    "question": "Name a common cause of sports anxiety.",
+    "answer": "Fear of failure or poor performance."
+}

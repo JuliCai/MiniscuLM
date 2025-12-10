@@ -1,0 +1,4 @@
+{
+    "question": "What genre is characterized by rapping and DJing?",
+    "answer": "Hip Hop"
+}

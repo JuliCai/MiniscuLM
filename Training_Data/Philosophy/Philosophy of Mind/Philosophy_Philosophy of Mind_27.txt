@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of Nagel's 'What is it like to be a bat?'",
+    "answer": "Subjective experience is unique and inaccessible."
+}

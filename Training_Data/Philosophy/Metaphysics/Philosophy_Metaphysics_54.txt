@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical existentialism?",
+    "answer": "Focus on existence and individual freedom."
+}

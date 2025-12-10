@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Italy?",
+    "answer": "Lega Basket Serie A."
+}

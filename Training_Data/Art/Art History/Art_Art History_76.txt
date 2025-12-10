@@ -1,0 +1,4 @@
+{
+    "question": "What art period features elongated figures?",
+    "answer": "Mannerism."
+}

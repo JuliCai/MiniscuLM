@@ -1,0 +1,4 @@
+{
+    "question": "What causes spatial inequality?",
+    "answer": "Uneven resource and infrastructure distribution."
+}

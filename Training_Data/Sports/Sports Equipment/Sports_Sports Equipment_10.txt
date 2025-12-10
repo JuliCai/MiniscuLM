@@ -1,0 +1,4 @@
+{
+    "question": "What protective gear do skiers wear?",
+    "answer": "Helmet and goggles."
+}

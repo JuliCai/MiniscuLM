@@ -1,0 +1,4 @@
+{
+    "question": "How can imagery be made more effective?",
+    "answer": "Including all senses and emotions in visualization."
+}

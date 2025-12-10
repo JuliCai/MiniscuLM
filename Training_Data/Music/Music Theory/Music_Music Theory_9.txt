@@ -1,0 +1,4 @@
+{
+    "question": "Define 'harmony' in music.",
+    "answer": "Combination of simultaneous notes."
+}

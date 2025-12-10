@@ -1,0 +1,4 @@
+{
+    "question": "What\u2019s a defining feature of blues music?",
+    "answer": "Blues uses a twelve-bar chord progression."
+}

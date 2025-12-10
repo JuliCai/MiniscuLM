@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between metaphysics and physics?",
+    "answer": "Metaphysics is abstract; physics is empirical."
+}

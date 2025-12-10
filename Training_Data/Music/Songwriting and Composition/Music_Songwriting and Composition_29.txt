@@ -1,0 +1,4 @@
+{
+    "question": "What is a chorus lyric function?",
+    "answer": "Express main message or hook."
+}

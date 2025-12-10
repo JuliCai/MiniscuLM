@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of mathematics in science?",
+    "answer": "Quantifies and formalizes scientific theories."
+}

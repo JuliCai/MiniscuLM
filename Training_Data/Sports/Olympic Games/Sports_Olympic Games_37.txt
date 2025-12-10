@@ -1,0 +1,4 @@
+{
+    "question": "What does the Olympic torch symbolize?",
+    "answer": "Peace and unity"
+}

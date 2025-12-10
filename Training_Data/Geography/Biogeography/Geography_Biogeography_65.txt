@@ -1,0 +1,4 @@
+{
+    "question": "What is the latitudinal diversity gradient?",
+    "answer": "More species near equator."
+}

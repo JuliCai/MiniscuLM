@@ -1,0 +1,4 @@
+{
+    "question": "How does fatigue affect mental performance?",
+    "answer": "Reduces concentration and decision-making ability."
+}

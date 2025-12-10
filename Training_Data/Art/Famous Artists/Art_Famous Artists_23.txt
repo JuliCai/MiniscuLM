@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is famous for surrealist melting clocks?",
+    "answer": "Salvador Dal\u00ed."
+}

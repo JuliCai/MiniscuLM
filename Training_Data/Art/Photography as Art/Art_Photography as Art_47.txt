@@ -1,0 +1,4 @@
+{
+    "question": "What is a vignette effect in photography?",
+    "answer": "Darkened edges around the photo."
+}

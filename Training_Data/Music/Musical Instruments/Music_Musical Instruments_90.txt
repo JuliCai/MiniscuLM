@@ -1,0 +1,4 @@
+{
+    "question": "Name an instrument with four strings tuned in fifths.",
+    "answer": "The viola has four strings tuned in fifths."
+}

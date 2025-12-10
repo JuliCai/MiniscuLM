@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport that involves using a racket against a wall.",
+    "answer": "Squash."
+}

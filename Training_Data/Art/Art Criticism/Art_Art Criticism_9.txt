@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of a critic?",
+    "answer": "To interpret and evaluate art."
+}

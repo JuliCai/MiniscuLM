@@ -1,0 +1,4 @@
+{
+    "question": "What color is the Olympic gold medal?",
+    "answer": "Mostly silver with gold plating"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between knowledge and information?",
+    "answer": "Knowledge implies understanding and justification."
+}

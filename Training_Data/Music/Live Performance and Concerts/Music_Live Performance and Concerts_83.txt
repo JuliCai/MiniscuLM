@@ -1,0 +1,4 @@
+{
+    "question": "What is a concert sound system?",
+    "answer": "Speakers and audio gear."
+}

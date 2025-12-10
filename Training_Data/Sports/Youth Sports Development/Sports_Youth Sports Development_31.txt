@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports teach goal setting?",
+    "answer": "Through training and competitions."
+}

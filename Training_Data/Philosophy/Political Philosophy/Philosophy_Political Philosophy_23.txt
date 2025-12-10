@@ -1,0 +1,4 @@
+{
+    "question": "Who is Hannah Arendt?",
+    "answer": "Philosopher on totalitarianism and power."
+}

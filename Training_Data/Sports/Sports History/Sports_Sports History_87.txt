@@ -1,0 +1,4 @@
+{
+    "question": "When was the first NBA draft?",
+    "answer": "1947."
+}

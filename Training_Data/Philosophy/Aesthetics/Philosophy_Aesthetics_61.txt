@@ -1,0 +1,4 @@
+{
+    "question": "Can everyday objects be aesthetic?",
+    "answer": "Yes, if designed attractively."
+}

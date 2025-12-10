@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW sync?",
+    "answer": "Synchronizes timing with devices."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is moral hazard?",
+    "answer": "Risky behavior when shielded from consequences."
+}

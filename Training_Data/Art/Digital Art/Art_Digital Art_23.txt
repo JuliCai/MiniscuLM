@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of layers?",
+    "answer": "Organize artwork elements separately."
+}

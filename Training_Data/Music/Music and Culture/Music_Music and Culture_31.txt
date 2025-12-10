@@ -1,0 +1,4 @@
+{
+    "question": "Which culture developed the pentatonic scale?",
+    "answer": "East Asian cultures commonly use pentatonic scales."
+}

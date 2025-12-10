@@ -1,0 +1,4 @@
+{
+    "question": "What style is Picasso known for?",
+    "answer": "Cubism."
+}

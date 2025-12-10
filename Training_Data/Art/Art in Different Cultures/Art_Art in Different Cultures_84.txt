@@ -1,0 +1,4 @@
+{
+    "question": "What is the main theme in Greek classical sculpture?",
+    "answer": "Idealized human forms."
+}

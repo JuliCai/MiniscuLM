@@ -1,0 +1,4 @@
+{
+    "question": "What is a lyric rhyme?",
+    "answer": "Words with similar ending sounds."
+}

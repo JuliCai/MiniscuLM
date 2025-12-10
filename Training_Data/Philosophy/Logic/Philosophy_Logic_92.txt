@@ -1,0 +1,4 @@
+{
+    "question": "What is a Kripke model?",
+    "answer": "A structure for interpreting modal logic."
+}

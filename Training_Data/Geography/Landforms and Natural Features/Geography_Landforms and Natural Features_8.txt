@@ -1,0 +1,4 @@
+{
+    "question": "Define an isthmus.",
+    "answer": "A narrow land bridge connecting two larger areas."
+}

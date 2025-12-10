@@ -1,0 +1,4 @@
+{
+    "question": "What is a strike in baseball?",
+    "answer": "Pitch in strike zone."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Why is hydration important in youth sports?",
+    "answer": "Maintains performance and health."
+}

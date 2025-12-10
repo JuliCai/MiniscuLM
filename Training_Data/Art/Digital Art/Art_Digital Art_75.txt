@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art storyboard?",
+    "answer": "Sequence of drawings for planning."
+}

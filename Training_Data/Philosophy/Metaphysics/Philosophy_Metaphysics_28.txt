@@ -1,0 +1,4 @@
+{
+    "question": "Define physicalism.",
+    "answer": "Everything is physical or depends on it."
+}

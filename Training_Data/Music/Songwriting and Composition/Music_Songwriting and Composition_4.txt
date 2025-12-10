@@ -1,0 +1,4 @@
+{
+    "question": "What is a bridge in a song?",
+    "answer": "A contrasting section connecting parts."
+}

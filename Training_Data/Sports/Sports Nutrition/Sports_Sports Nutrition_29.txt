@@ -1,0 +1,4 @@
+{
+    "question": "How does fiber affect digestion?",
+    "answer": "Improves bowel movements"
+}

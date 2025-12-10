@@ -1,0 +1,4 @@
+{
+    "question": "What is political paternalism?",
+    "answer": "Limiting freedom for individual's own good."
+}

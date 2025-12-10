@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses a goalkeeper?",
+    "answer": "Soccer and hockey use goalkeepers."
+}

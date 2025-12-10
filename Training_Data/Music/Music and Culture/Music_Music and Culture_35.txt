@@ -1,0 +1,4 @@
+{
+    "question": "How does music affect social movements?",
+    "answer": "Music inspires and mobilizes activists."
+}

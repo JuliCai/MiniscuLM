@@ -1,0 +1,4 @@
+{
+    "question": "What is a staff in music?",
+    "answer": "Five horizontal lines for notation."
+}

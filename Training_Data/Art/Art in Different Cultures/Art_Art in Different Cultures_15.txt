@@ -1,0 +1,4 @@
+{
+    "question": "What is the main medium in traditional Korean art?",
+    "answer": "Ink on paper."
+}

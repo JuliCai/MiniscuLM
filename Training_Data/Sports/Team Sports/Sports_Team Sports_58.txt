@@ -1,0 +1,4 @@
+{
+    "question": "Which sport has a penalty shootout?",
+    "answer": "Soccer and hockey."
+}

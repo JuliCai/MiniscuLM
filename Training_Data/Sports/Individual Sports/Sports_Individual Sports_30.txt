@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport where participants ride bulls or horses.",
+    "answer": "Rodeo."
+}

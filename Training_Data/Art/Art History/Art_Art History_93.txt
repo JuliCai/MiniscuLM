@@ -1,0 +1,4 @@
+{
+    "question": "Who is known for self-portraits?",
+    "answer": "Frida Kahlo."
+}

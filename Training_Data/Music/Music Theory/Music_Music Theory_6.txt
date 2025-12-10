@@ -1,0 +1,4 @@
+{
+    "question": "What is a key signature?",
+    "answer": "Sharps or flats indicating the key."
+}

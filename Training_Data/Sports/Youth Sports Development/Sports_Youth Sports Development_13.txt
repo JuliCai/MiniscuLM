@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports develop leadership?",
+    "answer": "By assigning team captain roles."
+}

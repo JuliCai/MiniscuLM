@@ -1,0 +1,4 @@
+{
+    "question": "Define vector art.",
+    "answer": "Art using paths, scalable without loss."
+}

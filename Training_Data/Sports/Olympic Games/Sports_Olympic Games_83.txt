@@ -1,0 +1,4 @@
+{
+    "question": "Which sport was dropped after 1924 Winter Olympics?",
+    "answer": "Military patrol"
+}

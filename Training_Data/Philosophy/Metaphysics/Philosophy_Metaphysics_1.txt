@@ -1,0 +1,4 @@
+{
+    "question": "Who is the father of metaphysics?",
+    "answer": "Aristotle."
+}

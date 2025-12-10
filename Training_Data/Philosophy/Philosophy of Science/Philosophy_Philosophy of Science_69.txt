@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between realism and anti-realism?",
+    "answer": "Realism affirms reality of entities; anti-realism denies."
+}

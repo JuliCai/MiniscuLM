@@ -1,0 +1,4 @@
+{
+    "question": "What role does freedom play in existentialism?",
+    "answer": "Freedom is central to defining our being."
+}

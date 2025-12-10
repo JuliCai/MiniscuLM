@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport that uses a small ball and a curved stick.",
+    "answer": "Lacrosse."
+}

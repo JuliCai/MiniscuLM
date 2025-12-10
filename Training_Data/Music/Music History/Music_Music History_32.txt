@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is essential in classical Indian music?",
+    "answer": "Sitar."
+}

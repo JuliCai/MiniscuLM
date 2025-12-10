@@ -1,0 +1,4 @@
+{
+    "question": "Define 'semantic field'.",
+    "answer": "Group of related meanings."
+}

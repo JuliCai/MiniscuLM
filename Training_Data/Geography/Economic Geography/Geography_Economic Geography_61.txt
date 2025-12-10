@@ -1,0 +1,4 @@
+{
+    "question": "How do tariffs affect trade?",
+    "answer": "Discourage imports."
+}

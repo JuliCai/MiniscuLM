@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic ideology'?",
+    "answer": "Beliefs about art and beauty."
+}

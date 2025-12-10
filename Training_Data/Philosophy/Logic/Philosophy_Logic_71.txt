@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical consequence' with example.",
+    "answer": "If P then Q; P; so Q is consequence."
+}

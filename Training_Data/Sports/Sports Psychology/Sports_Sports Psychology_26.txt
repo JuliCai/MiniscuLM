@@ -1,0 +1,4 @@
+{
+    "question": "How does sleep affect athletic performance?",
+    "answer": "Improves recovery, focus, and reaction time."
+}

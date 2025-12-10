@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of masks in Venetian Carnival?",
+    "answer": "Conceal identity."
+}

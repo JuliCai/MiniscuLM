@@ -1,0 +1,4 @@
+{
+    "question": "What is a core region?",
+    "answer": "Economically dominant area in a country."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define mental causation.",
+    "answer": "Mind causing physical effects."
+}

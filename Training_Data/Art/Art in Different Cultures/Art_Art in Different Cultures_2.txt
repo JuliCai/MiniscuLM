@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is known for intricate henna designs?",
+    "answer": "Indian culture."
+}

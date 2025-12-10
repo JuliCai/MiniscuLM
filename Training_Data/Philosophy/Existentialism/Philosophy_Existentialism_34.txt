@@ -1,0 +1,4 @@
+{
+    "question": "How is authenticity achieved?",
+    "answer": "By accepting freedom and responsibility."
+}

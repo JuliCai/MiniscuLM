@@ -1,0 +1,4 @@
+{
+    "question": "What is anarchism?",
+    "answer": "Opposition to all forms of government."
+}

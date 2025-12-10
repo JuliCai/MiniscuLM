@@ -1,0 +1,4 @@
+{
+    "question": "What is arousal regulation?",
+    "answer": "Controlling physiological and psychological activation levels."
+}

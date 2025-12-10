@@ -1,0 +1,4 @@
+{
+    "question": "What is eliminativism?",
+    "answer": "Rejects common mental concepts."
+}

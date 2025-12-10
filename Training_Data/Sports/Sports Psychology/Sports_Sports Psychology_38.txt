@@ -1,0 +1,4 @@
+{
+    "question": "What psychological factor is linked to injury recovery?",
+    "answer": "Positive attitude and mental resilience."
+}

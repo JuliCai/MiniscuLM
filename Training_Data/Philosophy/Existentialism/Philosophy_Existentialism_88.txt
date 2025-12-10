@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism view human nature?",
+    "answer": "No fixed nature, but freedom to choose."
+}

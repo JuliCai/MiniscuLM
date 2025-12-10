@@ -1,0 +1,4 @@
+{
+    "question": "What is a Skolem function?",
+    "answer": "A function eliminating existential quantifiers."
+}

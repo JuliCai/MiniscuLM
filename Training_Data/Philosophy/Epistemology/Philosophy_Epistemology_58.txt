@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic justification's main goal?",
+    "answer": "To support truth of beliefs."
+}

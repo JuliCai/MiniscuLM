@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is essential for live sound?",
+    "answer": "Microphones, speakers, and amplifiers."
+}

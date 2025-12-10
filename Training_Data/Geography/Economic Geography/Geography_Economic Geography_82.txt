@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic corridor benefit.'",
+    "answer": "Improved connectivity boosts trade."
+}

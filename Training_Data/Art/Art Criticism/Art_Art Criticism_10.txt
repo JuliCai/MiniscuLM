@@ -1,0 +1,4 @@
+{
+    "question": "What is 'negative criticism'?",
+    "answer": "Highlighting flaws in art."
+}

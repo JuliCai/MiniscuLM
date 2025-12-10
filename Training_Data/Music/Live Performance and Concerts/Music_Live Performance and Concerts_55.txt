@@ -1,0 +1,4 @@
+{
+    "question": "What is a group photo backstage?",
+    "answer": "Picture of artists behind scene."
+}

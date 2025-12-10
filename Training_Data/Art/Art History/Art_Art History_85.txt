@@ -1,0 +1,4 @@
+{
+    "question": "What is an altarpiece?",
+    "answer": "Religious panel behind altar."
+}

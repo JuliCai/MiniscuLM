@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemology?",
+    "answer": "Study of knowledge and belief."
+}

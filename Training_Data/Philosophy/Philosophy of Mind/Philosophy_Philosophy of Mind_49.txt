@@ -1,0 +1,4 @@
+{
+    "question": "Define consciousness.",
+    "answer": "State of being aware and sentient."
+}

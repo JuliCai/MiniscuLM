@@ -1,0 +1,4 @@
+{
+    "question": "What is a musical scale?",
+    "answer": "A sequence of notes ordered by pitch."
+}

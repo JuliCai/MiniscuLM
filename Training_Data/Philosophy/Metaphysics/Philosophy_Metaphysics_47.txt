@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical problem of time?",
+    "answer": "Is time real or an illusion?"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What equipment do golfers carry?",
+    "answer": "Golf clubs."
+}

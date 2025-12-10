@@ -1,0 +1,4 @@
+{
+    "question": "How does music express cultural change?",
+    "answer": "Music adapts as societies evolve."
+}

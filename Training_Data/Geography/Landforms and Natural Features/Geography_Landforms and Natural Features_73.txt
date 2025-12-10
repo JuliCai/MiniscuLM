@@ -1,0 +1,4 @@
+{
+    "question": "What is a natural harbor?",
+    "answer": "Sheltered body of water for ships."
+}

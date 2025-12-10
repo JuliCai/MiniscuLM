@@ -1,0 +1,4 @@
+{
+    "question": "What genre features narrative lyrics about rural life?",
+    "answer": "Country"
+}

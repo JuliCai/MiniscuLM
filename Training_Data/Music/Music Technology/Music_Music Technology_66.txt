@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW sidechain?",
+    "answer": "Input triggering an effect dynamically."
+}

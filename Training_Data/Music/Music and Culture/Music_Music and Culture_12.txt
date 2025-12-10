@@ -1,0 +1,4 @@
+{
+    "question": "How do rituals incorporate music?",
+    "answer": "Music enhances spiritual and cultural rituals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the global workspace theory?",
+    "answer": "Consciousness as information broadcasting."
+}

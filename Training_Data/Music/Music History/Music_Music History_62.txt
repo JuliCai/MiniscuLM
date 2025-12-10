@@ -1,0 +1,4 @@
+{
+    "question": "Who composed the opera Madama Butterfly?",
+    "answer": "Giacomo Puccini."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Dance?",
+    "answer": "Henri Matisse."
+}

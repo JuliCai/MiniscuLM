@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of an additive technique?",
+    "answer": "Clay modeling."
+}

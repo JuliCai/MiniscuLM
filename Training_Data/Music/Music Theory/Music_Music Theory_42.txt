@@ -1,0 +1,4 @@
+{
+    "question": "Define 'interval'.",
+    "answer": "Distance between two notes."
+}

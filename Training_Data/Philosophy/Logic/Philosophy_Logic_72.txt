@@ -1,0 +1,4 @@
+{
+    "question": "What is a valid inference rule?",
+    "answer": "A rule preserving truth from premises to conclusion."
+}

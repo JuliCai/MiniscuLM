@@ -1,0 +1,4 @@
+{
+    "question": "What is a goal in soccer?",
+    "answer": "Scoring by getting ball in net."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic restructuring.'",
+    "answer": "Changing industry composition."
+}

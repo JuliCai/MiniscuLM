@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical status of laws of nature?",
+    "answer": "Whether laws are necessary or contingent."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a buffer in audio?",
+    "answer": "Temporary audio data storage."
+}

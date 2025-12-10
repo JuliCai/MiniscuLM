@@ -1,0 +1,4 @@
+{
+    "question": "What sport involves shooting at moving clay targets?",
+    "answer": "Skeet shooting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can photography express identity?",
+    "answer": "Through subjects and style."
+}

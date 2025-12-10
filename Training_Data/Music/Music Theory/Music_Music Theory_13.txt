@@ -1,0 +1,4 @@
+{
+    "question": "Define 'legato'.",
+    "answer": "Smooth and connected notes."
+}

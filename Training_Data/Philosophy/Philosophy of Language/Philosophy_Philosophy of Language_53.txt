@@ -1,0 +1,4 @@
+{
+    "question": "What does 'pragmatics' study?",
+    "answer": "Language use in context."
+}

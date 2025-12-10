@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic experience' duration?",
+    "answer": "Varies by individual and art."
+}

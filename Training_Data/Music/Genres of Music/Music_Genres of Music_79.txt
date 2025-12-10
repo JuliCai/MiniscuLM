@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is characterized by electronic beats and rap vocals?",
+    "answer": "Hip Hop"
+}

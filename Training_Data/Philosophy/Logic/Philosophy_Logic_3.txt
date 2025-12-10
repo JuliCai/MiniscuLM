@@ -1,0 +1,4 @@
+{
+    "question": "Explain the law of non-contradiction.",
+    "answer": "A statement cannot be both true and false simultaneously."
+}

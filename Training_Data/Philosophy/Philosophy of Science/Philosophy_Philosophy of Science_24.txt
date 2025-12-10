@@ -1,0 +1,4 @@
+{
+    "question": "What is scientific objectivity?",
+    "answer": "Unbiased observation and interpretation of data."
+}

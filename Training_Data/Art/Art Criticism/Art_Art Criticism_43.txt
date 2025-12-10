@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical analysis'?",
+    "answer": "Detailed examination of art."
+}

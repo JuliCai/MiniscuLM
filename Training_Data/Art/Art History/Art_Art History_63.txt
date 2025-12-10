@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Cubist painting.",
+    "answer": "Les Demoiselles d'Avignon."
+}

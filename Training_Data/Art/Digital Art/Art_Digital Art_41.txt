@@ -1,0 +1,4 @@
+{
+    "question": "What is digital ink?",
+    "answer": "Line art created digitally."
+}

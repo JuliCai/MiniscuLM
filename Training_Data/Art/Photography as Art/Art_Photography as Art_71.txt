@@ -1,0 +1,4 @@
+{
+    "question": "What is chiaroscuro in photography?",
+    "answer": "Strong contrast of light and dark."
+}

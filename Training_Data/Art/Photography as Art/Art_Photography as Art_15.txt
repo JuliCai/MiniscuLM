@@ -1,0 +1,4 @@
+{
+    "question": "Name a technique to create motion effect.",
+    "answer": "Long exposure photography."
+}

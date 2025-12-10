@@ -1,0 +1,4 @@
+{
+    "question": "Which genre uses distorted guitars and aggressive vocals?",
+    "answer": "Hard Rock"
+}

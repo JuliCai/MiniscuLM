@@ -1,0 +1,4 @@
+{
+    "question": "Define 'resource curse.'",
+    "answer": "Resource wealth causing economic issues."
+}

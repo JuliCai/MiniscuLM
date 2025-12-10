@@ -1,0 +1,4 @@
+{
+    "question": "Name a prominent impressionist painter.",
+    "answer": "Claude Monet."
+}

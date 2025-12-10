@@ -1,0 +1,4 @@
+{
+    "question": "What is a supererogatory act?",
+    "answer": "Morally good but not required."
+}

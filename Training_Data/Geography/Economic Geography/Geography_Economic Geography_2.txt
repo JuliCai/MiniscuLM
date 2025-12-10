@@ -1,0 +1,4 @@
+{
+    "question": "What is a tertiary economic activity?",
+    "answer": "Services sector jobs like retail."
+}

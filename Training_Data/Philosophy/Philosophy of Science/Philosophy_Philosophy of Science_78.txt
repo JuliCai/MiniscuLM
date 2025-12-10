@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of peer review?",
+    "answer": "Ensures research quality and validity."
+}

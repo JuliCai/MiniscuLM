@@ -1,0 +1,4 @@
+{
+    "question": "What is the benefit of vector art?",
+    "answer": "Scalable without losing quality."
+}

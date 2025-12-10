@@ -1,0 +1,4 @@
+{
+    "question": "What is a concert sound technician?",
+    "answer": "Person managing audio equipment."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Does aesthetics only study visual art?",
+    "answer": "No, it includes all sensory experiences."
+}

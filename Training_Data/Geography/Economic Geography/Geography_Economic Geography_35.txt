@@ -1,0 +1,4 @@
+{
+    "question": "What is a periphery region?",
+    "answer": "Less developed economic area."
+}

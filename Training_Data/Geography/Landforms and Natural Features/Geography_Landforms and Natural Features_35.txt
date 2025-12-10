@@ -1,0 +1,4 @@
+{
+    "question": "Define a cape.",
+    "answer": "A point of land extending into water."
+}

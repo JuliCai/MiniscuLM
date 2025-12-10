@@ -1,0 +1,4 @@
+{
+    "question": "What is a service economy?",
+    "answer": "Economy dominated by service industries."
+}

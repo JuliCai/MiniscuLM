@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1900 Summer Olympics?",
+    "answer": "Paris"
+}

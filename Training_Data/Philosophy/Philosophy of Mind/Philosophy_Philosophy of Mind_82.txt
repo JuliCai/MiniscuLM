@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between perception and cognition?",
+    "answer": "Perception is sensing; cognition is processing."
+}

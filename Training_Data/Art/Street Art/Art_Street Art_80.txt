@@ -1,0 +1,4 @@
+{
+    "question": "What is a stencil artist?",
+    "answer": "One who uses stencils to paint."
+}

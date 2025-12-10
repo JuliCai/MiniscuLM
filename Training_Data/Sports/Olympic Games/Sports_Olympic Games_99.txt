@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1972 Winter Olympics?",
+    "answer": "Sapporo"
+}

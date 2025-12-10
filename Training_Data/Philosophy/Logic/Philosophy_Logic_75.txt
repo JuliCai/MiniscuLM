@@ -1,0 +1,4 @@
+{
+    "question": "Define 'propositional calculus'.",
+    "answer": "The study of propositions and logic connectives."
+}

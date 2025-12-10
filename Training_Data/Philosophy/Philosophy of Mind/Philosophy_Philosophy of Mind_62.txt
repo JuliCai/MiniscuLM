@@ -1,0 +1,4 @@
+{
+    "question": "What is introspective access?",
+    "answer": "Ability to access own thoughts."
+}

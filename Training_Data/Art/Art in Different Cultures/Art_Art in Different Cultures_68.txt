@@ -1,0 +1,4 @@
+{
+    "question": "Which culture uses vibrant colors in textile art?",
+    "answer": "Latin American cultures."
+}

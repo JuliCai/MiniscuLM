@@ -1,0 +1,4 @@
+{
+    "question": "Define an archipelago.",
+    "answer": "A group or chain of islands clustered together."
+}

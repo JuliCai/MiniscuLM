@@ -1,0 +1,4 @@
+{
+    "question": "What is a dotted half note?",
+    "answer": "Half note plus a quarter note duration."
+}

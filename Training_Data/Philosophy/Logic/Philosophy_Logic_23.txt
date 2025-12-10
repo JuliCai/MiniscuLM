@@ -1,0 +1,4 @@
+{
+    "question": "Define the law of excluded middle.",
+    "answer": "Every statement is either true or false."
+}

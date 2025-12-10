@@ -1,0 +1,4 @@
+{
+    "question": "What is a common theme in Romantic art?",
+    "answer": "Nature and emotion."
+}

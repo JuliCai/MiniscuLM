@@ -1,0 +1,4 @@
+{
+    "question": "What does African beadwork symbolize?",
+    "answer": "Status and identity."
+}

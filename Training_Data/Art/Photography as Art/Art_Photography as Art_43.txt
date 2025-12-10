@@ -1,0 +1,4 @@
+{
+    "question": "How does framing influence art photos?",
+    "answer": "Focuses and isolates subject."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who won the first NBA MVP award?",
+    "answer": "Bob Pettit in 1956."
+}

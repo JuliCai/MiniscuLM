@@ -1,0 +1,4 @@
+{
+    "question": "Who introduced the theory of forms?",
+    "answer": "Plato."
+}

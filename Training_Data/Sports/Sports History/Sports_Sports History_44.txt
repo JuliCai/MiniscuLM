@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete won the first Olympic decathlon?",
+    "answer": "Jim Thorpe."
+}

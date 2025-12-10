@@ -1,0 +1,4 @@
+{
+    "question": "What is a foul in basketball?",
+    "answer": "Rule violation."
+}

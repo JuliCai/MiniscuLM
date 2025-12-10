@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting pitch?",
+    "answer": "Musical note frequency in melody."
+}

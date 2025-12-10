@@ -1,0 +1,4 @@
+{
+    "question": "How is music used in cultural preservation?",
+    "answer": "Music archives traditions for future generations."
+}

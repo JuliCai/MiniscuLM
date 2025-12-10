@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'explanatory gap'?",
+    "answer": "Difficulty explaining consciousness physically."
+}

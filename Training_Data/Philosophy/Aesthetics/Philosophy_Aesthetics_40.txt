@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty in imperfection'?",
+    "answer": "Wabi-sabi concept in aesthetics."
+}

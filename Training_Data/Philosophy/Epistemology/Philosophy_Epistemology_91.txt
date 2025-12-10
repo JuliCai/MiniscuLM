@@ -1,0 +1,4 @@
+{
+    "question": "What is the puzzle of the criterion?",
+    "answer": "How to justify knowledge methods?"
+}

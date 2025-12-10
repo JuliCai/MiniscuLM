@@ -1,0 +1,4 @@
+{
+    "question": "Define 'motivation climate' in sports.",
+    "answer": "Environment promoting mastery or performance goals."
+}

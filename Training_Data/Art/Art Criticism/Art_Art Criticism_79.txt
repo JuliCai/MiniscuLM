@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical theory examples'?",
+    "answer": "Feminism, Marxism."
+}

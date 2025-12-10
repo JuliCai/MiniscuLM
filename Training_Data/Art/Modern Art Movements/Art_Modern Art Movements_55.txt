@@ -1,0 +1,4 @@
+{
+    "question": "What is a key feature of Abstract art?",
+    "answer": "Non-representational forms."
+}

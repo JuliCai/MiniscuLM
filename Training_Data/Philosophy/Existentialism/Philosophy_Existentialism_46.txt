@@ -1,0 +1,4 @@
+{
+    "question": "What is despair according to Kierkegaard?",
+    "answer": "Not willing to be oneself."
+}

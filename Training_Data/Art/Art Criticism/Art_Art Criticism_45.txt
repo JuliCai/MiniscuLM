@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic influence'?",
+    "answer": "Impact of one artist on another."
+}

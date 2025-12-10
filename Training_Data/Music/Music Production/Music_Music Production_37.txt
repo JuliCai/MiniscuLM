@@ -1,0 +1,4 @@
+{
+    "question": "What is ADSR envelope?",
+    "answer": "Attack, Decay, Sustain, Release of sound."
+}

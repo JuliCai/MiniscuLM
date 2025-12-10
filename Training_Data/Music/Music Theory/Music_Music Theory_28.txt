@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'leggero'.",
+    "answer": "Light and delicate."
+}

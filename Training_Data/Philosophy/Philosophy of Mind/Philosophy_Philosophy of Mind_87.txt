@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between mind and intelligence?",
+    "answer": "Mind includes consciousness; intelligence is problem-solving."
+}

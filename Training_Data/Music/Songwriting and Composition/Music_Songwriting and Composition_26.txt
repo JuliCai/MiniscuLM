@@ -1,0 +1,4 @@
+{
+    "question": "What is songwriting collaboration?",
+    "answer": "Two or more write music together."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is used in golf?",
+    "answer": "Golf clubs and balls."
+}

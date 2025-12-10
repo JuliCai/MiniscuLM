@@ -1,0 +1,4 @@
+{
+    "question": "What is digital art?",
+    "answer": "Art created using digital technology."
+}

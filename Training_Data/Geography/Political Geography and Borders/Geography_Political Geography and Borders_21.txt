@@ -1,0 +1,4 @@
+{
+    "question": "Which city is divided by a political border?",
+    "answer": "Jerusalem."
+}

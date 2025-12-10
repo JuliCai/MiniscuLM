@@ -1,0 +1,4 @@
+{
+    "question": "What is songwriting inspiration?",
+    "answer": "Source of creative ideas."
+}

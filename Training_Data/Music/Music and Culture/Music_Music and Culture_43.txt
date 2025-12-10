@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of call and response in music?",
+    "answer": "It encourages interaction in many cultures."
+}

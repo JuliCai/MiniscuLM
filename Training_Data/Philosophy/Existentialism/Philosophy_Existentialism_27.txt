@@ -1,0 +1,4 @@
+{
+    "question": "What is the absurd according to Camus?",
+    "answer": "Conflict between desire for meaning and chaos."
+}

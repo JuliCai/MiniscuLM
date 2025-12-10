@@ -1,0 +1,4 @@
+{
+    "question": "Which culture developed the art of lacquerware?",
+    "answer": "East Asian cultures."
+}

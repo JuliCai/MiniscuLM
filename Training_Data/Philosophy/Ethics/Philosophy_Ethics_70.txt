@@ -1,0 +1,4 @@
+{
+    "question": "What is moral duty?",
+    "answer": "An obligation to act morally."
+}

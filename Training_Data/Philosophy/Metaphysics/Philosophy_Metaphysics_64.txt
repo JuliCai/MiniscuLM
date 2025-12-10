@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical view of time as linear?",
+    "answer": "Time flows in one direction."
+}

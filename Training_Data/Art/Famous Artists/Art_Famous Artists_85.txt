@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist known for pointillism.",
+    "answer": "Georges Seurat."
+}

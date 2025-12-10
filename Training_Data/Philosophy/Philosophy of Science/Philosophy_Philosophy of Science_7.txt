@@ -1,0 +1,4 @@
+{
+    "question": "Who introduced the concept of falsifiability?",
+    "answer": "Karl Popper."
+}

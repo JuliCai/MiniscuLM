@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Birth of Tragedy'?",
+    "answer": "Friedrich Nietzsche."
+}

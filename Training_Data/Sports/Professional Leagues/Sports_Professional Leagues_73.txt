@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional rugby league in New Zealand?",
+    "answer": "NRL (with New Zealand teams)."
+}

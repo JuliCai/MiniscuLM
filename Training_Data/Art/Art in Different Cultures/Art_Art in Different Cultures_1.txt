@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Mexican muralist.",
+    "answer": "Diego Rivera."
+}

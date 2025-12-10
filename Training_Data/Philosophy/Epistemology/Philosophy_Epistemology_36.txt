@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of charity in epistemology?",
+    "answer": "Interpreting others' beliefs rationally."
+}

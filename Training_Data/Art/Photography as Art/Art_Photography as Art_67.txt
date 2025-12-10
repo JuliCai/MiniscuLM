@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of negative space?",
+    "answer": "Emphasizes the subject."
+}

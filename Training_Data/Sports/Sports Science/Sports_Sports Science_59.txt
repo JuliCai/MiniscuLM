@@ -1,0 +1,4 @@
+{
+    "question": "What is maximal strength?",
+    "answer": "Greatest force produced."
+}

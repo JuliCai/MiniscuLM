@@ -1,0 +1,4 @@
+{
+    "question": "What is a stage prop?",
+    "answer": "Objects used to decorate stage."
+}

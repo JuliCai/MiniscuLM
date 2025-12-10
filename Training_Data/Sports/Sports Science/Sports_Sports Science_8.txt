@@ -1,0 +1,4 @@
+{
+    "question": "What does RICE stand for in injury treatment?",
+    "answer": "Rest, Ice, Compression, Elevation."
+}

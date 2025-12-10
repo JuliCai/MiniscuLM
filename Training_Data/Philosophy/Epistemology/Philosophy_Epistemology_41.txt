@@ -1,0 +1,4 @@
+{
+    "question": "Define epistemic responsibility.",
+    "answer": "Duty to hold justified beliefs."
+}

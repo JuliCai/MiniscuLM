@@ -1,0 +1,4 @@
+{
+    "question": "What period did existentialism emerge?",
+    "answer": "Early to mid-20th century."
+}

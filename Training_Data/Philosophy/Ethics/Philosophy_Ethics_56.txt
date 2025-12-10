@@ -1,0 +1,4 @@
+{
+    "question": "What is moral realism?",
+    "answer": "Morals are objective facts."
+}

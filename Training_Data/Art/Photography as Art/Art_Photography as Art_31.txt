@@ -1,0 +1,4 @@
+{
+    "question": "What is minimalism in photography?",
+    "answer": "Simplicity focused on few elements."
+}

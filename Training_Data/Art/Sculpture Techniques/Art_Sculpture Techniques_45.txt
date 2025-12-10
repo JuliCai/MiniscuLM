@@ -1,0 +1,4 @@
+{
+    "question": "What is direct carving?",
+    "answer": "Carving without a model or sketch."
+}

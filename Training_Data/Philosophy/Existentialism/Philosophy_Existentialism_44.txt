@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism view human condition?",
+    "answer": "As fundamentally free yet burdened."
+}

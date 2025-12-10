@@ -1,0 +1,4 @@
+{
+    "question": "Define mental representation.",
+    "answer": "Mental content representing external reality."
+}

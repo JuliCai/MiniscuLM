@@ -1,0 +1,4 @@
+{
+    "question": "Name a surrealist photographic artist.",
+    "answer": "Man Ray."
+}

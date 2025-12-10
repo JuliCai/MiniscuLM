@@ -1,0 +1,4 @@
+{
+    "question": "What is the main subject of still life paintings?",
+    "answer": "Inanimate objects."
+}

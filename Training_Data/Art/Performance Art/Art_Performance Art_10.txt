@@ -1,0 +1,4 @@
+{
+    "question": "How is performance art documented?",
+    "answer": "Photos, videos, descriptions."
+}

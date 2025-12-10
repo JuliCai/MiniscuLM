@@ -1,0 +1,4 @@
+{
+    "question": "What is cosmopolitanism?",
+    "answer": "Belief in global citizenship over nation."
+}

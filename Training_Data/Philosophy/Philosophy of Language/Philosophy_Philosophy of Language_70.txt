@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'language as a system'.",
+    "answer": "Structured set of linguistic elements."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How do instruments reflect culture?",
+    "answer": "Instruments embody cultural history and materials."
+}

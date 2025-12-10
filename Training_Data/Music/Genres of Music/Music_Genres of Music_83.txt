@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is recognized by its syncopated rhythms?",
+    "answer": "Jazz"
+}

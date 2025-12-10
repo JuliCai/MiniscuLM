@@ -1,0 +1,4 @@
+{
+    "question": "Name a protective gear in football.",
+    "answer": "Helmet."
+}

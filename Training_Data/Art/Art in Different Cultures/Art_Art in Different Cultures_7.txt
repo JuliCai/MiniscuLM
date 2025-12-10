@@ -1,0 +1,4 @@
+{
+    "question": "Which culture developed Arabic calligraphy?",
+    "answer": "Islamic culture."
+}

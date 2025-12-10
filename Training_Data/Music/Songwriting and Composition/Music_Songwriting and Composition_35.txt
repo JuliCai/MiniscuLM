@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting prompt?",
+    "answer": "An idea to inspire writing."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is the founder of the serialism technique?",
+    "answer": "Arnold Schoenberg."
+}

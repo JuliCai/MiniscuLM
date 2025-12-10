@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of Aboriginal rock art?",
+    "answer": "Storytelling and spirituality."
+}

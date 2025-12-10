@@ -1,0 +1,4 @@
+{
+    "question": "Name the gear used in fencing.",
+    "answer": "Sword and protective clothing."
+}

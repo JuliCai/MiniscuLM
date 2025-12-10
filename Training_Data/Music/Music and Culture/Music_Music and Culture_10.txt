@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of globalization on music?",
+    "answer": "Globalization blends musical styles worldwide."
+}

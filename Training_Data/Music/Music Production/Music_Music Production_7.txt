@@ -1,0 +1,4 @@
+{
+    "question": "What is compression in music?",
+    "answer": "Reduces dynamic range of audio signals."
+}

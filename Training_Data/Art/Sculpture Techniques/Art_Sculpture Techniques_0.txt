@@ -1,0 +1,4 @@
+{
+    "question": "What is carving in sculpture?",
+    "answer": "Removing material to shape an artwork."
+}

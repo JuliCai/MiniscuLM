@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Swing?",
+    "answer": "Jean-Honor\u00e9 Fragonard."
+}

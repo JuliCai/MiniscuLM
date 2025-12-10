@@ -1,0 +1,4 @@
+{
+    "question": "Why use dynamics in composition?",
+    "answer": "To create emotional variation."
+}

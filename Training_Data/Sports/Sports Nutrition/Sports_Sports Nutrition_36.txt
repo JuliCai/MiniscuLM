@@ -1,0 +1,4 @@
+{
+    "question": "Is alcohol good for recovery?",
+    "answer": "No, it impairs recovery"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first athlete to win 3 golds in one Olympics?",
+    "answer": "Eric Liddell, 1924."
+}

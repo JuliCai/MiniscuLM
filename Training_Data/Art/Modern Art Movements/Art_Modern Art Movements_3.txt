@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of Pop Art?",
+    "answer": "Popular culture and mass media."
+}

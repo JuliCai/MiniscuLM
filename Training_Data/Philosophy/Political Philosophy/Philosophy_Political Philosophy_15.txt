@@ -1,0 +1,4 @@
+{
+    "question": "What is oligarchy?",
+    "answer": "Rule by a small privileged group."
+}

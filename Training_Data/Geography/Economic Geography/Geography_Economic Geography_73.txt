@@ -1,0 +1,4 @@
+{
+    "question": "Define 'industrial revolution impact.'",
+    "answer": "Shift to mechanized production."
+}

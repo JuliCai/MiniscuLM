@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic experience' importance?",
+    "answer": "Enhances human understanding."
+}

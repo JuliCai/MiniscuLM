@@ -1,0 +1,4 @@
+{
+    "question": "How does youth sports affect social skills?",
+    "answer": "Improves communication and cooperation."
+}

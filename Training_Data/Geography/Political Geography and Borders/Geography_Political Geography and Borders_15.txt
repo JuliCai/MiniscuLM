@@ -1,0 +1,4 @@
+{
+    "question": "What is a natural border?",
+    "answer": "Border formed by physical features."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define entailment.",
+    "answer": "When premises guarantee the truth of conclusion."
+}

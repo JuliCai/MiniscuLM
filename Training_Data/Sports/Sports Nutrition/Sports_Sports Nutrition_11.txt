@@ -1,0 +1,4 @@
+{
+    "question": "How does caffeine affect performance?",
+    "answer": "Improves focus and endurance"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between classical and intuitionistic logic.",
+    "answer": "Intuitionistic rejects law of excluded middle."
+}

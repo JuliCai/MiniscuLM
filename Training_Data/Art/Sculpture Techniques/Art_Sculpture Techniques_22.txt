@@ -1,0 +1,4 @@
+{
+    "question": "Which tool shapes stone sculptures?",
+    "answer": "Point chisel."
+}

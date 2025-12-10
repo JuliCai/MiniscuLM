@@ -1,0 +1,4 @@
+{
+    "question": "Which country has enclaves inside another?",
+    "answer": "Belgium and Netherlands."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What sport involves ice and a puck?",
+    "answer": "Ice hockey."
+}

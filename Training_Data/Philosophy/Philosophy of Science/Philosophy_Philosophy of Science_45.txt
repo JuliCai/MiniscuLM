@@ -1,0 +1,4 @@
+{
+    "question": "What is anecdotal evidence?",
+    "answer": "Informal, non-systematic observations."
+}

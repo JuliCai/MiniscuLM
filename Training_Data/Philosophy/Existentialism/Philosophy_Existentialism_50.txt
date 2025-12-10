@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism relate to freedom?",
+    "answer": "Freedom is central and unavoidable."
+}

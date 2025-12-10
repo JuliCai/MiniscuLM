@@ -1,0 +1,4 @@
+{
+    "question": "Define 'comparative advantage.'",
+    "answer": "Ability to produce goods efficiently."
+}

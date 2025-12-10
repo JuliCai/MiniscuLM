@@ -1,0 +1,4 @@
+{
+    "question": "What is a waveform?",
+    "answer": "Visual shape of an audio signal."
+}

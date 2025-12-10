@@ -1,0 +1,4 @@
+{
+    "question": "How do lyrics reflect cultural beliefs?",
+    "answer": "Lyrics often express cultural values and stories."
+}

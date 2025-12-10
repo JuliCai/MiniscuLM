@@ -1,0 +1,4 @@
+{
+    "question": "What is the philosophical zombie?",
+    "answer": "Entity without conscious experience."
+}

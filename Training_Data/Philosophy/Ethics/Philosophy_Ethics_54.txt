@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and law?",
+    "answer": "Ethics is about right/wrong; law is legal rules."
+}

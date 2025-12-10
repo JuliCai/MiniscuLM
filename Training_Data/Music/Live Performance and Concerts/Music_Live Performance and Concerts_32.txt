@@ -1,0 +1,4 @@
+{
+    "question": "Define 'live streaming' concerts.",
+    "answer": "Broadcasting shows online live."
+}

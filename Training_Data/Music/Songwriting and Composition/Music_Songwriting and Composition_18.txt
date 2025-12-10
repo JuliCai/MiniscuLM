@@ -1,0 +1,4 @@
+{
+    "question": "What is a capo used for?",
+    "answer": "To change guitar pitch easily."
+}

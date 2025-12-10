@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of masks in African art?",
+    "answer": "Spiritual and social roles."
+}

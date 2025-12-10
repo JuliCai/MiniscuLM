@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist behind The Weeping Woman.",
+    "answer": "Pablo Picasso."
+}

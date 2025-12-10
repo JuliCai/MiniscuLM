@@ -1,0 +1,4 @@
+{
+    "question": "What is VO2 max influenced by?",
+    "answer": "Genetics and training."
+}

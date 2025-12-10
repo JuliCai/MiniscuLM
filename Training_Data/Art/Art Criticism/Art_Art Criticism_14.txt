@@ -1,0 +1,4 @@
+{
+    "question": "What is 'feminist art criticism'?",
+    "answer": "Analyzing art from feminist perspective."
+}

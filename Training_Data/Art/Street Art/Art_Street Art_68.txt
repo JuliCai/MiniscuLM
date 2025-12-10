@@ -1,0 +1,4 @@
+{
+    "question": "What is a paste-up technique?",
+    "answer": "Pasting paper art on walls."
+}

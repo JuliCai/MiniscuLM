@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'motif'.",
+    "answer": "Short recurring musical idea."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a technique to highlight texture.",
+    "answer": "Side lighting."
+}

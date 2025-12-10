@@ -1,0 +1,4 @@
+{
+    "question": "What does 'kitsch' mean?",
+    "answer": "Art considered tacky or lowbrow."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'interpretation' in art.",
+    "answer": "Explaining artwork meaning."
+}

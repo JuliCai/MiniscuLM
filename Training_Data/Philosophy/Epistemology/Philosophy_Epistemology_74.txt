@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between doxastic and propositional justification?",
+    "answer": "Justification of belief vs. content."
+}

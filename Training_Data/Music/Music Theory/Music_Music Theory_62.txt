@@ -1,0 +1,4 @@
+{
+    "question": "What is a subdominant?",
+    "answer": "Fourth scale degree."
+}

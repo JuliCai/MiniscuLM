@@ -1,0 +1,4 @@
+{
+    "question": "How much sodium during exercise?",
+    "answer": "300-700 mg per hour"
+}

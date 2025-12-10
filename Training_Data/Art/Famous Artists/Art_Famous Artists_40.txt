@@ -1,0 +1,4 @@
+{
+    "question": "Who created the painting Christina's World?",
+    "answer": "Andrew Wyeth."
+}

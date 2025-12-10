@@ -1,0 +1,4 @@
+{
+    "question": "Which Olympic event uses a javelin?",
+    "answer": "Athletics"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist view on alienation?",
+    "answer": "Alienation arises from loss of authenticity."
+}

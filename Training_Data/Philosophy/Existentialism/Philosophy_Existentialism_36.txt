@@ -1,0 +1,4 @@
+{
+    "question": "What is Sartre's view on human nature?",
+    "answer": "No fixed nature; we create ourselves."
+}

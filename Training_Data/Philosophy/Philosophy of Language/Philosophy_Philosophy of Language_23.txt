@@ -1,0 +1,4 @@
+{
+    "question": "Define 'semantic externalism'.",
+    "answer": "Meaning depends on external factors."
+}

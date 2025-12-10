@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW clip slicing?",
+    "answer": "Cutting audio into segments."
+}

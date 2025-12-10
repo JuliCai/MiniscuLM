@@ -1,0 +1,4 @@
+{
+    "question": "Can digital manipulation be art?",
+    "answer": "Yes, when creatively applied."
+}

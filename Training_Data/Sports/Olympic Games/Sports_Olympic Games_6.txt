@@ -1,0 +1,4 @@
+{
+    "question": "In which city were the 2008 Olympics held?",
+    "answer": "Beijing"
+}

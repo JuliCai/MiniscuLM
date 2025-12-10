@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'Linguistic Turn' in philosophy?",
+    "answer": "Focus on language in philosophical problems."
+}

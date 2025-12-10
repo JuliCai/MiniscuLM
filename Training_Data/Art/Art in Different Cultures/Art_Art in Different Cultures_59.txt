@@ -1,0 +1,4 @@
+{
+    "question": "What culture is known for ivory carving?",
+    "answer": "African cultures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain metaphysical contingency.",
+    "answer": "Things could have been otherwise."
+}

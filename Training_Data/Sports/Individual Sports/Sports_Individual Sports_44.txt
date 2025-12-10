@@ -1,0 +1,4 @@
+{
+    "question": "Which sport is associated with the term 'serve and volley'?",
+    "answer": "Tennis."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What defines 'taste' in aesthetics?",
+    "answer": "Personal or cultural art preference."
+}

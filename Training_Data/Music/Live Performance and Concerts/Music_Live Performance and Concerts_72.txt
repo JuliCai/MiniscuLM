@@ -1,0 +1,4 @@
+{
+    "question": "What is a live performance energy?",
+    "answer": "Vibe from artist and crowd."
+}

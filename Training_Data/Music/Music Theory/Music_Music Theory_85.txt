@@ -1,0 +1,4 @@
+{
+    "question": "Define 'syncopation'.",
+    "answer": "Rhythmic displacement of accents."
+}

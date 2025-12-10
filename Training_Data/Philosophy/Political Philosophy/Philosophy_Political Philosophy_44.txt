@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of power.",
+    "answer": "Ability to influence or control others."
+}

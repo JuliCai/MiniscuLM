@@ -1,0 +1,4 @@
+{
+    "question": "What role do schools play in youth sports?",
+    "answer": "Organize teams and facilities."
+}

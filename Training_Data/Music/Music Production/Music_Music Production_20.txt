@@ -1,0 +1,4 @@
+{
+    "question": "Difference between mixing and mastering?",
+    "answer": "Mixing blends tracks; mastering polishes final mix."
+}

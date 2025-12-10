@@ -1,0 +1,4 @@
+{
+    "question": "What style characterizes Dutch tulip paintings?",
+    "answer": "Still life."
+}

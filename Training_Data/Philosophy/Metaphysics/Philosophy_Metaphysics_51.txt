@@ -1,0 +1,4 @@
+{
+    "question": "Explain metaphysical realism about abstract objects.",
+    "answer": "Abstract objects exist independently."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country is divided by the 49th parallel?",
+    "answer": "USA and Canada."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the computational theory of mind?",
+    "answer": "Mind operates like a computer."
+}

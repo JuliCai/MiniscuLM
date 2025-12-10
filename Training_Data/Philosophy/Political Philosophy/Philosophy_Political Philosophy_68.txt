@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between negative and positive freedom?",
+    "answer": "Freedom from constraints vs. capacity to act."
+}

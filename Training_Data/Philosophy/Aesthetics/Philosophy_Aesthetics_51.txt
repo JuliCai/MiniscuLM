@@ -1,0 +1,4 @@
+{
+    "question": "What role does symmetry play in aesthetics?",
+    "answer": "Often linked to beauty."
+}

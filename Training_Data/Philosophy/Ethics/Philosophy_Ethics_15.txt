@@ -1,0 +1,4 @@
+{
+    "question": "What is moral skepticism?",
+    "answer": "Doubt that moral knowledge exists."
+}

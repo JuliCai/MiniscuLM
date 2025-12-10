@@ -1,0 +1,4 @@
+{
+    "question": "What is existential authenticity?",
+    "answer": "Being true to oneself despite pressures."
+}

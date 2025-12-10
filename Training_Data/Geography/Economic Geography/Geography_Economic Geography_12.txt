@@ -1,0 +1,4 @@
+{
+    "question": "What is spatial inequality?",
+    "answer": "Unequal economic conditions across regions."
+}

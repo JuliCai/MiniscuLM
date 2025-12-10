@@ -1,0 +1,4 @@
+{
+    "question": "Who is Thomas Metzinger?",
+    "answer": "Philosopher studying consciousness and self."
+}

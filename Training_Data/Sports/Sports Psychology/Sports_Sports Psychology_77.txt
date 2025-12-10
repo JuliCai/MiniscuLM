@@ -1,0 +1,4 @@
+{
+    "question": "Describe the term 'psyching up'.",
+    "answer": "Increasing arousal to enhance performance."
+}

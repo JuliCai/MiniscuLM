@@ -1,0 +1,4 @@
+{
+    "question": "What is the rule of thirds?",
+    "answer": "Dividing frame into thirds for balance."
+}

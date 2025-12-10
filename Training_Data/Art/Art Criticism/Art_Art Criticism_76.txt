@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic coherence examples'?",
+    "answer": "Unified style."
+}

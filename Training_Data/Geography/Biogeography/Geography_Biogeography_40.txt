@@ -1,0 +1,4 @@
+{
+    "question": "What is a dispersal barrier?",
+    "answer": "Obstacle preventing species movement."
+}

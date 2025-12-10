@@ -1,0 +1,4 @@
+{
+    "question": "Name the notes in a C major scale.",
+    "answer": "C D E F G A B."
+}

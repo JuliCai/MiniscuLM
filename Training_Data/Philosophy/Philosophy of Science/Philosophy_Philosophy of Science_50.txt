@@ -1,0 +1,4 @@
+{
+    "question": "Explain the concept of 'theory-ladenness of observation.'",
+    "answer": "Observations influenced by prior theories."
+}

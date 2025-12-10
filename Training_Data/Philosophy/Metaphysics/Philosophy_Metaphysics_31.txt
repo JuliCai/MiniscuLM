@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical realism vs anti-realism?",
+    "answer": "Existence independent vs dependent on mind."
+}

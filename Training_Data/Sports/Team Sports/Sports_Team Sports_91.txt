@@ -1,0 +1,4 @@
+{
+    "question": "How long is a hockey period?",
+    "answer": "20 minutes each period."
+}

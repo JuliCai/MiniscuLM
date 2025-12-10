@@ -1,0 +1,4 @@
+{
+    "question": "How does composition affect viewer\u2019s interpretation?",
+    "answer": "Guides understanding and emotion."
+}

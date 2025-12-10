@@ -1,0 +1,4 @@
+{
+    "question": "Define 'homonymy'.",
+    "answer": "Same word, different meanings."
+}

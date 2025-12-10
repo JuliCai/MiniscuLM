@@ -1,0 +1,4 @@
+{
+    "question": "What is the value problem of knowledge?",
+    "answer": "Why knowledge is more valuable than true belief."
+}

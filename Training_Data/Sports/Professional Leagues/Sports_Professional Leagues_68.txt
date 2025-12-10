@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional rugby union league in New Zealand?",
+    "answer": "Mitre 10 Cup."
+}

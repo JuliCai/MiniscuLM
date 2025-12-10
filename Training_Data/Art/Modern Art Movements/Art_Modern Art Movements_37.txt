@@ -1,0 +1,4 @@
+{
+    "question": "What art movement began in the early 20th century?",
+    "answer": "Cubism."
+}

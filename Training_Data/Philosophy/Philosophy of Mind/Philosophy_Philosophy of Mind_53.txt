@@ -1,0 +1,4 @@
+{
+    "question": "Explain neural correlates of consciousness.",
+    "answer": "Brain states linked to conscious experience."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and etiquette?",
+    "answer": "Ethics is moral; etiquette is social manners."
+}

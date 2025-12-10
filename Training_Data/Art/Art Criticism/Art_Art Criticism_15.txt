@@ -1,0 +1,4 @@
+{
+    "question": "Define 'artistic intention'.",
+    "answer": "Artist's purpose behind the work."
+}

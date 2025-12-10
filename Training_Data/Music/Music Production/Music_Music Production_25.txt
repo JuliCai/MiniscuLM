@@ -1,0 +1,4 @@
+{
+    "question": "What is gain staging?",
+    "answer": "Controlling levels to avoid distortion."
+}

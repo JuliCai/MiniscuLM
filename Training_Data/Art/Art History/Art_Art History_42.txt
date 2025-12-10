@@ -1,0 +1,4 @@
+{
+    "question": "What defines Gothic architecture?",
+    "answer": "Pointed arches and ribbed vaults."
+}

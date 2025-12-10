@@ -1,0 +1,4 @@
+{
+    "question": "What is 'psychoanalytic criticism focus'?",
+    "answer": "Unconscious meanings."
+}

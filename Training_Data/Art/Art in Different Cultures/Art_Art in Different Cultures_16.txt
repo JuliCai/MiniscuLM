@@ -1,0 +1,4 @@
+{
+    "question": "Describe the style of Islamic geometric art.",
+    "answer": "Abstract, repetitive patterns."
+}

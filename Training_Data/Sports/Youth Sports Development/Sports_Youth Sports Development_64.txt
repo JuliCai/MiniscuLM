@@ -1,0 +1,4 @@
+{
+    "question": "What is a typical duration for youth sports practice?",
+    "answer": "1-2 hours."
+}

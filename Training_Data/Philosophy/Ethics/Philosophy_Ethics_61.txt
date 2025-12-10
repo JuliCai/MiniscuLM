@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between moral and legal obligations?",
+    "answer": "Moral based on ethics; legal based on law."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted Les Demoiselles d'Avignon?",
+    "answer": "Pablo Picasso."
+}

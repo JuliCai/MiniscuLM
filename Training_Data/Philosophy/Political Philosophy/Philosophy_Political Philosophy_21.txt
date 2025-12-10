@@ -1,0 +1,4 @@
+{
+    "question": "Define authoritarianism.",
+    "answer": "Strong central power, limited political freedoms."
+}

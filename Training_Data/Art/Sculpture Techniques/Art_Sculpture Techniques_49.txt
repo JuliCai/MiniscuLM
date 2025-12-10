@@ -1,0 +1,4 @@
+{
+    "question": "What is a common tool for clay sculpting?",
+    "answer": "Loop tool."
+}

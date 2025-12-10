@@ -1,0 +1,4 @@
+{
+    "question": "What is confirmation bias?",
+    "answer": "Favoring information that supports existing beliefs."
+}

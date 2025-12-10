@@ -1,0 +1,4 @@
+{
+    "question": "How is imagery linked to neural activation?",
+    "answer": "Activates similar brain regions as actual movement."
+}

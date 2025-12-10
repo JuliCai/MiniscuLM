@@ -1,0 +1,4 @@
+{
+    "question": "What is the existential meaning of freedom?",
+    "answer": "Freedom is both gift and burden."
+}

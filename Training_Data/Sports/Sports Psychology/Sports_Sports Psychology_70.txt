@@ -1,0 +1,4 @@
+{
+    "question": "How does focus training improve performance?",
+    "answer": "Enhances ability to maintain attention under stress."
+}

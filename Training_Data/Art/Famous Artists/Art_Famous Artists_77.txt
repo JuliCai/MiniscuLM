@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist famous for the painting Nighthawks.",
+    "answer": "Edward Hopper."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is Ludwig Wittgenstein?",
+    "answer": "Philosopher of language and mind."
+}

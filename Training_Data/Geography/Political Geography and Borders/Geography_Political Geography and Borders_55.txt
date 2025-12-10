@@ -1,0 +1,4 @@
+{
+    "question": "What is a territorial dispute?",
+    "answer": "Conflict over land ownership."
+}

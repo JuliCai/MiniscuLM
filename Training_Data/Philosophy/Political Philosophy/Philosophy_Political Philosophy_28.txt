@@ -1,0 +1,4 @@
+{
+    "question": "Define pluralism in politics.",
+    "answer": "Multiple groups share power and influence."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of death in existentialism?",
+    "answer": "It gives life urgency and meaning."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of resilience in athletes?",
+    "answer": "Ability to recover from setbacks and adversity."
+}

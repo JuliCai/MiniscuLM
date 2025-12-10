@@ -1,0 +1,4 @@
+{
+    "question": "What is a maquiladora?",
+    "answer": "Factory in Mexico near US border."
+}

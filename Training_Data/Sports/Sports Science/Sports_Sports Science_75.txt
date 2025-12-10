@@ -1,0 +1,4 @@
+{
+    "question": "What is a common symptom of overtraining?",
+    "answer": "Fatigue."
+}

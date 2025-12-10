@@ -1,0 +1,4 @@
+{
+    "question": "Define positivism.",
+    "answer": "Philosophy emphasizing empirical verification of knowledge."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical realism about the external world?",
+    "answer": "World exists outside mind."
+}

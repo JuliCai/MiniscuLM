@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between direct and indirect knowledge?",
+    "answer": "Immediate vs. inferred knowledge."
+}

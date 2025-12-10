@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of deindustrialization?",
+    "answer": "Job losses in manufacturing."
+}

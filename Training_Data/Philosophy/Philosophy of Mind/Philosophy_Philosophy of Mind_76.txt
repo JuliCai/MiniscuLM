@@ -1,0 +1,4 @@
+{
+    "question": "What is the unity of consciousness?",
+    "answer": "Conscious experience as unified whole."
+}

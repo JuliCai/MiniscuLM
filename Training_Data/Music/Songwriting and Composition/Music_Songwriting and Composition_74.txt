@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting hook's purpose?",
+    "answer": "To grab listener's attention quickly."
+}

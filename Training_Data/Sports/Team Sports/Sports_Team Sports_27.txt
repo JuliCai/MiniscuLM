@@ -1,0 +1,4 @@
+{
+    "question": "Which sport has a 'shot clock'?",
+    "answer": "Basketball has a shot clock."
+}

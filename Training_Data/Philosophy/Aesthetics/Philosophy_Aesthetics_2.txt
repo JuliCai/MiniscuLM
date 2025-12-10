@@ -1,0 +1,4 @@
+{
+    "question": "Define 'sublime' in aesthetics.",
+    "answer": "A greatness beyond beauty."
+}

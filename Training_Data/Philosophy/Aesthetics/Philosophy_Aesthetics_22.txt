@@ -1,0 +1,4 @@
+{
+    "question": "Does aesthetics study music?",
+    "answer": "Yes, as an art form."
+}

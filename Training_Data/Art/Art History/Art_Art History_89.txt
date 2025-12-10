@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary color in art?",
+    "answer": "Red, blue, and yellow."
+}

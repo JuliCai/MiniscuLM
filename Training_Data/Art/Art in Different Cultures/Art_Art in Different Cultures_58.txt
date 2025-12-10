@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Indian miniature painting style.",
+    "answer": "Mughal painting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does street art influence fashion?",
+    "answer": "Inspires designs and styles."
+}

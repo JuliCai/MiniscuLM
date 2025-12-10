@@ -1,0 +1,4 @@
+{
+    "question": "When was the first Olympic gold medal awarded?",
+    "answer": "1896."
+}

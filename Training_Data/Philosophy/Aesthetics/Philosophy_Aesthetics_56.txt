@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artworld' in aesthetics?",
+    "answer": "Context defining art status."
+}

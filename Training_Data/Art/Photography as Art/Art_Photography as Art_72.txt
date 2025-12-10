@@ -1,0 +1,4 @@
+{
+    "question": "How does perspective distortion affect photos?",
+    "answer": "Alters perception of size."
+}

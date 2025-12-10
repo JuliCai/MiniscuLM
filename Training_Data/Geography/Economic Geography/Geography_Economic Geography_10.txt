@@ -1,0 +1,4 @@
+{
+    "question": "What is economic clustering?",
+    "answer": "Businesses located close for benefits."
+}

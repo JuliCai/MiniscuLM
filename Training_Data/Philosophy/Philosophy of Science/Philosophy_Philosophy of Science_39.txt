@@ -1,0 +1,4 @@
+{
+    "question": "Who argued against induction?",
+    "answer": "David Hume."
+}

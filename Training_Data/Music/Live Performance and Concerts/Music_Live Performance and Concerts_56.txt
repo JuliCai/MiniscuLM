@@ -1,0 +1,4 @@
+{
+    "question": "What is a sound delay?",
+    "answer": "Time lag in audio."
+}

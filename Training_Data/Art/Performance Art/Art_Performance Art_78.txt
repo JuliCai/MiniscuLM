@@ -1,0 +1,4 @@
+{
+    "question": "What is immersive performance?",
+    "answer": "Engages audience deeply."
+}

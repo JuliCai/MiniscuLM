@@ -1,0 +1,4 @@
+{
+    "question": "Name the modes in music theory.",
+    "answer": "Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian."
+}

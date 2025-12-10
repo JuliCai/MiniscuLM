@@ -1,0 +1,4 @@
+{
+    "question": "Difference between raster and vector art?",
+    "answer": "Raster uses pixels; vector uses paths."
+}

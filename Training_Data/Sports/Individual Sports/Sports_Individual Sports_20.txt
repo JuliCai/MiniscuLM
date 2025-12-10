@@ -1,0 +1,4 @@
+{
+    "question": "What sport is known as the 'king of sports'?",
+    "answer": "Soccer."
+}

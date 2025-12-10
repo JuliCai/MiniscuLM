@@ -1,0 +1,4 @@
+{
+    "question": "What is contractarianism?",
+    "answer": "Morality based on social contracts."
+}

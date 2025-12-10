@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between state and trait anxiety?",
+    "answer": "State is temporary; trait is a personality characteristic."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does concentration impact athletic performance?",
+    "answer": "Improves precision and decision-making speed."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is associated with the 1970s disco era?",
+    "answer": "Disco"
+}

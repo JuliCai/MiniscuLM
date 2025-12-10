@@ -1,0 +1,4 @@
+{
+    "question": "Define eliminative materialism.",
+    "answer": "Common mental concepts should be discarded."
+}

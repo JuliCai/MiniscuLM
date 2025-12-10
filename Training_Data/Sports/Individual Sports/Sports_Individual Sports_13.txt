@@ -1,0 +1,4 @@
+{
+    "question": "Name an individual winter sport involving skis and jumps.",
+    "answer": "Ski jumping."
+}

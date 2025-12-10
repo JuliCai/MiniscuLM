@@ -1,0 +1,4 @@
+{
+    "question": "How does economic geography relate to urban planning?",
+    "answer": "Guides land use and infrastructure."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain the term 'choking' in sports.",
+    "answer": "Performance decline under pressure situations."
+}

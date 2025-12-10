@@ -1,0 +1,4 @@
+{
+    "question": "What is a border dispute?",
+    "answer": "Conflict over boundary location."
+}

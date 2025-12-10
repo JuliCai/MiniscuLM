@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical essence?",
+    "answer": "Intrinsic nature."
+}

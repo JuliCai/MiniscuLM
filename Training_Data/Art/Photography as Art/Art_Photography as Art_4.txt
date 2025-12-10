@@ -1,0 +1,4 @@
+{
+    "question": "How does lighting affect photographic art?",
+    "answer": "Creates mood and highlights subjects."
+}

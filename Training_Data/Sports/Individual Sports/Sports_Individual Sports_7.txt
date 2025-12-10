@@ -1,0 +1,4 @@
+{
+    "question": "Which sport involves hitting a small ball into holes?",
+    "answer": "Golf."
+}

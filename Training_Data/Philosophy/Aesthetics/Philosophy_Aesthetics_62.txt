@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic contemplation'?",
+    "answer": "Deep reflection on beauty."
+}

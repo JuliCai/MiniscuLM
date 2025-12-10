@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic theory of truth'?",
+    "answer": "Truth based on meaning conditions."
+}

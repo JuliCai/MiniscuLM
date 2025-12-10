@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of choice in existentialism?",
+    "answer": "Choice is fundamental to existence."
+}

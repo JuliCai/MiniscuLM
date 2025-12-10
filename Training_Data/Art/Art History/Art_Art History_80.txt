@@ -1,0 +1,4 @@
+{
+    "question": "What\u2019s the main theme of Romanticism?",
+    "answer": "Emotion and nature."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What tool shapes clay?",
+    "answer": "Sculpting knife."
+}

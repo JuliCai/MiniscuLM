@@ -1,0 +1,4 @@
+{
+    "question": "What does DPI stand for?",
+    "answer": "Dots per inch."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a waveform editor?",
+    "answer": "Tool to edit audio waveforms."
+}

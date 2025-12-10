@@ -1,0 +1,4 @@
+{
+    "question": "What is the essence of Impressionism?",
+    "answer": "Light and color effects."
+}

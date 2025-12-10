@@ -1,0 +1,4 @@
+{
+    "question": "What is the problem of induction?",
+    "answer": "Uncertainty in reasoning from past data."
+}

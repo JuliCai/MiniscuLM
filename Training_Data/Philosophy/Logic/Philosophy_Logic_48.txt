@@ -1,0 +1,4 @@
+{
+    "question": "What is a model in logic?",
+    "answer": "An interpretation where statements are true."
+}

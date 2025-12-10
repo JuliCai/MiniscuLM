@@ -1,0 +1,4 @@
+{
+    "question": "What is a phantom power?",
+    "answer": "Power supply for condenser mics."
+}

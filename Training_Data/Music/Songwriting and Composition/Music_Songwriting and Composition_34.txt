@@ -1,0 +1,4 @@
+{
+    "question": "Why use repetition in songs?",
+    "answer": "To make it memorable and catchy."
+}

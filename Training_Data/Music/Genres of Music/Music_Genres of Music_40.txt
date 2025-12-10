@@ -1,0 +1,4 @@
+{
+    "question": "What genre uses turntables and sampling?",
+    "answer": "Hip Hop"
+}

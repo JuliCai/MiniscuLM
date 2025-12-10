@@ -1,0 +1,4 @@
+{
+    "question": "What is 'language acquisition'?",
+    "answer": "Process of learning language."
+}

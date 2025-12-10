@@ -1,0 +1,4 @@
+{
+    "question": "What is 'expression' in art?",
+    "answer": "Conveying emotions or ideas."
+}

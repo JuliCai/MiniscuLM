@@ -1,0 +1,4 @@
+{
+    "question": "What causes economic clustering?",
+    "answer": "Shared resources and infrastructure."
+}

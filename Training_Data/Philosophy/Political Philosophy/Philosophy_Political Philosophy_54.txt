@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of civil disobedience?",
+    "answer": "Nonviolent law-breaking for justice."
+}

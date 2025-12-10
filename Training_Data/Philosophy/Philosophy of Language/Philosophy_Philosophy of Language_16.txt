@@ -1,0 +1,4 @@
+{
+    "question": "Define 'referent'.",
+    "answer": "The actual object a word refers to."
+}

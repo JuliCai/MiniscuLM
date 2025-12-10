@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic pleasure'?",
+    "answer": "Enjoyment derived from art."
+}

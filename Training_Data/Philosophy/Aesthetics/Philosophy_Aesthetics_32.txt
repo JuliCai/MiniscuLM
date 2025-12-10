@@ -1,0 +1,4 @@
+{
+    "question": "What is 'decorum' in aesthetics?",
+    "answer": "Suitability of style or content."
+}

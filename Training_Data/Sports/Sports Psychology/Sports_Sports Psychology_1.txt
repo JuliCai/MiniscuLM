@@ -1,0 +1,4 @@
+{
+    "question": "Name a common goal of sports psychology.",
+    "answer": "Improving athletic performance through mental training."
+}

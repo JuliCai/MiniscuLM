@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of beneficence?",
+    "answer": "Act to promote others' well-being."
+}

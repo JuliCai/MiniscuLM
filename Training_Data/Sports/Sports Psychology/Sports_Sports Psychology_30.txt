@@ -1,0 +1,4 @@
+{
+    "question": "How does confidence relate to self-efficacy?",
+    "answer": "Self-efficacy builds the belief in one's abilities."
+}

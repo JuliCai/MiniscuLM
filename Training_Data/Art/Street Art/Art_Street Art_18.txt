@@ -1,0 +1,4 @@
+{
+    "question": "How do street artists avoid detection?",
+    "answer": "Work quickly and at night."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1988 Summer Olympics?",
+    "answer": "Seoul"
+}

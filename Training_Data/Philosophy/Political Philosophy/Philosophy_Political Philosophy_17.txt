@@ -1,0 +1,4 @@
+{
+    "question": "What is totalitarianism?",
+    "answer": "Centralized control over public and private life."
+}

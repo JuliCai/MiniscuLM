@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument has strings stretched over a frame?",
+    "answer": "The harp has strings over a frame."
+}

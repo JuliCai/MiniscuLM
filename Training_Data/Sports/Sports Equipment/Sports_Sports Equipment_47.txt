@@ -1,0 +1,4 @@
+{
+    "question": "What gear is required for scuba diving?",
+    "answer": "Mask and fins."
+}

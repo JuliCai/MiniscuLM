@@ -1,0 +1,4 @@
+{
+    "question": "Why hydrate before exercise?",
+    "answer": "To prevent dehydration"
+}

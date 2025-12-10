@@ -1,0 +1,4 @@
+{
+    "question": "Define a major chord.",
+    "answer": "A chord with root, major third, and perfect fifth."
+}

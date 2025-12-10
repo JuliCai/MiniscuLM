@@ -1,0 +1,4 @@
+{
+    "question": "Who is Alfred Russel Wallace?",
+    "answer": "Father of biogeography."
+}

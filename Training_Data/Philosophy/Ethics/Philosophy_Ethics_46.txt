@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics of care and justice?",
+    "answer": "Care focuses on relationships; justice on rules."
+}

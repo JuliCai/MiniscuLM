@@ -1,0 +1,4 @@
+{
+    "question": "What is digital matte painting?",
+    "answer": "Background art for films digitally created."
+}

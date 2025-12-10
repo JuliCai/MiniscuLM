@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic innovation's' impact?",
+    "answer": "Drives art evolution."
+}

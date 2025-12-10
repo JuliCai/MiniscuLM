@@ -1,0 +1,4 @@
+{
+    "question": "What is a VST plugin?",
+    "answer": "Virtual Studio Technology plugin for sound effects."
+}

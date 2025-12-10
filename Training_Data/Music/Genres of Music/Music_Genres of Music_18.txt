@@ -1,0 +1,4 @@
+{
+    "question": "Which genre originated from African American communities?",
+    "answer": "Blues"
+}

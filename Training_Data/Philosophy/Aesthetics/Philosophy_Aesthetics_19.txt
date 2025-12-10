@@ -1,0 +1,4 @@
+{
+    "question": "What is 'mimesis' in art?",
+    "answer": "Imitation of reality."
+}

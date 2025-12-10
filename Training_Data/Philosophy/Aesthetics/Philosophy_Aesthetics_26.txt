@@ -1,0 +1,4 @@
+{
+    "question": "Is art necessary for aesthetics?",
+    "answer": "Not always; includes natural beauty."
+}

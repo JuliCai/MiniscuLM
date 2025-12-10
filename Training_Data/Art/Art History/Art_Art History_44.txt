@@ -1,0 +1,4 @@
+{
+    "question": "What medium did Georges Seurat use?",
+    "answer": "Pointillism with oil paint."
+}

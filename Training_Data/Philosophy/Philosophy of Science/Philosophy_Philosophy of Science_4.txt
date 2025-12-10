@@ -1,0 +1,4 @@
+{
+    "question": "What does Kuhn mean by 'paradigm shift'?",
+    "answer": "A fundamental change in scientific framework or worldview."
+}

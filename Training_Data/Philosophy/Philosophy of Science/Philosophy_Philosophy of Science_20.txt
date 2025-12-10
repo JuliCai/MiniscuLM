@@ -1,0 +1,4 @@
+{
+    "question": "What is reductionism?",
+    "answer": "Explaining complex phenomena via simpler components."
+}

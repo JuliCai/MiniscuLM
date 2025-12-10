@@ -1,0 +1,4 @@
+{
+    "question": "What is a half note?",
+    "answer": "Note lasting two beats."
+}

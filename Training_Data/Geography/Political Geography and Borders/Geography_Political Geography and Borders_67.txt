@@ -1,0 +1,4 @@
+{
+    "question": "What is a boundary treaty?",
+    "answer": "Agreement on border definitions."
+}

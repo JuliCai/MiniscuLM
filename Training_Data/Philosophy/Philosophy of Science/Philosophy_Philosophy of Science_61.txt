@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between normative and descriptive?",
+    "answer": "Normative prescribes; descriptive explains."
+}

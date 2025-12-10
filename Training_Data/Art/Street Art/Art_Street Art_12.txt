@@ -1,0 +1,4 @@
+{
+    "question": "Is street art temporary?",
+    "answer": "Often yes, it can be removed."
+}

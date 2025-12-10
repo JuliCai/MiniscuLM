@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic genius'?",
+    "answer": "Exceptional creative talent."
+}

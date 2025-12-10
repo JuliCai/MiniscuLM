@@ -1,0 +1,4 @@
+{
+    "question": "What is a broken chord?",
+    "answer": "Chord notes played separately."
+}

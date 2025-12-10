@@ -1,0 +1,4 @@
+{
+    "question": "How does coaching style affect youth athletes?",
+    "answer": "Influences motivation and growth."
+}

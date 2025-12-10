@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument has a trumpet-like bell but is smaller?",
+    "answer": "The cornet is smaller with a bell."
+}

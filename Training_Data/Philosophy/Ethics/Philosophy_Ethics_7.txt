@@ -1,0 +1,4 @@
+{
+    "question": "Difference between ethics and morals?",
+    "answer": "Ethics are rules; morals are personal beliefs."
+}

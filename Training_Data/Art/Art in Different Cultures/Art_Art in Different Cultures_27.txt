@@ -1,0 +1,4 @@
+{
+    "question": "Which culture traditionally uses jade in art?",
+    "answer": "Chinese culture."
+}

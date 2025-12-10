@@ -1,0 +1,4 @@
+{
+    "question": "What is a common symptom of burnout?",
+    "answer": "Loss of motivation and chronic fatigue."
+}

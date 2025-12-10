@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports promote gender equality?",
+    "answer": "Equal opportunities for all genders."
+}

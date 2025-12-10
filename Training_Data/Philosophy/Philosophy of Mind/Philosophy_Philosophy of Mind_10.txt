@@ -1,0 +1,4 @@
+{
+    "question": "What is the zombie argument?",
+    "answer": "Hypothetical beings without consciousness."
+}

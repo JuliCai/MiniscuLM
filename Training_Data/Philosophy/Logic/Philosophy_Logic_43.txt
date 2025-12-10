@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical positivism'.",
+    "answer": "Philosophy emphasizing verifiable statements."
+}

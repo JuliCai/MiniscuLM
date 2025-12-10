@@ -1,0 +1,4 @@
+{
+    "question": "Which equipment is used in table tennis?",
+    "answer": "Table tennis paddle and ball."
+}

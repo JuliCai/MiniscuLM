@@ -1,0 +1,4 @@
+{
+    "question": "What is existential nihilism?",
+    "answer": "Belief life lacks inherent meaning."
+}

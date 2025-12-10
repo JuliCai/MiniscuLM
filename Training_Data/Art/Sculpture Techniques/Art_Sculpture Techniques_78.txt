@@ -1,0 +1,4 @@
+{
+    "question": "What is the main technique in bronze sculpture?",
+    "answer": "Lost-wax casting."
+}

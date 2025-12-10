@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of crowd noise on athletes?",
+    "answer": "Can either motivate or distract performers."
+}

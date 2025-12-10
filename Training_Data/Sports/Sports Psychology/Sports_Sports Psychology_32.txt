@@ -1,0 +1,4 @@
+{
+    "question": "How is mindfulness used in sports?",
+    "answer": "Enhances present-moment focus and reduces anxiety."
+}

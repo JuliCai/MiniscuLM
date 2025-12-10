@@ -1,0 +1,4 @@
+{
+    "question": "How does contrast affect black and white photos?",
+    "answer": "Defines shapes and mood."
+}

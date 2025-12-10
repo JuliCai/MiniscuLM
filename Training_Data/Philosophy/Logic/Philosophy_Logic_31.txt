@@ -1,0 +1,4 @@
+{
+    "question": "Define 'inference rule'.",
+    "answer": "A rule that justifies moving from premises to conclusion."
+}

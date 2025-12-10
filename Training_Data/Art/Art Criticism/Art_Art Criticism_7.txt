@@ -1,0 +1,4 @@
+{
+    "question": "Which era emphasized art criticism?",
+    "answer": "The Renaissance."
+}

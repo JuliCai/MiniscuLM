@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between syntax and proof.",
+    "answer": "Syntax is rules; proof is derivation following rules."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the Olympic creed?",
+    "answer": "Participation over victory"
+}

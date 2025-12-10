@@ -1,0 +1,4 @@
+{
+    "question": "Is creatine a natural supplement?",
+    "answer": "Yes, found in muscles"
+}

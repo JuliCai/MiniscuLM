@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical concept of infinity?",
+    "answer": "Without limits or end."
+}

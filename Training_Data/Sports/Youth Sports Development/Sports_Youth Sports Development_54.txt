@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of diversity in coaching?",
+    "answer": "Different perspectives and approaches."
+}

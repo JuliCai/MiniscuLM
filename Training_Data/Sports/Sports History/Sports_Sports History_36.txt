@@ -1,0 +1,4 @@
+{
+    "question": "Who won the first men's singles US Open?",
+    "answer": "Richard Sears, 1881."
+}

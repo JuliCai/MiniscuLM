@@ -1,0 +1,4 @@
+{
+    "question": "Define 'market area.'",
+    "answer": "Zone served by a service or product."
+}

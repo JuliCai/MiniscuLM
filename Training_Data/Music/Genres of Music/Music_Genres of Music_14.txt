@@ -1,0 +1,4 @@
+{
+    "question": "Which genre uses auto-tune frequently?",
+    "answer": "Pop"
+}

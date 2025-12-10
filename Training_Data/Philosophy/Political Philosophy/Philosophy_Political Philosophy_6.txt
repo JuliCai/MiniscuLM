@@ -1,0 +1,4 @@
+{
+    "question": "Explain Marxism briefly.",
+    "answer": "Theory advocating class struggle and socialism."
+}

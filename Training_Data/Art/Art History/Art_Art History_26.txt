@@ -1,0 +1,4 @@
+{
+    "question": "Which style is Jackson Pollock known for?",
+    "answer": "Abstract Expressionism."
+}

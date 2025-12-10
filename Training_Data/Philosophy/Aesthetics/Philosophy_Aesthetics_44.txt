@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic experience' characterized by?",
+    "answer": "Pleasure and contemplation."
+}

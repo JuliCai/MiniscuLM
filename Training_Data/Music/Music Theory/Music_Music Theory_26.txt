@@ -1,0 +1,4 @@
+{
+    "question": "Define 'timbre'.",
+    "answer": "Tone color or quality."
+}

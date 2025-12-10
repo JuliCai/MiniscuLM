@@ -1,0 +1,4 @@
+{
+    "question": "Define Conceptual Art.",
+    "answer": "Idea over aesthetic."
+}

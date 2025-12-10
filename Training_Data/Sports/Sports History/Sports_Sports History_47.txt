@@ -1,0 +1,4 @@
+{
+    "question": "Which year was the first Winter Olympics held?",
+    "answer": "1924."
+}

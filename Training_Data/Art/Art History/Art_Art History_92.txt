@@ -1,0 +1,4 @@
+{
+    "question": "What defines Renaissance art?",
+    "answer": "Classical balance and realism."
+}

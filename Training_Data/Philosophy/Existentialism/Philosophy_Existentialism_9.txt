@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of existentialist ethics?",
+    "answer": "Authenticity and personal responsibility."
+}

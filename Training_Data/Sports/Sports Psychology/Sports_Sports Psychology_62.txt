@@ -1,0 +1,4 @@
+{
+    "question": "How does concentration differ from attention?",
+    "answer": "Concentration is sustained focus; attention is momentary."
+}

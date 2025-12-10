@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic sustainability.'",
+    "answer": "Maintaining economic growth long-term."
+}

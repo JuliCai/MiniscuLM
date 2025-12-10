@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic ambiguity'?",
+    "answer": "Multiple possible meanings."
+}

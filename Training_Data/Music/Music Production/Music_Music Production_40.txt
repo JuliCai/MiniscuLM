@@ -1,0 +1,4 @@
+{
+    "question": "What is a chorus effect?",
+    "answer": "Duplicates and modulates sound for richness."
+}

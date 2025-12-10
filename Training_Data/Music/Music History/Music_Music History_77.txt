@@ -1,0 +1,4 @@
+{
+    "question": "What style is associated with Duke Ellington?",
+    "answer": "Big band jazz."
+}

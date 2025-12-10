@@ -1,0 +1,4 @@
+{
+    "question": "Define emergent properties.",
+    "answer": "New properties arise from complex systems."
+}

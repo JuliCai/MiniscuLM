@@ -1,0 +1,4 @@
+{
+    "question": "Explain the concept of sovereignty.",
+    "answer": "Authority of a state to govern itself."
+}

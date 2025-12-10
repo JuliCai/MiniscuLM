@@ -1,0 +1,4 @@
+{
+    "question": "What is the key characteristic of Art Deco?",
+    "answer": "Geometric shapes and luxury."
+}

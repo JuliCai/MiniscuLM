@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of early sports specialization.",
+    "answer": "Skill mastery."
+}

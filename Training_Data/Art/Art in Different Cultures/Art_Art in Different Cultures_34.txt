@@ -1,0 +1,4 @@
+{
+    "question": "Name a common theme in Hindu art.",
+    "answer": "Gods and mythology."
+}

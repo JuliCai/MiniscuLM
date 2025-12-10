@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first player to score 100 goals in NHL?",
+    "answer": "Maurice Richard."
+}

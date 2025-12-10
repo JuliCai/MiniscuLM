@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of skepticism in science?",
+    "answer": "Questioning claims to ensure validity."
+}

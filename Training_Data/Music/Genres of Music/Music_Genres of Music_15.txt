@@ -1,0 +1,4 @@
+{
+    "question": "Name a genre with fast-paced guitar solos.",
+    "answer": "Metal"
+}

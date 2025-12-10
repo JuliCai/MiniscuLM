@@ -1,0 +1,4 @@
+{
+    "question": "Who is Gilbert Ryle?",
+    "answer": "Critic of Cartesian dualism."
+}

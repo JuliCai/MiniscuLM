@@ -1,0 +1,4 @@
+{
+    "question": "When was the first NBA All-Star Game?",
+    "answer": "1951."
+}

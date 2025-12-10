@@ -1,0 +1,4 @@
+{
+    "question": "What is the main characteristic of Romantic music?",
+    "answer": "Expressive emotion."
+}

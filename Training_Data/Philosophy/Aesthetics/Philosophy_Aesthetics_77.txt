@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic expression'?",
+    "answer": "Communication through art."
+}

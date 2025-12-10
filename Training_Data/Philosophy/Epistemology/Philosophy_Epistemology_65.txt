@@ -1,0 +1,4 @@
+{
+    "question": "What is a Gettier problem?",
+    "answer": "Cases where justified true belief isn't knowledge."
+}

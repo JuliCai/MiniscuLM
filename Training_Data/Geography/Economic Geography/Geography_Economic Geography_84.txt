@@ -1,0 +1,4 @@
+{
+    "question": "What is a growth pole?",
+    "answer": "Area driving regional development."
+}

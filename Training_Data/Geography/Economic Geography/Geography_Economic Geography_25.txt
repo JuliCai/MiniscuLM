@@ -1,0 +1,4 @@
+{
+    "question": "What is a hinterland?",
+    "answer": "Area served by a city or port."
+}

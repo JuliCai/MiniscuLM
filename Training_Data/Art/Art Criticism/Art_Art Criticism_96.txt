@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art criticism and philosophy'?",
+    "answer": "Asks fundamental questions."
+}

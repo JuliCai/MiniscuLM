@@ -1,0 +1,4 @@
+{
+    "question": "Who lit the Olympic flame in 1996?",
+    "answer": "Muhammad Ali"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'subject matter' in art?",
+    "answer": "The content depicted."
+}

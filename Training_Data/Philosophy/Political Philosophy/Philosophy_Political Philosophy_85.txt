@@ -1,0 +1,4 @@
+{
+    "question": "Define the concept of tyranny of the majority.",
+    "answer": "Oppression by majority over minorities."
+}

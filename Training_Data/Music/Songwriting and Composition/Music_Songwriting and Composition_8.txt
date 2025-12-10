@@ -1,0 +1,4 @@
+{
+    "question": "What is a hook in songwriting?",
+    "answer": "A catchy musical or lyrical phrase."
+}

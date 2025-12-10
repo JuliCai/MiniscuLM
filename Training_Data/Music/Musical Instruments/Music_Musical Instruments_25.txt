@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument has metal bars struck with mallets?",
+    "answer": "The glockenspiel has metal bars."
+}

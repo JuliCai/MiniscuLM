@@ -1,0 +1,4 @@
+{
+    "question": "What do players wear in rugby?",
+    "answer": "Rugby players wear jerseys and shorts."
+}

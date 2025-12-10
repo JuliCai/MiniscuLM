@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is famous for sculptures of mobiles?",
+    "answer": "Alexander Calder."
+}

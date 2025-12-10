@@ -1,0 +1,4 @@
+{
+    "question": "Purpose of a MIDI controller?",
+    "answer": "To send MIDI signals to devices."
+}

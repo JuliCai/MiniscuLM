@@ -1,0 +1,4 @@
+{
+    "question": "What is an intro in a song?",
+    "answer": "The beginning section setting tone."
+}

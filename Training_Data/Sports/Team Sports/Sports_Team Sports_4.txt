@@ -1,0 +1,4 @@
+{
+    "question": "How long is a basketball game?",
+    "answer": "48 minutes in the NBA."
+}

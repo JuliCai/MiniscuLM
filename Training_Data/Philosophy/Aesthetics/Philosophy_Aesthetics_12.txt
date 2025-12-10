@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'Critique of Judgment'?",
+    "answer": "Immanuel Kant."
+}

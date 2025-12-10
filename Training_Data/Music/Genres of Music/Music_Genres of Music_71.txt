@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is characterized by its minimalistic electronic sound?",
+    "answer": "Minimal Techno"
+}

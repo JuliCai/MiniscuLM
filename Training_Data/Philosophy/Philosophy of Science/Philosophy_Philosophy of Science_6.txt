@@ -1,0 +1,4 @@
+{
+    "question": "What is the underdetermination thesis?",
+    "answer": "Data can support multiple, competing theories equally well."
+}

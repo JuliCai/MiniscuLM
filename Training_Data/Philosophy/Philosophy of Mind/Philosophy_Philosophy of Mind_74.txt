@@ -1,0 +1,4 @@
+{
+    "question": "Define sensation.",
+    "answer": "Raw data from sensory organs."
+}

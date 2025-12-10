@@ -1,0 +1,4 @@
+{
+    "question": "Who created the sculpture The Burghers of Calais?",
+    "answer": "Auguste Rodin."
+}

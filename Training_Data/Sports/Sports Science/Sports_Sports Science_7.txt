@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of ATP in muscles.",
+    "answer": "Provides energy for muscle contractions."
+}

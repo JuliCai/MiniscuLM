@@ -1,0 +1,4 @@
+{
+    "question": "Define moral dilemma.",
+    "answer": "Choosing between two conflicting moral principles."
+}

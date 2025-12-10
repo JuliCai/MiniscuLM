@@ -1,0 +1,4 @@
+{
+    "question": "How does 'art criticism influence audience'?",
+    "answer": "Shapes perception."
+}

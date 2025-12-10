@@ -1,0 +1,4 @@
+{
+    "question": "What does 'evaluation' mean in art?",
+    "answer": "Judging artwork's value."
+}

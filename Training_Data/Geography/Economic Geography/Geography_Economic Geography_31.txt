@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of agriculture in economic geography?",
+    "answer": "Primary economic activity location study."
+}

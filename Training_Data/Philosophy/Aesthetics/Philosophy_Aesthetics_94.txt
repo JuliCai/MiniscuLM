@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' in Eastern aesthetics?",
+    "answer": "Harmony and simplicity."
+}

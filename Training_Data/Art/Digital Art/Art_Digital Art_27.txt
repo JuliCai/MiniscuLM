@@ -1,0 +1,4 @@
+{
+    "question": "What is a gradient?",
+    "answer": "Smooth color transition."
+}

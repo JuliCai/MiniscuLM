@@ -1,0 +1,4 @@
+{
+    "question": "How does urbanization affect economies?",
+    "answer": "Increases service and industrial jobs."
+}

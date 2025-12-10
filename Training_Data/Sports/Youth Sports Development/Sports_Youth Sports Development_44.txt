@@ -1,0 +1,4 @@
+{
+    "question": "Why is flexibility important for youth athletes?",
+    "answer": "Prevents injury and improves movement."
+}

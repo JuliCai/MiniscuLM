@@ -1,0 +1,4 @@
+{
+    "question": "How does aperture influence art photos?",
+    "answer": "Affects depth of field and focus."
+}

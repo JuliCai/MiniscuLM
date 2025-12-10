@@ -1,0 +1,4 @@
+{
+    "question": "What is the advantage of lost-wax casting?",
+    "answer": "Captures fine details."
+}

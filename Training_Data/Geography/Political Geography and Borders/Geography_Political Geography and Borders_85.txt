@@ -1,0 +1,4 @@
+{
+    "question": "What is a border barrier?",
+    "answer": "Physical obstacle on a border."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What sport uses a pistol or rifle for accuracy?",
+    "answer": "Shooting."
+}

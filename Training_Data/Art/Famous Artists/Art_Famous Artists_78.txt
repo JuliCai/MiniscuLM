@@ -1,0 +1,4 @@
+{
+    "question": "Who is known for the Fauvist movement?",
+    "answer": "Henri Matisse."
+}

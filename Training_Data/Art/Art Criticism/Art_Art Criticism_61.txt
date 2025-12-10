@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical framework'?",
+    "answer": "Approach to critique."
+}

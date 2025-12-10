@@ -1,0 +1,4 @@
+{
+    "question": "What is a land border crossing?",
+    "answer": "Crossing point between countries."
+}

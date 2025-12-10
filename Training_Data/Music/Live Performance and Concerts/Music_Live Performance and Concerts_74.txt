@@ -1,0 +1,4 @@
+{
+    "question": "What is a crowd control barrier?",
+    "answer": "Fence for audience safety."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a key signature?",
+    "answer": "Indicates the scale used in music."
+}

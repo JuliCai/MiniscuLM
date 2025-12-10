@@ -1,0 +1,4 @@
+{
+    "question": "Which art form uses clay?",
+    "answer": "Ceramics."
+}

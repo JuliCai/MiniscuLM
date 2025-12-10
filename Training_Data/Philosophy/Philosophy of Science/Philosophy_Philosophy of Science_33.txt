@@ -1,0 +1,4 @@
+{
+    "question": "What is instrumentalism?",
+    "answer": "Viewing theories as instruments for prediction."
+}

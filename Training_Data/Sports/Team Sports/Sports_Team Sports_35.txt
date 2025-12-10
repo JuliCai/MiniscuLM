@@ -1,0 +1,4 @@
+{
+    "question": "Which sport is played on a diamond field?",
+    "answer": "Baseball is played on diamond."
+}

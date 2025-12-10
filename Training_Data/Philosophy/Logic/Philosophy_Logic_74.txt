@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between material and strict implication?",
+    "answer": "Material relates truth values; strict involves necessity."
+}

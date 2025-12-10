@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional art in Maori culture.",
+    "answer": "Carving and tattooing."
+}

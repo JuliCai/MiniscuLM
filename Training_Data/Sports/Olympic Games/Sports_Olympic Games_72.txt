@@ -1,0 +1,4 @@
+{
+    "question": "Which country hosted the 1976 Summer Olympics?",
+    "answer": "Canada"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a buffer zone?",
+    "answer": "Area separating conflicting parties."
+}

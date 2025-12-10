@@ -1,0 +1,4 @@
+{
+    "question": "Name a key skill learned in youth sports.",
+    "answer": "Teamwork."
+}

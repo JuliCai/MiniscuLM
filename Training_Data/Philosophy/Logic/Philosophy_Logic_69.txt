@@ -1,0 +1,4 @@
+{
+    "question": "Explain the meaning of 'if and only if'.",
+    "answer": "Statements imply each other mutually."
+}

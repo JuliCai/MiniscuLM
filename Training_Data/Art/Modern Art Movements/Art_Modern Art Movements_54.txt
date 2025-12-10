@@ -1,0 +1,4 @@
+{
+    "question": "Who used 'ready-mades' in art?",
+    "answer": "Marcel Duchamp."
+}

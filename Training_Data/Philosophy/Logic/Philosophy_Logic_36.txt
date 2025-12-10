@@ -1,0 +1,4 @@
+{
+    "question": "What is a heuristic in logic?",
+    "answer": "A practical method for problem-solving or discovery."
+}

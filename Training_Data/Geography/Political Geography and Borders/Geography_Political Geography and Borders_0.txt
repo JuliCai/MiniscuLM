@@ -1,0 +1,4 @@
+{
+    "question": "What defines political geography?",
+    "answer": "Study of spatial political processes and boundaries."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a unique feature of Balinese music?",
+    "answer": "Gamelan ensembles feature layered metallophones."
+}

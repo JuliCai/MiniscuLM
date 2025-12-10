@@ -1,0 +1,4 @@
+{
+    "question": "Is verbal communication necessary?",
+    "answer": "Not required."
+}

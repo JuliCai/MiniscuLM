@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic innovation definition'?",
+    "answer": "New creative ideas."
+}

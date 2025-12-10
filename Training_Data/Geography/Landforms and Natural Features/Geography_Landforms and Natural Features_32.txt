@@ -1,0 +1,4 @@
+{
+    "question": "What is a cave?",
+    "answer": "A natural underground hollow."
+}

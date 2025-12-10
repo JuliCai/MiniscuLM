@@ -1,0 +1,4 @@
+{
+    "question": "What is an 'aesthetic object'?",
+    "answer": "An object possessing beauty."
+}

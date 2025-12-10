@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The School of Athens?",
+    "answer": "Raphael."
+}

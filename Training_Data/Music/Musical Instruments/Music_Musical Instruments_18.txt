@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is known for its deep sound?",
+    "answer": "The double bass has a deep sound."
+}

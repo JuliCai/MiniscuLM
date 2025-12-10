@@ -1,0 +1,4 @@
+{
+    "question": "Who is a famous female artist from Mexico?",
+    "answer": "Frida Kahlo."
+}

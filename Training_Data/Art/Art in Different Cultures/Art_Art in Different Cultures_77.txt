@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary medium in Islamic manuscript art?",
+    "answer": "Illuminated manuscripts."
+}

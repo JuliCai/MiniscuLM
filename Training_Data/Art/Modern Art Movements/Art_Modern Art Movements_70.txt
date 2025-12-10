@@ -1,0 +1,4 @@
+{
+    "question": "What is the goal of Conceptual Art?",
+    "answer": "Prioritize ideas over form."
+}

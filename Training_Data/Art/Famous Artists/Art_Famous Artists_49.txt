@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist known for using vibrant colors and bold brushstrokes.",
+    "answer": "Vincent van Gogh."
+}

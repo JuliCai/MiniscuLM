@@ -1,0 +1,4 @@
+{
+    "question": "Define deontology.",
+    "answer": "Ethics based on duty and rules."
+}

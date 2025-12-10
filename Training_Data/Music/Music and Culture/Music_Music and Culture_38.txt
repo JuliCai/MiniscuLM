@@ -1,0 +1,4 @@
+{
+    "question": "How do musical styles vary globally?",
+    "answer": "Styles differ due to cultural and historical factors."
+}

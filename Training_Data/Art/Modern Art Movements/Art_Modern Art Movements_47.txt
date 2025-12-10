@@ -1,0 +1,4 @@
+{
+    "question": "Who founded the Bauhaus school?",
+    "answer": "Walter Gropius."
+}

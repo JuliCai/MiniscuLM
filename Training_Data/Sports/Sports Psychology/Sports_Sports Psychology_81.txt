@@ -1,0 +1,4 @@
+{
+    "question": "How do athletes use goal visualization?",
+    "answer": "To mentally prepare and enhance confidence."
+}

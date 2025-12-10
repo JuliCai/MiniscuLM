@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between episodic and semantic memory?",
+    "answer": "Episodic is personal; semantic is factual."
+}

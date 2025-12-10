@@ -1,0 +1,4 @@
+{
+    "question": "What do players wear in American football?",
+    "answer": "Helmet and pads."
+}

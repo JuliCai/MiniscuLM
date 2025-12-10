@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of experiments in science.",
+    "answer": "Experiments test hypotheses and validate theories."
+}

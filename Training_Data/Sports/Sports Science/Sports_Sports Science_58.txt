@@ -1,0 +1,4 @@
+{
+    "question": "Explain the term 'periodization'.",
+    "answer": "Planned training phases."
+}

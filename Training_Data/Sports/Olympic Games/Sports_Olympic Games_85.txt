@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted 1952 Summer Olympics?",
+    "answer": "Helsinki"
+}

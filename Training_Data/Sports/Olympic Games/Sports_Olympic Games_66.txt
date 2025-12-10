@@ -1,0 +1,4 @@
+{
+    "question": "Which Olympics were held during World War I?",
+    "answer": "None"
+}

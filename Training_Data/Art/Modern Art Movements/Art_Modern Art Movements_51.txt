@@ -1,0 +1,4 @@
+{
+    "question": "What movement emphasizes flatness?",
+    "answer": "Minimalism."
+}

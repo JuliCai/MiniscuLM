@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between performance art and theater?",
+    "answer": "Artistic intent differs."
+}

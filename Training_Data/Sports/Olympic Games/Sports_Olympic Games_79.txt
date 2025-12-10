@@ -1,0 +1,4 @@
+{
+    "question": "What year did the Olympics resume after WW2?",
+    "answer": "1948"
+}

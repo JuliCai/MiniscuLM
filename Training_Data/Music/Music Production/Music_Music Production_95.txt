@@ -1,0 +1,4 @@
+{
+    "question": "What is a sample rate?",
+    "answer": "Number of audio samples per second."
+}

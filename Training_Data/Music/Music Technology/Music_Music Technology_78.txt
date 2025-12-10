@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW transient shaper?",
+    "answer": "Shapes attack and sustain."
+}

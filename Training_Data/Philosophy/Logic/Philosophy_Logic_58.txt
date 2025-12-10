@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical paradox?",
+    "answer": "A statement that contradicts itself."
+}

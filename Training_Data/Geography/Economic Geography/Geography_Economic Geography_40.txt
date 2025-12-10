@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'dependency theory'?",
+    "answer": "Developing countries rely on developed ones."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the objective in basketball?",
+    "answer": "Score points by shooting in basket."
+}

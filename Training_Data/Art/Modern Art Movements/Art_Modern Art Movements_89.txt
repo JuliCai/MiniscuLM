@@ -1,0 +1,4 @@
+{
+    "question": "Which style uses automatic drawing?",
+    "answer": "Surrealism."
+}

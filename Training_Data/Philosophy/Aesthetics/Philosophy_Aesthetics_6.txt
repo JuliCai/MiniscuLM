@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic experience'?",
+    "answer": "Engagement with beauty or art."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'exposure' in photography.",
+    "answer": "Amount of light reaching the sensor."
+}

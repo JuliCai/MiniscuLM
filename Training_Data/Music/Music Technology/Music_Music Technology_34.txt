@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW plugin?",
+    "answer": "Additional software tools for DAWs."
+}

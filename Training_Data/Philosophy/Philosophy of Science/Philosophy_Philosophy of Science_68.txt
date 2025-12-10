@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of observation in theory formation?",
+    "answer": "Informs and tests theories."
+}

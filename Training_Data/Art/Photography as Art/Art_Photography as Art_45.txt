@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of color grading?",
+    "answer": "Alters mood and style."
+}

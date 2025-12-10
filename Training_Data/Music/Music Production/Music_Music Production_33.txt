@@ -1,0 +1,4 @@
+{
+    "question": "What does 'dry' mean in effects?",
+    "answer": "Signal without effect applied."
+}

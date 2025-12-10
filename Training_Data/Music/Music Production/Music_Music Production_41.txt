@@ -1,0 +1,4 @@
+{
+    "question": "What is a limiter?",
+    "answer": "Prevents audio from exceeding set level."
+}

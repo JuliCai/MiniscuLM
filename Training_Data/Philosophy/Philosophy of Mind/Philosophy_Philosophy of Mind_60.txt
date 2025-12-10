@@ -1,0 +1,4 @@
+{
+    "question": "What does 'mental supervenience' mean?",
+    "answer": "Mental states depend on physical states."
+}

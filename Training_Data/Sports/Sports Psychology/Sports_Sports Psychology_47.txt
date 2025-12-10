@@ -1,0 +1,4 @@
+{
+    "question": "Name a psychological skill training method.",
+    "answer": "Goal setting, imagery, relaxation, or self-talk."
+}

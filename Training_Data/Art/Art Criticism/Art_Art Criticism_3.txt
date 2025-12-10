@@ -1,0 +1,4 @@
+{
+    "question": "Define 'iconography' in art.",
+    "answer": "Study of symbols and themes."
+}

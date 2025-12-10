@@ -1,0 +1,4 @@
+{
+    "question": "Define naturalism in philosophy of science.",
+    "answer": "The view that science explains all natural phenomena."
+}

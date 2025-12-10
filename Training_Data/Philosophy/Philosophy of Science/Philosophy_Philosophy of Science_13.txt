@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of observation in science?",
+    "answer": "To collect empirical data for testing theories."
+}

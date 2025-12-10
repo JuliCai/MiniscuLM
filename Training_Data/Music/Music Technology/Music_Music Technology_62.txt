@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW clip gain?",
+    "answer": "Adjusts volume of individual clip."
+}

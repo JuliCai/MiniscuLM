@@ -1,0 +1,4 @@
+{
+    "question": "What is anarcho-capitalism?",
+    "answer": "Anarchism combined with free-market capitalism."
+}

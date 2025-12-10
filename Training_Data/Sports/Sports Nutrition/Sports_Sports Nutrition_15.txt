@@ -1,0 +1,4 @@
+{
+    "question": "Why is hydration critical for athletes?",
+    "answer": "Maintains performance and health"
+}

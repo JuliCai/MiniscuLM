@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of axioms in logic.",
+    "answer": "Basic accepted truths without proof."
+}

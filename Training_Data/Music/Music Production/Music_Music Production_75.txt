@@ -1,0 +1,4 @@
+{
+    "question": "What is a hi-hat?",
+    "answer": "Cymbal used in drum kits."
+}

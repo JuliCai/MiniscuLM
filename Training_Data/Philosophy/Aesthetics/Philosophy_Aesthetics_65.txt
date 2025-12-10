@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty standards' affected by?",
+    "answer": "Society and media."
+}

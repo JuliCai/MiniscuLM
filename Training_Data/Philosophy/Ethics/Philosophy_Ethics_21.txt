@@ -1,0 +1,4 @@
+{
+    "question": "What is moral luck?",
+    "answer": "When outcomes affect moral judgment unfairly."
+}

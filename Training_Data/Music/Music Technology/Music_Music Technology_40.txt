@@ -1,0 +1,4 @@
+{
+    "question": "What is a vocoder?",
+    "answer": "Modulates voice with synth sounds."
+}

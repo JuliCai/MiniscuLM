@@ -1,0 +1,4 @@
+{
+    "question": "Define 'indexical expressions'.",
+    "answer": "Words whose meaning depends on context."
+}

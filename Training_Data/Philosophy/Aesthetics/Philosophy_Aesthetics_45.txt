@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'golden ratio' relation to aesthetics?",
+    "answer": "Mathematical beauty proportion."
+}

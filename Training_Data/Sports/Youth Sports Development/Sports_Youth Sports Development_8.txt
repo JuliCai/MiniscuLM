@@ -1,0 +1,4 @@
+{
+    "question": "How does youth sports impact physical health?",
+    "answer": "Enhances fitness and coordination."
+}

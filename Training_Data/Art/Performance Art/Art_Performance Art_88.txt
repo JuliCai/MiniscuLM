@@ -1,0 +1,4 @@
+{
+    "question": "Can performance art be scripted?",
+    "answer": "Yes, or improvised."
+}

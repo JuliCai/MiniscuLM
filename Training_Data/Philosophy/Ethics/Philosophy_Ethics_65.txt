@@ -1,0 +1,4 @@
+{
+    "question": "What is ethical hedonism?",
+    "answer": "Pursuit of pleasure is morally right."
+}

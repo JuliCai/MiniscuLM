@@ -1,0 +1,4 @@
+{
+    "question": "What is a curtain call?",
+    "answer": "Performers' final bow on stage."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'private language argument'?",
+    "answer": "Language must be publicly understandable."
+}

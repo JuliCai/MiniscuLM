@@ -1,0 +1,4 @@
+{
+    "question": "Which continent is known for multiple small countries?",
+    "answer": "Europe."
+}

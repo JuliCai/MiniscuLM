@@ -1,0 +1,4 @@
+{
+    "question": "What is a live performance lighting effect?",
+    "answer": "Visual effects during show."
+}

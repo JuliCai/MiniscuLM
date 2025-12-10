@@ -1,0 +1,4 @@
+{
+    "question": "Who influenced Sartre?",
+    "answer": "Hegel, Husserl, Heidegger."
+}

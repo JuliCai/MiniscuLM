@@ -1,0 +1,4 @@
+{
+    "question": "What is the importance of timing in photography?",
+    "answer": "Captures decisive moments."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a sound card?",
+    "answer": "Hardware for audio input/output."
+}

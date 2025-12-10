@@ -1,0 +1,4 @@
+{
+    "question": "Can technology affect aesthetics?",
+    "answer": "Yes, it shapes art and perception."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist behind Les Demoiselles d'Avignon.",
+    "answer": "Pablo Picasso."
+}

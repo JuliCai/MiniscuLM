@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Hay Wain?",
+    "answer": "John Constable."
+}

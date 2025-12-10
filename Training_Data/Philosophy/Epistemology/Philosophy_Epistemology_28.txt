@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic injustice?",
+    "answer": "Unfairness in knowledge distribution."
+}

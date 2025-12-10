@@ -1,0 +1,4 @@
+{
+    "question": "What is a MIDI controller?",
+    "answer": "Hardware to send MIDI signals to DAWs."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who won the first FIFA Women's World Cup?",
+    "answer": "United States."
+}

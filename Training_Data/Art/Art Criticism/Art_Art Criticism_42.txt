@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic genre'?",
+    "answer": "Category of art style."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'Impressionism' focus on?",
+    "answer": "Light and color."
+}

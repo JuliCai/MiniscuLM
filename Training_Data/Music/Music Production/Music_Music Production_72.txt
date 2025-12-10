@@ -1,0 +1,4 @@
+{
+    "question": "What is a DI box?",
+    "answer": "Direct injection for instrument signal."
+}

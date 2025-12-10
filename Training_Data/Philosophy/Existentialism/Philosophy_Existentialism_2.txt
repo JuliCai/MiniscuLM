@@ -1,0 +1,4 @@
+{
+    "question": "Define 'absurd' in existentialism.",
+    "answer": "The conflict between meaning and meaningless life."
+}

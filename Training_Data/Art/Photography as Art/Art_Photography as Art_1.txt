@@ -1,0 +1,4 @@
+{
+    "question": "Who is considered the father of photography?",
+    "answer": "Nic\u00e9phore Ni\u00e9pce."
+}

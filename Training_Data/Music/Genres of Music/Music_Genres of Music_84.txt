@@ -1,0 +1,4 @@
+{
+    "question": "What genre is famous for its storytelling and acoustic instruments?",
+    "answer": "Country"
+}

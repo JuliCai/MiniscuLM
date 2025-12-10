@@ -1,0 +1,4 @@
+{
+    "question": "How does dehydration affect performance?",
+    "answer": "Reduces strength and endurance"
+}

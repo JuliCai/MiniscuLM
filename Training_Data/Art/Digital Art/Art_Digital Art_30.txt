@@ -1,0 +1,4 @@
+{
+    "question": "What is an alpha channel?",
+    "answer": "Transparency information in images."
+}

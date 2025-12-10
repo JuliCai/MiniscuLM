@@ -1,0 +1,4 @@
+{
+    "question": "What role does perception play in knowledge?",
+    "answer": "Source of empirical evidence."
+}

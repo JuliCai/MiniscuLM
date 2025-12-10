@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of justice?",
+    "answer": "Fair treatment and distribution."
+}

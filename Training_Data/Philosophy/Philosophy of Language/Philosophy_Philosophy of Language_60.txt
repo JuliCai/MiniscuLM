@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'principle of charity'?",
+    "answer": "Interpreting others rationally."
+}

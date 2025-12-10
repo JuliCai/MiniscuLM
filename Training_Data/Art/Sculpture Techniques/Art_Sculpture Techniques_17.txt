@@ -1,0 +1,4 @@
+{
+    "question": "What material is used in direct carving?",
+    "answer": "Stone or wood."
+}

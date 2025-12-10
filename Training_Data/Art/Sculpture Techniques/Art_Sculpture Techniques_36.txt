@@ -1,0 +1,4 @@
+{
+    "question": "What is the process of casting in resin?",
+    "answer": "Pouring resin into molds."
+}

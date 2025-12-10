@@ -1,0 +1,4 @@
+{
+    "question": "Can photography be political art?",
+    "answer": "Yes, through subject and message."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is played by bowing or plucking?",
+    "answer": "The violin is bowed or plucked."
+}

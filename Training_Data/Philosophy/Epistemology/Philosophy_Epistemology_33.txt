@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of intuition in epistemology?",
+    "answer": "Immediate knowledge without inference."
+}

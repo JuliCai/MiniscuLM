@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between intrinsic and instrumental value?",
+    "answer": "Intrinsic is valuable itself; instrumental for something else."
+}

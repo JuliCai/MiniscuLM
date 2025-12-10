@@ -1,0 +1,4 @@
+{
+    "question": "What is a mask in digital art?",
+    "answer": "Hide or reveal areas."
+}

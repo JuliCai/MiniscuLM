@@ -1,0 +1,4 @@
+{
+    "question": "What is a bassline?",
+    "answer": "Low-pitched melody supporting harmony."
+}

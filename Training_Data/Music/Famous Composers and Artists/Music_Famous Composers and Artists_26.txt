@@ -1,0 +1,4 @@
+{
+    "question": "Who created The Birth of Venus painting?",
+    "answer": "Sandro Botticelli."
+}

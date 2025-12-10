@@ -1,0 +1,4 @@
+{
+    "question": "What is a common psychological skill taught in youth sports?",
+    "answer": "Focus and concentration."
+}

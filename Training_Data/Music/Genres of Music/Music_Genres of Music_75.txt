@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is known for its acoustic guitar and poetic lyrics?",
+    "answer": "Folk"
+}

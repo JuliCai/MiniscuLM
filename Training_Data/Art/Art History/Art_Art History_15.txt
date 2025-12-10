@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous female Impressionist painter.",
+    "answer": "Mary Cassatt."
+}

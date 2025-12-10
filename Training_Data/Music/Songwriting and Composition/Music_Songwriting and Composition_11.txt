@@ -1,0 +1,4 @@
+{
+    "question": "How does tempo affect a song?",
+    "answer": "Changes the speed and mood."
+}

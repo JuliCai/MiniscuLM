@@ -1,0 +1,4 @@
+{
+    "question": "What is a logical operator?",
+    "answer": "Symbols denoting logical functions like AND, OR."
+}

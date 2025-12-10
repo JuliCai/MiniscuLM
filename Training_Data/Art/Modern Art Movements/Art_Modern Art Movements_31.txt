@@ -1,0 +1,4 @@
+{
+    "question": "Name a Surrealist technique.",
+    "answer": "Automatic drawing."
+}

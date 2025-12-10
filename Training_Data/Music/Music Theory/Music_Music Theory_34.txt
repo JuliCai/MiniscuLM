@@ -1,0 +1,4 @@
+{
+    "question": "Define 'arpeggio'.",
+    "answer": "Notes of a chord played sequentially."
+}

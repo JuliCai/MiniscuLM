@@ -1,0 +1,4 @@
+{
+    "question": "Name an instrument that can be electric or acoustic.",
+    "answer": "The guitar can be electric or acoustic."
+}

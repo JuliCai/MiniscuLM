@@ -1,0 +1,4 @@
+{
+    "question": "What distinguishes kinetic sculpture?",
+    "answer": "It incorporates movement."
+}

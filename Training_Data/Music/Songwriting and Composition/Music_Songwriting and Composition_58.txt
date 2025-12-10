@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting perspective?",
+    "answer": "Point of view in lyrics."
+}

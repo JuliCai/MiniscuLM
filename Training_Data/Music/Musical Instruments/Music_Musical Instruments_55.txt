@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is played by pressing valves and blowing?",
+    "answer": "The trumpet is played by valves and blowing."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is famous for the painting Olympia?",
+    "answer": "\u00c9douard Manet."
+}

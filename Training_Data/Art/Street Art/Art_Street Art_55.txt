@@ -1,0 +1,4 @@
+{
+    "question": "What is a street art gallery?",
+    "answer": "Exhibits street art indoors."
+}

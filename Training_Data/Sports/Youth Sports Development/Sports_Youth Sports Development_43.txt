@@ -1,0 +1,4 @@
+{
+    "question": "How can coaches identify talent in youth sports?",
+    "answer": "Observation and performance metrics."
+}

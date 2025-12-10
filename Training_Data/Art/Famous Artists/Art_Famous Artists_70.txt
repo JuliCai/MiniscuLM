@@ -1,0 +1,4 @@
+{
+    "question": "Who created the painting Luncheon on the Grass?",
+    "answer": "\u00c9douard Manet."
+}

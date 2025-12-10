@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting palette?",
+    "answer": "The tools and styles used."
+}

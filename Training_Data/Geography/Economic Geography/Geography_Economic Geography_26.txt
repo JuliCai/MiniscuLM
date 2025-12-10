@@ -1,0 +1,4 @@
+{
+    "question": "Define 'location theory.'",
+    "answer": "Study of economic activity locations."
+}

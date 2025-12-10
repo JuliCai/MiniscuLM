@@ -1,0 +1,4 @@
+{
+    "question": "Who is a known Minimalist sculptor?",
+    "answer": "Tony Smith."
+}

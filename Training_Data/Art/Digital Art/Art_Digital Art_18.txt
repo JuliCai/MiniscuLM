@@ -1,0 +1,4 @@
+{
+    "question": "Name a common digital art file extension.",
+    "answer": "PNG."
+}

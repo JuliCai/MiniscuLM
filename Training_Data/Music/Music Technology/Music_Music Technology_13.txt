@@ -1,0 +1,4 @@
+{
+    "question": "What is sidechain compression?",
+    "answer": "Dynamic effect controlled by another track."
+}

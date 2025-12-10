@@ -1,0 +1,4 @@
+{
+    "question": "Define scientific method.",
+    "answer": "Systematic observation, hypothesis, experimentation."
+}

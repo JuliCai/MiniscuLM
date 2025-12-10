@@ -1,0 +1,4 @@
+{
+    "question": "What is a notch filter?",
+    "answer": "Removes a narrow frequency band."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define extrinsic motivation in sports.",
+    "answer": "Driven by external rewards or recognition."
+}

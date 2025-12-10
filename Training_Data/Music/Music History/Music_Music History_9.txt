@@ -1,0 +1,4 @@
+{
+    "question": "Name the composer of The Rite of Spring.",
+    "answer": "Igor Stravinsky."
+}

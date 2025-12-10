@@ -1,0 +1,4 @@
+{
+    "question": "What is a bus send?",
+    "answer": "Route audio to another channel."
+}

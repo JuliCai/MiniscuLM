@@ -1,0 +1,4 @@
+{
+    "question": "What is songwriting spontaneity?",
+    "answer": "Creating ideas without planning."
+}

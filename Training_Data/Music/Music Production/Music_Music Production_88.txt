@@ -1,0 +1,4 @@
+{
+    "question": "What is a clip gain?",
+    "answer": "Adjust volume of audio clip."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between deductive and inductive logic.",
+    "answer": "Deductive guarantees conclusion; inductive suggests probability."
+}

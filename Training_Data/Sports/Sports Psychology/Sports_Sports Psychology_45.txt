@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of locus of control in sports?",
+    "answer": "Belief about control over outcomes affects motivation."
+}

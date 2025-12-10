@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the brain-in-a-vat scenario?",
+    "answer": "Questions reality and perception."
+}

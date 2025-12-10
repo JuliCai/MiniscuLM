@@ -1,0 +1,4 @@
+{
+    "question": "What is a natural arch?",
+    "answer": "Rock formation with arch shape."
+}

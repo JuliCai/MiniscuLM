@@ -1,0 +1,4 @@
+{
+    "question": "Name a popular American team sport.",
+    "answer": "Football (American) is popular."
+}

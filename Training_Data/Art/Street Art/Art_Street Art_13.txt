@@ -1,0 +1,4 @@
+{
+    "question": "What colors are common in street art?",
+    "answer": "Bright and contrasting colors."
+}

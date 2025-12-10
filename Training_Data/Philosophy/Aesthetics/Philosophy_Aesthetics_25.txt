@@ -1,0 +1,4 @@
+{
+    "question": "Name a critique of aesthetics.",
+    "answer": "It's too subjective."
+}

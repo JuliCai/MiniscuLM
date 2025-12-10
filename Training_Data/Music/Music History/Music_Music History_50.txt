@@ -1,0 +1,4 @@
+{
+    "question": "What instrument did Jimi Hendrix play?",
+    "answer": "Electric guitar."
+}

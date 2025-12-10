@@ -1,0 +1,4 @@
+{
+    "question": "What is macro photography?",
+    "answer": "Close-up photography of small subjects."
+}

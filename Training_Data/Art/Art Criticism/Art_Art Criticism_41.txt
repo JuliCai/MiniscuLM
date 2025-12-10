@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic technique'?",
+    "answer": "Method used to create art."
+}

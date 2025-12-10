@@ -1,0 +1,4 @@
+{
+    "question": "What role does anonymity play in street art?",
+    "answer": "Protects artist identity."
+}

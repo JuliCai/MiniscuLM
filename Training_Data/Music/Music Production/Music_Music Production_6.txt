@@ -1,0 +1,4 @@
+{
+    "question": "What does EQ do in audio?",
+    "answer": "Adjusts frequency balance of audio signals."
+}

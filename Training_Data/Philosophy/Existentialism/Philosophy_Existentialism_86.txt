@@ -1,0 +1,4 @@
+{
+    "question": "What is 'leap of faith'?",
+    "answer": "Choosing belief despite uncertainty."
+}

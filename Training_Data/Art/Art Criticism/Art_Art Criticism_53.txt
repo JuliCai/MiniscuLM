@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic symbolism'?",
+    "answer": "Hidden meanings in art."
+}

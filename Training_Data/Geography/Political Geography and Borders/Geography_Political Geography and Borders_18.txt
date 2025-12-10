@@ -1,0 +1,4 @@
+{
+    "question": "Which ocean borders the USA west coast?",
+    "answer": "Pacific Ocean."
+}

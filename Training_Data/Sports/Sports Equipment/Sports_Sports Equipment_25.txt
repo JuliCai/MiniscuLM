@@ -1,0 +1,4 @@
+{
+    "question": "What is essential for playing golf?",
+    "answer": "Golf clubs."
+}

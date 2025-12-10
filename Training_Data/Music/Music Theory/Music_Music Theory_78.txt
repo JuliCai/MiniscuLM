@@ -1,0 +1,4 @@
+{
+    "question": "Define 'key signature'.",
+    "answer": "Sharps or flats at staff start."
+}

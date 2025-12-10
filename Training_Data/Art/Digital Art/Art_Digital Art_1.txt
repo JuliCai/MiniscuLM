@@ -1,0 +1,4 @@
+{
+    "question": "Name a popular digital art software.",
+    "answer": "Adobe Photoshop."
+}

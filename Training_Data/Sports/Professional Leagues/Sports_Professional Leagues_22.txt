@@ -1,0 +1,4 @@
+{
+    "question": "Which league hosts the Stanley Cup playoffs?",
+    "answer": "NHL."
+}

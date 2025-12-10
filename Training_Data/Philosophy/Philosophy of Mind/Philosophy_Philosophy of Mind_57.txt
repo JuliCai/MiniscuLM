@@ -1,0 +1,4 @@
+{
+    "question": "What is the mind-body identity theory?",
+    "answer": "Mind is identical to brain states."
+}

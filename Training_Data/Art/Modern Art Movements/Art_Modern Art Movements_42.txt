@@ -1,0 +1,4 @@
+{
+    "question": "What distinguishes Op Art?",
+    "answer": "Visual effects and illusions."
+}

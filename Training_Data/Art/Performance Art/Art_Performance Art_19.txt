@@ -1,0 +1,4 @@
+{
+    "question": "Is performance art ephemeral?",
+    "answer": "Yes, it is often temporary."
+}

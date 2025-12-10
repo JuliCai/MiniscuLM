@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between maquette and final sculpture?",
+    "answer": "Maquette is small model."
+}

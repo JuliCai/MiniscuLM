@@ -1,0 +1,4 @@
+{
+    "question": "Name a technique used in street art.",
+    "answer": "Spray painting."
+}

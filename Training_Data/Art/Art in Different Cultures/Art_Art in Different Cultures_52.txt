@@ -1,0 +1,4 @@
+{
+    "question": "Which culture uses intricate embroidery in traditional dress?",
+    "answer": "Eastern European cultures."
+}

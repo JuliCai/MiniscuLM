@@ -1,0 +1,4 @@
+{
+    "question": "What genre blends jazz with electronic music?",
+    "answer": "Nu Jazz"
+}

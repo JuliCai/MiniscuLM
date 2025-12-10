@@ -1,0 +1,4 @@
+{
+    "question": "Name a benefit of omega-3 fatty acids.",
+    "answer": "Reduces inflammation"
+}

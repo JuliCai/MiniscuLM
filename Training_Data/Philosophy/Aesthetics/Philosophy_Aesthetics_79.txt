@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' in Aristotle's view?",
+    "answer": "Order and harmony."
+}

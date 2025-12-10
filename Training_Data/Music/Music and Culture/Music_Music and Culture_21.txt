@@ -1,0 +1,4 @@
+{
+    "question": "How has technology changed music culture?",
+    "answer": "Technology enables digital music creation and sharing."
+}

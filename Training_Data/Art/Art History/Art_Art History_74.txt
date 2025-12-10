@@ -1,0 +1,4 @@
+{
+    "question": "What does 'chiaroscuro' enhance?",
+    "answer": "Light and shadow contrast."
+}

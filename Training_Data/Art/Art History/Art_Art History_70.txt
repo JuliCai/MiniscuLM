@@ -1,0 +1,4 @@
+{
+    "question": "What is an icon in Byzantine art?",
+    "answer": "Religious image."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can street art be considered vandalism?",
+    "answer": "If unauthorized, yes."
+}

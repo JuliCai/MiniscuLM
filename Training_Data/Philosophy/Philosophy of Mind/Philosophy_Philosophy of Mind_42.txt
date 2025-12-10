@@ -1,0 +1,4 @@
+{
+    "question": "What is representationalism?",
+    "answer": "Consciousness is representation of the world."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Does performance art have scripts?",
+    "answer": "Sometimes, often improvised."
+}

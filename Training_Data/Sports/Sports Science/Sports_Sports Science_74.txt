@@ -1,0 +1,4 @@
+{
+    "question": "Define skill acquisition.",
+    "answer": "Process of learning skills."
+}

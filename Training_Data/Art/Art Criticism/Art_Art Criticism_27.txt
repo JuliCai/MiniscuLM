@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic merit'?",
+    "answer": "Quality and significance of art."
+}

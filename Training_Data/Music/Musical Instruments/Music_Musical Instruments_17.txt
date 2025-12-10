@@ -1,0 +1,4 @@
+{
+    "question": "What instrument is used in mariachi bands?",
+    "answer": "The trumpet is used in mariachi."
+}

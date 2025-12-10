@@ -1,0 +1,4 @@
+{
+    "question": "Name an example of a global city.",
+    "answer": "New York."
+}

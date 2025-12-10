@@ -1,0 +1,4 @@
+{
+    "question": "How can parents avoid pressure in youth sports?",
+    "answer": "Focus on effort, not outcomes."
+}

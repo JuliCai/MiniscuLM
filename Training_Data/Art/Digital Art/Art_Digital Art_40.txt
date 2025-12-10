@@ -1,0 +1,4 @@
+{
+    "question": "What is concept sketching?",
+    "answer": "Early stage rough drawing."
+}

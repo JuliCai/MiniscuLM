@@ -1,0 +1,4 @@
+{
+    "question": "Define 'polysemy'.",
+    "answer": "One word, multiple related meanings."
+}

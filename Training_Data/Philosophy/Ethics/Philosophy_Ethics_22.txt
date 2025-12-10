@@ -1,0 +1,4 @@
+{
+    "question": "What is Hobbes' view on ethics?",
+    "answer": "Ethics arise from social contracts to avoid chaos."
+}

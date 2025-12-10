@@ -1,0 +1,4 @@
+{
+    "question": "What role does visualization play in sports?",
+    "answer": "Enhances performance by mentally rehearsing actions."
+}

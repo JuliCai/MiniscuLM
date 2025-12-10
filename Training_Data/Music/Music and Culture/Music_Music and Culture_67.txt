@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous cultural music genre from Cuba.",
+    "answer": "Son Cubano is a famous Cuban genre."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1932 Summer Olympics?",
+    "answer": "Los Angeles"
+}

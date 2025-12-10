@@ -1,0 +1,4 @@
+{
+    "question": "What is utilitarianism?",
+    "answer": "Philosophy maximizing overall happiness."
+}

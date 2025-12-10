@@ -1,0 +1,4 @@
+{
+    "question": "Name a common treatment for sprains.",
+    "answer": "RICE method."
+}

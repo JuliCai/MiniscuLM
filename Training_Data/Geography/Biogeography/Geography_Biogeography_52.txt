@@ -1,0 +1,4 @@
+{
+    "question": "What is a migrant bird?",
+    "answer": "Birds that travel seasonally."
+}

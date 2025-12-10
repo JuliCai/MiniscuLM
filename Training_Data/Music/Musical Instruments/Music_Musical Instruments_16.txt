@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument has 47 strings and pedals?",
+    "answer": "The harp has 47 strings and pedals."
+}

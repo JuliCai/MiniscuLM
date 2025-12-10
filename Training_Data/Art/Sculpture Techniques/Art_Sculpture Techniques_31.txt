@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of sanding in sculpture?",
+    "answer": "To smooth the surface."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'sensory delight'?",
+    "answer": "Pleasure from sensory experience."
+}

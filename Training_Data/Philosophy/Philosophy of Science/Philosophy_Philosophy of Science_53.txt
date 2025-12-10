@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a law and a theory?",
+    "answer": "Law describes; theory explains phenomena."
+}

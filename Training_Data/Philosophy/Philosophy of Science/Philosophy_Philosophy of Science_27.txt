@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between deductive and inductive reasoning?",
+    "answer": "Deductive derives specifics from general; inductive generalizes from specifics."
+}

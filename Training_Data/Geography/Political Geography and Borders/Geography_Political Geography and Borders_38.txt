@@ -1,0 +1,4 @@
+{
+    "question": "Which sea borders Egypt to the north?",
+    "answer": "Mediterranean Sea."
+}

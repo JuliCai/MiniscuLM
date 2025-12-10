@@ -1,0 +1,4 @@
+{
+    "question": "Define syncopated rhythm.",
+    "answer": "Rhythm emphasizing unexpected beats."
+}

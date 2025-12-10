@@ -1,0 +1,4 @@
+{
+    "question": "Define empirical evidence.",
+    "answer": "Information gathered through observation or experiment."
+}

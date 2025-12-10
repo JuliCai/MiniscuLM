@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical concept of possibility?",
+    "answer": "What could exist or happen."
+}

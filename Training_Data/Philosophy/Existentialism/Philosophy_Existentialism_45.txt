@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'Other's' gaze?",
+    "answer": "How others perceive and define us."
+}

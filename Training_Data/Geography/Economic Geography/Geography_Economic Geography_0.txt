@@ -1,0 +1,4 @@
+{
+    "question": "What defines economic geography?",
+    "answer": "Study of economic activities' spatial distribution."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is internalism in epistemology?",
+    "answer": "Justification depends on internal states."
+}

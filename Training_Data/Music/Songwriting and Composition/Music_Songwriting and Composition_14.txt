@@ -1,0 +1,4 @@
+{
+    "question": "Difference between major and minor chords?",
+    "answer": "Major sounds happy; minor sounds sad."
+}

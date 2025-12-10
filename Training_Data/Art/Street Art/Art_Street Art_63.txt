@@ -1,0 +1,4 @@
+{
+    "question": "What is a street art collective?",
+    "answer": "Group creating art together."
+}

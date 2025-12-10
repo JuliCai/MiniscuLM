@@ -1,0 +1,4 @@
+{
+    "question": "How can athletes overcome choking?",
+    "answer": "Through relaxation and focus techniques."
+}

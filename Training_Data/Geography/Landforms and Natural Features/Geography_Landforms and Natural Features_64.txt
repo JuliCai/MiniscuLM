@@ -1,0 +1,4 @@
+{
+    "question": "What is a peninsula's opposite?",
+    "answer": "An isthmus."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is ethical relativism?",
+    "answer": "Morality varies by culture or situation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of falsifiability?",
+    "answer": "Distinguishes scientific from non-scientific claims."
+}

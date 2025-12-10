@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'binary form'.",
+    "answer": "Two-part musical form."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of autonomy?",
+    "answer": "Respect for individual's self-rule."
+}

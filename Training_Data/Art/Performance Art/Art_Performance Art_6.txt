@@ -1,0 +1,4 @@
+{
+    "question": "Define 'happening' in art.",
+    "answer": "Spontaneous artistic event."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of models in science?",
+    "answer": "Simplify and represent complex phenomena."
+}

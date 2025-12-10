@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between equality of opportunity and equality of outcome?",
+    "answer": "Chance fairness vs. result fairness."
+}

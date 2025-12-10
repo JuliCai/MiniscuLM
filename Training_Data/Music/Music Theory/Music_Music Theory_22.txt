@@ -1,0 +1,4 @@
+{
+    "question": "Define 'augmented chord'.",
+    "answer": "Chord with raised fifth."
+}

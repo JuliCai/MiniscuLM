@@ -1,0 +1,4 @@
+{
+    "question": "What is the golden rule?",
+    "answer": "Treat others as you want treated."
+}

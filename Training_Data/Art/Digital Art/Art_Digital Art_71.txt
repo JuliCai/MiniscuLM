@@ -1,0 +1,4 @@
+{
+    "question": "What is digital art exposure adjustment?",
+    "answer": "Change image brightness."
+}

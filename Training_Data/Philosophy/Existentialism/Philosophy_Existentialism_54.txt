@@ -1,0 +1,4 @@
+{
+    "question": "What is 'existential vacuum'?",
+    "answer": "Feeling of emptiness and meaninglessness."
+}

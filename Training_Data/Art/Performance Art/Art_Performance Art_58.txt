@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of props?",
+    "answer": "Support or symbolize ideas."
+}

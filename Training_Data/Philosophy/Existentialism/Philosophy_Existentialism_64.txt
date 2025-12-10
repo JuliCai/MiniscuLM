@@ -1,0 +1,4 @@
+{
+    "question": "What is existentialism's view on despair?",
+    "answer": "Despair comes from reliance on external factors."
+}

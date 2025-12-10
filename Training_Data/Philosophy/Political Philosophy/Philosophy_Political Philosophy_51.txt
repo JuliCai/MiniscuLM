@@ -1,0 +1,4 @@
+{
+    "question": "What is the harm principle?",
+    "answer": "Limits on freedom to prevent harm."
+}

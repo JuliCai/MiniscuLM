@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art brush tip?",
+    "answer": "Shape of brush's paint application."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a karst landscape?",
+    "answer": "Terrain with sinkholes and caves."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is essential for fencing?",
+    "answer": "Sword and mask."
+}

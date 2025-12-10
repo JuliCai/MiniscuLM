@@ -1,0 +1,4 @@
+{
+    "question": "What is a found object in assemblage?",
+    "answer": "Pre-existing item used in sculpture."
+}

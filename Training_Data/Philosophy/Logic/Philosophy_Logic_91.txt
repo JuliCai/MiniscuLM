@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical consequence' in modal logic.",
+    "answer": "Truth preservation considering possibility and necessity."
+}

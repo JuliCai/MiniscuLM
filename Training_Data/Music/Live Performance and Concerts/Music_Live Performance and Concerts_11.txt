@@ -1,0 +1,4 @@
+{
+    "question": "Who is the frontman in a band?",
+    "answer": "Lead singer or main performer."
+}

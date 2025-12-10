@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is played with drumsticks?",
+    "answer": "The drum is played with sticks."
+}

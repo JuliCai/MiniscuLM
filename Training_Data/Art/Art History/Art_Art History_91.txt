@@ -1,0 +1,4 @@
+{
+    "question": "What technique did Michelangelo use on the Sistine Chapel?",
+    "answer": "Fresco painting."
+}

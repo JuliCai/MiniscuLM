@@ -1,0 +1,4 @@
+{
+    "question": "What is ethics?",
+    "answer": "Study of right and wrong."
+}

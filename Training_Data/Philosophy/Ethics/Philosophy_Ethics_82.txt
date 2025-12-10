@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and religion?",
+    "answer": "Ethics is secular; religion is divine-based."
+}

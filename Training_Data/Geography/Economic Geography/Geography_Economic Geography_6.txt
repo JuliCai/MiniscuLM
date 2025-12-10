@@ -1,0 +1,4 @@
+{
+    "question": "What is a free trade zone?",
+    "answer": "Area with reduced trade barriers."
+}

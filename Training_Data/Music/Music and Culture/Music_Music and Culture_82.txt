@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of music in African ceremonies?",
+    "answer": "It marks rites of passage and celebrations."
+}

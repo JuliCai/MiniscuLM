@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'definite descriptions'.",
+    "answer": "Phrases denoting a unique object."
+}

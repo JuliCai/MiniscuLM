@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote 'The Stranger'?",
+    "answer": "Albert Camus."
+}

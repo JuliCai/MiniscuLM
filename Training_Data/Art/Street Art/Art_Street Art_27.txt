@@ -1,0 +1,4 @@
+{
+    "question": "What safety concerns exist for street artists?",
+    "answer": "Risk of arrest or injury."
+}

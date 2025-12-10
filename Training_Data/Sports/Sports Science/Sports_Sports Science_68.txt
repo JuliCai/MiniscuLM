@@ -1,0 +1,4 @@
+{
+    "question": "What is a sprain?",
+    "answer": "Ligament injury."
+}

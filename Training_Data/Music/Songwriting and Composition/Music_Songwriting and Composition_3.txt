@@ -1,0 +1,4 @@
+{
+    "question": "Name a common song structure.",
+    "answer": "Verse-Chorus-Verse-Chorus-Bridge-Chorus."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical skepticism?",
+    "answer": "Doubt about the nature of reality."
+}

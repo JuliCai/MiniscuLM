@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports develop strategic thinking?",
+    "answer": "Game tactics and planning."
+}

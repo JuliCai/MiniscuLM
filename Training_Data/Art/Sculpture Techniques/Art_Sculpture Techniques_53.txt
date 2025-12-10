@@ -1,0 +1,4 @@
+{
+    "question": "What is a common material for kinetic sculpture?",
+    "answer": "Metal."
+}

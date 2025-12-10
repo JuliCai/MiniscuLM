@@ -1,0 +1,4 @@
+{
+    "question": "What does scientific explanation seek?",
+    "answer": "To make phenomena understandable via laws and theories."
+}

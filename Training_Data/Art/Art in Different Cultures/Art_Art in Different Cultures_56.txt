@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is known for sand painting?",
+    "answer": "Navajo culture."
+}

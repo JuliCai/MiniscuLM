@@ -1,0 +1,4 @@
+{
+    "question": "Is black and white photography art?",
+    "answer": "Yes, emphasizes contrast and texture."
+}

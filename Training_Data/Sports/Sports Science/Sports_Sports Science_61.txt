@@ -1,0 +1,4 @@
+{
+    "question": "Define aerobic metabolism.",
+    "answer": "Energy production using oxygen."
+}

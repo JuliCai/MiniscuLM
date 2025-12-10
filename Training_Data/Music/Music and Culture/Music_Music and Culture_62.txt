@@ -1,0 +1,4 @@
+{
+    "question": "How has digital media changed music culture?",
+    "answer": "It allows global music access and sharing."
+}

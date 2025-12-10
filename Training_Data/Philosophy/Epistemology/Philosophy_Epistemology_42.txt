@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between propositional and procedural knowledge?",
+    "answer": "Knowing that vs. knowing how."
+}

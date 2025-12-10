@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a focal point?",
+    "answer": "Draws viewer's attention."
+}

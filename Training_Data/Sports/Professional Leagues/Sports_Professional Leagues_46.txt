@@ -1,0 +1,4 @@
+{
+    "question": "Which league is known as the top professional baseball league in Japan?",
+    "answer": "NPB (Nippon Professional Baseball)."
+}

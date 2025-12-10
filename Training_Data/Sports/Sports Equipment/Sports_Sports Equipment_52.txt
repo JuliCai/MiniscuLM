@@ -1,0 +1,4 @@
+{
+    "question": "What do cyclists wear for safety?",
+    "answer": "Helmet."
+}

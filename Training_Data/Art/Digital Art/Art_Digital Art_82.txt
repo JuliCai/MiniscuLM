@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for digital art animation loops?",
+    "answer": "Repeating animation sequence."
+}

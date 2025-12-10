@@ -1,0 +1,4 @@
+{
+    "question": "Which country won the first Olympic gold in soccer?",
+    "answer": "Great Britain."
+}

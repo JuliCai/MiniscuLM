@@ -1,0 +1,4 @@
+{
+    "question": "What is 'critical reception'?",
+    "answer": "Public and critic response."
+}

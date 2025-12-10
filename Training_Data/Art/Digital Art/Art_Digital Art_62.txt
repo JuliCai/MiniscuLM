@@ -1,0 +1,4 @@
+{
+    "question": "What does 'zoom' do?",
+    "answer": "Magnify artwork area."
+}

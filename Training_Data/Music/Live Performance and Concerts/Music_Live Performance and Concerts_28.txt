@@ -1,0 +1,4 @@
+{
+    "question": "What is a soundboard?",
+    "answer": "Device controlling audio signals."
+}

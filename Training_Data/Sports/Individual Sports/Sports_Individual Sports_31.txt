@@ -1,0 +1,4 @@
+{
+    "question": "Which sport is known for the term 'slam dunk'?",
+    "answer": "Basketball."
+}

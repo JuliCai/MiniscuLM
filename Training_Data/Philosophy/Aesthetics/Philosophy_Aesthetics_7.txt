@@ -1,0 +1,4 @@
+{
+    "question": "Is aesthetic judgment subjective?",
+    "answer": "Often considered subjective but debated."
+}

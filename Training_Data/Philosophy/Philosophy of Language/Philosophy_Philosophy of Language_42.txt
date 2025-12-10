@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'reference' in language.",
+    "answer": "Link between expressions and objects."
+}

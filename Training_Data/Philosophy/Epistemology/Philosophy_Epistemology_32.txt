@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between analytic and synthetic propositions?",
+    "answer": "True by meaning vs. by facts."
+}

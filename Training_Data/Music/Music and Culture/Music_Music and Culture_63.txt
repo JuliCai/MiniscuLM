@@ -1,0 +1,4 @@
+{
+    "question": "What cultural origin is the steel drum from?",
+    "answer": "Steel drums are from Caribbean culture."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist critique of society?",
+    "answer": "It often suppresses individuality."
+}

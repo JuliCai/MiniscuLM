@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of mental toughness tests?",
+    "answer": "Assess resilience and coping under pressure."
+}

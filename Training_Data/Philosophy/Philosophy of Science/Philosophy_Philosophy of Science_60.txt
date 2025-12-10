@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of language in science?",
+    "answer": "Communicates ideas clearly and precisely."
+}

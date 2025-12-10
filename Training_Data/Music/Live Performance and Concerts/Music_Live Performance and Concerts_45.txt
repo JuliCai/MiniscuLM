@@ -1,0 +1,4 @@
+{
+    "question": "What does 'micing up' mean?",
+    "answer": "Placing microphones on instruments."
+}

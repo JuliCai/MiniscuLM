@@ -1,0 +1,4 @@
+{
+    "question": "Which strait separates Europe and Asia?",
+    "answer": "Bosporus Strait."
+}

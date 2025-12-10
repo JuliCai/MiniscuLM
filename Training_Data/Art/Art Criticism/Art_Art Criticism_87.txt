@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art criticism purpose'?",
+    "answer": "Understand and judge art."
+}

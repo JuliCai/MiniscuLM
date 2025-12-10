@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical concept of space?",
+    "answer": "The framework where objects exist."
+}

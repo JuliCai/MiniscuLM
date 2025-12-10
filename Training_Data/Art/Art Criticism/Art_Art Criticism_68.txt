@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic expression examples'?",
+    "answer": "Emotion in brushstrokes."
+}

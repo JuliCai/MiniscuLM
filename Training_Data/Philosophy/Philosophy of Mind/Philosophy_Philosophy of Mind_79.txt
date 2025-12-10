@@ -1,0 +1,4 @@
+{
+    "question": "What is the placebo effect's relevance to mind?",
+    "answer": "Mind influences physical health."
+}

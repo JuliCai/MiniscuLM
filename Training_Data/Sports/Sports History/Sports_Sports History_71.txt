@@ -1,0 +1,4 @@
+{
+    "question": "Which athlete was called 'The Greatest' in boxing?",
+    "answer": "Muhammad Ali."
+}

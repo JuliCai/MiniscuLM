@@ -1,0 +1,4 @@
+{
+    "question": "Which sport involves a bull and a red cape?",
+    "answer": "Bullfighting."
+}

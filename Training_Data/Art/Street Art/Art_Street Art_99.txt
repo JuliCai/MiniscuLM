@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of street art in society?",
+    "answer": "To express and provoke."
+}

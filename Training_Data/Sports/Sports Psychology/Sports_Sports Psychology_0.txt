@@ -1,0 +1,4 @@
+{
+    "question": "What is sports psychology?",
+    "answer": "Study of mental factors affecting sports performance."
+}

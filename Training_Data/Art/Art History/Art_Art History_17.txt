@@ -1,0 +1,4 @@
+{
+    "question": "Which art period emphasized emotion and nature?",
+    "answer": "Romanticism."
+}

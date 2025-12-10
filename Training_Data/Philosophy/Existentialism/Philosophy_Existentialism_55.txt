@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between existentialism and absurdism?",
+    "answer": "Absurdism accepts meaninglessness; existentialism seeks meaning."
+}

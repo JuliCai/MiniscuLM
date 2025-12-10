@@ -1,0 +1,4 @@
+{
+    "question": "Who is Patricia Churchland?",
+    "answer": "Philosopher of neuroscience and mind."
+}

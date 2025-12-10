@@ -1,0 +1,4 @@
+{
+    "question": "What is a pixel art sprite?",
+    "answer": "Small 2D game character image."
+}

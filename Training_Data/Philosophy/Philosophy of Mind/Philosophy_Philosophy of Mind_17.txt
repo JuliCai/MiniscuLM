@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'ghost in the machine'?",
+    "answer": "Mind as a non-physical entity."
+}

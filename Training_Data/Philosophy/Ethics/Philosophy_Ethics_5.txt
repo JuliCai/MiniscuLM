@@ -1,0 +1,4 @@
+{
+    "question": "What is the trolley problem?",
+    "answer": "Ethical dilemma about sacrificing one to save many."
+}

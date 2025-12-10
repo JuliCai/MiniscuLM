@@ -1,0 +1,4 @@
+{
+    "question": "What is a cliff?",
+    "answer": "A steep rock face or slope."
+}

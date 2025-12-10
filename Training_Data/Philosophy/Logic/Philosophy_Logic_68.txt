@@ -1,0 +1,4 @@
+{
+    "question": "What is a negation?",
+    "answer": "A logical NOT operation reversing truth value."
+}

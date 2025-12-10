@@ -1,0 +1,4 @@
+{
+    "question": "What is a bus in mixing?",
+    "answer": "Channel grouping several tracks together."
+}

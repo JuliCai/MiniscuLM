@@ -1,0 +1,4 @@
+{
+    "question": "What instrument's sound is made by vibrating lips?",
+    "answer": "The trumpet's sound comes from lips."
+}

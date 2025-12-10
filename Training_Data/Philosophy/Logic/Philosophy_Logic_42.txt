@@ -1,0 +1,4 @@
+{
+    "question": "What is a formal system?",
+    "answer": "A set of symbols and rules for manipulating them."
+}

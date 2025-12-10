@@ -1,0 +1,4 @@
+{
+    "question": "How does music foster intercultural dialogue?",
+    "answer": "Music connects diverse cultures and ideas."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical contingency?",
+    "answer": "Things being otherwise possible."
+}

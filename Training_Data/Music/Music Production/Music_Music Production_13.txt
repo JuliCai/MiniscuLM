@@ -1,0 +1,4 @@
+{
+    "question": "What is reverb?",
+    "answer": "Echo effect simulating space in audio."
+}

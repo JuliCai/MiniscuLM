@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of despair?",
+    "answer": "Confronting meaningless and freedom."
+}

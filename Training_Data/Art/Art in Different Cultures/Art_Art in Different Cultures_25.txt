@@ -1,0 +1,4 @@
+{
+    "question": "Define the art style of Art Nouveau.",
+    "answer": "Decorative, flowing lines."
+}

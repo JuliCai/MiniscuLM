@@ -1,0 +1,4 @@
+{
+    "question": "Why is storytelling important in photography?",
+    "answer": "Engages viewers emotionally."
+}

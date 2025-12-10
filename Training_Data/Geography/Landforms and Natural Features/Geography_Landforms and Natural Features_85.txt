@@ -1,0 +1,4 @@
+{
+    "question": "What is a flood's impact?",
+    "answer": "Covers land with water."
+}

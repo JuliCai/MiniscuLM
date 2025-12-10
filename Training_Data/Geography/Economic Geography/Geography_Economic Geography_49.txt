@@ -1,0 +1,4 @@
+{
+    "question": "Define 'capital flow.'",
+    "answer": "Movement of money for investment."
+}

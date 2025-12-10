@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between extensional and intensional logic.",
+    "answer": "Extensional based on truth values; intensional on meanings."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is endurance art?",
+    "answer": "Art involving prolonged effort."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted Water Lilies series?",
+    "answer": "Claude Monet."
+}

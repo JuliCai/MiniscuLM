@@ -1,0 +1,4 @@
+{
+    "question": "Who is the father of modern abstract art?",
+    "answer": "Wassily Kandinsky."
+}

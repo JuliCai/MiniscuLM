@@ -1,0 +1,4 @@
+{
+    "question": "What is the main tool in clay modeling?",
+    "answer": "Hands."
+}

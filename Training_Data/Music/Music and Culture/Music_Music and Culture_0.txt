@@ -1,0 +1,4 @@
+{
+    "question": "What is the origin of jazz music?",
+    "answer": "Jazz originated in African American communities in New Orleans."
+}

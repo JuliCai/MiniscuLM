@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between federalism and unitary state?",
+    "answer": "Power shared vs. centralized government."
+}

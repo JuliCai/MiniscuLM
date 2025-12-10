@@ -1,0 +1,4 @@
+{
+    "question": "Explain libertarianism.",
+    "answer": "Political philosophy valuing individual freedom."
+}

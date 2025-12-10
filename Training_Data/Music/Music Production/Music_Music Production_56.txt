@@ -1,0 +1,4 @@
+{
+    "question": "What is an audio clip?",
+    "answer": "Segment of recorded sound."
+}

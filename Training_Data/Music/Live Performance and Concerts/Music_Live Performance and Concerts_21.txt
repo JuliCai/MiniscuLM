@@ -1,0 +1,4 @@
+{
+    "question": "What is ticket scalping?",
+    "answer": "Reselling tickets at higher prices."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a border fence?",
+    "answer": "Barrier along a political border."
+}

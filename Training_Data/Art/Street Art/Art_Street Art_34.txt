@@ -1,0 +1,4 @@
+{
+    "question": "What is a piece in graffiti?",
+    "answer": "A detailed graffiti artwork."
+}

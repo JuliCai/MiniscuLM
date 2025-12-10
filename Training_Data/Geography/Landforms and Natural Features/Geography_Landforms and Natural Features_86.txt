@@ -1,0 +1,4 @@
+{
+    "question": "What causes sinkholes?",
+    "answer": "Collapse of underground cavities."
+}

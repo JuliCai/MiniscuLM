@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of Impressionism?",
+    "answer": "Light and movement."
+}

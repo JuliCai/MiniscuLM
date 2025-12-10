@@ -1,0 +1,4 @@
+{
+    "question": "Is graffiti considered street art?",
+    "answer": "Yes, often it is."
+}

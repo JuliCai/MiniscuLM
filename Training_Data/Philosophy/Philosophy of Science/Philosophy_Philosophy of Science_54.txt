@@ -1,0 +1,4 @@
+{
+    "question": "What is a paradigm shift?",
+    "answer": "Major change in scientific perspective."
+}

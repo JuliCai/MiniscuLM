@@ -1,0 +1,4 @@
+{
+    "question": "What is 'phenomenology' in aesthetics?",
+    "answer": "Study of experience and consciousness."
+}

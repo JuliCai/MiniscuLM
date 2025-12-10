@@ -1,0 +1,4 @@
+{
+    "question": "What is a mural?",
+    "answer": "A large artwork painted on walls."
+}

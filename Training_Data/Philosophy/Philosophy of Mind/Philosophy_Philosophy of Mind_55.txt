@@ -1,0 +1,4 @@
+{
+    "question": "Define cognitive science.",
+    "answer": "Study of mind and intelligence."
+}

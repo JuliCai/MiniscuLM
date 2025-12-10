@@ -1,0 +1,4 @@
+{
+    "question": "Which art style uses fragmented forms?",
+    "answer": "Cubism."
+}

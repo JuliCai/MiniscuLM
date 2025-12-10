@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport where competitors perform flips and spins on ice.",
+    "answer": "Figure skating."
+}

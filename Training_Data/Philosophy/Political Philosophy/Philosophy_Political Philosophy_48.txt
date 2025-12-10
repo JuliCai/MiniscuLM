@@ -1,0 +1,4 @@
+{
+    "question": "Who was Edmund Burke?",
+    "answer": "Conservative philosopher and political theorist."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic theory'?",
+    "answer": "Study of meaning in language."
+}

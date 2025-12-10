@@ -1,0 +1,4 @@
+{
+    "question": "Name a sport involving hitting a shuttlecock over a net.",
+    "answer": "Badminton."
+}

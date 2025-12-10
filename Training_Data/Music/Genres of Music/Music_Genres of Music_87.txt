@@ -1,0 +1,4 @@
+{
+    "question": "Which genre blends rock and electronic music?",
+    "answer": "Electro Rock"
+}

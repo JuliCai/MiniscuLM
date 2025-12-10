@@ -1,0 +1,4 @@
+{
+    "question": "What is a live performance fee?",
+    "answer": "Payment to artists for shows."
+}

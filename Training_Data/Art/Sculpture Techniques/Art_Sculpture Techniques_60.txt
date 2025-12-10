@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a clay coil technique?",
+    "answer": "Building forms with rolled clay."
+}

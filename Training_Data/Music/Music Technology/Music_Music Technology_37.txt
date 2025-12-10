@@ -1,0 +1,4 @@
+{
+    "question": "What is a synthesizer oscillator?",
+    "answer": "Generates raw sound waves."
+}

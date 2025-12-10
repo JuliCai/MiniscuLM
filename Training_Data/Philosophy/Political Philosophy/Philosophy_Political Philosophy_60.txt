@@ -1,0 +1,4 @@
+{
+    "question": "Define social justice.",
+    "answer": "Justice in terms of social equality."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How can youth sports combat obesity?",
+    "answer": "Encourages physical activity."
+}

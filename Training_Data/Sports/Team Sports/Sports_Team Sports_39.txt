@@ -1,0 +1,4 @@
+{
+    "question": "Name a sport with a goalie.",
+    "answer": "Soccer, hockey, and lacrosse."
+}

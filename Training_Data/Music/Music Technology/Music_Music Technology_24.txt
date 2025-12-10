@@ -1,0 +1,4 @@
+{
+    "question": "What is a patch in synthesis?",
+    "answer": "Settings to create a specific sound."
+}

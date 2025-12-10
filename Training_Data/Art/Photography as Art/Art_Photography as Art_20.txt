@@ -1,0 +1,4 @@
+{
+    "question": "What is meant by photographic style?",
+    "answer": "Unique visual approach of an artist."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'capacity' mean in venues?",
+    "answer": "Maximum audience size allowed."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does repetition contribute to photographic art?",
+    "answer": "Creates patterns and unity."
+}

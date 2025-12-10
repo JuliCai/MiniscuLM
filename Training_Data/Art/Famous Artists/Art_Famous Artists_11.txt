@@ -1,0 +1,4 @@
+{
+    "question": "Which Dutch artist is famous for self-portraits?",
+    "answer": "Rembrandt."
+}

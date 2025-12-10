@@ -1,0 +1,4 @@
+{
+    "question": "How many periods in ice hockey?",
+    "answer": "Three periods."
+}

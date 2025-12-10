@@ -1,0 +1,4 @@
+{
+    "question": "How does music influence fashion?",
+    "answer": "Music genres inspire clothing styles."
+}

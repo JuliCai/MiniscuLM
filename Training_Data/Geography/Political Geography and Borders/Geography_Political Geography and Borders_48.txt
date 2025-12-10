@@ -1,0 +1,4 @@
+{
+    "question": "Which country borders both Atlantic and Pacific Oceans?",
+    "answer": "Colombia."
+}

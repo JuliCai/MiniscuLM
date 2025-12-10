@@ -1,0 +1,4 @@
+{
+    "question": "Which team sport is played on ice?",
+    "answer": "Ice hockey is on ice."
+}

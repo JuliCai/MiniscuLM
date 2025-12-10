@@ -1,0 +1,4 @@
+{
+    "question": "What is the 'aesthetic attitude'?",
+    "answer": "Approach focused on appreciation."
+}

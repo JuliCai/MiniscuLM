@@ -1,0 +1,4 @@
+{
+    "question": "What culture developed the fresco technique?",
+    "answer": "Ancient Roman culture."
+}

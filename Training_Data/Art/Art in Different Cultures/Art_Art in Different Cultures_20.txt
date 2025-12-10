@@ -1,0 +1,4 @@
+{
+    "question": "What does Egyptian hieroglyphic art depict?",
+    "answer": "Symbols and stories."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW automation lane?",
+    "answer": "Track section for parameter changes."
+}

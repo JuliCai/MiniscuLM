@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous war photographer.",
+    "answer": "Robert Capa."
+}

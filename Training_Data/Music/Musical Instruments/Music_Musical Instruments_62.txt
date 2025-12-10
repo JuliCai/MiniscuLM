@@ -1,0 +1,4 @@
+{
+    "question": "Name an instrument with metal strings and a wooden body.",
+    "answer": "The guitar has metal strings and wood."
+}

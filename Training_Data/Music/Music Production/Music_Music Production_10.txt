@@ -1,0 +1,4 @@
+{
+    "question": "What does 'bouncing' a track mean?",
+    "answer": "Exporting or rendering audio tracks into one file."
+}

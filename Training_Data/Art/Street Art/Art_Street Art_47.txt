@@ -1,0 +1,4 @@
+{
+    "question": "How do street artists plan their work?",
+    "answer": "Sketches and stencils."
+}

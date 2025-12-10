@@ -1,0 +1,4 @@
+{
+    "question": "Explain the 'meaning is use' theory.",
+    "answer": "Meaning arises from language use."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism define freedom?",
+    "answer": "Freedom is the ability to choose."
+}

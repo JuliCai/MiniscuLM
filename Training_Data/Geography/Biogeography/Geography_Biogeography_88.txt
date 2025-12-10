@@ -1,0 +1,4 @@
+{
+    "question": "What is a refugium?",
+    "answer": "Area where species survive unfavorable periods."
+}

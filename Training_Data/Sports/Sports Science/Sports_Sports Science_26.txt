@@ -1,0 +1,4 @@
+{
+    "question": "Define sports psychology.",
+    "answer": "Mental processes in sports performance."
+}

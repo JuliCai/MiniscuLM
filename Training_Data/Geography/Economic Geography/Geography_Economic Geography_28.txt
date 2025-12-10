@@ -1,0 +1,4 @@
+{
+    "question": "Name a factor of industrial location.",
+    "answer": "Proximity to raw materials."
+}

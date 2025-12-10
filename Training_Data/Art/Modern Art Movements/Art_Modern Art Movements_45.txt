@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is linked to Abstract Expressionism?",
+    "answer": "Willem de Kooning."
+}

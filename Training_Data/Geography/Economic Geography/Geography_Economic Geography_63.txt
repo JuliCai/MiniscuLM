@@ -1,0 +1,4 @@
+{
+    "question": "Define 'agglomeration.'",
+    "answer": "Concentration of industries."
+}

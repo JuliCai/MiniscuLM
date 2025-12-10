@@ -1,0 +1,4 @@
+{
+    "question": "Name the only sport played on ice with a ball.",
+    "answer": "Ice hockey"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'appoggiatura'.",
+    "answer": "Grace note resolving to main note."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is Michel de Montaigne?",
+    "answer": "Skeptic philosopher influencing political thought."
+}

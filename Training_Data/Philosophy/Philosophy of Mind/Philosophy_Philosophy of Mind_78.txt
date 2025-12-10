@@ -1,0 +1,4 @@
+{
+    "question": "Define mental imagery.",
+    "answer": "Mental visualization without sensory input."
+}

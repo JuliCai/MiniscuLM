@@ -1,0 +1,4 @@
+{
+    "question": "What is burnout in athletes?",
+    "answer": "Physical and emotional exhaustion from overtraining."
+}

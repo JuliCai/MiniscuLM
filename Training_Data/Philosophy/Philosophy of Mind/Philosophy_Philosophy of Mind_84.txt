@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of attention in consciousness?",
+    "answer": "Attention selects conscious content."
+}

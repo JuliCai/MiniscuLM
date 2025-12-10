@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between syntax and semantics.",
+    "answer": "Syntax is form; semantics is meaning in logic."
+}

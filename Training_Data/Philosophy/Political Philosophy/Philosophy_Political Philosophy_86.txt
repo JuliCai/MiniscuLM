@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between state and nation?",
+    "answer": "State is political entity; nation is cultural group."
+}

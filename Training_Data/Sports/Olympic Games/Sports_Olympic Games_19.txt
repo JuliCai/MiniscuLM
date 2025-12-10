@@ -1,0 +1,4 @@
+{
+    "question": "What does Olympic oath represent?",
+    "answer": "Fair play commitment"
+}

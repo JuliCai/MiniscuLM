@@ -1,0 +1,4 @@
+{
+    "question": "Is there an objective standard of beauty?",
+    "answer": "Generally no, highly debated."
+}

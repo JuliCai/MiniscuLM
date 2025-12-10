@@ -1,0 +1,4 @@
+{
+    "question": "Define 'sampling' in music production.",
+    "answer": "Using a portion of another recording in a new track."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What characterizes Futurism?",
+    "answer": "Movement and speed."
+}

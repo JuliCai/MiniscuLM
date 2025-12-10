@@ -1,0 +1,4 @@
+{
+    "question": "Which art movement uses drip painting?",
+    "answer": "Abstract Expressionism."
+}

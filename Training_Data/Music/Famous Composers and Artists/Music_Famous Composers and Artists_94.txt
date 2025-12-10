@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Great Wave off Kanagawa?",
+    "answer": "Hokusai."
+}

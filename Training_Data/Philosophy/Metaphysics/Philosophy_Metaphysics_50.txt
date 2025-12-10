@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical concept of being?",
+    "answer": "To exist or have reality."
+}

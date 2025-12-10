@@ -1,0 +1,4 @@
+{
+    "question": "Does performance art need a stage?",
+    "answer": "Not necessarily."
+}

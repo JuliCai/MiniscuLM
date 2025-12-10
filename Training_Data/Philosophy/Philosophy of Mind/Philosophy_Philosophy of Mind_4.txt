@@ -1,0 +1,4 @@
+{
+    "question": "Who is Ren\u00e9 Descartes?",
+    "answer": "Philosopher who proposed Cartesian dualism."
+}

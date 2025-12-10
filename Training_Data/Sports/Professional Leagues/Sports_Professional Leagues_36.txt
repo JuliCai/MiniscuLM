@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional basketball league in Australia?",
+    "answer": "NBL (National Basketball League)."
+}

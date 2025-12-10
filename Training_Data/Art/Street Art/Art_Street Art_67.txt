@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of color in street art?",
+    "answer": "To attract and express."
+}

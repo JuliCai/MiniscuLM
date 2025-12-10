@@ -1,0 +1,4 @@
+{
+    "question": "What is a panoramic photograph?",
+    "answer": "Wide-angle, extended view image."
+}

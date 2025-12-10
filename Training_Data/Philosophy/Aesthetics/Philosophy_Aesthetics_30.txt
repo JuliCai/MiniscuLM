@@ -1,0 +1,4 @@
+{
+    "question": "Who influenced aesthetic theory?",
+    "answer": "Plato and Aristotle."
+}

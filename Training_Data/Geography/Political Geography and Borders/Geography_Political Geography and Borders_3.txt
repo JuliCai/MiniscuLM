@@ -1,0 +1,4 @@
+{
+    "question": "What is a exclave?",
+    "answer": "Territory separated from main part."
+}

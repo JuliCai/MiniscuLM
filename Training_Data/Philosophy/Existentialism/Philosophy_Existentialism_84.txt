@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist concept of 'the Other'?",
+    "answer": "Other people shaping self-awareness."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the existential meaning of despair?",
+    "answer": "Loss of self or freedom."
+}

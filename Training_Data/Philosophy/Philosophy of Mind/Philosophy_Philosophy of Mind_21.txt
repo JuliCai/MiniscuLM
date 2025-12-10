@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between mind and brain?",
+    "answer": "Mind is mental, brain is physical organ."
+}

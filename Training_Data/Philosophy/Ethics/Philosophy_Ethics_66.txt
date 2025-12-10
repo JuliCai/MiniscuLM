@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between moral and amoral?",
+    "answer": "Moral involves ethics; amoral lacks ethical concern."
+}

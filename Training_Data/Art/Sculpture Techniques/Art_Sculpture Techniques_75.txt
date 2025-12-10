@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of welding?",
+    "answer": "To join metal pieces."
+}

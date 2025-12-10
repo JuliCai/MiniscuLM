@@ -1,0 +1,4 @@
+{
+    "question": "Can photography capture intangible concepts?",
+    "answer": "Yes, like emotion or time."
+}

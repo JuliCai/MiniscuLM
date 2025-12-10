@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist attitude to anxiety?",
+    "answer": "It's a sign of confronting freedom."
+}

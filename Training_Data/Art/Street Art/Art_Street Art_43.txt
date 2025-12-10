@@ -1,0 +1,4 @@
+{
+    "question": "What material is common for street art?",
+    "answer": "Spray paint."
+}

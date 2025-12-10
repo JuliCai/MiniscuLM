@@ -1,0 +1,4 @@
+{
+    "question": "What is a sinkhole?",
+    "answer": "A depression caused by ground collapse."
+}

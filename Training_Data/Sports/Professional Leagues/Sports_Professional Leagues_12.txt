@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosts the NBA team called the Lakers?",
+    "answer": "Los Angeles."
+}

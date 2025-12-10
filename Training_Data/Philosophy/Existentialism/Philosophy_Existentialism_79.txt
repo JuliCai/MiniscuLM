@@ -1,0 +1,4 @@
+{
+    "question": "What does 'the absurd' refer to?",
+    "answer": "Life's lack of inherent meaning."
+}

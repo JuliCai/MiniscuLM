@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical consequence' in first-order logic.",
+    "answer": "Conclusion true in all models where premises true."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a bass clef?",
+    "answer": "Clef for low-pitched instruments."
+}

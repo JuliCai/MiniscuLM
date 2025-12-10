@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic context'?",
+    "answer": "Circumstances of artwork creation."
+}

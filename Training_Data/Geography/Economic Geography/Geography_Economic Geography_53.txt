@@ -1,0 +1,4 @@
+{
+    "question": "How does population density affect economy?",
+    "answer": "Impacts labor and consumption."
+}

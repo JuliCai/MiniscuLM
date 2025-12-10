@@ -1,0 +1,4 @@
+{
+    "question": "Explain the principle of progressive overload.",
+    "answer": "Gradually increase training load."
+}

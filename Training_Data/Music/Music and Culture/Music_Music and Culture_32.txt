@@ -1,0 +1,4 @@
+{
+    "question": "How does music influence language preservation?",
+    "answer": "Music helps keep endangered languages alive."
+}

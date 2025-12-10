@@ -1,0 +1,4 @@
+{
+    "question": "How does youth sports affect cognitive development?",
+    "answer": "Improves decision-making."
+}

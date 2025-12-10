@@ -1,0 +1,4 @@
+{
+    "question": "What is a truth table?",
+    "answer": "A table showing truth values for logical expressions."
+}

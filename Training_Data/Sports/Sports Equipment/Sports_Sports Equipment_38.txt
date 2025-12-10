@@ -1,0 +1,4 @@
+{
+    "question": "What protective gear is worn in ice hockey?",
+    "answer": "Helmet and pads."
+}

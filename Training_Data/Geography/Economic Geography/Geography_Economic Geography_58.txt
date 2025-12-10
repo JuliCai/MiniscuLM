@@ -1,0 +1,4 @@
+{
+    "question": "Define 'subsistence economy.'",
+    "answer": "Producing mainly for own use."
+}

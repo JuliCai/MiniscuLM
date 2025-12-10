@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting journal?",
+    "answer": "A place to record ideas daily."
+}

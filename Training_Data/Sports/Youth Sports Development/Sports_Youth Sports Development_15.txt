@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports foster inclusion?",
+    "answer": "Welcoming diverse participants."
+}

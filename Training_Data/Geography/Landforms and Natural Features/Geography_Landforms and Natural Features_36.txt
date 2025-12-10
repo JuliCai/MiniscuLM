@@ -1,0 +1,4 @@
+{
+    "question": "What is a ridge?",
+    "answer": "A long narrow elevated landform."
+}

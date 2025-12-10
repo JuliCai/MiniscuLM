@@ -1,0 +1,4 @@
+{
+    "question": "Define 'dominant'.",
+    "answer": "Fifth scale degree."
+}

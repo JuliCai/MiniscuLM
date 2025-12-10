@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional musical style from the Middle East.",
+    "answer": "Maqam is a Middle Eastern musical system."
+}

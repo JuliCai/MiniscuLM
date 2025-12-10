@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW arrangement view?",
+    "answer": "Timeline layout for tracks."
+}

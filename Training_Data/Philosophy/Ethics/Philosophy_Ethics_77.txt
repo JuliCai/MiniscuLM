@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between morals and customs?",
+    "answer": "Morals are ethical; customs are traditional."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What art style uses fragmented perspectives?",
+    "answer": "Cubism."
+}

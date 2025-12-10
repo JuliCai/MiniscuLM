@@ -1,0 +1,4 @@
+{
+    "question": "What is bit depth?",
+    "answer": "Audio resolution in bits."
+}

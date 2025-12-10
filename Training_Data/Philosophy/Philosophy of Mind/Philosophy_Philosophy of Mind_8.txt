@@ -1,0 +1,4 @@
+{
+    "question": "Explain the identity theory.",
+    "answer": "Mind states are brain states."
+}

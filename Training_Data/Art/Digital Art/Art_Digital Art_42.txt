@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art tablet?",
+    "answer": "Input device for drawing."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What art style uses bright, unnatural colors?",
+    "answer": "Fauvism."
+}

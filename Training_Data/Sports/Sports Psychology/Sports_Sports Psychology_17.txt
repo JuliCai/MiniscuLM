@@ -1,0 +1,4 @@
+{
+    "question": "How does imagery improve sports skills?",
+    "answer": "Strengthens neural pathways for movement patterns."
+}

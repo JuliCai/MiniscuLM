@@ -1,0 +1,4 @@
+{
+    "question": "Name the host city for 2022 Winter Olympics.",
+    "answer": "Beijing"
+}

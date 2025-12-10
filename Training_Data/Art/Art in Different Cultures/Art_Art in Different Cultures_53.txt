@@ -1,0 +1,4 @@
+{
+    "question": "What is a common theme in Baroque sculpture?",
+    "answer": "Dramatic emotion."
+}

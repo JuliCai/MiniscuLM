@@ -1,0 +1,4 @@
+{
+    "question": "What is a steal in basketball?",
+    "answer": "Taking ball from opponent."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a knowledge economy?",
+    "answer": "Economy based on information and tech."
+}

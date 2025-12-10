@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW time signature?",
+    "answer": "Defines beats per measure."
+}

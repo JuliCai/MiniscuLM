@@ -1,0 +1,4 @@
+{
+    "question": "What is consequentialism?",
+    "answer": "Ethics judging actions by outcomes."
+}

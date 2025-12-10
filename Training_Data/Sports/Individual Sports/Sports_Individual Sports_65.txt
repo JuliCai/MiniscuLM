@@ -1,0 +1,4 @@
+{
+    "question": "Which sport is known for the triple jump and long jump?",
+    "answer": "Track and field."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is economic integration?",
+    "answer": "Combining economies for cooperation."
+}

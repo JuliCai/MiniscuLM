@@ -1,0 +1,4 @@
+{
+    "question": "What is a counterexample?",
+    "answer": "An example disproving a general statement."
+}

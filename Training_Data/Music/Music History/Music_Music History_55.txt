@@ -1,0 +1,4 @@
+{
+    "question": "What is a madrigal?",
+    "answer": "Renaissance vocal music."
+}

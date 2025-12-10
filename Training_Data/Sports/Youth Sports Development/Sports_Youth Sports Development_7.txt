@@ -1,0 +1,4 @@
+{
+    "question": "What role do coaches play in youth sports?",
+    "answer": "Teach skills and mentor players."
+}

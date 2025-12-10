@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of tariffs?",
+    "answer": "Increase cost of imported goods."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art criticism challenges'?",
+    "answer": "Subjectivity issues."
+}

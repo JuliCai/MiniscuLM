@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism view anxiety?",
+    "answer": "As a natural reaction to freedom."
+}

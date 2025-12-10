@@ -1,0 +1,4 @@
+{
+    "question": "What is ethical egoism?",
+    "answer": "Act in one's self-interest morally."
+}

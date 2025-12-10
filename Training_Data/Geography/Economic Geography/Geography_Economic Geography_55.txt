@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic corridor.'",
+    "answer": "Route connecting economic centers."
+}

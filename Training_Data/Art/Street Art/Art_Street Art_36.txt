@@ -1,0 +1,4 @@
+{
+    "question": "What is a muralist?",
+    "answer": "An artist who paints murals."
+}

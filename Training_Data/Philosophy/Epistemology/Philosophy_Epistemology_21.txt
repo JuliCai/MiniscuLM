@@ -1,0 +1,4 @@
+{
+    "question": "What is dogmatism in epistemology?",
+    "answer": "Accepting beliefs without justification."
+}

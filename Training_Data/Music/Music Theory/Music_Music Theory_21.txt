@@ -1,0 +1,4 @@
+{
+    "question": "What is a fermata?",
+    "answer": "Hold note longer than usual."
+}

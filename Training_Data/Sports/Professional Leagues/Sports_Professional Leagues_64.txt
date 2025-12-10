@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional cricket league in the Caribbean?",
+    "answer": "CPL (Caribbean Premier League)."
+}

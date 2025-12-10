@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between snapshot and art photo?",
+    "answer": "Intent and composition quality."
+}

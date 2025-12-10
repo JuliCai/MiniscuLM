@@ -1,0 +1,4 @@
+{
+    "question": "Define the principle of subsidiarity.",
+    "answer": "Decisions made at lowest effective level."
+}

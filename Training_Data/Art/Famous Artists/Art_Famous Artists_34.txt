@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Girl with a Mandolin?",
+    "answer": "Pablo Picasso."
+}

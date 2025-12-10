@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is famous for its use of electric guitar riffs?",
+    "answer": "Rock"
+}

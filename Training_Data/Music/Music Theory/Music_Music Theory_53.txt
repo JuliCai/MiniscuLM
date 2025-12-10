@@ -1,0 +1,4 @@
+{
+    "question": "What is a major scale pattern?",
+    "answer": "W W H W W W H."
+}

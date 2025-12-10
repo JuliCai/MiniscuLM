@@ -1,0 +1,4 @@
+{
+    "question": "What year were the Olympics canceled due to WW2?",
+    "answer": "1940 and 1944"
+}

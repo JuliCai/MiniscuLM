@@ -1,0 +1,4 @@
+{
+    "question": "What is an armature made of?",
+    "answer": "Wire or metal rods."
+}

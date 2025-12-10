@@ -1,0 +1,4 @@
+{
+    "question": "Can something ugly be aesthetic?",
+    "answer": "Yes, if it provokes thought or feeling."
+}

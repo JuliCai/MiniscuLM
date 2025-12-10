@@ -1,0 +1,4 @@
+{
+    "question": "What is a fade-out?",
+    "answer": "Gradual decrease of audio volume."
+}

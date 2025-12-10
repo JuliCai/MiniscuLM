@@ -1,0 +1,4 @@
+{
+    "question": "Explain the principle of majority rule.",
+    "answer": "Decisions by more than half the group."
+}

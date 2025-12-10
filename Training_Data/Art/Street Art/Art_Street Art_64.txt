@@ -1,0 +1,4 @@
+{
+    "question": "What is an illegal wall?",
+    "answer": "Wall where art is not permitted."
+}

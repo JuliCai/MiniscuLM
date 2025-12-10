@@ -1,0 +1,4 @@
+{
+    "question": "What equipment do hockey goalkeepers wear?",
+    "answer": "Pads and helmet."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the medium of a lithograph?",
+    "answer": "Stone or metal printing."
+}

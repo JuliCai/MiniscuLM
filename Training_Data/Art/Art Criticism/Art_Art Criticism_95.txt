@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art criticism and aesthetics'?",
+    "answer": "Explores beauty."
+}

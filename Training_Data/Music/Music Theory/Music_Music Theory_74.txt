@@ -1,0 +1,4 @@
+{
+    "question": "What is a ternary form?",
+    "answer": "Three-part musical form ABA."
+}

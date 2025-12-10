@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of pre-performance routines?",
+    "answer": "Helps focus and reduce anxiety before events."
+}

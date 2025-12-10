@@ -1,0 +1,4 @@
+{
+    "question": "What is foundationalism?",
+    "answer": "Knowledge built on basic beliefs."
+}

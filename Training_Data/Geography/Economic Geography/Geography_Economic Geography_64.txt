@@ -1,0 +1,4 @@
+{
+    "question": "What is a knowledge-intensive industry?",
+    "answer": "Requires skilled labor and innovation."
+}

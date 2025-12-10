@@ -1,0 +1,4 @@
+{
+    "question": "Define a posteriori knowledge.",
+    "answer": "Knowledge dependent on experience."
+}

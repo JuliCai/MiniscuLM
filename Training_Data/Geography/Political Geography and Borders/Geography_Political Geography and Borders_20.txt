@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the 38th parallel?",
+    "answer": "Divides North and South Korea."
+}

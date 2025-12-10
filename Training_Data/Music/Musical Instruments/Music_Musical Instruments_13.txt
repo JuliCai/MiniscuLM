@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is tapped with mallets?",
+    "answer": "The xylophone is tapped with mallets."
+}

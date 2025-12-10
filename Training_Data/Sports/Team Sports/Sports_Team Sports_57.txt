@@ -1,0 +1,4 @@
+{
+    "question": "What is a corner kick?",
+    "answer": "Soccer restart from corner."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'pragmatic inference'?",
+    "answer": "Meaning derived from context."
+}

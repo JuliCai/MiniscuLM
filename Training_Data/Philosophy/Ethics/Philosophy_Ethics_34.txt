@@ -1,0 +1,4 @@
+{
+    "question": "What is divine command theory?",
+    "answer": "Morality based on God's commands."
+}

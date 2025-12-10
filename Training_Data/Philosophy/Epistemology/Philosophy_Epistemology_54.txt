@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between skepticism and cynicism?",
+    "answer": "Skepticism doubts knowledge; cynicism distrusts motives."
+}

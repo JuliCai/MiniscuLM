@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of compositionality?",
+    "answer": "Meaning from parts and their combination."
+}

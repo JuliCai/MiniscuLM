@@ -1,0 +1,4 @@
+{
+    "question": "What individual sport involves punching and kicking?",
+    "answer": "Martial arts."
+}

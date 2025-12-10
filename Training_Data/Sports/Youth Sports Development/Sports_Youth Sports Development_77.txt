@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of adaptive youth sports?",
+    "answer": "Wheelchair basketball."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Card Players?",
+    "answer": "Paul C\u00e9zanne."
+}

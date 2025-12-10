@@ -1,0 +1,4 @@
+{
+    "question": "How does memory relate to knowledge?",
+    "answer": "Preserves justified beliefs over time."
+}

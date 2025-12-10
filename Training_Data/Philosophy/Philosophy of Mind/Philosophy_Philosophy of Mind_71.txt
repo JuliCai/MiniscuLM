@@ -1,0 +1,4 @@
+{
+    "question": "What is the relevance of artificial intelligence to philosophy of mind?",
+    "answer": "Explores mind simulation possibilities."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the veil of ignorance?",
+    "answer": "Decision-making without knowing one's status."
+}

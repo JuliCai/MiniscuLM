@@ -1,0 +1,4 @@
+{
+    "question": "How is music used in political protests?",
+    "answer": "Music rallies and unites protestors."
+}

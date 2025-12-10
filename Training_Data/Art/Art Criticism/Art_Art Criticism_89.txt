@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art critic's skill'?",
+    "answer": "Insightful observation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which art movement began in France?",
+    "answer": "Impressionism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which movement is linked to graffiti art?",
+    "answer": "Street Art."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of calcium in muscles.",
+    "answer": "Triggers muscle contraction."
+}

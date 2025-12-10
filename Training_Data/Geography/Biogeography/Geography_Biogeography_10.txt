@@ -1,0 +1,4 @@
+{
+    "question": "What is vicariance in biogeography?",
+    "answer": "Species separation by geographic barriers."
+}

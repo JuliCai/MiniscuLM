@@ -1,0 +1,4 @@
+{
+    "question": "What is a photographic negative?",
+    "answer": "Inverted image on film."
+}

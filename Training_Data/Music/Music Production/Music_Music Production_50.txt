@@ -1,0 +1,4 @@
+{
+    "question": "What is a high-pass filter?",
+    "answer": "Allows high frequencies to pass."
+}

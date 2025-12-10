@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of 'context' in pragmatics?",
+    "answer": "Shapes meaning beyond literal."
+}

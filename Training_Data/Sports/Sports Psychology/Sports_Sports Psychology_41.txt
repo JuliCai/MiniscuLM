@@ -1,0 +1,4 @@
+{
+    "question": "How can athletes manage negative thoughts?",
+    "answer": "Through cognitive restructuring or self-talk."
+}

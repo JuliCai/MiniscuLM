@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between casting and molding?",
+    "answer": "Casting uses liquid material; molding forms a negative."
+}

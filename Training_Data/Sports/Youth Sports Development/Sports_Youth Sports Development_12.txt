@@ -1,0 +1,4 @@
+{
+    "question": "What is a risk of early sports specialization?",
+    "answer": "Injury and burnout."
+}

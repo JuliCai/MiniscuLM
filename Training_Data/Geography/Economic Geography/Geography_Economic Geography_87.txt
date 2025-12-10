@@ -1,0 +1,4 @@
+{
+    "question": "Name a characteristic of informal economy.",
+    "answer": "Unregulated and untaxed activities."
+}

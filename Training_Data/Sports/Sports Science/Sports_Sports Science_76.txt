@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of fast-twitch fibers?",
+    "answer": "Explosive power."
+}

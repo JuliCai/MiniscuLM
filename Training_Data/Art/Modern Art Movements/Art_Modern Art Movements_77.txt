@@ -1,0 +1,4 @@
+{
+    "question": "Who is associated with Color Field painting?",
+    "answer": "Mark Rothko."
+}

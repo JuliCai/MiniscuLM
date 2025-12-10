@@ -1,0 +1,4 @@
+{
+    "question": "Which league is the top professional American football league in Japan?",
+    "answer": "X-League."
+}

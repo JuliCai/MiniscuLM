@@ -1,0 +1,4 @@
+{
+    "question": "How is plaster used in sculpture?",
+    "answer": "For molds or surface finishing."
+}

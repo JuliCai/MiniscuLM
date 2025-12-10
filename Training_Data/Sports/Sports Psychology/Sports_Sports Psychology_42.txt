@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of perfectionism in sports?",
+    "answer": "Can motivate but also cause stress and burnout."
+}

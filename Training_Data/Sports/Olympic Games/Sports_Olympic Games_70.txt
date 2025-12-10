@@ -1,0 +1,4 @@
+{
+    "question": "Which sport includes synchronized swimming?",
+    "answer": "Aquatics"
+}

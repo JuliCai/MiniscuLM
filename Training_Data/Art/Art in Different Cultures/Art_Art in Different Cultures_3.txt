@@ -1,0 +1,4 @@
+{
+    "question": "What material is traditional Inuit art made from?",
+    "answer": "Bone and ivory."
+}

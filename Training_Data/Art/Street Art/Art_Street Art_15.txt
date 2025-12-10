@@ -1,0 +1,4 @@
+{
+    "question": "How does street art differ from traditional art?",
+    "answer": "It is public and often ephemeral."
+}

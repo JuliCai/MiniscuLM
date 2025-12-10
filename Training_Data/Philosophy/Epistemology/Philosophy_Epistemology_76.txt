@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic permissivism?",
+    "answer": "Multiple rational beliefs possible."
+}

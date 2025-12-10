@@ -1,0 +1,4 @@
+{
+    "question": "Does performance art require rehearsal?",
+    "answer": "Sometimes, sometimes not."
+}

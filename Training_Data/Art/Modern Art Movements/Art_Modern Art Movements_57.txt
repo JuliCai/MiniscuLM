@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Dada artwork.",
+    "answer": "Fountain by Duchamp."
+}

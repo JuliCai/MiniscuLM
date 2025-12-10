@@ -1,0 +1,4 @@
+{
+    "question": "What is a common use of music in rituals?",
+    "answer": "Music facilitates spiritual connection."
+}

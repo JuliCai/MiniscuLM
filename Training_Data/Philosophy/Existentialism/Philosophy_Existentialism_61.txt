@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of choice?",
+    "answer": "It defines who we are."
+}

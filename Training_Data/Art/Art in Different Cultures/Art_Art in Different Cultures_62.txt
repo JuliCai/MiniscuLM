@@ -1,0 +1,4 @@
+{
+    "question": "What does Byzantine iconography depict?",
+    "answer": "Religious figures."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is layering in digital art?",
+    "answer": "Stacking elements separately."
+}

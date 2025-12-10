@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport that uses a ball and a racket indoors.",
+    "answer": "Squash."
+}

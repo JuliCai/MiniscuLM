@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of time in performance art?",
+    "answer": "Duration shapes experience."
+}

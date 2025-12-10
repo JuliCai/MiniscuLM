@@ -1,0 +1,4 @@
+{
+    "question": "Define 'syncopation'.",
+    "answer": "Accent on weak beats."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define 'agglomeration economies.'",
+    "answer": "Cost benefits from clustering industries."
+}

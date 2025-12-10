@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival stage?",
+    "answer": "Platform where artists perform."
+}

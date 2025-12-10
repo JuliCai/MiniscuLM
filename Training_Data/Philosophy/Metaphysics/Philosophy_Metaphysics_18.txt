@@ -1,0 +1,4 @@
+{
+    "question": "What is free will in metaphysics?",
+    "answer": "Ability to choose without necessity."
+}

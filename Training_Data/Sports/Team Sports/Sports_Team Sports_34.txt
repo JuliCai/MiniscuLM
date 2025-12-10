@@ -1,0 +1,4 @@
+{
+    "question": "What is a penalty in soccer?",
+    "answer": "Free shot from penalty mark."
+}

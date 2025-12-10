@@ -1,0 +1,4 @@
+{
+    "question": "Define African tribal masks' purpose.",
+    "answer": "Used in rituals and ceremonies."
+}

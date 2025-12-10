@@ -1,0 +1,4 @@
+{
+    "question": "What genre uses heavy distortion and fast drumming?",
+    "answer": "Metal"
+}

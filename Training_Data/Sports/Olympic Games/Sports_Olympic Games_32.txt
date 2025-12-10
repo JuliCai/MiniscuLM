@@ -1,0 +1,4 @@
+{
+    "question": "Which country boycotted 1984 Olympics?",
+    "answer": "Soviet Union"
+}

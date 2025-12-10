@@ -1,0 +1,4 @@
+{
+    "question": "Existentialism and phenomenology relation?",
+    "answer": "Both explore human experience and consciousness."
+}

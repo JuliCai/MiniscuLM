@@ -1,0 +1,4 @@
+{
+    "question": "What is an ecological island?",
+    "answer": "Isolated habitats within ecosystems."
+}

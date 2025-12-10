@@ -1,0 +1,4 @@
+{
+    "question": "What is a salt flat?",
+    "answer": "Dry area with salt deposits."
+}

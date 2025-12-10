@@ -1,0 +1,4 @@
+{
+    "question": "What does Aboriginal bark painting represent?",
+    "answer": "Dreamtime stories."
+}

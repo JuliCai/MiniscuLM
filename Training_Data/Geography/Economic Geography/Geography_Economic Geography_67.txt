@@ -1,0 +1,4 @@
+{
+    "question": "What is a service hub?",
+    "answer": "Center providing services to region."
+}

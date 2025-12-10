@@ -1,0 +1,4 @@
+{
+    "question": "What is skepticism in epistemology?",
+    "answer": "Doubting knowledge claims."
+}

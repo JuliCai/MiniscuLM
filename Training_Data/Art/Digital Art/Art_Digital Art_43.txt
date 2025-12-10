@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of filters in digital art?",
+    "answer": "To apply effects to images."
+}

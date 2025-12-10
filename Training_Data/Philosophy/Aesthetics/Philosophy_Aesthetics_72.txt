@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' in Hume's view?",
+    "answer": "A sentiment varying by observer."
+}

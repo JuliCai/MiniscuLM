@@ -1,0 +1,4 @@
+{
+    "question": "What is a political map?",
+    "answer": "Map showing political boundaries."
+}

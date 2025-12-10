@@ -1,0 +1,4 @@
+{
+    "question": "What is MIDI CC?",
+    "answer": "Continuous controller messages."
+}

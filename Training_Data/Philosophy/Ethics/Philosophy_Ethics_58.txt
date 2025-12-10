@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between consequentialism and virtue ethics?",
+    "answer": "Consequences vs. character traits."
+}

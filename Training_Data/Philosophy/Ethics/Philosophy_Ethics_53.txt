@@ -1,0 +1,4 @@
+{
+    "question": "What is moral particularism?",
+    "answer": "Ethics depends on context, not fixed principles."
+}

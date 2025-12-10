@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism address alienation?",
+    "answer": "As a result of modern society's meaninglessness."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a key hormone in muscle growth.",
+    "answer": "Testosterone."
+}

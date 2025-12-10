@@ -1,0 +1,4 @@
+{
+    "question": "What is a biodiversity hotspot?",
+    "answer": "Areas rich in endemic species."
+}

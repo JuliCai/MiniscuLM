@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic composition'?",
+    "answer": "Arrangement of elements."
+}

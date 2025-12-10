@@ -1,0 +1,4 @@
+{
+    "question": "What genre is characterized by fast tempo and shouting vocals?",
+    "answer": "Punk"
+}

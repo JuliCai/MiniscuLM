@@ -1,0 +1,4 @@
+{
+    "question": "What is hydration strategy?",
+    "answer": "Drink fluids regularly"
+}

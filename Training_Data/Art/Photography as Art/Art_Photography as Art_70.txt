@@ -1,0 +1,4 @@
+{
+    "question": "What is a diptych in photography?",
+    "answer": "Two related images displayed together."
+}

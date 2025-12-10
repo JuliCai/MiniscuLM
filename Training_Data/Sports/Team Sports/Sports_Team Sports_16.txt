@@ -1,0 +1,4 @@
+{
+    "question": "What is a free throw?",
+    "answer": "Uncontested shot in basketball."
+}

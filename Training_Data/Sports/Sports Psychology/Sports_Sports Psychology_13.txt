@@ -1,0 +1,4 @@
+{
+    "question": "What is the Yerkes-Dodson Law?",
+    "answer": "Optimal arousal leads to peak performance."
+}

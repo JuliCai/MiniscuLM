@@ -1,0 +1,4 @@
+{
+    "question": "What characterizes Post-Impressionism?",
+    "answer": "Symbolic content."
+}

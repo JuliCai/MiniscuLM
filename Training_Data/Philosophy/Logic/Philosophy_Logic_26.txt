@@ -1,0 +1,4 @@
+{
+    "question": "What is a proof in logic?",
+    "answer": "A sequence of statements establishing truth."
+}

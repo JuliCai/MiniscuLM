@@ -1,0 +1,4 @@
+{
+    "question": "What is epiphenomenalism?",
+    "answer": "Mental states are byproducts of physical states."
+}

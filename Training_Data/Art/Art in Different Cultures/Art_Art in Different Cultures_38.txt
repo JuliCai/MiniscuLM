@@ -1,0 +1,4 @@
+{
+    "question": "Name a famous Chinese painter from the Song dynasty.",
+    "answer": "Fan Kuan."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an effective way to introduce new sports?",
+    "answer": "Fun clinics and demos."
+}

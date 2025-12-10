@@ -1,0 +1,4 @@
+{
+    "question": "What is MIDI?",
+    "answer": "A protocol for digital music communication."
+}

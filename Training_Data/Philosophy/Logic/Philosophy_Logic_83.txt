@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical equivalence' using biconditional.",
+    "answer": "P iff Q means P and Q always share truth."
+}

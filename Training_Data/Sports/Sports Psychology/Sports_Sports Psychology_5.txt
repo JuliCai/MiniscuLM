@@ -1,0 +1,4 @@
+{
+    "question": "Why is goal setting important for athletes?",
+    "answer": "It provides direction and measurable targets."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define self-consciousness.",
+    "answer": "Awareness of oneself as a subject."
+}

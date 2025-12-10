@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'staccato'.",
+    "answer": "Short, detached notes."
+}

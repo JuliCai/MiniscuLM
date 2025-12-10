@@ -1,0 +1,4 @@
+{
+    "question": "Name a precision sport with a target and a gun.",
+    "answer": "Shooting."
+}

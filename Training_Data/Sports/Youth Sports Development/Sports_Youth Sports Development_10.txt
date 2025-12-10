@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports promote discipline?",
+    "answer": "Through regular practice and rules."
+}

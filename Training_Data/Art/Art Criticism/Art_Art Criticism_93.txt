@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art criticism and culture'?",
+    "answer": "Reflects societal values."
+}

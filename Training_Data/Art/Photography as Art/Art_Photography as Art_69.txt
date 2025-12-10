@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of emotion in photographic art?",
+    "answer": "Connects viewer to image."
+}

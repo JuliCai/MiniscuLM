@@ -1,0 +1,4 @@
+{
+    "question": "Which genre emphasizes rhythm and blues?",
+    "answer": "R&B"
+}

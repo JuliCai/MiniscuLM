@@ -1,0 +1,4 @@
+{
+    "question": "Explain logical equivalence.",
+    "answer": "Two statements always having the same truth value."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist attitude toward death?",
+    "answer": "It is a defining boundary of life."
+}

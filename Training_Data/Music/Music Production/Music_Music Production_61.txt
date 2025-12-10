@@ -1,0 +1,4 @@
+{
+    "question": "What is a stereo field?",
+    "answer": "Left-right audio spatial placement."
+}

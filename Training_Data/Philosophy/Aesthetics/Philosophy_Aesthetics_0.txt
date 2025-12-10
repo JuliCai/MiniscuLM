@@ -1,0 +1,4 @@
+{
+    "question": "What is aesthetics in philosophy?",
+    "answer": "Study of beauty and art."
+}

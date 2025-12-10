@@ -1,0 +1,4 @@
+{
+    "question": "What sport requires skating on ice and scoring goals?",
+    "answer": "Ice hockey."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What equipment is used in softball?",
+    "answer": "Softball and bat."
+}

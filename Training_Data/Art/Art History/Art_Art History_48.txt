@@ -1,0 +1,4 @@
+{
+    "question": "What does 'surrealism' explore?",
+    "answer": "Dreamlike and unconscious imagery."
+}

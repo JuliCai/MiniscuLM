@@ -1,0 +1,4 @@
+{
+    "question": "What is a power play in hockey?",
+    "answer": "Advantage due to penalty."
+}

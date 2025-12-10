@@ -1,0 +1,4 @@
+{
+    "question": "What does 'flatten' do in layers?",
+    "answer": "Merge layers into one."
+}

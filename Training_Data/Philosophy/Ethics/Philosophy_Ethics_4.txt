@@ -1,0 +1,4 @@
+{
+    "question": "Explain categorical imperative.",
+    "answer": "Act only on universally applicable maxims."
+}

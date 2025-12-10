@@ -1,0 +1,4 @@
+{
+    "question": "Name a traditional Japanese textile art.",
+    "answer": "Shibori."
+}

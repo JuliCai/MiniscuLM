@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of doubt in knowledge?",
+    "answer": "Motivates critical inquiry."
+}

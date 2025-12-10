@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between science and philosophy?",
+    "answer": "Science is empirical; philosophy is analytical."
+}

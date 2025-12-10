@@ -1,0 +1,4 @@
+{
+    "question": "What tool helps write lyrics rhyming?",
+    "answer": "A rhyming dictionary."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between liberal and conservative?",
+    "answer": "Progressive change vs. tradition preservation."
+}

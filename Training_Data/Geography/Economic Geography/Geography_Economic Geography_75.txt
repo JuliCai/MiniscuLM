@@ -1,0 +1,4 @@
+{
+    "question": "Name a characteristic of developed economies.",
+    "answer": "High service sector employment."
+}

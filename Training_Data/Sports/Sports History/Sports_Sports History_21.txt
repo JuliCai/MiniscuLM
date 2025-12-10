@@ -1,0 +1,4 @@
+{
+    "question": "When was the first NBA game played?",
+    "answer": "1946."
+}

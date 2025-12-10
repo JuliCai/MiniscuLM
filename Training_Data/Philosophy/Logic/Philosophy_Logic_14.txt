@@ -1,0 +1,4 @@
+{
+    "question": "What is a paradox?",
+    "answer": "A statement or situation defying intuition or logic."
+}

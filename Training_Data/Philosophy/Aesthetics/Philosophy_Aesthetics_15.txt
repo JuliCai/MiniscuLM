@@ -1,0 +1,4 @@
+{
+    "question": "Is beauty universal?",
+    "answer": "Debated; some say yes, others no."
+}

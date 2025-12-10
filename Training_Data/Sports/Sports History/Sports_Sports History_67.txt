@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first boxer to win heavyweight title three times?",
+    "answer": "Muhammad Ali."
+}

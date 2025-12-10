@@ -1,0 +1,4 @@
+{
+    "question": "What is a scientific theory?",
+    "answer": "A well-substantiated explanation of phenomena."
+}

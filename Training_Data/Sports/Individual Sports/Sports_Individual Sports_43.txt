@@ -1,0 +1,4 @@
+{
+    "question": "Name the sport where you punch in a ring wearing gloves.",
+    "answer": "Boxing."
+}

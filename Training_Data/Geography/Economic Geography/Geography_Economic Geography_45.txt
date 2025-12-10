@@ -1,0 +1,4 @@
+{
+    "question": "Define 'economic transition.'",
+    "answer": "Shift from one economic system to another."
+}

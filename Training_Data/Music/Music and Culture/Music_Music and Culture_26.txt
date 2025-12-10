@@ -1,0 +1,4 @@
+{
+    "question": "How does music express cultural identity?",
+    "answer": "Music communicates history and values of culture."
+}

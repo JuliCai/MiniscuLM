@@ -1,0 +1,4 @@
+{
+    "question": "What is a fade-in?",
+    "answer": "Gradual increase of audio volume."
+}

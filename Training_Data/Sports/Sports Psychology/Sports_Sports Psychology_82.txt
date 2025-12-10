@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of positive self-talk?",
+    "answer": "Builds confidence and reduces anxiety."
+}

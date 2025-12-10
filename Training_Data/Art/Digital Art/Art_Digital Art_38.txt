@@ -1,0 +1,4 @@
+{
+    "question": "What is a layer mask?",
+    "answer": "Mask controlling layer visibility."
+}

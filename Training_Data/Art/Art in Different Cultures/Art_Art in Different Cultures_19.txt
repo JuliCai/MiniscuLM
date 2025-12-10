@@ -1,0 +1,4 @@
+{
+    "question": "Which culture uses Batik fabric art?",
+    "answer": "Indonesian culture."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'existential crisis'?",
+    "answer": "A moment questioning life's meaning."
+}

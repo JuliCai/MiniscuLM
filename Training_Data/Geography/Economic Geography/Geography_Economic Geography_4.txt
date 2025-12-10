@@ -1,0 +1,4 @@
+{
+    "question": "Define globalization in economic geography.",
+    "answer": "Integration of economies worldwide."
+}

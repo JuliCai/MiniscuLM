@@ -1,0 +1,4 @@
+{
+    "question": "What is a maquette?",
+    "answer": "Small preliminary sculpture model."
+}

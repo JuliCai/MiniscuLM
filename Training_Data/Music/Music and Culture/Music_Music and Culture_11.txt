@@ -1,0 +1,4 @@
+{
+    "question": "Name a common theme in blues music.",
+    "answer": "Blues often explores sorrow and hardship."
+}

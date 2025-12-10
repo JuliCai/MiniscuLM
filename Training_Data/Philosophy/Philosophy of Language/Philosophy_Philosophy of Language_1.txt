@@ -1,0 +1,4 @@
+{
+    "question": "Define pragmatics.",
+    "answer": "Contextual language use and interpretation."
+}

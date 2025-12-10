@@ -1,0 +1,4 @@
+{
+    "question": "What is a key theme in Romanticism?",
+    "answer": "Emotion and nature."
+}

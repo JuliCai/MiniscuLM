@@ -1,0 +1,4 @@
+{
+    "question": "How often are the Summer Olympics held?",
+    "answer": "Every 4 years"
+}

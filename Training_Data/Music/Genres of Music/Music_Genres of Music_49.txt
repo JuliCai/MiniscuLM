@@ -1,0 +1,4 @@
+{
+    "question": "Which genre features heavy use of synthesizers and drum machines?",
+    "answer": "Synthpop"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What genre is associated with the 1980s hair bands?",
+    "answer": "Glam Metal"
+}

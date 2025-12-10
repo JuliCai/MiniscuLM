@@ -1,0 +1,4 @@
+{
+    "question": "What is political realism?",
+    "answer": "Focus on power and practical politics."
+}

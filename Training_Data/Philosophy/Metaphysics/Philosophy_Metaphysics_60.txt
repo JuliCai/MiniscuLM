@@ -1,0 +1,4 @@
+{
+    "question": "What is the metaphysical importance of identity?",
+    "answer": "Defines what makes an entity itself."
+}

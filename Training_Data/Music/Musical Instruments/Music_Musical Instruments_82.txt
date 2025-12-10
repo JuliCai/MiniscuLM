@@ -1,0 +1,4 @@
+{
+    "question": "Name an instrument made of brass and played by buzzing lips.",
+    "answer": "The trumpet is brass and played by buzzing lips."
+}

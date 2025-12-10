@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is associated with pop art?",
+    "answer": "Andy Warhol."
+}

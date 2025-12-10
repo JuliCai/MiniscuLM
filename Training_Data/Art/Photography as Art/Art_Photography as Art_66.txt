@@ -1,0 +1,4 @@
+{
+    "question": "How does texture enhance black and white photography?",
+    "answer": "Adds depth and detail."
+}

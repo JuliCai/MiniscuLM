@@ -1,0 +1,4 @@
+{
+    "question": "How is authenticity defined?",
+    "answer": "Living true to one's own values."
+}

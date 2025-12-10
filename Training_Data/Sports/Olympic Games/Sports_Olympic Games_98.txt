@@ -1,0 +1,4 @@
+{
+    "question": "When were the Olympic Games first televised live?",
+    "answer": "1960"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between science and pseudoscience?",
+    "answer": "Science is testable and falsifiable; pseudoscience is not."
+}

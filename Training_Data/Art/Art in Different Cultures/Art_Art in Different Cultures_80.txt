@@ -1,0 +1,4 @@
+{
+    "question": "What does Tibetan mandala symbolize?",
+    "answer": "Universe and meditation."
+}

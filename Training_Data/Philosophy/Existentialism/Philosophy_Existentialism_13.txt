@@ -1,0 +1,4 @@
+{
+    "question": "What is the existentialist view on meaning?",
+    "answer": "Meaning is created by the individual."
+}

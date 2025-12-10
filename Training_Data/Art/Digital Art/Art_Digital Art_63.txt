@@ -1,0 +1,4 @@
+{
+    "question": "What is a digital art brush sensitivity?",
+    "answer": "Pressure responsiveness."
+}

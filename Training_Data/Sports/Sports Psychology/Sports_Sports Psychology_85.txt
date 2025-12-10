@@ -1,0 +1,4 @@
+{
+    "question": "Define 'psychological skills training'.",
+    "answer": "Teaching mental techniques to improve performance."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is lyrical theme?",
+    "answer": "Central idea or subject of the lyrics."
+}

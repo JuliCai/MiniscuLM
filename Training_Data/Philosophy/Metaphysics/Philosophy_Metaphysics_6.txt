@@ -1,0 +1,4 @@
+{
+    "question": "What is dualism?",
+    "answer": "Belief in two fundamental substances: mind and body."
+}

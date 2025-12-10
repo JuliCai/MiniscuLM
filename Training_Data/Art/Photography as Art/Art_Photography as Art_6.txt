@@ -1,0 +1,4 @@
+{
+    "question": "Can photography be abstract art?",
+    "answer": "Yes, through shapes and colors."
+}

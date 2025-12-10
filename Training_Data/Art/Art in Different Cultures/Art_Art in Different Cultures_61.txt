@@ -1,0 +1,4 @@
+{
+    "question": "Which culture is associated with pottery making?",
+    "answer": "Native American cultures."
+}

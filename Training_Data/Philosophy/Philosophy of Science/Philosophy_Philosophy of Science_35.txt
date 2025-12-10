@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of ethics in science?",
+    "answer": "Guides responsible conduct and application of science."
+}

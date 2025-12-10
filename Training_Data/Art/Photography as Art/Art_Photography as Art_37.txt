@@ -1,0 +1,4 @@
+{
+    "question": "How can photography challenge reality?",
+    "answer": "Through surreal or abstract images."
+}

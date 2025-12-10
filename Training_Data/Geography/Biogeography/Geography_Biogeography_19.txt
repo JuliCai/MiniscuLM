@@ -1,0 +1,4 @@
+{
+    "question": "Name a method to study biogeography.",
+    "answer": "Genetic analysis."
+}

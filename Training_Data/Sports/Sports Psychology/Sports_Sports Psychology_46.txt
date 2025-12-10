@@ -1,0 +1,4 @@
+{
+    "question": "What is the definition of team dynamics?",
+    "answer": "Interactions and relationships within a sports team."
+}

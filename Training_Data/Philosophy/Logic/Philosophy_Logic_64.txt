@@ -1,0 +1,4 @@
+{
+    "question": "What is a truth-functional connective?",
+    "answer": "Connectives whose truth depends on component truth."
+}

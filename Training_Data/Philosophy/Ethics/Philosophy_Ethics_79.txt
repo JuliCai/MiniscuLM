@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ethics and law?",
+    "answer": "Ethics is moral code; law is legal code."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'art evaluation criteria'?",
+    "answer": "Standards to judge art."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can street art increase property value?",
+    "answer": "Yes, in some cases it can."
+}

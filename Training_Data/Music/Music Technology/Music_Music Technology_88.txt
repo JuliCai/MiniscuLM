@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW fade-out?",
+    "answer": "Gradual volume decrease."
+}

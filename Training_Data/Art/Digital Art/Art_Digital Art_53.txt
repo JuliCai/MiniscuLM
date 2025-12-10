@@ -1,0 +1,4 @@
+{
+    "question": "What is digital photorealism?",
+    "answer": "Art mimicking real photos digitally."
+}

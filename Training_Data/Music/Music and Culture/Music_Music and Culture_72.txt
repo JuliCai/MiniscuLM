@@ -1,0 +1,4 @@
+{
+    "question": "How does music affect cultural tourism?",
+    "answer": "Music attracts visitors interested in culture."
+}

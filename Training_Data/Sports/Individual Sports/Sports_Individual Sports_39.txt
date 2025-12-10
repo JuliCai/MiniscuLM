@@ -1,0 +1,4 @@
+{
+    "question": "What sport involves hitting a ball into a net with a racquet?",
+    "answer": "Squash."
+}

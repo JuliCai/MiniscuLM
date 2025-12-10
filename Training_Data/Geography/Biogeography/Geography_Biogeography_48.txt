@@ -1,0 +1,4 @@
+{
+    "question": "Define allopatric speciation.",
+    "answer": "Speciation via geographic isolation."
+}

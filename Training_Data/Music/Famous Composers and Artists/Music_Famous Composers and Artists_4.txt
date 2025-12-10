@@ -1,0 +1,4 @@
+{
+    "question": "Who is the 'King of Pop'?",
+    "answer": "Michael Jackson."
+}

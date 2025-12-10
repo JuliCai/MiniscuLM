@@ -1,0 +1,4 @@
+{
+    "question": "What is 'semantic holism'?",
+    "answer": "Meanings depend on entire language."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What instrument has a keyboard and is electronic?",
+    "answer": "The synthesizer has keys and is electronic."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the concept of 'multiple drafts' in consciousness?",
+    "answer": "No single stream of consciousness."
+}

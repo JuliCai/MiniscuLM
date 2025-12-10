@@ -1,0 +1,4 @@
+{
+    "question": "What is an outro in songs?",
+    "answer": "The ending section wrapping up."
+}

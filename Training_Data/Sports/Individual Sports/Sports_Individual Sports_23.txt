@@ -1,0 +1,4 @@
+{
+    "question": "Which sport uses blades on shoes for competition?",
+    "answer": "Figure skating."
+}

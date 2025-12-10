@@ -1,0 +1,4 @@
+{
+    "question": "What is an audio interface?",
+    "answer": "Hardware connecting instruments to computer."
+}

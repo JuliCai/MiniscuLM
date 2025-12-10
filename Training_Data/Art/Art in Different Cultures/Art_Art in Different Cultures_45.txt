@@ -1,0 +1,4 @@
+{
+    "question": "What culture is known for intricate Persian miniatures?",
+    "answer": "Persian/Iranian culture."
+}

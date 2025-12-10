@@ -1,0 +1,4 @@
+{
+    "question": "Define social contract.",
+    "answer": "Agreement among individuals to form society."
+}

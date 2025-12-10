@@ -1,0 +1,4 @@
+{
+    "question": "What is the problem of scientific objectivity?",
+    "answer": "Complete neutrality is challenging due to biases."
+}

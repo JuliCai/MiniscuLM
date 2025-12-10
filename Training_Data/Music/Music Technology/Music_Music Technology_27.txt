@@ -1,0 +1,4 @@
+{
+    "question": "What is MIDI velocity?",
+    "answer": "How hard a note is played."
+}

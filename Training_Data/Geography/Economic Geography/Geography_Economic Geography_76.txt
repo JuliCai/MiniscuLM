@@ -1,0 +1,4 @@
+{
+    "question": "What is a petrostate?",
+    "answer": "Country dependent on oil exports."
+}

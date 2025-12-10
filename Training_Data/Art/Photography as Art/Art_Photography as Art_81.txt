@@ -1,0 +1,4 @@
+{
+    "question": "How does texture influence color photos?",
+    "answer": "Adds richness and detail."
+}

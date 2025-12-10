@@ -1,0 +1,4 @@
+{
+    "question": "Define behaviorism in psychology.",
+    "answer": "Focus on observable behavior only."
+}

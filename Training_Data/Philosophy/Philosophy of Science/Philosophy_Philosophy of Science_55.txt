@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of replication in science?",
+    "answer": "Verify results through repeated studies."
+}

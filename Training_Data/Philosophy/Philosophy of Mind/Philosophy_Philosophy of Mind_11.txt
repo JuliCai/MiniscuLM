@@ -1,0 +1,4 @@
+{
+    "question": "Who proposed the Chinese Room argument?",
+    "answer": "John Searle."
+}

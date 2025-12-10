@@ -1,0 +1,4 @@
+{
+    "question": "Name an effect of industrialization.",
+    "answer": "Urban growth."
+}

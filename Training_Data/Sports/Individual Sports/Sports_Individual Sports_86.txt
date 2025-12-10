@@ -1,0 +1,4 @@
+{
+    "question": "Which individual sport uses a pistol to hit targets?",
+    "answer": "Shooting."
+}

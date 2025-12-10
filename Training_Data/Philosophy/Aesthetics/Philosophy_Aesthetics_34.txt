@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic intent'?",
+    "answer": "Creator's purpose behind art."
+}

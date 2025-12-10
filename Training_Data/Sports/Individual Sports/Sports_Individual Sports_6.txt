@@ -1,0 +1,4 @@
+{
+    "question": "What individual sport is in the Olympics and involves swimming?",
+    "answer": "Swimming."
+}

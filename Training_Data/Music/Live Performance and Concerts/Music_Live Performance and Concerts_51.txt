@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival wristband color code?",
+    "answer": "Colors indicating access level."
+}

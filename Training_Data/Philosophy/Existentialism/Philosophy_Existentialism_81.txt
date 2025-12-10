@@ -1,0 +1,4 @@
+{
+    "question": "What is 'bad faith'?",
+    "answer": "Refusing to accept freedom."
+}

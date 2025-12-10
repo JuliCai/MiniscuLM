@@ -1,0 +1,4 @@
+{
+    "question": "Who created The Piet\u00e0 sculpture?",
+    "answer": "Michelangelo."
+}

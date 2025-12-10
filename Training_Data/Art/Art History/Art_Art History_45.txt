@@ -1,0 +1,4 @@
+{
+    "question": "What era is known for cave paintings?",
+    "answer": "Prehistoric."
+}

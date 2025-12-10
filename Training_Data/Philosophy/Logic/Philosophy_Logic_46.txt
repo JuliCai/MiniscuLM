@@ -1,0 +1,4 @@
+{
+    "question": "What is a decidable problem?",
+    "answer": "A problem with a definitive algorithmic solution."
+}

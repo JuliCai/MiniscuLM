@@ -1,0 +1,4 @@
+{
+    "question": "Define chord progression.",
+    "answer": "Sequence of chords played in order."
+}

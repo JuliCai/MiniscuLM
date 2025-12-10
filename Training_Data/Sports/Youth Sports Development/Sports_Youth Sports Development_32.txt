@@ -1,0 +1,4 @@
+{
+    "question": "What is a common youth sports competition format?",
+    "answer": "League or tournament."
+}

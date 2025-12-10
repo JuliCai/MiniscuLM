@@ -1,0 +1,4 @@
+{
+    "question": "Define 'logical inference'.",
+    "answer": "Deriving conclusion from premises using logic."
+}

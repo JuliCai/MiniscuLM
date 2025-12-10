@@ -1,0 +1,4 @@
+{
+    "question": "What is 'existentialism' in one word?",
+    "answer": "Freedom."
+}

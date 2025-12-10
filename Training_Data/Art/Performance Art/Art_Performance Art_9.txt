@@ -1,0 +1,4 @@
+{
+    "question": "What is durational performance?",
+    "answer": "Long-lasting art action."
+}

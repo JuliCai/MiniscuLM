@@ -1,0 +1,4 @@
+{
+    "question": "Difference between verse and chorus?",
+    "answer": "Verse tells story; chorus repeats."
+}

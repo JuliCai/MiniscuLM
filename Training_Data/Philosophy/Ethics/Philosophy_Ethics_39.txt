@@ -1,0 +1,4 @@
+{
+    "question": "Who is Friedrich Nietzsche?",
+    "answer": "Philosopher critiquing traditional morality."
+}

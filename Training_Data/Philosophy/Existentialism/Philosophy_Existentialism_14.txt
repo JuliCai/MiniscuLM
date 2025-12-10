@@ -1,0 +1,4 @@
+{
+    "question": "How does existentialism differ from nihilism?",
+    "answer": "Existentialism finds meaning despite absurdity."
+}

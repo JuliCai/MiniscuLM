@@ -1,0 +1,4 @@
+{
+    "question": "Which equipment is used in kayaking?",
+    "answer": "Kayak and paddle."
+}

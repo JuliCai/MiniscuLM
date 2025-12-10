@@ -1,0 +1,4 @@
+{
+    "question": "What is casting wax used for?",
+    "answer": "Creating detailed models for metal casting."
+}

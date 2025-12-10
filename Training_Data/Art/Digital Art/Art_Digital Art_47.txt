@@ -1,0 +1,4 @@
+{
+    "question": "What is dithering?",
+    "answer": "Technique to simulate colors."
+}

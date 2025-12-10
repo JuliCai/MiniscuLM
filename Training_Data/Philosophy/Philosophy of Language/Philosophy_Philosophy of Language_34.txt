@@ -1,0 +1,4 @@
+{
+    "question": "Who is Gottlob Frege?",
+    "answer": "Founder of modern logic and semantics."
+}

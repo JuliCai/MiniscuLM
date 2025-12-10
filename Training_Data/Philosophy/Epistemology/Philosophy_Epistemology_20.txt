@@ -1,0 +1,4 @@
+{
+    "question": "Explain epistemic closure.",
+    "answer": "Knowledge transfers through known implications."
+}

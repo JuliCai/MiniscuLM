@@ -1,0 +1,4 @@
+{
+    "question": "What is the problem of scientific reductionism?",
+    "answer": "Oversimplifying complex phenomena."
+}

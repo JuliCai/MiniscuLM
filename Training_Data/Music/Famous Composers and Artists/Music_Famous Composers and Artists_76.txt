@@ -1,0 +1,4 @@
+{
+    "question": "Who painted The Blue Nude?",
+    "answer": "Henri Matisse."
+}

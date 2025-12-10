@@ -1,0 +1,4 @@
+{
+    "question": "What is the main characteristic of Dada?",
+    "answer": "Anti-art and absurdity."
+}

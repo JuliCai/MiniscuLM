@@ -1,0 +1,4 @@
+{
+    "question": "What is digital art saturation?",
+    "answer": "Color intensity level."
+}

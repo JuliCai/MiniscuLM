@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of a verse?",
+    "answer": "To tell the story or detail."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic closure's importance?",
+    "answer": "Ensures knowledge consistency."
+}

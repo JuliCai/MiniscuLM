@@ -1,0 +1,4 @@
+{
+    "question": "What is the cultural role of opera?",
+    "answer": "Opera combines music with theatrical storytelling."
+}

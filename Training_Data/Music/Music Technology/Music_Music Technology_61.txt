@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW loop brace?",
+    "answer": "Defines loop playback region."
+}

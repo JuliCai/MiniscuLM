@@ -1,0 +1,4 @@
+{
+    "question": "What is a characteristic of traditional Native American music?",
+    "answer": "It often features drums and vocal chants."
+}

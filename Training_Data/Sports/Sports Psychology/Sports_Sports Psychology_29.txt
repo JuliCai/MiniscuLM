@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between stress and pressure?",
+    "answer": "Stress is response; pressure is demand or expectation."
+}

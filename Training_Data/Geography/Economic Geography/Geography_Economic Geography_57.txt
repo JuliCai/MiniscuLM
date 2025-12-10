@@ -1,0 +1,4 @@
+{
+    "question": "What is the informal sector?",
+    "answer": "Unregulated economic activities."
+}

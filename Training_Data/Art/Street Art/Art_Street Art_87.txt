@@ -1,0 +1,4 @@
+{
+    "question": "What is an art intervention?",
+    "answer": "Altering public space with art."
+}

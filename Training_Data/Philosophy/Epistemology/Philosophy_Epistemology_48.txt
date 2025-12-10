@@ -1,0 +1,4 @@
+{
+    "question": "What is epistemic closure principle?",
+    "answer": "If you know P and know P implies Q, you know Q."
+}

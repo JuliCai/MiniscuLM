@@ -1,0 +1,4 @@
+{
+    "question": "How do textures add to photography as art?",
+    "answer": "Provides tactile visual interest."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is global supply chain?",
+    "answer": "Worldwide production and distribution."
+}

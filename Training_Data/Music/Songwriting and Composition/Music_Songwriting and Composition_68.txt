@@ -1,0 +1,4 @@
+{
+    "question": "What is a song\u2019s mood?",
+    "answer": "Emotional atmosphere of the song."
+}

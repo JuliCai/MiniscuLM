@@ -1,0 +1,4 @@
+{
+    "question": "What is a common sign of dehydration?",
+    "answer": "Thirst."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a dry/wet knob?",
+    "answer": "Controls effect mix amount."
+}

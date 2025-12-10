@@ -1,0 +1,4 @@
+{
+    "question": "What is 'beauty' according to Plato?",
+    "answer": "An ideal form beyond physical."
+}

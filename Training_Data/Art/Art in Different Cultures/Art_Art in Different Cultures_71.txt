@@ -1,0 +1,4 @@
+{
+    "question": "What culture is known for dramatic shadow puppetry?",
+    "answer": "Indonesian culture."
+}

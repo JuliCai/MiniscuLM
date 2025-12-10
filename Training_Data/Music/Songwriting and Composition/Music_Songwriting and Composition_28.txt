@@ -1,0 +1,4 @@
+{
+    "question": "What instrument is common in composition?",
+    "answer": "Piano or guitar for chord ideas."
+}

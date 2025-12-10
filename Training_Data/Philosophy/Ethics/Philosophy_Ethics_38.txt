@@ -1,0 +1,4 @@
+{
+    "question": "What is a moral principle?",
+    "answer": "A fundamental rule guiding ethical behavior."
+}

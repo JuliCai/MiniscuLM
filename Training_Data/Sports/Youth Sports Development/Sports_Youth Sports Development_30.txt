@@ -1,0 +1,4 @@
+{
+    "question": "What is the impact of youth sports on mental health?",
+    "answer": "Reduces stress and anxiety."
+}

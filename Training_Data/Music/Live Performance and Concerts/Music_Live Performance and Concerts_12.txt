@@ -1,0 +1,4 @@
+{
+    "question": "What does 'opening act' mean?",
+    "answer": "Performer before the main artist."
+}

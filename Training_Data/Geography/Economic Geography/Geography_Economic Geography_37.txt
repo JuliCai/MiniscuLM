@@ -1,0 +1,4 @@
+{
+    "question": "Name an example of economic migration.",
+    "answer": "Moving for job opportunities."
+}

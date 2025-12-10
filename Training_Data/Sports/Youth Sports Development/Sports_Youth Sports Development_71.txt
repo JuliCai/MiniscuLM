@@ -1,0 +1,4 @@
+{
+    "question": "How do youth sports influence emotional regulation?",
+    "answer": "Managing wins and losses."
+}

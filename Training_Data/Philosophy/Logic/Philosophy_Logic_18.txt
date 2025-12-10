@@ -1,0 +1,4 @@
+{
+    "question": "What is a quantifier?",
+    "answer": "Symbols like 'forall' or 'exists' in logic."
+}

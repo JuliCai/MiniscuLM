@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW clip fade?",
+    "answer": "Smooth volume change on clip."
+}

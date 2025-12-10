@@ -1,0 +1,4 @@
+{
+    "question": "What is metaphysical truth?",
+    "answer": "Correspondence with reality."
+}

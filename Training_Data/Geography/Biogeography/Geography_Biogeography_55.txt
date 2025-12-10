@@ -1,0 +1,4 @@
+{
+    "question": "How do mountains affect species distribution?",
+    "answer": "Create climatic zones and barriers."
+}

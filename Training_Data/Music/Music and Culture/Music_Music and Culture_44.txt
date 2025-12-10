@@ -1,0 +1,4 @@
+{
+    "question": "How does music reflect social class?",
+    "answer": "Music styles often represent social identities."
+}

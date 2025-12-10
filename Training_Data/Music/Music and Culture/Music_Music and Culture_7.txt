@@ -1,0 +1,4 @@
+{
+    "question": "How does hip-hop reflect urban culture?",
+    "answer": "Hip-hop expresses urban life and social issues."
+}

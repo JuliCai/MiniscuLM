@@ -1,0 +1,4 @@
+{
+    "question": "What defines photography as art?",
+    "answer": "Creative expression through captured images."
+}

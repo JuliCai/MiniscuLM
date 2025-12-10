@@ -1,0 +1,4 @@
+{
+    "question": "What is a clipping mask?",
+    "answer": "Mask restricting visibility to shape."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is 'aesthetic judgment' challenge?",
+    "answer": "Balancing subjectivity and objectivity."
+}

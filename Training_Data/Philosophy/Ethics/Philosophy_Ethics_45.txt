@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between consequentialism and deontology?",
+    "answer": "Consequences vs. duties determine morality."
+}

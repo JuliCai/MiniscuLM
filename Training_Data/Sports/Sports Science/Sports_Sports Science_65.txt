@@ -1,0 +1,4 @@
+{
+    "question": "Define powerlifting.",
+    "answer": "Maximal strength sport."
+}

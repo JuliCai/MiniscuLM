@@ -1,0 +1,4 @@
+{
+    "question": "What is regional development?",
+    "answer": "Improving economic conditions locally."
+}

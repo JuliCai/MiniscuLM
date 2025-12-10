@@ -1,0 +1,4 @@
+{
+    "question": "How is music used in storytelling?",
+    "answer": "Music conveys emotions and narrative elements."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first woman inducted into the Basketball Hall of Fame?",
+    "answer": "Sabrina Ionescu."
+}

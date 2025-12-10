@@ -1,0 +1,4 @@
+{
+    "question": "Name a physiological adaptation to training.",
+    "answer": "Increased capillary density."
+}

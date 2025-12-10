@@ -1,0 +1,4 @@
+{
+    "question": "Can photography be a form of self-expression?",
+    "answer": "Yes, through subject and style."
+}

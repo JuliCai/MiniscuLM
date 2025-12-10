@@ -1,0 +1,4 @@
+{
+    "question": "Which instrument is shaped like a small guitar?",
+    "answer": "The ukulele is a small guitar."
+}

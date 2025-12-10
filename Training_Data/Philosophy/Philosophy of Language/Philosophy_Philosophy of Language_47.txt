@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'perlocutionary act'?",
+    "answer": "Effect caused by the utterance."
+}

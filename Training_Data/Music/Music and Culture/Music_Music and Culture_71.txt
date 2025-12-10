@@ -1,0 +1,4 @@
+{
+    "question": "Name a musical tradition from West Africa.",
+    "answer": "Griot storytelling through music is West African."
+}

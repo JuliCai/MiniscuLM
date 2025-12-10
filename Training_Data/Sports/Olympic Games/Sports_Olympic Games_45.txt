@@ -1,0 +1,4 @@
+{
+    "question": "Which city hosted the 1996 Summer Olympics?",
+    "answer": "Atlanta"
+}

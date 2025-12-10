@@ -1,0 +1,4 @@
+{
+    "question": "What gear is used for snowboarding?",
+    "answer": "Snowboard and boots."
+}

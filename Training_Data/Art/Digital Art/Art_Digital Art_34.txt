@@ -1,0 +1,4 @@
+{
+    "question": "Name a type of digital art animation.",
+    "answer": "2D animation."
+}

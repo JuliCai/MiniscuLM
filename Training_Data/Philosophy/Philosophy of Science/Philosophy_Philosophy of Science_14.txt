@@ -1,0 +1,4 @@
+{
+    "question": "Explain scientific empiricism.",
+    "answer": "Knowledge derives from sensory experience and observation."
+}

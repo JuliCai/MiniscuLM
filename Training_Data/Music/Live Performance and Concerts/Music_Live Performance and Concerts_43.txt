@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival camping?",
+    "answer": "Overnight stay at event grounds."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the theory of emergentism?",
+    "answer": "Mind emerges from complex systems."
+}

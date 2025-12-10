@@ -1,0 +1,4 @@
+{
+    "question": "What is a festival VIP area?",
+    "answer": "Exclusive zone for special guests."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What art movement did Picasso co-found?",
+    "answer": "Cubism."
+}

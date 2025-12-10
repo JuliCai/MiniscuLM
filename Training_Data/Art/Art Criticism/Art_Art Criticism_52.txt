@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic context's' role?",
+    "answer": "Shapes artwork meaning."
+}

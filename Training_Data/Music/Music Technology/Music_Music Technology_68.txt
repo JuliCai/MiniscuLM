@@ -1,0 +1,4 @@
+{
+    "question": "What is a DAW snap to grid?",
+    "answer": "Aligns edits to timing grid."
+}

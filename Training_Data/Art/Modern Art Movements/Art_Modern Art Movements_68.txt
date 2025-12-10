@@ -1,0 +1,4 @@
+{
+    "question": "What does Pop Art critique?",
+    "answer": "Mass culture."
+}

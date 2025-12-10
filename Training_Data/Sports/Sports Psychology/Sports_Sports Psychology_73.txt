@@ -1,0 +1,4 @@
+{
+    "question": "How can athletes reduce pre-competition nerves?",
+    "answer": "Using relaxation and positive self-talk."
+}

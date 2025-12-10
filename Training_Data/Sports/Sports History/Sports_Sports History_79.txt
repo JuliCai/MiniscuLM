@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first African American to win Olympic gold?",
+    "answer": "DeHart Hubbard."
+}

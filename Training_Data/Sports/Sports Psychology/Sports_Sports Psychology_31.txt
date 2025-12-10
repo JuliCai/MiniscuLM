@@ -1,0 +1,4 @@
+{
+    "question": "What role does goal difficulty play?",
+    "answer": "Challenging goals enhance motivation and effort."
+}

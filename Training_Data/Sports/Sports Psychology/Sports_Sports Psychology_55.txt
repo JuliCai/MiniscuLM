@@ -1,0 +1,4 @@
+{
+    "question": "How do athletes handle performance slumps?",
+    "answer": "With mental skills coaching and positive mindset."
+}

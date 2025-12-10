@@ -1,0 +1,4 @@
+{
+    "question": "Define 'predicate'.",
+    "answer": "Part of sentence stating something about subject."
+}

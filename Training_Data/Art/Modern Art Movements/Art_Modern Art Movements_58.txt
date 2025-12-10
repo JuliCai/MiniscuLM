@@ -1,0 +1,4 @@
+{
+    "question": "What defines Modernism in art?",
+    "answer": "Break from tradition."
+}

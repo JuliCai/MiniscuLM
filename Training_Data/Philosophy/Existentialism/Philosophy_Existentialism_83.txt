@@ -1,0 +1,4 @@
+{
+    "question": "What is an existentialist's view on God?",
+    "answer": "It varies widely."
+}

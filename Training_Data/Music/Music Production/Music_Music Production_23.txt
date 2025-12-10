@@ -1,0 +1,4 @@
+{
+    "question": "What does panning do?",
+    "answer": "Positions sound in stereo field."
+}

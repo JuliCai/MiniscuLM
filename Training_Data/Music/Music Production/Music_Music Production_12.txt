@@ -1,0 +1,4 @@
+{
+    "question": "What is a sound wave's frequency?",
+    "answer": "Number of wave cycles per second (Hz)."
+}

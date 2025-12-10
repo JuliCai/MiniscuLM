@@ -1,0 +1,4 @@
+{
+    "question": "How can athletes build mental toughness?",
+    "answer": "Through exposure to challenges and coping strategies."
+}

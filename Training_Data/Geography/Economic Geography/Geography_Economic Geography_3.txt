@@ -1,0 +1,4 @@
+{
+    "question": "Which sector involves manufacturing?",
+    "answer": "Secondary sector."
+}

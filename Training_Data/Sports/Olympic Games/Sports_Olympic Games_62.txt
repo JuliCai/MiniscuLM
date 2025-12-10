@@ -1,0 +1,4 @@
+{
+    "question": "Which country boycotted the 1980 Moscow Games?",
+    "answer": "United States"
+}

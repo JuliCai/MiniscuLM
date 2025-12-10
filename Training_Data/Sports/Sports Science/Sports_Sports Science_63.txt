@@ -1,0 +1,4 @@
+{
+    "question": "Name a common cause of muscle cramps.",
+    "answer": "Electrolyte imbalance."
+}

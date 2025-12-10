@@ -1,0 +1,4 @@
+{
+    "question": "What does 'monism' mean?",
+    "answer": "Belief in only one kind of substance."
+}

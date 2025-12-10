@@ -1,0 +1,4 @@
+{
+    "question": "What is cave painting mainly used for?",
+    "answer": "Early human communication."
+}

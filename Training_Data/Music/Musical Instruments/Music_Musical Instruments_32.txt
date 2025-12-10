@@ -1,0 +1,4 @@
+{
+    "question": "What instrument has frets on its neck?",
+    "answer": "The guitar has frets on its neck."
+}

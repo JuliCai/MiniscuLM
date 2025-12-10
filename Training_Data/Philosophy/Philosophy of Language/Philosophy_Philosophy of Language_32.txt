@@ -1,0 +1,4 @@
+{
+    "question": "Explain 'indexicality'.",
+    "answer": "Dependence on context for meaning."
+}

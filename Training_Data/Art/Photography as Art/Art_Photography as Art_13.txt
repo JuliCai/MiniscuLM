@@ -1,0 +1,4 @@
+{
+    "question": "What is a photographic genre?",
+    "answer": "Category like portrait or landscape."
+}

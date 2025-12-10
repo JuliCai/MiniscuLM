@@ -1,0 +1,4 @@
+{
+    "question": "What is the Olympic symbol's five colors represent?",
+    "answer": "Continents' colors"
+}

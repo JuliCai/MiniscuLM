@@ -1,0 +1,4 @@
+{
+    "question": "What is the goal of science?",
+    "answer": "To explain and predict natural phenomena."
+}

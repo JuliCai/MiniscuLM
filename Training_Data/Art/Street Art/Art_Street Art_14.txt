@@ -1,0 +1,4 @@
+{
+    "question": "What is a wheatpaste poster?",
+    "answer": "Paper art glued to surfaces."
+}

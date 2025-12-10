@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is linked to the blues scale?",
+    "answer": "Blues"
+}

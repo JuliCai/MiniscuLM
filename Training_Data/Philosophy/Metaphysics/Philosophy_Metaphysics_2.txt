@@ -1,0 +1,4 @@
+{
+    "question": "Define ontology.",
+    "answer": "Study of being and existence."
+}

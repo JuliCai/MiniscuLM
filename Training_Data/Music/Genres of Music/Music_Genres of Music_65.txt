@@ -1,0 +1,4 @@
+{
+    "question": "Which genre is known for its emotional and confessional lyrics?",
+    "answer": "Singer-songwriter"
+}

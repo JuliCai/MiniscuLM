@@ -1,0 +1,4 @@
+{
+    "question": "Which composer is linked to the Impressionist movement?",
+    "answer": "Claude Debussy."
+}

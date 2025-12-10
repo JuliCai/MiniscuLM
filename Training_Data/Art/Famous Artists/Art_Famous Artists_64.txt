@@ -1,0 +1,4 @@
+{
+    "question": "Who created the artwork The Lovers?",
+    "answer": "Ren\u00e9 Magritte."
+}

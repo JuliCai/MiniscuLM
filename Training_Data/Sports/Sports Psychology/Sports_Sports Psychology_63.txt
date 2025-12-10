@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of biofeedback training?",
+    "answer": "To control physiological responses like heart rate."
+}

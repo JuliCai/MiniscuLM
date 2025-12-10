@@ -1,0 +1,4 @@
+{
+    "question": "What is the meaning of 'phenomenology'?",
+    "answer": "Study of conscious experience."
+}

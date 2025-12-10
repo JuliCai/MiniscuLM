@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between state and government?",
+    "answer": "State is entity; government runs it."
+}

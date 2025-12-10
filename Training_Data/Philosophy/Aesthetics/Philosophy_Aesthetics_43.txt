@@ -1,0 +1,4 @@
+{
+    "question": "What is 'camp' in aesthetics?",
+    "answer": "Deliberate exaggeration for style."
+}

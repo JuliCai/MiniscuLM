@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of epistemic conservatism?",
+    "answer": "Prefer existing beliefs absent defeating evidence."
+}

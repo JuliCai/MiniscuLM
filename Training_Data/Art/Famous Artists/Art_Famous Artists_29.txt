@@ -1,0 +1,4 @@
+{
+    "question": "Name the artist known for colorful geometric patterns.",
+    "answer": "Piet Mondrian."
+}

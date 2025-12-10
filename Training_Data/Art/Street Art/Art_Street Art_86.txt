@@ -1,0 +1,4 @@
+{
+    "question": "Can street art be political?",
+    "answer": "Yes, often is."
+}

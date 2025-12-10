@@ -1,0 +1,4 @@
+{
+    "question": "When did women's soccer become an Olympic sport?",
+    "answer": "1996."
+}

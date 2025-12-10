@@ -1,0 +1,4 @@
+{
+    "question": "What is song form AABA?",
+    "answer": "A pattern with two similar parts and a bridge."
+}

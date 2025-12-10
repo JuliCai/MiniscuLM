@@ -1,0 +1,4 @@
+{
+    "question": "Explain the difference between hypothesis and theory.",
+    "answer": "Hypothesis is a testable prediction; theory is a well-supported explanation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the idea of the 'general will'?",
+    "answer": "Collective interest of the people."
+}

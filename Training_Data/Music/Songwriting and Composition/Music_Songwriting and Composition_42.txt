@@ -1,0 +1,4 @@
+{
+    "question": "What does 'melodic contour' mean?",
+    "answer": "Shape of the melody's pitch movement."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the relationship between freedom and anxiety?",
+    "answer": "Freedom causes anxiety."
+}

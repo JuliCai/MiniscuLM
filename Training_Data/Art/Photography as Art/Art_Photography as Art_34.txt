@@ -1,0 +1,4 @@
+{
+    "question": "How does angle affect photographic art?",
+    "answer": "Changes perspective and impact."
+}

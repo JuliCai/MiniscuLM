@@ -1,0 +1,4 @@
+{
+    "question": "What is a political border?",
+    "answer": "Official territorial division."
+}

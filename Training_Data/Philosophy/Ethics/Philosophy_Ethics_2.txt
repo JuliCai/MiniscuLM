@@ -1,0 +1,4 @@
+{
+    "question": "Who founded virtue ethics?",
+    "answer": "Aristotle."
+}

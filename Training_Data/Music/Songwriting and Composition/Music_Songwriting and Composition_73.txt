@@ -1,0 +1,4 @@
+{
+    "question": "What is a songwriting rhythm?",
+    "answer": "Pattern of beats in a song."
+}

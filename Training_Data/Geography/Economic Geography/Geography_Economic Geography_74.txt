@@ -1,0 +1,4 @@
+{
+    "question": "What is economic globalization effect?",
+    "answer": "Increased trade and interdependence."
+}

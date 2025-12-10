@@ -1,0 +1,4 @@
+{
+    "question": "Define power in sports science.",
+    "answer": "Force times velocity."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does 'pinching' involve?",
+    "answer": "Squeezing clay with fingers."
+}

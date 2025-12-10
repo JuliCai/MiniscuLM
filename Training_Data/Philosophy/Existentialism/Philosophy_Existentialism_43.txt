@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between essence and existence?",
+    "answer": "Essence is what something is; existence is that it is."
+}

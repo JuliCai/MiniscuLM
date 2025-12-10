@@ -1,0 +1,4 @@
+{
+    "question": "What is the use of a mallet in sculpture?",
+    "answer": "Striking chisels or shaping materials."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which artist is famous for the color field paintings?",
+    "answer": "Mark Rothko."
+}

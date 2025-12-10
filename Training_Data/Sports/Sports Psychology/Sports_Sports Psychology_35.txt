@@ -1,0 +1,4 @@
+{
+    "question": "How does personality affect sports performance?",
+    "answer": "Influences motivation, stress response, and teamwork."
+}

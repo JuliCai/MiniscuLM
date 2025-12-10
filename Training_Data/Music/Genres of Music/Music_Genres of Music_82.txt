@@ -1,0 +1,4 @@
+{
+    "question": "What genre is often linked with DJ turntables?",
+    "answer": "Hip Hop"
+}

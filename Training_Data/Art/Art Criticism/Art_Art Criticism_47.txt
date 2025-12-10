@@ -1,0 +1,4 @@
+{
+    "question": "What is 'artistic originality'?",
+    "answer": "Uniqueness of artwork."
+}

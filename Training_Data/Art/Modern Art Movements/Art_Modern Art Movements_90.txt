@@ -1,0 +1,4 @@
+{
+    "question": "What defines Abstract Expressionism?",
+    "answer": "Expressive brushwork."
+}

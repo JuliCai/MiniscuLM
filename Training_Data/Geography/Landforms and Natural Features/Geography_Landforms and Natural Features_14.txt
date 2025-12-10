@@ -1,0 +1,4 @@
+{
+    "question": "What is an oasis?",
+    "answer": "A fertile area in a desert with water."
+}

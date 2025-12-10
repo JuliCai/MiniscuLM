@@ -1,0 +1,4 @@
+{
+    "question": "What is a graffiti bomb?",
+    "answer": "Covering area with tags."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Is street art considered fine art?",
+    "answer": "Sometimes, depending on context."
+}

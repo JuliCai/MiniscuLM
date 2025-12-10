@@ -1,0 +1,4 @@
+{
+    "question": "Who was the first African to win a major marathon?",
+    "answer": "Abebe Bikila, 1960."
+}

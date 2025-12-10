@@ -1,0 +1,4 @@
+{
+    "question": "How does mental fatigue impact athletes?",
+    "answer": "Decreases accuracy and decision-making speed."
+}

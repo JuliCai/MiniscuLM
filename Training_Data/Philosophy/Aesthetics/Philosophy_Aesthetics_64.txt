@@ -1,0 +1,4 @@
+{
+    "question": "What is 'the canon' in aesthetics?",
+    "answer": "Recognized great works of art."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of arousal in fine motor skills?",
+    "answer": "Too much arousal impairs precise movements."
+}

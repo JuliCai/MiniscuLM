@@ -1,0 +1,4 @@
+{
+    "question": "What is 'reference failure'?",
+    "answer": "When a term fails to refer."
+}
