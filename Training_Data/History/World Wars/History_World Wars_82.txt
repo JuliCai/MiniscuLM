@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Lusitania sinking?",
+    "answer": "Pushed US toward WWI involvement"
+}

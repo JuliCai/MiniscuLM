@@ -1,0 +1,4 @@
+{
+    "question": "What social class emerged from industrial wealth?",
+    "answer": "The bourgeoisie."
+}

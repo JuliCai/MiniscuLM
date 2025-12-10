@@ -1,0 +1,4 @@
+{
+    "question": "What is a fossil?",
+    "answer": "Preserved remains of ancient life."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the surface temperature of the Sun?",
+    "answer": "About 5,500 degrees Celsius."
+}

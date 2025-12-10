@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between weather and climate?",
+    "answer": "Weather is short-term; climate is long-term."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the focus of an earthquake?",
+    "answer": "Point within Earth where quake starts."
+}

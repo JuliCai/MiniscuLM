@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between a meteor and meteorite?",
+    "answer": "Meteorite hits Earth; meteor burns up."
+}

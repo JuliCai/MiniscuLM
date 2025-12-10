@@ -1,0 +1,4 @@
+{
+    "question": "Define natural resource.",
+    "answer": "Materials from nature used by humans."
+}

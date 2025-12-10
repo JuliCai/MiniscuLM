@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between felsic and mafic rocks?",
+    "answer": "Felsic is silica-rich; mafic is iron-rich."
+}

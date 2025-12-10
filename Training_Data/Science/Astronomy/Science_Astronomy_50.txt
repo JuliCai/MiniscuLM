@@ -1,0 +1,4 @@
+{
+    "question": "What is a light spectrum?",
+    "answer": "Range of light wavelengths."
+}

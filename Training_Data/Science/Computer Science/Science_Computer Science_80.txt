@@ -1,0 +1,4 @@
+{
+    "question": "Define P vs NP problem.",
+    "answer": "Complexity class problem in CS."
+}

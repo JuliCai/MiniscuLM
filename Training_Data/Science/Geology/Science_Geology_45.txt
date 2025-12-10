@@ -1,0 +1,4 @@
+{
+    "question": "Define aquifer.",
+    "answer": "Water-bearing rock layer."
+}

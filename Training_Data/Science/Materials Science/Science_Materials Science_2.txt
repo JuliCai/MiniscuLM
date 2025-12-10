@@ -1,0 +1,4 @@
+{
+    "question": "Name a common ceramic material.",
+    "answer": "Alumina is a common ceramic material."
+}

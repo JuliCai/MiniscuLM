@@ -1,0 +1,4 @@
+{
+    "question": "Name an effect of plastic pollution.",
+    "answer": "Harm to marine life."
+}

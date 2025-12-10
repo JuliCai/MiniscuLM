@@ -1,0 +1,4 @@
+{
+    "question": "Define plate tectonics.",
+    "answer": "Theory explaining plate movement."
+}

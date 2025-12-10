@@ -1,0 +1,4 @@
+{
+    "question": "What was the factory system?",
+    "answer": "Centralized mass production."
+}

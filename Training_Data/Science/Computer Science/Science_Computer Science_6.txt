@@ -1,0 +1,4 @@
+{
+    "question": "Define software.",
+    "answer": "Programs and operating information."
+}

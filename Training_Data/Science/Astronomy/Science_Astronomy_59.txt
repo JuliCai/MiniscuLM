@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a space probe?",
+    "answer": "Explore space and transmit data."
+}

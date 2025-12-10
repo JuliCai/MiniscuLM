@@ -1,0 +1,4 @@
+{
+    "question": "Define encryption.",
+    "answer": "Converting data to secure form."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a wave?",
+    "answer": "A disturbance that transfers energy."
+}

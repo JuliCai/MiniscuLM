@@ -1,0 +1,4 @@
+{
+    "question": "What effect did the Industrial Revolution have on cities?",
+    "answer": "Rapid urbanization and growth."
+}

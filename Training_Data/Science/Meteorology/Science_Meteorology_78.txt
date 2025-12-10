@@ -1,0 +1,4 @@
+{
+    "question": "What is a dust devil?",
+    "answer": "Small rotating wind vortex on ground."
+}

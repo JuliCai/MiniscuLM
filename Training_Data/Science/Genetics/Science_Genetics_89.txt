@@ -1,0 +1,4 @@
+{
+    "question": "What is a genome?",
+    "answer": "Complete DNA content of an organism."
+}

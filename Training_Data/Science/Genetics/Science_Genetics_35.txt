@@ -1,0 +1,4 @@
+{
+    "question": "What is DNA replication?",
+    "answer": "Copying DNA before cell division."
+}

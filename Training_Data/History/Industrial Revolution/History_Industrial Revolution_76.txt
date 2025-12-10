@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'labor union'?",
+    "answer": "Worker organization for rights."
+}

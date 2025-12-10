@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of banks?",
+    "answer": "Financing industry expansion."
+}

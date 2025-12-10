@@ -1,0 +1,4 @@
+{
+    "question": "What weapon led to massive casualties in WWI?",
+    "answer": "Machine gun"
+}

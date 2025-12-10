@@ -1,0 +1,4 @@
+{
+    "question": "Define modulus of resilience.",
+    "answer": "Energy absorbed without permanent deformation."
+}

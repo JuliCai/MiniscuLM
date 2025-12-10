@@ -1,0 +1,4 @@
+{
+    "question": "What causes acid rain?",
+    "answer": "Pollutants reacting with atmospheric moisture."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an intermetallic compound?",
+    "answer": "Ordered alloy with distinct stoichiometry."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main social class in ancient Egypt?",
+    "answer": "Pharaoh and nobles."
+}

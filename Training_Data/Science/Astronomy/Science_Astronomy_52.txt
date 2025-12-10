@@ -1,0 +1,4 @@
+{
+    "question": "What is redshift?",
+    "answer": "Objects moving away show longer wavelengths."
+}

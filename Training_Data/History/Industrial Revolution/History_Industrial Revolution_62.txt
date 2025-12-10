@@ -1,0 +1,4 @@
+{
+    "question": "How did industrialization affect global trade?",
+    "answer": "Increased exports and imports."
+}

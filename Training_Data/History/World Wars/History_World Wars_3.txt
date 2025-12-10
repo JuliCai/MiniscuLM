@@ -1,0 +1,4 @@
+{
+    "question": "Which countries formed the Axis Powers in WWII?",
+    "answer": "Germany, Italy, Japan"
+}

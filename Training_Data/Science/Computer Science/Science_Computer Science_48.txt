@@ -1,0 +1,4 @@
+{
+    "question": "Define binary tree.",
+    "answer": "Tree data structure with two children."
+}

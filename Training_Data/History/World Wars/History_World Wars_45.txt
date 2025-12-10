@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Battle of Britain?",
+    "answer": "First major air campaign won by Allies"
+}

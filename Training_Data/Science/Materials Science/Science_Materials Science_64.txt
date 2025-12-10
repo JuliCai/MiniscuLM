@@ -1,0 +1,4 @@
+{
+    "question": "What is the glass transition temperature?",
+    "answer": "Temperature where polymer becomes rubbery."
+}

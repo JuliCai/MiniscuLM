@@ -1,0 +1,4 @@
+{
+    "question": "Who was the last pharaoh of Egypt?",
+    "answer": "Cleopatra VII."
+}

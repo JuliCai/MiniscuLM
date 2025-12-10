@@ -1,0 +1,4 @@
+{
+    "question": "What is a solute?",
+    "answer": "Substance dissolved in a solvent"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a photon?",
+    "answer": "A particle of light."
+}

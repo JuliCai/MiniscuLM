@@ -1,0 +1,4 @@
+{
+    "question": "What causes smog?",
+    "answer": "Vehicle emissions and industrial pollution."
+}

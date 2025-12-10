@@ -1,0 +1,4 @@
+{
+    "question": "Name an impact of climate change.",
+    "answer": "Rising sea levels."
+}

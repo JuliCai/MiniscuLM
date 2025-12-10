@@ -1,0 +1,4 @@
+{
+    "question": "What is lapse rate?",
+    "answer": "Rate of temperature decrease with altitude."
+}

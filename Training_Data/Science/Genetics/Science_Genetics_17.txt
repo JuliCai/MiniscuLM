@@ -1,0 +1,4 @@
+{
+    "question": "What is a genotype frequency?",
+    "answer": "Proportion of genotypes in a population."
+}

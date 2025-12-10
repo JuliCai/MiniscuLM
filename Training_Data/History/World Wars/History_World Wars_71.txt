@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of the Russian Revolution?",
+    "answer": "WWI hardships and poor leadership"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is gel electrophoresis?",
+    "answer": "Separates DNA by size."
+}

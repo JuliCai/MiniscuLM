@@ -1,0 +1,4 @@
+{
+    "question": "What is the speed of light?",
+    "answer": "Approximately 299,792 km per second."
+}

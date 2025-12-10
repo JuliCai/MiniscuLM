@@ -1,0 +1,4 @@
+{
+    "question": "What type of bond forms between metal atoms?",
+    "answer": "Metallic bond"
+}

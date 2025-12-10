@@ -1,0 +1,4 @@
+{
+    "question": "What was the role of women in WWII?",
+    "answer": "Worked in factories and services"
+}

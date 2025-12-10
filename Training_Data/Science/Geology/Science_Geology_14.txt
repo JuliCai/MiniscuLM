@@ -1,0 +1,4 @@
+{
+    "question": "What does a geologist study?",
+    "answer": "Earth's materials and processes."
+}

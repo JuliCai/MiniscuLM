@@ -1,0 +1,4 @@
+{
+    "question": "Define renewable energy example: wind.",
+    "answer": "Energy generated from wind turbines."
+}

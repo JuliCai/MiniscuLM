@@ -1,0 +1,4 @@
+{
+    "question": "Define homozygous.",
+    "answer": "Having two identical alleles for a gene."
+}

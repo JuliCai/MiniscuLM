@@ -1,0 +1,4 @@
+{
+    "question": "What is a landslide?",
+    "answer": "Rapid movement of earth material."
+}

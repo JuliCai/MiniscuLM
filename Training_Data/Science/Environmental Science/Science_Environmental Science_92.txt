@@ -1,0 +1,4 @@
+{
+    "question": "Define zero waste.",
+    "answer": "Minimizing waste sent to landfills."
+}

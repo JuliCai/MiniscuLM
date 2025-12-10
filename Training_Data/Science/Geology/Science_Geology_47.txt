@@ -1,0 +1,4 @@
+{
+    "question": "What is a hotspot in geology?",
+    "answer": "Volcanic area from mantle plume."
+}

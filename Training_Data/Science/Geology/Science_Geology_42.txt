@@ -1,0 +1,4 @@
+{
+    "question": "Name the core's composition.",
+    "answer": "Mostly iron and nickel."
+}

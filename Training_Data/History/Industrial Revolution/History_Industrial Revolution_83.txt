@@ -1,0 +1,4 @@
+{
+    "question": "What is laissez-faire economics?",
+    "answer": "Minimal government interference."
+}

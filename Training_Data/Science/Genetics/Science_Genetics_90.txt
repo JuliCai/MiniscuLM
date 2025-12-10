@@ -1,0 +1,4 @@
+{
+    "question": "What is a gene?",
+    "answer": "DNA segment coding for a protein."
+}

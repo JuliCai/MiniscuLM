@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of thunderstorms?",
+    "answer": "Warm, humid air rising rapidly."
+}

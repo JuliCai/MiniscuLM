@@ -1,0 +1,4 @@
+{
+    "question": "What is a gene knockout?",
+    "answer": "Disabled gene in an organism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a mineral's streak?",
+    "answer": "Color of mineral powder."
+}

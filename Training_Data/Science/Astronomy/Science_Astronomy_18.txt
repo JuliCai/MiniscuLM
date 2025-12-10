@@ -1,0 +1,4 @@
+{
+    "question": "What is the Milky Way?",
+    "answer": "Our home galaxy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is gravity?",
+    "answer": "Force attracting two masses."
+}

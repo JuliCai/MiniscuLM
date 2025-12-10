@@ -1,0 +1,4 @@
+{
+    "question": "What is CRISPR?",
+    "answer": "Gene editing technology."
+}

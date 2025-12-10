@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for organisms that produce their own food?",
+    "answer": "Autotrophs"
+}

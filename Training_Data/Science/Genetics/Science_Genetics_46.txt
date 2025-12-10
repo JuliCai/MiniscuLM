@@ -1,0 +1,4 @@
+{
+    "question": "What is a microarray?",
+    "answer": "Tool to analyze gene expression."
+}

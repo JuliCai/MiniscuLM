@@ -1,0 +1,4 @@
+{
+    "question": "What is a conductor?",
+    "answer": "Material allowing easy flow of electricity."
+}

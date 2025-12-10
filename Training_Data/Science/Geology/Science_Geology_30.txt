@@ -1,0 +1,4 @@
+{
+    "question": "What is a tsunami?",
+    "answer": "Large sea wave from underwater earthquakes."
+}

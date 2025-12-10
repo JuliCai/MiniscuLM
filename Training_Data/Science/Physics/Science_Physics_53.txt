@@ -1,0 +1,4 @@
+{
+    "question": "What is the photoelectric effect evidence for?",
+    "answer": "Particle nature of light."
+}

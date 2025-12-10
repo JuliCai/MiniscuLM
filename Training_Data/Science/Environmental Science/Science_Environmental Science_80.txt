@@ -1,0 +1,4 @@
+{
+    "question": "Define renewable energy: geothermal.",
+    "answer": "Energy from Earth's internal heat."
+}

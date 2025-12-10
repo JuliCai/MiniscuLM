@@ -1,0 +1,4 @@
+{
+    "question": "What causes diffraction?",
+    "answer": "Wave bending around obstacles."
+}

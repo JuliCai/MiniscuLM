@@ -1,0 +1,4 @@
+{
+    "question": "What is the Hubble Space Telescope?",
+    "answer": "A telescope orbiting Earth for space observation."
+}

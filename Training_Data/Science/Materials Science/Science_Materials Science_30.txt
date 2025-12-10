@@ -1,0 +1,4 @@
+{
+    "question": "What is a crystal lattice?",
+    "answer": "Regular, repeating arrangement of atoms in solids."
+}

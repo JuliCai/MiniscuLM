@@ -1,0 +1,4 @@
+{
+    "question": "What is the approximate age of the universe?",
+    "answer": "About 13.8 billion years."
+}

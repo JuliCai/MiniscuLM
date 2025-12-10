@@ -1,0 +1,4 @@
+{
+    "question": "What is corrosion resistance?",
+    "answer": "Ability to resist chemical degradation."
+}

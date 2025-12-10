@@ -1,0 +1,4 @@
+{
+    "question": "What molecule carries genetic information?",
+    "answer": "DNA"
+}

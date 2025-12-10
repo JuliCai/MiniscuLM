@@ -1,0 +1,4 @@
+{
+    "question": "Define GUI.",
+    "answer": "Graphical User Interface."
+}

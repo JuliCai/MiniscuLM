@@ -1,0 +1,4 @@
+{
+    "question": "Define cloud computing.",
+    "answer": "Using remote servers over internet."
+}

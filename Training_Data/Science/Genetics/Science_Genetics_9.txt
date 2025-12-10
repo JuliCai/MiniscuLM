@@ -1,0 +1,4 @@
+{
+    "question": "What is a dominant gene?",
+    "answer": "A gene that masks another\u2019s effect."
+}

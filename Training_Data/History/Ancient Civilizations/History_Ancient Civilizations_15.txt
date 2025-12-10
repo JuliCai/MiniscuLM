@@ -1,0 +1,4 @@
+{
+    "question": "Who founded the Maurya Empire?",
+    "answer": "Chandragupta Maurya."
+}

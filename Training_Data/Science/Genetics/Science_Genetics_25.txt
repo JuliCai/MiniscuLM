@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic marker?",
+    "answer": "DNA sequence used to identify genes."
+}

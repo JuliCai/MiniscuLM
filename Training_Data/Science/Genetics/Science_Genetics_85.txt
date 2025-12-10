@@ -1,0 +1,4 @@
+{
+    "question": "What is alternative splicing?",
+    "answer": "Producing different proteins from one gene."
+}

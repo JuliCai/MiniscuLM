@@ -1,0 +1,4 @@
+{
+    "question": "What is a vent?",
+    "answer": "Opening for volcanic gases and lava."
+}

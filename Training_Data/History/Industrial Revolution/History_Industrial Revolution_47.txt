@@ -1,0 +1,4 @@
+{
+    "question": "What did industrialization mean for artisans?",
+    "answer": "Decline of traditional crafts."
+}

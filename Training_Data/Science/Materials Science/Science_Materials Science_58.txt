@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of a biomaterial?",
+    "answer": "Hydroxyapatite in bone implants."
+}

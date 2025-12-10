@@ -1,0 +1,4 @@
+{
+    "question": "What is Newton's second law?",
+    "answer": "Force equals mass times acceleration."
+}

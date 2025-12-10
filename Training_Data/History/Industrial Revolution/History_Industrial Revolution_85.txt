@@ -1,0 +1,4 @@
+{
+    "question": "What was a major export product?",
+    "answer": "Machinery and textiles."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes a planet's magnetic field?",
+    "answer": "Movement of liquid core."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define viscoelasticity.",
+    "answer": "Material exhibits both viscous and elastic behavior."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'biodegradable'.",
+    "answer": "Capable of being decomposed by bacteria."
+}

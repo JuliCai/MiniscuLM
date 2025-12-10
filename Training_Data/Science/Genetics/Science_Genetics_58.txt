@@ -1,0 +1,4 @@
+{
+    "question": "What is a pedigree used for?",
+    "answer": "Tracking inheritance in families."
+}

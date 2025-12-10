@@ -1,0 +1,4 @@
+{
+    "question": "Define cache memory.",
+    "answer": "Fast memory for frequently used data."
+}

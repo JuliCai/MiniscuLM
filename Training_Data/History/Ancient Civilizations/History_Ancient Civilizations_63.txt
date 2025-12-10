@@ -1,0 +1,4 @@
+{
+    "question": "What was the main weapon of the Mongol Empire?",
+    "answer": "Composite bow."
+}

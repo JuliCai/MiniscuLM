@@ -1,0 +1,4 @@
+{
+    "question": "Name a fossil fuel.",
+    "answer": "Coal."
+}

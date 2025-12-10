@@ -1,0 +1,4 @@
+{
+    "question": "What is corrosion?",
+    "answer": "Degradation due to chemical reactions."
+}

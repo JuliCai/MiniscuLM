@@ -1,0 +1,4 @@
+{
+    "question": "What is a recessive gene?",
+    "answer": "A gene masked by a dominant gene."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a silent mutation?",
+    "answer": "Mutation with no amino acid change."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the law of universal gravitation?",
+    "answer": "Every mass attracts every other mass."
+}

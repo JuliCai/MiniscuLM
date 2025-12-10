@@ -1,0 +1,4 @@
+{
+    "question": "What is a substitutional alloy?",
+    "answer": "Alloy where atoms replace host atoms."
+}

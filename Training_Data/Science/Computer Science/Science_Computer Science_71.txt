@@ -1,0 +1,4 @@
+{
+    "question": "What is a transistor?",
+    "answer": "Semiconductor device used to amplify."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define algorithm.",
+    "answer": "Step-by-step procedure to solve a problem."
+}

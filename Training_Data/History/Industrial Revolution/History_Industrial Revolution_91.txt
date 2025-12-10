@@ -1,0 +1,4 @@
+{
+    "question": "How did industrialization affect slavery?",
+    "answer": "Reduced reliance in some regions."
+}

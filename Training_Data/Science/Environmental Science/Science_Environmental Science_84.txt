@@ -1,0 +1,4 @@
+{
+    "question": "Define environmental impact assessment.",
+    "answer": "Evaluating effects of projects on environment."
+}

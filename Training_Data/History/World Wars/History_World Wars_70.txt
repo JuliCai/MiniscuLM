@@ -1,0 +1,4 @@
+{
+    "question": "Which treaty ended WWI for Germany?",
+    "answer": "Treaty of Versailles"
+}

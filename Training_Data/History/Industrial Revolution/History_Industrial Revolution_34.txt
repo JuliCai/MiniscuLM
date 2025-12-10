@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the assembly line?",
+    "answer": "Mass production efficiency."
+}

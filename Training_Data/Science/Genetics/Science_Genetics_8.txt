@@ -1,0 +1,4 @@
+{
+    "question": "What is Mendel's first law?",
+    "answer": "Law of segregation of alleles."
+}

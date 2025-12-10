@@ -1,0 +1,4 @@
+{
+    "question": "Define paleontology.",
+    "answer": "Study of fossils."
+}

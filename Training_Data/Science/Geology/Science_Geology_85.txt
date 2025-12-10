@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between intrusive and extrusive rocks?",
+    "answer": "Intrusive cool inside; extrusive outside."
+}

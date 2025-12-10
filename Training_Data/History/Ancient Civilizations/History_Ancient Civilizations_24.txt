@@ -1,0 +1,4 @@
+{
+    "question": "Which ancient civilization developed iron smelting?",
+    "answer": "Hittites."
+}

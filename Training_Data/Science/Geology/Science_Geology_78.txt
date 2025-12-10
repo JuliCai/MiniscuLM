@@ -1,0 +1,4 @@
+{
+    "question": "What is an ophiolite?",
+    "answer": "Oceanic crust on land."
+}

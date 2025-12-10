@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'factory act'?",
+    "answer": "Law regulating factory conditions."
+}

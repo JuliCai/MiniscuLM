@@ -1,0 +1,4 @@
+{
+    "question": "What is shell?",
+    "answer": "Interface to OS commands."
+}

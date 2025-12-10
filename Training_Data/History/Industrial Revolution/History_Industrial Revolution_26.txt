@@ -1,0 +1,4 @@
+{
+    "question": "Which invention boosted communication?",
+    "answer": "The telegraph."
+}

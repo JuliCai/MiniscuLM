@@ -1,0 +1,4 @@
+{
+    "question": "Which country was invaded in 1931 starting Japanese aggression?",
+    "answer": "Manchuria"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main difference between asteroids and comets?",
+    "answer": "Comets have ice; asteroids are rocky."
+}

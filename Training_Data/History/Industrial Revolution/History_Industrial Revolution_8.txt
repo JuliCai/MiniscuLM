@@ -1,0 +1,4 @@
+{
+    "question": "Name a major social change during the Industrial Revolution.",
+    "answer": "Rise of the working class."
+}

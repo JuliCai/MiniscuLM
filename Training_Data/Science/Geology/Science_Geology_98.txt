@@ -1,0 +1,4 @@
+{
+    "question": "What is a maar?",
+    "answer": "Volcanic crater from explosion."
+}

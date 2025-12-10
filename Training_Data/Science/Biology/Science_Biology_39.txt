@@ -1,0 +1,4 @@
+{
+    "question": "What type of RNA carries amino acids?",
+    "answer": "tRNA"
+}

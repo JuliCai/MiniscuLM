@@ -1,0 +1,4 @@
+{
+    "question": "What planet is known for its blue color?",
+    "answer": "Neptune."
+}

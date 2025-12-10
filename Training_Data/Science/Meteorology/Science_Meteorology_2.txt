@@ -1,0 +1,4 @@
+{
+    "question": "What instrument measures temperature?",
+    "answer": "Thermometer."
+}

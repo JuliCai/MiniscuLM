@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Battle of Kursk?",
+    "answer": "Largest tank battle in history"
+}

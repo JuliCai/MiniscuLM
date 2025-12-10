@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a transistor?",
+    "answer": "Amplifies or switches electronic signals."
+}

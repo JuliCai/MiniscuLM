@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the factory whistle?",
+    "answer": "Marking work shifts."
+}

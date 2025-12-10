@@ -1,0 +1,4 @@
+{
+    "question": "What is genetic inheritance?",
+    "answer": "Passing genes from parents to offspring."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define ecological niche.",
+    "answer": "Role of species in its ecosystem."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary cause of seasons on Earth?",
+    "answer": "Earth's axial tilt."
+}

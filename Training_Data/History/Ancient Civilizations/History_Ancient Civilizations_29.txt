@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary religion of ancient Egypt?",
+    "answer": "Polytheism."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is frequency?",
+    "answer": "Number of waves per second."
+}

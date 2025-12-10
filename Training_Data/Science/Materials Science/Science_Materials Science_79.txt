@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a catalyst?",
+    "answer": "Speeds up chemical reactions without being consumed."
+}

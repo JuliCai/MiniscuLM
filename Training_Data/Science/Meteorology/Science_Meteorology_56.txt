@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate anomaly?",
+    "answer": "Deviation from average climate conditions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which organ detoxifies chemicals?",
+    "answer": "Liver"
+}

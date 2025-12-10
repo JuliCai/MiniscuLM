@@ -1,0 +1,4 @@
+{
+    "question": "What is deforestation?",
+    "answer": "Cutting down trees in forests."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who was the general of US forces in Europe WWII?",
+    "answer": "Dwight D. Eisenhower"
+}

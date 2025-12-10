@@ -1,0 +1,4 @@
+{
+    "question": "What is a black hole?",
+    "answer": "Region with gravitational pull so strong nothing escapes."
+}

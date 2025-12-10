@@ -1,0 +1,4 @@
+{
+    "question": "What enzyme synthesizes RNA?",
+    "answer": "RNA polymerase synthesizes RNA."
+}

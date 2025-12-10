@@ -1,0 +1,4 @@
+{
+    "question": "What is a subduction zone?",
+    "answer": "Where one plate sinks beneath another."
+}

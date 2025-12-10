@@ -1,0 +1,4 @@
+{
+    "question": "Name the layers of the Earth.",
+    "answer": "Crust, mantle, outer core, inner core."
+}

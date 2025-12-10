@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of Pearl Harbor?",
+    "answer": "US entered WWII after attack"
+}

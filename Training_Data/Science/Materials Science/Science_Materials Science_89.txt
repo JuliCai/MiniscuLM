@@ -1,0 +1,4 @@
+{
+    "question": "What is a thin film?",
+    "answer": "Layer of material ranging nanometers to micrometers thick."
+}

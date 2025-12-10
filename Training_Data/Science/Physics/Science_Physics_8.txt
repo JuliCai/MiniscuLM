@@ -1,0 +1,4 @@
+{
+    "question": "What is the acceleration due to gravity on Earth?",
+    "answer": "Approximately 9.8 m/s\u00b2."
+}

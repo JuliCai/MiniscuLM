@@ -1,0 +1,4 @@
+{
+    "question": "What is environmental ethics?",
+    "answer": "Study of human responsibility to environment."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of DNA?",
+    "answer": "Store genetic information"
+}

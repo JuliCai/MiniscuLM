@@ -1,0 +1,4 @@
+{
+    "question": "What is the lithosphere?",
+    "answer": "Earth's rigid outer shell."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name the strongest type of chemical bond.",
+    "answer": "Covalent bond"
+}

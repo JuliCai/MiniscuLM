@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary material for Egyptian statues?",
+    "answer": "Stone."
+}

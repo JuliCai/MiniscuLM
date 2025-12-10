@@ -1,0 +1,4 @@
+{
+    "question": "What is a loop in programming?",
+    "answer": "Repeats code multiple times."
+}

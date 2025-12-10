@@ -1,0 +1,4 @@
+{
+    "question": "Define heterozygous.",
+    "answer": "Having two different alleles for a gene."
+}

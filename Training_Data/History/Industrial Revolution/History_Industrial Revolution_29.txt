@@ -1,0 +1,4 @@
+{
+    "question": "What is industrial capitalism?",
+    "answer": "Profit-driven factory economy."
+}

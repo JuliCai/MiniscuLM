@@ -1,0 +1,4 @@
+{
+    "question": "Define phenotype.",
+    "answer": "Phenotype is observable traits of an organism."
+}

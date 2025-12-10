@@ -1,0 +1,4 @@
+{
+    "question": "Which country withdrew from WWI in 1917?",
+    "answer": "Russia"
+}

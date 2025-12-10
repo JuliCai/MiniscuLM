@@ -1,0 +1,4 @@
+{
+    "question": "Which country suffered most in the Battle of Verdun?",
+    "answer": "France"
+}

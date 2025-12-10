@@ -1,0 +1,4 @@
+{
+    "question": "Name an alternative to fossil fuels.",
+    "answer": "Hydropower."
+}

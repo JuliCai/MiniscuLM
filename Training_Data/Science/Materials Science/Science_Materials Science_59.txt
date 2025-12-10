@@ -1,0 +1,4 @@
+{
+    "question": "What is the Hall effect?",
+    "answer": "Voltage generated perpendicular to current in magnetic field."
+}

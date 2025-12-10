@@ -1,0 +1,4 @@
+{
+    "question": "What is hardness in materials?",
+    "answer": "Resistance to surface indentation or scratching."
+}

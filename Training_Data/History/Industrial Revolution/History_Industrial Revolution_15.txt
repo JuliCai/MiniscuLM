@@ -1,0 +1,4 @@
+{
+    "question": "What economic system grew during the Industrial Revolution?",
+    "answer": "Capitalism."
+}

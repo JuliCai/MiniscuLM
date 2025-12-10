@@ -1,0 +1,4 @@
+{
+    "question": "What is a longitudinal wave?",
+    "answer": "Wave with oscillations parallel to direction."
+}

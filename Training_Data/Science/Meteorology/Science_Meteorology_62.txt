@@ -1,0 +1,4 @@
+{
+    "question": "How do mountains affect weather?",
+    "answer": "Cause rain shadows and wind patterns."
+}

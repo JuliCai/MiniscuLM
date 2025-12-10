@@ -1,0 +1,4 @@
+{
+    "question": "Explain the rock cycle briefly.",
+    "answer": "Process of rock formation and transformation."
+}

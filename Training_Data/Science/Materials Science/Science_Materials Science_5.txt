@@ -1,0 +1,4 @@
+{
+    "question": "What is a composite material?",
+    "answer": "A composite combines two or more materials for better properties."
+}

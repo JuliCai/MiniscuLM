@@ -1,0 +1,4 @@
+{
+    "question": "Who was the US President at WWI's start?",
+    "answer": "Woodrow Wilson"
+}

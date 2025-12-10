@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of a spectroscope?",
+    "answer": "Analyze light spectra from stars."
+}

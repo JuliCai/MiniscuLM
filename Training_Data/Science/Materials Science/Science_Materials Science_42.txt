@@ -1,0 +1,4 @@
+{
+    "question": "What is a plastic deformation?",
+    "answer": "Permanent change in shape under stress."
+}

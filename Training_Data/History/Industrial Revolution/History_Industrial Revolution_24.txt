@@ -1,0 +1,4 @@
+{
+    "question": "What role did coal play?",
+    "answer": "Primary industrial fuel."
+}

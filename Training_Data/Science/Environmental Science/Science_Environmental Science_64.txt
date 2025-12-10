@@ -1,0 +1,4 @@
+{
+    "question": "Name a harmful effect of pesticides.",
+    "answer": "Contamination of soil and water."
+}

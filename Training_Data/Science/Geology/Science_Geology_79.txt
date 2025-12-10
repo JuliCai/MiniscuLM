@@ -1,0 +1,4 @@
+{
+    "question": "What is a varve?",
+    "answer": "Annual sediment layer in lakes."
+}

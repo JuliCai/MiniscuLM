@@ -1,0 +1,4 @@
+{
+    "question": "Define gene.",
+    "answer": "A gene is a DNA segment coding for traits."
+}

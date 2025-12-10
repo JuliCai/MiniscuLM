@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of species extinction?",
+    "answer": "Habitat loss and hunting."
+}

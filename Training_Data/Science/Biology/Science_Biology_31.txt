@@ -1,0 +1,4 @@
+{
+    "question": "What are proteins made of?",
+    "answer": "Amino acids"
+}

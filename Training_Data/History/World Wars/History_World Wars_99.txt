@@ -1,0 +1,4 @@
+{
+    "question": "Who was the general leading US troops in Europe WWII?",
+    "answer": "George S. Patton"
+}

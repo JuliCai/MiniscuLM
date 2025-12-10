@@ -1,0 +1,4 @@
+{
+    "question": "Give an example of a ferromagnetic material.",
+    "answer": "Iron is ferromagnetic."
+}

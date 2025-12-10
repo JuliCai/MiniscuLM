@@ -1,0 +1,4 @@
+{
+    "question": "What is a quenching process?",
+    "answer": "Rapid cooling to trap a material's microstructure."
+}

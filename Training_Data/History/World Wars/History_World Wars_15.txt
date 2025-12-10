@@ -1,0 +1,4 @@
+{
+    "question": "Which city was bombed with the atomic bomb first?",
+    "answer": "Hiroshima"
+}

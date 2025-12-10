@@ -1,0 +1,4 @@
+{
+    "question": "What is climate change?",
+    "answer": "Long-term shift in weather patterns."
+}

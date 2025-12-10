@@ -1,0 +1,4 @@
+{
+    "question": "What is a trough in meteorology?",
+    "answer": "An elongated low-pressure area."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What property measures material stiffness?",
+    "answer": "Young's modulus measures stiffness."
+}

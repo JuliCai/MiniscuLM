@@ -1,0 +1,4 @@
+{
+    "question": "What unit measures electric current?",
+    "answer": "Ampere."
+}

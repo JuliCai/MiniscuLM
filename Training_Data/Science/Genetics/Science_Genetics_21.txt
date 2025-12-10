@@ -1,0 +1,4 @@
+{
+    "question": "What is a codon?",
+    "answer": "Three nucleotides coding for an amino acid."
+}

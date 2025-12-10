@@ -1,0 +1,4 @@
+{
+    "question": "Define virtualization.",
+    "answer": "Creating virtual version of resources."
+}

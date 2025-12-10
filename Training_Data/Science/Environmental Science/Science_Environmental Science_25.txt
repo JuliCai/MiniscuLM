@@ -1,0 +1,4 @@
+{
+    "question": "What is acidification of oceans?",
+    "answer": "Decrease in ocean pH due to CO2 absorption."
+}

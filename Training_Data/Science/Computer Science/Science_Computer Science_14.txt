@@ -1,0 +1,4 @@
+{
+    "question": "Name a sorting algorithm.",
+    "answer": "QuickSort."
+}

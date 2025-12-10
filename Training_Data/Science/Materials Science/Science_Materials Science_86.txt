@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of a superhard material?",
+    "answer": "Diamond."
+}

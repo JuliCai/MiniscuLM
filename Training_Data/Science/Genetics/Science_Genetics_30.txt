@@ -1,0 +1,4 @@
+{
+    "question": "Define polygenic trait.",
+    "answer": "Trait controlled by multiple genes."
+}

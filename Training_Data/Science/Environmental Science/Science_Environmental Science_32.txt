@@ -1,0 +1,4 @@
+{
+    "question": "What is biomagnification?",
+    "answer": "Increase of toxins through food chain."
+}

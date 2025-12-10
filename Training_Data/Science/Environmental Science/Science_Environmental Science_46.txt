@@ -1,0 +1,4 @@
+{
+    "question": "What is the purpose of environmental laws?",
+    "answer": "Protect natural resources and health."
+}

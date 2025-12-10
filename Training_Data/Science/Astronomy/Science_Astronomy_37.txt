@@ -1,0 +1,4 @@
+{
+    "question": "What is the event horizon?",
+    "answer": "Boundary around a black hole."
+}

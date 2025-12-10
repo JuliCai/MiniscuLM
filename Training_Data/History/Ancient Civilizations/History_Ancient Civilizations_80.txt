@@ -1,0 +1,4 @@
+{
+    "question": "Which ancient civilization worshipped the god Zeus?",
+    "answer": "Greeks."
+}

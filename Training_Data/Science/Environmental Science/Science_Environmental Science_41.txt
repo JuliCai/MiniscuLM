@@ -1,0 +1,4 @@
+{
+    "question": "Define renewable resource.",
+    "answer": "Resource replenished naturally over time."
+}

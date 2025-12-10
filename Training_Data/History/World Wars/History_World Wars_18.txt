@@ -1,0 +1,4 @@
+{
+    "question": "Which treaty ended WWII in Europe?",
+    "answer": "Yalta Conference agreements"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How many chromosomes do humans have?",
+    "answer": "Humans have 46 chromosomes."
+}

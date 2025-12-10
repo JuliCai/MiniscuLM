@@ -1,0 +1,4 @@
+{
+    "question": "What was the main goal of the United Nations?",
+    "answer": "Prevent future global conflicts"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the main effect of oil spills?",
+    "answer": "Damage to marine ecosystems."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is Hooke's Law?",
+    "answer": "Force is proportional to extension."
+}

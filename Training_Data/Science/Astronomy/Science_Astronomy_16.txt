@@ -1,0 +1,4 @@
+{
+    "question": "What is the Kuiper Belt?",
+    "answer": "Region beyond Neptune with small objects."
+}

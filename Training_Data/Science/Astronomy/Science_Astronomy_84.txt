@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the speed of light in astronomy?",
+    "answer": "Limits how fast information travels."
+}

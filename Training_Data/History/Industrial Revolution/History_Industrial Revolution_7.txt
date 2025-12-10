@@ -1,0 +1,4 @@
+{
+    "question": "Which country led the Industrial Revolution first?",
+    "answer": "Great Britain."
+}

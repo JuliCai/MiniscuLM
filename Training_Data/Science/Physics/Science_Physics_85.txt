@@ -1,0 +1,4 @@
+{
+    "question": "What is a harmonic oscillator?",
+    "answer": "System with restoring force proportional to displacement."
+}

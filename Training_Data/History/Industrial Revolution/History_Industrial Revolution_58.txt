@@ -1,0 +1,4 @@
+{
+    "question": "What did the Industrial Revolution encourage?",
+    "answer": "Technological innovation."
+}

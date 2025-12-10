@@ -1,0 +1,4 @@
+{
+    "question": "Who assassinated Archduke Franz Ferdinand?",
+    "answer": "Gavrilo Princip"
+}

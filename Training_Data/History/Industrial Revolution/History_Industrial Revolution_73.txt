@@ -1,0 +1,4 @@
+{
+    "question": "How did the Industrial Revolution affect workers' rights?",
+    "answer": "Led to labor laws."
+}

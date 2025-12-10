@@ -1,0 +1,4 @@
+{
+    "question": "What is the main difference between a dwarf planet and a planet?",
+    "answer": "Dwarf planets haven't cleared orbital path."
+}

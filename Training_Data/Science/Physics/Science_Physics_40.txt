@@ -1,0 +1,4 @@
+{
+    "question": "Define capacitance.",
+    "answer": "Charge stored per unit voltage."
+}

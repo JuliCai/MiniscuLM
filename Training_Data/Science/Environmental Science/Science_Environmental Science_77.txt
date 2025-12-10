@@ -1,0 +1,4 @@
+{
+    "question": "What is a carbon offset?",
+    "answer": "Activities reducing emissions to balance others."
+}

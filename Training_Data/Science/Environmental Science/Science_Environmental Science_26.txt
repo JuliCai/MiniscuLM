@@ -1,0 +1,4 @@
+{
+    "question": "Name a key gas in greenhouse effect.",
+    "answer": "Methane."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic disorder?",
+    "answer": "Disease caused by gene mutations."
+}

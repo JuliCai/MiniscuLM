@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of climate change?",
+    "answer": "Human-induced greenhouse gas emissions."
+}

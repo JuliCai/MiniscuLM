@@ -1,0 +1,4 @@
+{
+    "question": "What is the Hall-Petch relationship?",
+    "answer": "Strength increases with decreasing grain size."
+}

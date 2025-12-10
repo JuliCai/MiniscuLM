@@ -1,0 +1,4 @@
+{
+    "question": "What is a founder effect?",
+    "answer": "Reduced diversity from small founding group."
+}

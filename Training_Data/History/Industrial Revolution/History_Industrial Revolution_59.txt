@@ -1,0 +1,4 @@
+{
+    "question": "What was a common factory hazard?",
+    "answer": "Accidents and injuries."
+}

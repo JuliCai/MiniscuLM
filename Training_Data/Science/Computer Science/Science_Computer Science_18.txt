@@ -1,0 +1,4 @@
+{
+    "question": "What is a variable?",
+    "answer": "Storage for data values."
+}

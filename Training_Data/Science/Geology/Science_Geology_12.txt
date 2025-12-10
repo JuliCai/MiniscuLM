@@ -1,0 +1,4 @@
+{
+    "question": "What is a fault?",
+    "answer": "A fracture in Earth's crust."
+}

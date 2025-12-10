@@ -1,0 +1,4 @@
+{
+    "question": "What is a caldera?",
+    "answer": "Collapsed volcanic crater."
+}

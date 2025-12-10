@@ -1,0 +1,4 @@
+{
+    "question": "Define database.",
+    "answer": "Organized collection of data."
+}

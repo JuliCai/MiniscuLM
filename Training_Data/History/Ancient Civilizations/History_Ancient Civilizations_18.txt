@@ -1,0 +1,4 @@
+{
+    "question": "Who was the queen of ancient Egypt famous for her beauty?",
+    "answer": "Cleopatra."
+}

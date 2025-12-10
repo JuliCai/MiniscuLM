@@ -1,0 +1,4 @@
+{
+    "question": "What is genotype?",
+    "answer": "Genotype is an organism's genetic makeup."
+}

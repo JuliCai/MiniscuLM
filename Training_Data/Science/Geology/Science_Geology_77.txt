@@ -1,0 +1,4 @@
+{
+    "question": "What is a geologic map?",
+    "answer": "Map showing rock types and structures."
+}

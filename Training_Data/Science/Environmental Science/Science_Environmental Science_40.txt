@@ -1,0 +1,4 @@
+{
+    "question": "What causes coral bleaching?",
+    "answer": "Rising sea temperatures stress corals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the Iron Curtain?",
+    "answer": "Division between East and West Europe"
+}

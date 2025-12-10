@@ -1,0 +1,4 @@
+{
+    "question": "What molecule provides energy currency in cells?",
+    "answer": "ATP"
+}

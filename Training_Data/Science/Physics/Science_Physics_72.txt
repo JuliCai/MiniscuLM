@@ -1,0 +1,4 @@
+{
+    "question": "What is the first law of thermodynamics?",
+    "answer": "Energy conservation in thermodynamic processes."
+}

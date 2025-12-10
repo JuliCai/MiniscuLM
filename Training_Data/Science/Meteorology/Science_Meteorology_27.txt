@@ -1,0 +1,4 @@
+{
+    "question": "What is a climate zone?",
+    "answer": "Region with distinct climate conditions."
+}

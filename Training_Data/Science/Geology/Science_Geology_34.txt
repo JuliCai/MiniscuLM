@@ -1,0 +1,4 @@
+{
+    "question": "What is a volcano?",
+    "answer": "Mountain vent releasing magma."
+}

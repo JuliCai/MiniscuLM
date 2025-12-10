@@ -1,0 +1,4 @@
+{
+    "question": "What is an accretionary wedge?",
+    "answer": "Sediment scraped in subduction zones."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes corrosion in metals?",
+    "answer": "Chemical reaction with environment causing degradation."
+}

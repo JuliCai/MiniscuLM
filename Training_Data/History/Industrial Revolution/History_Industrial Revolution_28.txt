@@ -1,0 +1,4 @@
+{
+    "question": "Who was Eli Whitney?",
+    "answer": "Inventor of the cotton gin."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What event sparked World War I?",
+    "answer": "Assassination of Archduke Franz Ferdinand"
+}

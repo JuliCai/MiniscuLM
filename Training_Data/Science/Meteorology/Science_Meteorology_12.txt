@@ -1,0 +1,4 @@
+{
+    "question": "What is the Coriolis effect?",
+    "answer": "Deflection of winds due to Earth's rotation."
+}

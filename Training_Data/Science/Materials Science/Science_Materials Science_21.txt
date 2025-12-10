@@ -1,0 +1,4 @@
+{
+    "question": "What is fatigue limit?",
+    "answer": "Stress below which material won't fail by fatigue."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is genetic linkage?",
+    "answer": "Genes inherited together due to proximity."
+}

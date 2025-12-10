@@ -1,0 +1,4 @@
+{
+    "question": "What is stratigraphy?",
+    "answer": "Study of rock layers."
+}

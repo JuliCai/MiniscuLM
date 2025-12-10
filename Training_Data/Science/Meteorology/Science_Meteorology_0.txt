@@ -1,0 +1,4 @@
+{
+    "question": "What causes rain?",
+    "answer": "Condensation of water vapor into droplets."
+}

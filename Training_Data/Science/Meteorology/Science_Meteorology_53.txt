@@ -1,0 +1,4 @@
+{
+    "question": "How is weather forecasted?",
+    "answer": "Using models and data analysis."
+}

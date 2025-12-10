@@ -1,0 +1,4 @@
+{
+    "question": "What is a hash function?",
+    "answer": "Maps data to fixed-size value."
+}

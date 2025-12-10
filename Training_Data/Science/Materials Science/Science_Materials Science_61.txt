@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ceramics and metals?",
+    "answer": "Ceramics are brittle; metals are ductile."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define thermal conductivity.",
+    "answer": "Ability to conduct heat."
+}

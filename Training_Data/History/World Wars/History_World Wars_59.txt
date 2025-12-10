@@ -1,0 +1,4 @@
+{
+    "question": "What was the main ideology of Nazi Germany?",
+    "answer": "Fascism and racism"
+}

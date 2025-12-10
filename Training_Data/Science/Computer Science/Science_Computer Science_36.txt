@@ -1,0 +1,4 @@
+{
+    "question": "Define object-oriented programming.",
+    "answer": "Using objects and classes."
+}

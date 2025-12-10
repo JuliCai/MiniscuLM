@@ -1,0 +1,4 @@
+{
+    "question": "What is an ecological disaster?",
+    "answer": "Event causing widespread environmental damage."
+}

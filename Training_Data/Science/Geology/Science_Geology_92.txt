@@ -1,0 +1,4 @@
+{
+    "question": "What is a placer deposit?",
+    "answer": "Concentration of valuable minerals by water."
+}

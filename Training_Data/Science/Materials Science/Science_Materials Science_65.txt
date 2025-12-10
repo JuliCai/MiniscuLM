@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between thermoplastic and thermoset?",
+    "answer": "Thermoplastics melt; thermosets do not."
+}

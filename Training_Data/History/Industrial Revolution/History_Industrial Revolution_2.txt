@@ -1,0 +1,4 @@
+{
+    "question": "Name a key industry transformed by the Industrial Revolution.",
+    "answer": "Textile industry."
+}

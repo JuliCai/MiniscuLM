@@ -1,0 +1,4 @@
+{
+    "question": "Explain binary search.",
+    "answer": "Search algorithm dividing data repeatedly."
+}

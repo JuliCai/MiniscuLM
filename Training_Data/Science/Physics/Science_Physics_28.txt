@@ -1,0 +1,4 @@
+{
+    "question": "What is the Doppler effect?",
+    "answer": "Change in frequency due to motion."
+}

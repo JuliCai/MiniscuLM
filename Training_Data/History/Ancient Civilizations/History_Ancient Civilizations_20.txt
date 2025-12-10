@@ -1,0 +1,4 @@
+{
+    "question": "What is the Code of Hammurabi?",
+    "answer": "Ancient Babylonian law code."
+}

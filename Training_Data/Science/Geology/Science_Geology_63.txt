@@ -1,0 +1,4 @@
+{
+    "question": "What is a geyser?",
+    "answer": "Hot spring that erupts water."
+}

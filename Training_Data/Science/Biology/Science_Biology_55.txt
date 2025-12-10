@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for animals that eat both plants and meat?",
+    "answer": "Omnivores"
+}

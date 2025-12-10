@@ -1,0 +1,4 @@
+{
+    "question": "What is resonance?",
+    "answer": "Amplification at natural frequency."
+}

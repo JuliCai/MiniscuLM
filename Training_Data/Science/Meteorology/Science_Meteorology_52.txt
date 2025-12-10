@@ -1,0 +1,4 @@
+{
+    "question": "What is a squall?",
+    "answer": "Sudden, sharp increase in wind speed."
+}

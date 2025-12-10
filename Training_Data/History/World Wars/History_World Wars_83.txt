@@ -1,0 +1,4 @@
+{
+    "question": "Who led the Soviet Union after Lenin?",
+    "answer": "Joseph Stalin"
+}

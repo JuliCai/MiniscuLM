@@ -1,0 +1,4 @@
+{
+    "question": "What is electrical resistivity?",
+    "answer": "Opposition to electric current flow."
+}

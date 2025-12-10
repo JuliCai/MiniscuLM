@@ -1,0 +1,4 @@
+{
+    "question": "What gas do plants absorb for photosynthesis?",
+    "answer": "Carbon dioxide"
+}

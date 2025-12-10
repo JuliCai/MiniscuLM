@@ -1,0 +1,4 @@
+{
+    "question": "What was the main strategy in WWI trench warfare?",
+    "answer": "Defensive positions and attrition"
+}

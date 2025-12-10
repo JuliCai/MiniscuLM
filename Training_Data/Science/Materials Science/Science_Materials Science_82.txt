@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between intrinsic and extrinsic semiconductors?",
+    "answer": "Intrinsic is pure; extrinsic is doped."
+}

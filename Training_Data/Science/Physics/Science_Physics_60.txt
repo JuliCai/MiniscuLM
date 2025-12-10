@@ -1,0 +1,4 @@
+{
+    "question": "What causes static electricity?",
+    "answer": "Charge buildup by friction."
+}

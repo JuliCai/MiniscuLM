@@ -1,0 +1,4 @@
+{
+    "question": "What is transcription?",
+    "answer": "Process of making RNA from DNA."
+}

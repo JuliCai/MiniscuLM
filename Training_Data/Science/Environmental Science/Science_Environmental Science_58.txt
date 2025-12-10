@@ -1,0 +1,4 @@
+{
+    "question": "How does planting trees help environment?",
+    "answer": "Absorbs CO2 and provides oxygen."
+}

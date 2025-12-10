@@ -1,0 +1,4 @@
+{
+    "question": "Which civilization created the first coins?",
+    "answer": "Lydians."
+}

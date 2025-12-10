@@ -1,0 +1,4 @@
+{
+    "question": "What role did government play?",
+    "answer": "Varied from hands-off to regulation."
+}

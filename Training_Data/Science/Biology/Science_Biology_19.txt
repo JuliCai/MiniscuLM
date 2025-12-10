@@ -1,0 +1,4 @@
+{
+    "question": "What type of reproduction involves one parent?",
+    "answer": "Asexual reproduction"
+}

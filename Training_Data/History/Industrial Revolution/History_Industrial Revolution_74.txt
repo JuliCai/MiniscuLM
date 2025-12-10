@@ -1,0 +1,4 @@
+{
+    "question": "What was 'child labor'?",
+    "answer": "Children working in factories."
+}

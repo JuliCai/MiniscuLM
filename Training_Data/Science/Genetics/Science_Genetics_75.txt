@@ -1,0 +1,4 @@
+{
+    "question": "What is gene expression?",
+    "answer": "Process of producing proteins from genes."
+}

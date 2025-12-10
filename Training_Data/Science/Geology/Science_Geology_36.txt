@@ -1,0 +1,4 @@
+{
+    "question": "What is an ore?",
+    "answer": "Rock containing valuable minerals."
+}

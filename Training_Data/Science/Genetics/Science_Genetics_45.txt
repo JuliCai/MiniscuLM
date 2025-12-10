@@ -1,0 +1,4 @@
+{
+    "question": "What is an exon?",
+    "answer": "Coding DNA segment in genes."
+}

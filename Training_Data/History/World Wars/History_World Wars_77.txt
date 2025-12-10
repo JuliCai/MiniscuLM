@@ -1,0 +1,4 @@
+{
+    "question": "Which city was the main site of the armistice in WWI?",
+    "answer": "Compi\u00e8gne"
+}

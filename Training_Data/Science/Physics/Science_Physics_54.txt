@@ -1,0 +1,4 @@
+{
+    "question": "Define absolute zero.",
+    "answer": "Lowest possible temperature, zero Kelvin."
+}

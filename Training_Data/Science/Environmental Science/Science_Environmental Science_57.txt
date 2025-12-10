@@ -1,0 +1,4 @@
+{
+    "question": "What is a carbon tax?",
+    "answer": "Tax on carbon emissions."
+}

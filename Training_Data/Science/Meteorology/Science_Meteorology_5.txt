@@ -1,0 +1,4 @@
+{
+    "question": "Define humidity.",
+    "answer": "Amount of water vapor in the air."
+}

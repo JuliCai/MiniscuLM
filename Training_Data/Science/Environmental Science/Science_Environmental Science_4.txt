@@ -1,0 +1,4 @@
+{
+    "question": "What is an ecosystem?",
+    "answer": "Community of interacting organisms and environment."
+}

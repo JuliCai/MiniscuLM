@@ -1,0 +1,4 @@
+{
+    "question": "What was the primary diet of ancient Mesopotamians?",
+    "answer": "Barley and wheat."
+}

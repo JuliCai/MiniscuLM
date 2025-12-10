@@ -1,0 +1,4 @@
+{
+    "question": "What is an elastic limit?",
+    "answer": "Max stress before permanent deformation."
+}

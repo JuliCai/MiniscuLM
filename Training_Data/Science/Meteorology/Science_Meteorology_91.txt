@@ -1,0 +1,4 @@
+{
+    "question": "What is a meteor burst communication?",
+    "answer": "Using meteor trails to reflect signals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary cause of coral reef decline?",
+    "answer": "Climate change and pollution."
+}

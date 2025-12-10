@@ -1,0 +1,4 @@
+{
+    "question": "What is a database index?",
+    "answer": "Data structure to improve queries."
+}

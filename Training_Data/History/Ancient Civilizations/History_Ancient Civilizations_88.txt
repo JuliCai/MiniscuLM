@@ -1,0 +1,4 @@
+{
+    "question": "What was the main crop of the Inca?",
+    "answer": "Potatoes."
+}

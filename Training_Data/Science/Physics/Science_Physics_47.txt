@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a diode?",
+    "answer": "Allows current in one direction only."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes a rainbow?",
+    "answer": "Light refraction through water droplets."
+}

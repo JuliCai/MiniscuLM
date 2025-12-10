@@ -1,0 +1,4 @@
+{
+    "question": "Define precipitation.",
+    "answer": "Any form of water falling from clouds."
+}

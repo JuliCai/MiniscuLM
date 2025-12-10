@@ -1,0 +1,4 @@
+{
+    "question": "Define the term 'astronomy'.",
+    "answer": "Study of celestial objects and universe."
+}

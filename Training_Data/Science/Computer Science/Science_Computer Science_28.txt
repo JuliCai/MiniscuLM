@@ -1,0 +1,4 @@
+{
+    "question": "Name a machine learning type.",
+    "answer": "Supervised learning."
+}

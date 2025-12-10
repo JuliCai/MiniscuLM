@@ -1,0 +1,4 @@
+{
+    "question": "What is the general formula for alkanes?",
+    "answer": "CnH2n+2"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What pigment gives plants their green color?",
+    "answer": "Chlorophyll"
+}

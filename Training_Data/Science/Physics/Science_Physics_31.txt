@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of conservation of momentum?",
+    "answer": "Total momentum before equals after collision."
+}

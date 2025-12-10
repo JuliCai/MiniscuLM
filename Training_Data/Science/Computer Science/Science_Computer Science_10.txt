@@ -1,0 +1,4 @@
+{
+    "question": "Define an operating system.",
+    "answer": "Software managing computer hardware and software."
+}

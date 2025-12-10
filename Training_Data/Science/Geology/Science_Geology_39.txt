@@ -1,0 +1,4 @@
+{
+    "question": "What causes mountain formation?",
+    "answer": "Plate collision and uplift."
+}

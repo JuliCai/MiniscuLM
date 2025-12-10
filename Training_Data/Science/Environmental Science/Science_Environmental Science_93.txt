@@ -1,0 +1,4 @@
+{
+    "question": "What is the main effect of noise pollution?",
+    "answer": "Disturbance to wildlife and humans."
+}

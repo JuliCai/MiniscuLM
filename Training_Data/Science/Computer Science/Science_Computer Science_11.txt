@@ -1,0 +1,4 @@
+{
+    "question": "What is a data structure?",
+    "answer": "Organized way to store data."
+}

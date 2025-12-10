@@ -1,0 +1,4 @@
+{
+    "question": "What is a satellite's role in meteorology?",
+    "answer": "Monitoring weather from space."
+}

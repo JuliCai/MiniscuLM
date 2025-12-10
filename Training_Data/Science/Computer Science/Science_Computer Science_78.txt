@@ -1,0 +1,4 @@
+{
+    "question": "What is an algorithm\u2019s time complexity?",
+    "answer": "Measure of algorithm efficiency."
+}

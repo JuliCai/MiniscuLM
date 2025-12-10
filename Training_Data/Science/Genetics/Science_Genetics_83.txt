@@ -1,0 +1,4 @@
+{
+    "question": "What is a plasmid used for?",
+    "answer": "Gene cloning in bacteria."
+}

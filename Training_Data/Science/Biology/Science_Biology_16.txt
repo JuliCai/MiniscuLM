@@ -1,0 +1,4 @@
+{
+    "question": "What type of blood vessels carry blood away from the heart?",
+    "answer": "Arteries"
+}

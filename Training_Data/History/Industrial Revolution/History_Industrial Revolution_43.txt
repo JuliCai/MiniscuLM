@@ -1,0 +1,4 @@
+{
+    "question": "How did industrialization affect health?",
+    "answer": "Poor urban living conditions."
+}

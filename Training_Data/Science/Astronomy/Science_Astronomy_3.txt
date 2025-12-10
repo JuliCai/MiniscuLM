@@ -1,0 +1,4 @@
+{
+    "question": "What is a light year?",
+    "answer": "Distance light travels in one year."
+}

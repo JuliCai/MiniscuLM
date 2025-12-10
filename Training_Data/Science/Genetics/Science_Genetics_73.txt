@@ -1,0 +1,4 @@
+{
+    "question": "What is a polyploid?",
+    "answer": "Organism with multiple chromosome sets."
+}

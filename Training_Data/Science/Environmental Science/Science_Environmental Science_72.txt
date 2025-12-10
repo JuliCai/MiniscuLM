@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of chlorophyll?",
+    "answer": "Absorbs sunlight for photosynthesis."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a logic gate?",
+    "answer": "Basic digital circuit."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which country was split into East and West after WWII?",
+    "answer": "Germany"
+}

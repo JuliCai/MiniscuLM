@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of least action?",
+    "answer": "Physical systems follow path minimizing action."
+}

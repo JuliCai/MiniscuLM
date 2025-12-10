@@ -1,0 +1,4 @@
+{
+    "question": "What was the main front in WWI?",
+    "answer": "Western Front"
+}

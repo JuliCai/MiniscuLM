@@ -1,0 +1,4 @@
+{
+    "question": "Which civilization built the Temple of Artemis?",
+    "answer": "Ancient Greeks."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main purpose of propaganda in the World Wars?",
+    "answer": "Boost morale and support"
+}

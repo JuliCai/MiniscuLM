@@ -1,0 +1,4 @@
+{
+    "question": "Define ecological restoration.",
+    "answer": "Rehabilitating damaged ecosystems."
+}

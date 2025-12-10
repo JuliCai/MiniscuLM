@@ -1,0 +1,4 @@
+{
+    "question": "What was a typical factory workday?",
+    "answer": "12-16 hours long."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define urban heat island effect.",
+    "answer": "Cities being warmer than rural areas."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a major cause of ocean pollution.",
+    "answer": "Plastic waste."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a promoter?",
+    "answer": "DNA region where transcription starts."
+}

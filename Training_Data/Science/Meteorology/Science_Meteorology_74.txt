@@ -1,0 +1,4 @@
+{
+    "question": "What is a lapse rate inversion?",
+    "answer": "Temperature increases with altitude."
+}

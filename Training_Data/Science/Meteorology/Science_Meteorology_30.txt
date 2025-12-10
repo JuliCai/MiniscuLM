@@ -1,0 +1,4 @@
+{
+    "question": "What is dew?",
+    "answer": "Water droplets formed by condensation."
+}

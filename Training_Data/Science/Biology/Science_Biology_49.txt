@@ -1,0 +1,4 @@
+{
+    "question": "What is the main component of the cell membrane?",
+    "answer": "Phospholipids"
+}

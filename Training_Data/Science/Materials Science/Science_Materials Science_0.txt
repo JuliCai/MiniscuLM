@@ -1,0 +1,4 @@
+{
+    "question": "What is the atomic structure of metals?",
+    "answer": "Metals have a crystalline lattice structure."
+}

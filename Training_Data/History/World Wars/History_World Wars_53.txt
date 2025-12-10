@@ -1,0 +1,4 @@
+{
+    "question": "Who was the emperor of Japan during WWII?",
+    "answer": "Emperor Hirohito"
+}

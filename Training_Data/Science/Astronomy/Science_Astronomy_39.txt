@@ -1,0 +1,4 @@
+{
+    "question": "What is a meteor?",
+    "answer": "Space rock entering Earth's atmosphere."
+}

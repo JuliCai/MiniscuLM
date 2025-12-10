@@ -1,0 +1,4 @@
+{
+    "question": "Which country switched sides in WWI?",
+    "answer": "Italy"
+}

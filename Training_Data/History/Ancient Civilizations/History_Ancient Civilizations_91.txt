@@ -1,0 +1,4 @@
+{
+    "question": "Name the ancient civilization known for the Great Sphinx.",
+    "answer": "Egyptians."
+}

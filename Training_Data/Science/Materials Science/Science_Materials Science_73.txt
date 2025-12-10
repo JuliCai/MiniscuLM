@@ -1,0 +1,4 @@
+{
+    "question": "What is lattice strain?",
+    "answer": "Distortion of crystal lattice."
+}

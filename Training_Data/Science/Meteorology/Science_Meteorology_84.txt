@@ -1,0 +1,4 @@
+{
+    "question": "What is a meteorological phenomenon?",
+    "answer": "An observable atmospheric event."
+}

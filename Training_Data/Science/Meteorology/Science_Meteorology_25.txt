@@ -1,0 +1,4 @@
+{
+    "question": "What is the ozone layer?",
+    "answer": "Layer absorbing UV radiation."
+}

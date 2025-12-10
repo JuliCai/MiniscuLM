@@ -1,0 +1,4 @@
+{
+    "question": "What new materials emerged in the Second Industrial Revolution?",
+    "answer": "Steel and chemicals."
+}

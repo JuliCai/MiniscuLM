@@ -1,0 +1,4 @@
+{
+    "question": "Which blood type is known as the universal donor?",
+    "answer": "O negative"
+}

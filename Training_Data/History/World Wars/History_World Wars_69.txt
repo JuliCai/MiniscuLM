@@ -1,0 +1,4 @@
+{
+    "question": "What was the Schlieffen Plan?",
+    "answer": "Germany's plan to invade France"
+}

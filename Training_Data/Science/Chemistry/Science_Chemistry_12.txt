@@ -1,0 +1,4 @@
+{
+    "question": "Name the process where solids turn directly to gas.",
+    "answer": "Sublimation"
+}

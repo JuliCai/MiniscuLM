@@ -1,0 +1,4 @@
+{
+    "question": "Who was the US President during most of WWII?",
+    "answer": "Franklin D. Roosevelt"
+}

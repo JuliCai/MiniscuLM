@@ -1,0 +1,4 @@
+{
+    "question": "What did the Industrial Revolution replace?",
+    "answer": "Hand production methods."
+}

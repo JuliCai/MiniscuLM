@@ -1,0 +1,4 @@
+{
+    "question": "What does tensile strength indicate?",
+    "answer": "Maximum stress a material withstands under tension."
+}

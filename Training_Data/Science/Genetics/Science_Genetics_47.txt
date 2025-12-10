@@ -1,0 +1,4 @@
+{
+    "question": "What is a SNP?",
+    "answer": "Single nucleotide polymorphism."
+}

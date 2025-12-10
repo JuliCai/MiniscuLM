@@ -1,0 +1,4 @@
+{
+    "question": "What is a bulk material?",
+    "answer": "Material in large quantity, not thin film."
+}

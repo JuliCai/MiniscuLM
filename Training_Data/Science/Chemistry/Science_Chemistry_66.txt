@@ -1,0 +1,4 @@
+{
+    "question": "What is the chemical formula of ethanol?",
+    "answer": "C2H5OH"
+}

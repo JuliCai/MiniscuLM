@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Gallipoli Campaign?",
+    "answer": "Failed Allied attempt in WWI"
+}

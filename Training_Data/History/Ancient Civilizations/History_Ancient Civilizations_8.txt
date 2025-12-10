@@ -1,0 +1,4 @@
+{
+    "question": "What writing medium did Egyptians use?",
+    "answer": "Papyrus."
+}

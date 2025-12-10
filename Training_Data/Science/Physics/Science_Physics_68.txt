@@ -1,0 +1,4 @@
+{
+    "question": "What is amplitude?",
+    "answer": "Maximum wave displacement."
+}

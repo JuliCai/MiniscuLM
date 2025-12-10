@@ -1,0 +1,4 @@
+{
+    "question": "What was the main purpose of the Egyptian pyramids?",
+    "answer": "Tombs for pharaohs."
+}

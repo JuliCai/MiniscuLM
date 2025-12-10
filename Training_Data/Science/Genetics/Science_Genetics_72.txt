@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic trait?",
+    "answer": "Characteristic inherited genetically."
+}

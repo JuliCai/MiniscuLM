@@ -1,0 +1,4 @@
+{
+    "question": "What was the main transportation before railways?",
+    "answer": "Horse-drawn carriages and canals."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for a small rocky body orbiting the Sun?",
+    "answer": "Asteroid."
+}

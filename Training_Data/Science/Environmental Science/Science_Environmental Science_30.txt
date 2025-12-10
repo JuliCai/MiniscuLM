@@ -1,0 +1,4 @@
+{
+    "question": "What is a carbon sink?",
+    "answer": "Natural reservoir absorbing more carbon than releasing."
+}

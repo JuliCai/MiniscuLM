@@ -1,0 +1,4 @@
+{
+    "question": "What does Ohm's law state?",
+    "answer": "V = IR (voltage equals current times resistance)."
+}

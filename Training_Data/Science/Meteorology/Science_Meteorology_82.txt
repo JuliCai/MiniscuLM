@@ -1,0 +1,4 @@
+{
+    "question": "What is a weather front's role in precipitation?",
+    "answer": "Causes air to rise and condense."
+}

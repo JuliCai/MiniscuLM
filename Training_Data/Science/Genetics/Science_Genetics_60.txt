@@ -1,0 +1,4 @@
+{
+    "question": "What is a haploid cell?",
+    "answer": "Cell with one set of chromosomes."
+}

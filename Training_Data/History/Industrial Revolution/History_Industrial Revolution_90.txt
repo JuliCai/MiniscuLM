@@ -1,0 +1,4 @@
+{
+    "question": "What is a patent?",
+    "answer": "Legal right to an invention."
+}

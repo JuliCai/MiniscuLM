@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary function of the lungs?",
+    "answer": "Gas exchange"
+}

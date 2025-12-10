@@ -1,0 +1,4 @@
+{
+    "question": "Explain the role of grain boundaries.",
+    "answer": "Grain boundaries affect strength and corrosion resistance."
+}

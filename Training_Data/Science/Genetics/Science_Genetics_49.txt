@@ -1,0 +1,4 @@
+{
+    "question": "What does PCR do?",
+    "answer": "Amplifies DNA segments."
+}

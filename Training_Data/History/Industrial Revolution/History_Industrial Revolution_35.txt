@@ -1,0 +1,4 @@
+{
+    "question": "What was a common feature of factory towns?",
+    "answer": "Crowded housing."
+}

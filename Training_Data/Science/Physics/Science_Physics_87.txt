@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of equivalence?",
+    "answer": "Gravitational and inertial mass are equal."
+}

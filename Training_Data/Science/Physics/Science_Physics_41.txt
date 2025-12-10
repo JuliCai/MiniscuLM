@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle behind a transformer?",
+    "answer": "Electromagnetic induction."
+}

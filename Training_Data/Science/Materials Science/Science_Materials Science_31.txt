@@ -1,0 +1,4 @@
+{
+    "question": "What is meant by isotropy?",
+    "answer": "Properties are the same in all directions."
+}

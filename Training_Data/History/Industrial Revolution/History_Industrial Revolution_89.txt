@@ -1,0 +1,4 @@
+{
+    "question": "What is the Industrial Revolution's legacy?",
+    "answer": "Modern industrial society."
+}

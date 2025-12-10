@@ -1,0 +1,4 @@
+{
+    "question": "What does RAM mean?",
+    "answer": "Random Access Memory."
+}

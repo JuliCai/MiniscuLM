@@ -1,0 +1,4 @@
+{
+    "question": "What is dark matter?",
+    "answer": "Invisible matter affecting gravity."
+}

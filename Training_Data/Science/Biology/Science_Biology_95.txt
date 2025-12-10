@@ -1,0 +1,4 @@
+{
+    "question": "Which cells are responsible for clotting?",
+    "answer": "Platelets"
+}

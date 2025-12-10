@@ -1,0 +1,4 @@
+{
+    "question": "What is a vector field?",
+    "answer": "Field with magnitude and direction."
+}

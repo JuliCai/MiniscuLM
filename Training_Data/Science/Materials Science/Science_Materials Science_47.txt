@@ -1,0 +1,4 @@
+{
+    "question": "What is an example of an amorphous material?",
+    "answer": "Glass is amorphous."
+}

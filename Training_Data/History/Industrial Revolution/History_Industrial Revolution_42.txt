@@ -1,0 +1,4 @@
+{
+    "question": "What was the Chartist movement?",
+    "answer": "Working-class political reform."
+}

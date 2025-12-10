@@ -1,0 +1,4 @@
+{
+    "question": "Name an environmental impact of the Industrial Revolution.",
+    "answer": "Air pollution."
+}

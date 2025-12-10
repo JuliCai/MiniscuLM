@@ -1,0 +1,4 @@
+{
+    "question": "What was the Holocaust?",
+    "answer": "Genocide of Jews by Nazis"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an alloy?",
+    "answer": "Mixture of metals"
+}

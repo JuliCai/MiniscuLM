@@ -1,0 +1,4 @@
+{
+    "question": "Define meteorological drought.",
+    "answer": "Prolonged period of low precipitation."
+}

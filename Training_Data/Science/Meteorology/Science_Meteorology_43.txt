@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary gas causing global warming?",
+    "answer": "Carbon dioxide."
+}

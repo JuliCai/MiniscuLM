@@ -1,0 +1,4 @@
+{
+    "question": "What causes thunder?",
+    "answer": "Lightning heating the air rapidly."
+}

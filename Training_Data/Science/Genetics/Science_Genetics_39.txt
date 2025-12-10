@@ -1,0 +1,4 @@
+{
+    "question": "What is a missense mutation?",
+    "answer": "Mutation changing one amino acid."
+}

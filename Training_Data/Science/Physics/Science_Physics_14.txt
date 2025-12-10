@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for kinetic energy?",
+    "answer": "KE = \u00bd mv\u00b2."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is magma?",
+    "answer": "Molten rock beneath Earth\u2019s surface."
+}

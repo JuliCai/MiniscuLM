@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for a star's life cycle?",
+    "answer": "Stellar evolution."
+}

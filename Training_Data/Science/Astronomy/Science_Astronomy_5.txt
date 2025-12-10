@@ -1,0 +1,4 @@
+{
+    "question": "What causes a solar eclipse?",
+    "answer": "Moon blocks the Sun's light."
+}

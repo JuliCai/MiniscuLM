@@ -1,0 +1,4 @@
+{
+    "question": "What is the Big Bang Theory?",
+    "answer": "Universe's origin from a big explosion."
+}

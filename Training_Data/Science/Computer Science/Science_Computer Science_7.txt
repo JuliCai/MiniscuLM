@@ -1,0 +1,4 @@
+{
+    "question": "What is a compiler?",
+    "answer": "Converts code to machine language."
+}

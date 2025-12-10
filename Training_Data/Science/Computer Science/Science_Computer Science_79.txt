@@ -1,0 +1,4 @@
+{
+    "question": "What is a hash table?",
+    "answer": "Data structure with key-value pairs."
+}

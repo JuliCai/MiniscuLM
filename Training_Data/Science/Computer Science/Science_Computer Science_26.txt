@@ -1,0 +1,4 @@
+{
+    "question": "What is a function?",
+    "answer": "Reusable block of code."
+}

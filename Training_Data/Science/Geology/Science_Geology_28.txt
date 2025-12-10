@@ -1,0 +1,4 @@
+{
+    "question": "What is an igneous rock?",
+    "answer": "Rock formed by cooled magma or lava."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the effect of greenhouse gases?",
+    "answer": "Trap heat causing global warming."
+}

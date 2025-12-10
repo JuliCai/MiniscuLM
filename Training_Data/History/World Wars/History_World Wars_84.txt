@@ -1,0 +1,4 @@
+{
+    "question": "Which conference divided Germany post-WWII?",
+    "answer": "Yalta Conference"
+}

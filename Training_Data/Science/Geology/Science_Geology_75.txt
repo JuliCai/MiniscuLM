@@ -1,0 +1,4 @@
+{
+    "question": "What is an anticline?",
+    "answer": "Upward fold in rock layers."
+}

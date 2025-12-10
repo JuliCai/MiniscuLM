@@ -1,0 +1,4 @@
+{
+    "question": "Which part of the cell controls its activities?",
+    "answer": "Nucleus"
+}

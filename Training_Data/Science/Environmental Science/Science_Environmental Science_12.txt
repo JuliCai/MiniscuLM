@@ -1,0 +1,4 @@
+{
+    "question": "What is recycling?",
+    "answer": "Converting waste into reusable materials."
+}

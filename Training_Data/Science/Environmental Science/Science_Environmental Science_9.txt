@@ -1,0 +1,4 @@
+{
+    "question": "What is global warming?",
+    "answer": "Earth's temperature rising due to greenhouse gases."
+}

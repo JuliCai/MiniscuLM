@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for a fast-spinning neutron star?",
+    "answer": "Pulsar."
+}

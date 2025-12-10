@@ -1,0 +1,4 @@
+{
+    "question": "Name the type of mixture where components are not uniform.",
+    "answer": "Heterogeneous mixture"
+}

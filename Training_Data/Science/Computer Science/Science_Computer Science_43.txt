@@ -1,0 +1,4 @@
+{
+    "question": "Explain stack data structure.",
+    "answer": "LIFO data organization."
+}

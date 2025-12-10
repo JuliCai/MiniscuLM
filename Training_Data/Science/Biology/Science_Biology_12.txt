@@ -1,0 +1,4 @@
+{
+    "question": "Where does protein synthesis occur?",
+    "answer": "Ribosomes"
+}

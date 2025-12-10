@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for planets orbiting stars other than the Sun?",
+    "answer": "Exoplanets."
+}

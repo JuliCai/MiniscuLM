@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for cold-blooded animals?",
+    "answer": "Ectotherms"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of WWII?",
+    "answer": "Treaty of Versailles and aggression"
+}

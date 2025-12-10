@@ -1,0 +1,4 @@
+{
+    "question": "What was the purpose of the Marshall Plan?",
+    "answer": "Rebuild Europe after WWII"
+}

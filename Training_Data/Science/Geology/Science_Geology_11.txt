@@ -1,0 +1,4 @@
+{
+    "question": "Where are most earthquakes located?",
+    "answer": "Along tectonic plate boundaries."
+}

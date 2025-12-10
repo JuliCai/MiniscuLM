@@ -1,0 +1,4 @@
+{
+    "question": "What is a tsunami warning based on?",
+    "answer": "Seismic activity detection."
+}

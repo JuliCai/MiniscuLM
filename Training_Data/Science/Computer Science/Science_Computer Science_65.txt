@@ -1,0 +1,4 @@
+{
+    "question": "What is a proxy server?",
+    "answer": "Intermediate server between client and internet."
+}

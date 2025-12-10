@@ -1,0 +1,4 @@
+{
+    "question": "What is a bot?",
+    "answer": "Automated software agent."
+}

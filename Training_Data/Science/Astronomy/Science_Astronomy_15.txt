@@ -1,0 +1,4 @@
+{
+    "question": "How long does light from the Sun take to reach Earth?",
+    "answer": "About 8 minutes."
+}

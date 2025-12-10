@@ -1,0 +1,4 @@
+{
+    "question": "Which ancient civilization is known for ziggurats?",
+    "answer": "Sumerians."
+}

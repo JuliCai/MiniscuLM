@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of relativity?",
+    "answer": "Laws of physics are same in all inertial frames."
+}

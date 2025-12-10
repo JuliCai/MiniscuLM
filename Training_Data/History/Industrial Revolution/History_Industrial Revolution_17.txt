@@ -1,0 +1,4 @@
+{
+    "question": "Which sector saw the most growth initially?",
+    "answer": "Textile manufacturing."
+}

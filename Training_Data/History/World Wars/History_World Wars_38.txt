@@ -1,0 +1,4 @@
+{
+    "question": "Where was the armistice signed to end WWI?",
+    "answer": "Compi\u00e8gne"
+}

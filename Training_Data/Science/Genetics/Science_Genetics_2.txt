@@ -1,0 +1,4 @@
+{
+    "question": "What is an allele?",
+    "answer": "An allele is a gene variant."
+}

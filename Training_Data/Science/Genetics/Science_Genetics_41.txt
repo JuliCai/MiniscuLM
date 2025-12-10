@@ -1,0 +1,4 @@
+{
+    "question": "What is expressivity?",
+    "answer": "Degree a gene is expressed."
+}

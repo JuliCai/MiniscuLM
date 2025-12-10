@@ -1,0 +1,4 @@
+{
+    "question": "What does a volt measure?",
+    "answer": "Electric potential difference."
+}

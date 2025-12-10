@@ -1,0 +1,4 @@
+{
+    "question": "What is a diploid cell?",
+    "answer": "Cell with two sets of chromosomes."
+}

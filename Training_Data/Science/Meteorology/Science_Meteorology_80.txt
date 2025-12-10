@@ -1,0 +1,4 @@
+{
+    "question": "What is a meteorological hazard?",
+    "answer": "Weather event causing damage or danger."
+}

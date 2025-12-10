@@ -1,0 +1,4 @@
+{
+    "question": "What is the photoelectric effect?",
+    "answer": "Emission of electrons by light."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is vapor pressure?",
+    "answer": "Pressure exerted by water vapor."
+}

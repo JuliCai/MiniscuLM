@@ -1,0 +1,4 @@
+{
+    "question": "What is a plasmid?",
+    "answer": "Small circular DNA in bacteria."
+}

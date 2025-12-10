@@ -1,0 +1,4 @@
+{
+    "question": "What was the main purpose of the Great Wall of China?",
+    "answer": "Defense against invasions."
+}

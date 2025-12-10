@@ -1,0 +1,4 @@
+{
+    "question": "What is fatigue failure?",
+    "answer": "Failure due to repeated cyclic stresses."
+}

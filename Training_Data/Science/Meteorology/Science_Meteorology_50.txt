@@ -1,0 +1,4 @@
+{
+    "question": "What is a meteorological map?",
+    "answer": "Map showing weather data."
+}

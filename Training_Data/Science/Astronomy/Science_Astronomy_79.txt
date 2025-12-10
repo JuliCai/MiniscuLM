@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the phenomenon where light bends around objects?",
+    "answer": "Gravitational lensing."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is cosmic inflation?",
+    "answer": "Rapid expansion after Big Bang."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a fossiliferous rock?",
+    "answer": "Rock containing fossils."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of water vapor in weather?",
+    "answer": "Main greenhouse gas and precipitation source."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the cosmic microwave background?",
+    "answer": "Radiation leftover from Big Bang."
+}

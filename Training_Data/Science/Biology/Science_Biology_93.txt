@@ -1,0 +1,4 @@
+{
+    "question": "Which part of the eye controls light entry?",
+    "answer": "Pupil"
+}

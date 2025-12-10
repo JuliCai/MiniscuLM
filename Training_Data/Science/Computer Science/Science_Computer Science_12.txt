@@ -1,0 +1,4 @@
+{
+    "question": "What does GUI mean?",
+    "answer": "Graphical User Interface."
+}

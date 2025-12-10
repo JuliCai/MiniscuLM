@@ -1,0 +1,4 @@
+{
+    "question": "What is a thermoset polymer?",
+    "answer": "Polymer that irreversibly hardens when cured."
+}

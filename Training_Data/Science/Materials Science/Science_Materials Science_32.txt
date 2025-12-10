@@ -1,0 +1,4 @@
+{
+    "question": "What is a dislocation?",
+    "answer": "Line defect in crystal structure causing plastic deformation."
+}

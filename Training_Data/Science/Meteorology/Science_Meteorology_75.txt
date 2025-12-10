@@ -1,0 +1,4 @@
+{
+    "question": "What is a synoptic chart?",
+    "answer": "Map showing large-scale weather patterns."
+}

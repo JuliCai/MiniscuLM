@@ -1,0 +1,4 @@
+{
+    "question": "What is a deadlock?",
+    "answer": "Processes blocked waiting for resources."
+}

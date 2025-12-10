@@ -1,0 +1,4 @@
+{
+    "question": "Who was the famous lawgiver of Athens?",
+    "answer": "Solon."
+}

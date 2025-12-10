@@ -1,0 +1,4 @@
+{
+    "question": "What is HTTP?",
+    "answer": "HyperText Transfer Protocol."
+}

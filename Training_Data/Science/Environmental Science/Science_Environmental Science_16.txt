@@ -1,0 +1,4 @@
+{
+    "question": "How do trees help reduce CO2?",
+    "answer": "By absorbing CO2 during photosynthesis."
+}

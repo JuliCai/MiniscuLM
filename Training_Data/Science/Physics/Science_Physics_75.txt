@@ -1,0 +1,4 @@
+{
+    "question": "What is a superconductor?",
+    "answer": "Material with zero electrical resistance."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an inertial frame of reference?",
+    "answer": "Non-accelerating frame where Newton's laws apply."
+}

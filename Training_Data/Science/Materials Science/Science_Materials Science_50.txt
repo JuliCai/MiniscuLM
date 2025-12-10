@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between ionic and covalent bonds?",
+    "answer": "Ionic transfers electrons; covalent shares electrons."
+}

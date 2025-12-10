@@ -1,0 +1,4 @@
+{
+    "question": "What was a common illness in industrial cities?",
+    "answer": "Cholera."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic sequence?",
+    "answer": "Order of nucleotides in DNA."
+}

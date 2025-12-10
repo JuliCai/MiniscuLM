@@ -1,0 +1,4 @@
+{
+    "question": "What is the Compton effect?",
+    "answer": "Photon scattering by electrons increases wavelength."
+}

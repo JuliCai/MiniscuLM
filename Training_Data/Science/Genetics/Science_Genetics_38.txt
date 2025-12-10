@@ -1,0 +1,4 @@
+{
+    "question": "What is a nonsense mutation?",
+    "answer": "Mutation causing a stop codon."
+}

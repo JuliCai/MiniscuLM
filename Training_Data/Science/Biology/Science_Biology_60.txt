@@ -1,0 +1,4 @@
+{
+    "question": "Which organ is part of both digestive and respiratory systems?",
+    "answer": "Pharynx"
+}

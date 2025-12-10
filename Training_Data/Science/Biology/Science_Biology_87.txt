@@ -1,0 +1,4 @@
+{
+    "question": "Which animals have scales and lay eggs?",
+    "answer": "Reptiles"
+}

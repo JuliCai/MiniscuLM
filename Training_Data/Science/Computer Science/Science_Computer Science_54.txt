@@ -1,0 +1,4 @@
+{
+    "question": "What is a subnet?",
+    "answer": "Segment of network."
+}

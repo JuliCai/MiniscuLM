@@ -1,0 +1,4 @@
+{
+    "question": "What is binary code?",
+    "answer": "Code using 0s and 1s."
+}

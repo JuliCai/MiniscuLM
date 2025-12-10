@@ -1,0 +1,4 @@
+{
+    "question": "What is a slump?",
+    "answer": "Mass wasting with rotational movement."
+}

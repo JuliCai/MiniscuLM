@@ -1,0 +1,4 @@
+{
+    "question": "What is a kernel?",
+    "answer": "Core of an operating system."
+}

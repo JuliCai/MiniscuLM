@@ -1,0 +1,4 @@
+{
+    "question": "What causes sickle cell anemia?",
+    "answer": "A mutation in the hemoglobin gene."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a conglomerate rock?",
+    "answer": "Sedimentary rock with rounded clasts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which type of muscle is involuntary?",
+    "answer": "Smooth muscle"
+}

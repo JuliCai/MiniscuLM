@@ -1,0 +1,4 @@
+{
+    "question": "What is a dike?",
+    "answer": "Vertical igneous intrusion."
+}

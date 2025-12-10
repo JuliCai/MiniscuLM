@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the melting point?",
+    "answer": "Temperature where solid becomes liquid."
+}

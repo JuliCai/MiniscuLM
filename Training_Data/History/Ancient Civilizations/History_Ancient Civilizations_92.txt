@@ -1,0 +1,4 @@
+{
+    "question": "Who was the Greek goddess of wisdom?",
+    "answer": "Athena."
+}

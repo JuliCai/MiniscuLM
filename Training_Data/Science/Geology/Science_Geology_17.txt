@@ -1,0 +1,4 @@
+{
+    "question": "What is the Earth's crust made of?",
+    "answer": "Solid rock including granite and basalt."
+}

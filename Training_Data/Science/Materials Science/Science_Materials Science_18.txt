@@ -1,0 +1,4 @@
+{
+    "question": "What is a phase diagram?",
+    "answer": "Graph showing phases at different temperatures and compositions."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define recombinant DNA.",
+    "answer": "DNA formed by combining sequences."
+}

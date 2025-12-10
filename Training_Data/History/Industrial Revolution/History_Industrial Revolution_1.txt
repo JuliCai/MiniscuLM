@@ -1,0 +1,4 @@
+{
+    "question": "What invention powered the Industrial Revolution?",
+    "answer": "The steam engine."
+}

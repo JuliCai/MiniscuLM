@@ -1,0 +1,4 @@
+{
+    "question": "What was the main cause of WWI?",
+    "answer": "Militarism and alliances"
+}

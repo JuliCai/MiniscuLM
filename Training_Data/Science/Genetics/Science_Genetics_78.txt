@@ -1,0 +1,4 @@
+{
+    "question": "What is DNA fingerprinting?",
+    "answer": "Identifying individuals by DNA patterns."
+}

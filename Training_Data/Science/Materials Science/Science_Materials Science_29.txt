@@ -1,0 +1,4 @@
+{
+    "question": "Define toughness.",
+    "answer": "Ability to absorb energy before fracturing."
+}

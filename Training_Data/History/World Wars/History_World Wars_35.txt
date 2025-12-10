@@ -1,0 +1,4 @@
+{
+    "question": "Which battle ended Nazi advance into the USSR?",
+    "answer": "Battle of Stalingrad"
+}

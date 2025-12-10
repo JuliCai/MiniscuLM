@@ -1,0 +1,4 @@
+{
+    "question": "How did the Industrial Revolution spread?",
+    "answer": "Through Europe and America."
+}

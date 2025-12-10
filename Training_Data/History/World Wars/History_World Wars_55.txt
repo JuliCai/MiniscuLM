@@ -1,0 +1,4 @@
+{
+    "question": "Name the pact between Germany and USSR in 1939.",
+    "answer": "Molotov-Ribbentrop Pact"
+}

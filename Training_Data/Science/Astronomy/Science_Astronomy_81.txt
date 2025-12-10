@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for a star system with more than two stars?",
+    "answer": "Multiple star system."
+}

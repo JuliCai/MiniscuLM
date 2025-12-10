@@ -1,0 +1,4 @@
+{
+    "question": "What is DNS?",
+    "answer": "Domain Name System."
+}

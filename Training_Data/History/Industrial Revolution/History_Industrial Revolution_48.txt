@@ -1,0 +1,4 @@
+{
+    "question": "When did the Second Industrial Revolution occur?",
+    "answer": "Late 19th century."
+}

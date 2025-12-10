@@ -1,0 +1,4 @@
+{
+    "question": "How did the Industrial Revolution affect labor?",
+    "answer": "Increase in factory jobs."
+}

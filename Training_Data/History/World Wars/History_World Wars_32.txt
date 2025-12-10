@@ -1,0 +1,4 @@
+{
+    "question": "What was the main type of warfare in WWI?",
+    "answer": "Trench warfare"
+}

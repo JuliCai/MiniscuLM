@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of wetlands?",
+    "answer": "Support biodiversity and filter pollutants."
+}

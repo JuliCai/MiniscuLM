@@ -1,0 +1,4 @@
+{
+    "question": "What does the term 'albedo' mean?",
+    "answer": "Reflectivity of Earth's surface."
+}

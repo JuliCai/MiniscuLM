@@ -1,0 +1,4 @@
+{
+    "question": "What is smog?",
+    "answer": "Air pollution mixture causing haze."
+}

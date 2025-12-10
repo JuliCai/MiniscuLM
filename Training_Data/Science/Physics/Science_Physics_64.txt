@@ -1,0 +1,4 @@
+{
+    "question": "What is wave-particle duality?",
+    "answer": "Light and matter exhibit wave and particle properties."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of clouds in weather?",
+    "answer": "Influence temperature and precipitation."
+}

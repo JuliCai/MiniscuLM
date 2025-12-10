@@ -1,0 +1,4 @@
+{
+    "question": "What is the typical wind direction in mid-latitudes?",
+    "answer": "From west to east."
+}

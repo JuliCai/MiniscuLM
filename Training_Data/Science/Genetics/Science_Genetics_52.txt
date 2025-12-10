@@ -1,0 +1,4 @@
+{
+    "question": "Define genetic counseling.",
+    "answer": "Advising on genetic disease risks."
+}

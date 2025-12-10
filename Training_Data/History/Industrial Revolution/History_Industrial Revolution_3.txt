@@ -1,0 +1,4 @@
+{
+    "question": "Who invented the spinning jenny?",
+    "answer": "James Hargreaves."
+}

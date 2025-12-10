@@ -1,0 +1,4 @@
+{
+    "question": "What was 'Blitzkrieg'?",
+    "answer": "Lightning-fast warfare strategy"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes volcanoes to erupt?",
+    "answer": "Pressure from molten magma."
+}

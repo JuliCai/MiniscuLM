@@ -1,0 +1,4 @@
+{
+    "question": "What was the purpose of the League of Nations?",
+    "answer": "Prevent future wars"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define sex-linked trait.",
+    "answer": "Trait linked to sex chromosome."
+}

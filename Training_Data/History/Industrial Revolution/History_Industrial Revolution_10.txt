@@ -1,0 +1,4 @@
+{
+    "question": "What invention improved cotton processing?",
+    "answer": "The cotton gin."
+}

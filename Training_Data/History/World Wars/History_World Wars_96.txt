@@ -1,0 +1,4 @@
+{
+    "question": "Name the treaty that led Germany to pay reparations.",
+    "answer": "Treaty of Versailles"
+}

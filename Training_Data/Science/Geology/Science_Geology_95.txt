@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between felsic and mafic magma?",
+    "answer": "Felsic is viscous; mafic is fluid."
+}

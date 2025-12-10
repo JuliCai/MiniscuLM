@@ -1,0 +1,4 @@
+{
+    "question": "What is an oncogene?",
+    "answer": "Gene causing cancer when mutated."
+}

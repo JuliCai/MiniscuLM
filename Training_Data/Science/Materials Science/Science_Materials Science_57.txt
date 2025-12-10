@@ -1,0 +1,4 @@
+{
+    "question": "What is a superalloy?",
+    "answer": "Alloy designed for high-temperature strength."
+}

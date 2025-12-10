@@ -1,0 +1,4 @@
+{
+    "question": "What is the chemical formula of ozone?",
+    "answer": "O3"
+}

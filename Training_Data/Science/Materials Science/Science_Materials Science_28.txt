@@ -1,0 +1,4 @@
+{
+    "question": "What is a brittle material?",
+    "answer": "Material that fractures without significant deformation."
+}

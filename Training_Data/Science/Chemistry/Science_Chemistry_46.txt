@@ -1,0 +1,4 @@
+{
+    "question": "What is the oxidation state of oxygen usually?",
+    "answer": "-2"
+}

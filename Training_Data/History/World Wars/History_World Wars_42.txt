@@ -1,0 +1,4 @@
+{
+    "question": "What event marked the beginning of WWII?",
+    "answer": "Invasion of Poland"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a pollutant harmful to humans.",
+    "answer": "Lead."
+}

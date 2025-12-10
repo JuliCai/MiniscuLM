@@ -1,0 +1,4 @@
+{
+    "question": "Which civilization built the city of Knossos?",
+    "answer": "Minoans."
+}

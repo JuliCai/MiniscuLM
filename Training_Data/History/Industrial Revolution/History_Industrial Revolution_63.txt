@@ -1,0 +1,4 @@
+{
+    "question": "What is a 'proletariat'?",
+    "answer": "The working class."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was a typical factory condition?",
+    "answer": "Poor ventilation and light."
+}

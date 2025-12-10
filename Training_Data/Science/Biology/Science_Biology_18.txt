@@ -1,0 +1,4 @@
+{
+    "question": "Name the smallest bone in the human body.",
+    "answer": "Stapes"
+}

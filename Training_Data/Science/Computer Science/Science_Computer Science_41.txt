@@ -1,0 +1,4 @@
+{
+    "question": "What is a thread?",
+    "answer": "Smallest sequence of programmed instructions."
+}

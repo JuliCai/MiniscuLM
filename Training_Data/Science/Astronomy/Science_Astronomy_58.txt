@@ -1,0 +1,4 @@
+{
+    "question": "What is the approximate radius of Earth?",
+    "answer": "About 6,371 kilometers."
+}

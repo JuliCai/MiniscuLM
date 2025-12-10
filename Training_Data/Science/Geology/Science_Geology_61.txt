@@ -1,0 +1,4 @@
+{
+    "question": "What is a cross-bedding?",
+    "answer": "Sedimentary layer angled within horizontal beds."
+}

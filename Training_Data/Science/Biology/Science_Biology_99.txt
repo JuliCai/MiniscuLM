@@ -1,0 +1,4 @@
+{
+    "question": "Which part of a plant cell provides structure?",
+    "answer": "Cell wall"
+}

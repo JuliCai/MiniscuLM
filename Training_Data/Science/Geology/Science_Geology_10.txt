@@ -1,0 +1,4 @@
+{
+    "question": "What is the Mohs scale?",
+    "answer": "Measures mineral hardness."
+}

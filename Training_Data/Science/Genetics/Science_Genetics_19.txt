@@ -1,0 +1,4 @@
+{
+    "question": "What is a pedigree chart?",
+    "answer": "Diagram showing family genetic traits."
+}

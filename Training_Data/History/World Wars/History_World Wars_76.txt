@@ -1,0 +1,4 @@
+{
+    "question": "What was the main outcome of the Treaty of Versailles?",
+    "answer": "Punished Germany harshly"
+}

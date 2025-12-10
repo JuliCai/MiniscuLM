@@ -1,0 +1,4 @@
+{
+    "question": "What causes the Northern Lights?",
+    "answer": "Solar wind interacting with atmosphere."
+}

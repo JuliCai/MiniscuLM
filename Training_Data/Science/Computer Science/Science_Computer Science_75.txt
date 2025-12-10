@@ -1,0 +1,4 @@
+{
+    "question": "What is multithreading?",
+    "answer": "Multiple threads running concurrently."
+}

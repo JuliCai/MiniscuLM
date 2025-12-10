@@ -1,0 +1,4 @@
+{
+    "question": "Who was the commander of German forces in Africa?",
+    "answer": "Erwin Rommel"
+}

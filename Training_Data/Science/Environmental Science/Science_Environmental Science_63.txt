@@ -1,0 +1,4 @@
+{
+    "question": "What is a renewable energy advantage?",
+    "answer": "Less pollution and sustainable supply."
+}

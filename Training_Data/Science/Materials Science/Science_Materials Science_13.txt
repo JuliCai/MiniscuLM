@@ -1,0 +1,4 @@
+{
+    "question": "Name a biodegradable polymer.",
+    "answer": "Polylactic acid (PLA) is biodegradable."
+}

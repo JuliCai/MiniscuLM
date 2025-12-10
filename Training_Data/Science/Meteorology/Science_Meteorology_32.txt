@@ -1,0 +1,4 @@
+{
+    "question": "How does humidity affect comfort?",
+    "answer": "High humidity feels hotter."
+}

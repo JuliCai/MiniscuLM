@@ -1,0 +1,4 @@
+{
+    "question": "What is a hurricane?",
+    "answer": "A strong tropical cyclone with heavy winds."
+}

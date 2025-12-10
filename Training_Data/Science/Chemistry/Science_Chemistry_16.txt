@@ -1,0 +1,4 @@
+{
+    "question": "What type of reaction releases energy?",
+    "answer": "Exothermic"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact on art?",
+    "answer": "Inspired realism and industrial themes."
+}

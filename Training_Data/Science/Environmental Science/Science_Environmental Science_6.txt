@@ -1,0 +1,4 @@
+{
+    "question": "Define renewable energy.",
+    "answer": "Energy from sources that replenish naturally."
+}

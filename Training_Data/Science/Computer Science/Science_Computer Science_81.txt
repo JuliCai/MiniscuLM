@@ -1,0 +1,4 @@
+{
+    "question": "What is a compiler optimization?",
+    "answer": "Improving code performance."
+}

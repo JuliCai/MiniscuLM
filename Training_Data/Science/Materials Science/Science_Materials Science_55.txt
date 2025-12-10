@@ -1,0 +1,4 @@
+{
+    "question": "Define hardness testing.",
+    "answer": "Measuring resistance to indentation."
+}

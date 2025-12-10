@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the closest star system to Earth?",
+    "answer": "Alpha Centauri."
+}

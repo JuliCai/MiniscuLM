@@ -1,0 +1,4 @@
+{
+    "question": "Define Young's modulus formula.",
+    "answer": "Stress divided by strain."
+}

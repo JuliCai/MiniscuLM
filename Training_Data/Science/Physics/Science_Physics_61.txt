@@ -1,0 +1,4 @@
+{
+    "question": "What is a thermodynamic system?",
+    "answer": "Part of universe under study."
+}

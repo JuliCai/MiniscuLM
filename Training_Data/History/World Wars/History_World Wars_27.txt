@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of the Zimmerman Telegram?",
+    "answer": "Pushed US into WWI"
+}

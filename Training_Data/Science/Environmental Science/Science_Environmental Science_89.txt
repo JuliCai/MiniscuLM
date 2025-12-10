@@ -1,0 +1,4 @@
+{
+    "question": "What is a sustainable city?",
+    "answer": "City designed to reduce environmental impact."
+}

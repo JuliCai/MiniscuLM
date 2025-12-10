@@ -1,0 +1,4 @@
+{
+    "question": "What is basalt?",
+    "answer": "A common volcanic igneous rock."
+}

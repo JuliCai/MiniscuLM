@@ -1,0 +1,4 @@
+{
+    "question": "Which ancient empire was ruled by Hammurabi?",
+    "answer": "Babylonian Empire."
+}

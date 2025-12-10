@@ -1,0 +1,4 @@
+{
+    "question": "What is a centromere?",
+    "answer": "Chromosome region joining sister chromatids."
+}

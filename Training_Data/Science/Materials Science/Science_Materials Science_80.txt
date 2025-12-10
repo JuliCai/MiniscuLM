@@ -1,0 +1,4 @@
+{
+    "question": "What does malleability mean?",
+    "answer": "Ability to deform under compressive stress."
+}

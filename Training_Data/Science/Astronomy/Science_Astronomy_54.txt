@@ -1,0 +1,4 @@
+{
+    "question": "What is a binary star system?",
+    "answer": "Two stars orbiting each other."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between magma and lava?",
+    "answer": "Magma underground; lava above ground."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a tumor suppressor gene?",
+    "answer": "Gene preventing uncontrolled cell growth."
+}

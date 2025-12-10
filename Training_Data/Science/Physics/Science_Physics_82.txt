@@ -1,0 +1,4 @@
+{
+    "question": "What is the photoelectric threshold frequency?",
+    "answer": "Minimum frequency to emit electrons."
+}

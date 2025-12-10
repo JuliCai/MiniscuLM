@@ -1,0 +1,4 @@
+{
+    "question": "What is an intron?",
+    "answer": "Non-coding DNA segment in genes."
+}

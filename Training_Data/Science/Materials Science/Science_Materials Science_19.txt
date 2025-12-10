@@ -1,0 +1,4 @@
+{
+    "question": "Define elasticity.",
+    "answer": "Ability to return to original shape after deformation."
+}

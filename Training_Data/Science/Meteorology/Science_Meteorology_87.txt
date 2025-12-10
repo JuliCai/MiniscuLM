@@ -1,0 +1,4 @@
+{
+    "question": "What is a halo around the sun?",
+    "answer": "Light refracted by ice crystals."
+}

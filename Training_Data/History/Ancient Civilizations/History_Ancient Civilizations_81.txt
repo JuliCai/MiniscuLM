@@ -1,0 +1,4 @@
+{
+    "question": "What was the name of the ancient Egyptian writing?",
+    "answer": "Hieroglyphics."
+}

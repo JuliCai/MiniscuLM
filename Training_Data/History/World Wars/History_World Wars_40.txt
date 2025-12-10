@@ -1,0 +1,4 @@
+{
+    "question": "Who commanded the Allied forces in the Pacific?",
+    "answer": "Douglas MacArthur"
+}

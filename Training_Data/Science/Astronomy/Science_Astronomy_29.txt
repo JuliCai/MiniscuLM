@@ -1,0 +1,4 @@
+{
+    "question": "What is a pulsar?",
+    "answer": "A rotating neutron star emitting beams of radiation."
+}

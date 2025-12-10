@@ -1,0 +1,4 @@
+{
+    "question": "What is the Planck constant?",
+    "answer": "Quantum of action in quantum mechanics."
+}

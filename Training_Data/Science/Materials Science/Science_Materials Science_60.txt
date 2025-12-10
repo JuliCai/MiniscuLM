@@ -1,0 +1,4 @@
+{
+    "question": "What is fatigue life?",
+    "answer": "Number of cycles before failure."
+}

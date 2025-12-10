@@ -1,0 +1,4 @@
+{
+    "question": "What is the main function of the large intestine?",
+    "answer": "Absorb water"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic code?",
+    "answer": "Rules for translating DNA to proteins."
+}

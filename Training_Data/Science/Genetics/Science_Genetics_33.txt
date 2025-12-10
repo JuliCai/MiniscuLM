@@ -1,0 +1,4 @@
+{
+    "question": "What is an autosome?",
+    "answer": "Non-sex chromosome."
+}

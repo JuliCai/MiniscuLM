@@ -1,0 +1,4 @@
+{
+    "question": "Which planet has the shortest day?",
+    "answer": "Jupiter."
+}

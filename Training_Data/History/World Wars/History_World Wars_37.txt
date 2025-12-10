@@ -1,0 +1,4 @@
+{
+    "question": "Who was the US President at WWII's end?",
+    "answer": "Harry S. Truman"
+}

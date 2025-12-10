@@ -1,0 +1,4 @@
+{
+    "question": "What was the significance of electricity?",
+    "answer": "Powering machines and lighting."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What causes tides on Earth?",
+    "answer": "Gravitational pull of the Moon and Sun."
+}

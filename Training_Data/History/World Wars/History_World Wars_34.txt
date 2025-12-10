@@ -1,0 +1,4 @@
+{
+    "question": "What was the main theater of war in WWII for Japan?",
+    "answer": "Pacific Theater"
+}

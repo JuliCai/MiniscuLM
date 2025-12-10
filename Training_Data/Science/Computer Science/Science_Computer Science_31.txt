@@ -1,0 +1,4 @@
+{
+    "question": "What is a protocol?",
+    "answer": "Set of communication rules."
+}

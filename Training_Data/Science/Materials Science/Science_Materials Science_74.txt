@@ -1,0 +1,4 @@
+{
+    "question": "What is a phase boundary?",
+    "answer": "Interface between different phases."
+}

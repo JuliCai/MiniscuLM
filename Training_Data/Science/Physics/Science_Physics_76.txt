@@ -1,0 +1,4 @@
+{
+    "question": "What is a scalar field?",
+    "answer": "Field with magnitude only, no direction."
+}

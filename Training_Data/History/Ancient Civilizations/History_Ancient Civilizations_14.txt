@@ -1,0 +1,4 @@
+{
+    "question": "What structure is the Parthenon?",
+    "answer": "A temple in Athens."
+}

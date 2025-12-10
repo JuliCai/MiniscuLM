@@ -1,0 +1,4 @@
+{
+    "question": "What is the formula for methane?",
+    "answer": "CH4"
+}

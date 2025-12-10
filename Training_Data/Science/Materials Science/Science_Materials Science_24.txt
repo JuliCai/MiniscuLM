@@ -1,0 +1,4 @@
+{
+    "question": "What determines electrical conductivity?",
+    "answer": "Free electron density and mobility."
+}

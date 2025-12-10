@@ -1,0 +1,4 @@
+{
+    "question": "What is angular velocity?",
+    "answer": "Rate of change of angular displacement."
+}

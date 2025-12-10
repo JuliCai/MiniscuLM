@@ -1,0 +1,4 @@
+{
+    "question": "Explain thermal expansion.",
+    "answer": "Increase in material size with temperature rise."
+}

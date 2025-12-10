@@ -1,0 +1,4 @@
+{
+    "question": "Explain queue data structure.",
+    "answer": "FIFO data organization."
+}

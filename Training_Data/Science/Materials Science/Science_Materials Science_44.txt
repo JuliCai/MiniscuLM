@@ -1,0 +1,4 @@
+{
+    "question": "What is an elastomer?",
+    "answer": "Polymer with elastic properties."
+}

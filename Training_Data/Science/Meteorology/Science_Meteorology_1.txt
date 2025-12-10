@@ -1,0 +1,4 @@
+{
+    "question": "Define meteorology.",
+    "answer": "Study of atmosphere and weather patterns."
+}

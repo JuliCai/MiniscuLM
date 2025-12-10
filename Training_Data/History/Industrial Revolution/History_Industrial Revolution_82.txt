@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact on gender roles?",
+    "answer": "Women entered workforce."
+}

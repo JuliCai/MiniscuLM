@@ -1,0 +1,4 @@
+{
+    "question": "What is a quasar?",
+    "answer": "Extremely bright active galactic nucleus."
+}

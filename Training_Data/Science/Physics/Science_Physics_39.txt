@@ -1,0 +1,4 @@
+{
+    "question": "What is the Pauli exclusion principle?",
+    "answer": "No two electrons have identical quantum states."
+}

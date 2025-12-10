@@ -1,0 +1,4 @@
+{
+    "question": "What is DNA?",
+    "answer": "DNA is the molecule carrying genetic instructions."
+}

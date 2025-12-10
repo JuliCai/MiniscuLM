@@ -1,0 +1,4 @@
+{
+    "question": "What is a stratus cloud?",
+    "answer": "Low, flat cloud layer."
+}

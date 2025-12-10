@@ -1,0 +1,4 @@
+{
+    "question": "What causes tides on Earth?",
+    "answer": "The Moon's gravity."
+}

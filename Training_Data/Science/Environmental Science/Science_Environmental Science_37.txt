@@ -1,0 +1,4 @@
+{
+    "question": "Why is biodiversity important?",
+    "answer": "Maintains ecosystem stability and resilience."
+}

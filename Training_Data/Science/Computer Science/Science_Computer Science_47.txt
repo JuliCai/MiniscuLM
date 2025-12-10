@@ -1,0 +1,4 @@
+{
+    "question": "What is pseudocode?",
+    "answer": "Simplified code description."
+}

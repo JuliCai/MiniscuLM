@@ -1,0 +1,4 @@
+{
+    "question": "What is eutrophication?",
+    "answer": "Excess nutrients cause algae growth in water."
+}

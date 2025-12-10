@@ -1,0 +1,4 @@
+{
+    "question": "What is a cold front?",
+    "answer": "Boundary where cold air displaces warm air."
+}

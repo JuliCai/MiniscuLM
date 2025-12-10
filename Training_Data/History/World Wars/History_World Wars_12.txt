@@ -1,0 +1,4 @@
+{
+    "question": "Name the alliance opposing the Axis in WWII.",
+    "answer": "Allies"
+}

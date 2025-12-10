@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a weather vane?",
+    "answer": "Shows wind direction."
+}

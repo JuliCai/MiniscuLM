@@ -1,0 +1,4 @@
+{
+    "question": "What is a cumulonimbus cloud known for?",
+    "answer": "Thunderstorms and heavy rain."
+}

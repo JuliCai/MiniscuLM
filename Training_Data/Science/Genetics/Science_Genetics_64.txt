@@ -1,0 +1,4 @@
+{
+    "question": "What is an operon?",
+    "answer": "Gene cluster regulated together."
+}

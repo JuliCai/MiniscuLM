@@ -1,0 +1,4 @@
+{
+    "question": "Name the process where DNA is copied.",
+    "answer": "Replication"
+}

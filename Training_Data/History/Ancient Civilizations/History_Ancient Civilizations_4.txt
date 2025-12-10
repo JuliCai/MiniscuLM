@@ -1,0 +1,4 @@
+{
+    "question": "What was the main material for tools in the Stone Age?",
+    "answer": "Stone."
+}

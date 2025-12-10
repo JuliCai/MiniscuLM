@@ -1,0 +1,4 @@
+{
+    "question": "What is a magnetic field?",
+    "answer": "Region around a magnet where force acts."
+}

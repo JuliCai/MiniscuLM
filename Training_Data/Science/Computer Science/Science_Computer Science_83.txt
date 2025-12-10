@@ -1,0 +1,4 @@
+{
+    "question": "What is a socket?",
+    "answer": "Endpoint for network communication."
+}

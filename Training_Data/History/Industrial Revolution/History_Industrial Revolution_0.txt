@@ -1,0 +1,4 @@
+{
+    "question": "When did the Industrial Revolution begin?",
+    "answer": "Around 1760 in Britain."
+}

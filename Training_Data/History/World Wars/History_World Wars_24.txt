@@ -1,0 +1,4 @@
+{
+    "question": "Name the British monarch during WWI.",
+    "answer": "King George V"
+}

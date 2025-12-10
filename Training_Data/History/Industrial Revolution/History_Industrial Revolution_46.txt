@@ -1,0 +1,4 @@
+{
+    "question": "What is mechanization?",
+    "answer": "Using machines for work."
+}

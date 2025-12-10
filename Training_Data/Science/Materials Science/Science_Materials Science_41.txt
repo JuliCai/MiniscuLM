@@ -1,0 +1,4 @@
+{
+    "question": "Name a high-temperature superconductor.",
+    "answer": "Yttrium barium copper oxide (YBCO)."
+}

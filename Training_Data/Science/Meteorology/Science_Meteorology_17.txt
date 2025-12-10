@@ -1,0 +1,4 @@
+{
+    "question": "What is El Ni\u00f1o?",
+    "answer": "Warm Pacific Ocean current affecting climate."
+}

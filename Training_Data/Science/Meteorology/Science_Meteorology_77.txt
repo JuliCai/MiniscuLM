@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between drizzle and rain?",
+    "answer": "Drizzle has smaller droplets than rain."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Explain ductility.",
+    "answer": "Ductility is a material's ability to deform plastically."
+}

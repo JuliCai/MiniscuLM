@@ -1,0 +1,4 @@
+{
+    "question": "What does ozone layer protect us from?",
+    "answer": "Harmful ultraviolet rays from the sun."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a scalar quantity?",
+    "answer": "Quantity with magnitude only."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Which energy source replaced water power?",
+    "answer": "Coal."
+}

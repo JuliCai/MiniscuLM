@@ -1,0 +1,4 @@
+{
+    "question": "What is a terminator?",
+    "answer": "DNA sequence ending transcription."
+}

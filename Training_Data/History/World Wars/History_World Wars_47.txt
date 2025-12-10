@@ -1,0 +1,4 @@
+{
+    "question": "What year did the US join WWII?",
+    "answer": "1941"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the closest star to Earth?",
+    "answer": "The Sun."
+}

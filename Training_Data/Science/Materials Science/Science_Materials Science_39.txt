@@ -1,0 +1,4 @@
+{
+    "question": "What causes work hardening?",
+    "answer": "Dislocation density increase during deformation."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between sleet and freezing rain?",
+    "answer": "Sleet freezes before ground; freezing rain after."
+}

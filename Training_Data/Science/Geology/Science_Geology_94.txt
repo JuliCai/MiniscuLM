@@ -1,0 +1,4 @@
+{
+    "question": "What is a geochemical cycle?",
+    "answer": "Movement of chemicals through Earth systems."
+}

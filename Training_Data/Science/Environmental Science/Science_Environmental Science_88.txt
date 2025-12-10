@@ -1,0 +1,4 @@
+{
+    "question": "Define energy conservation.",
+    "answer": "Reducing energy use to save resources."
+}

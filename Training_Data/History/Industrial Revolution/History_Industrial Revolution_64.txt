@@ -1,0 +1,4 @@
+{
+    "question": "What was the impact on rural areas?",
+    "answer": "Population decline."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define genetic recombination.",
+    "answer": "Exchange of DNA during meiosis."
+}

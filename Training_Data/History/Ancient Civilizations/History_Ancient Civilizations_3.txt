@@ -1,0 +1,4 @@
+{
+    "question": "Which civilization created the first democracy?",
+    "answer": "Ancient Athens, Greece."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is an earthquake's epicenter?",
+    "answer": "Point on surface above the focus."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What does LED lighting save?",
+    "answer": "Energy compared to incandescent bulbs."
+}

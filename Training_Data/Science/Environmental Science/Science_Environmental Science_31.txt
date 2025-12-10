@@ -1,0 +1,4 @@
+{
+    "question": "Define ecological footprint.",
+    "answer": "Measure of human demand on nature."
+}

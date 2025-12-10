@@ -1,0 +1,4 @@
+{
+    "question": "What is a climatologist?",
+    "answer": "Scientist studying long-term climate."
+}

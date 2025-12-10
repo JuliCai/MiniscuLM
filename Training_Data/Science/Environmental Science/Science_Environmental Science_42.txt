@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of deforestation?",
+    "answer": "Logging and land clearing."
+}

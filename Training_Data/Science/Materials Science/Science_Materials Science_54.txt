@@ -1,0 +1,4 @@
+{
+    "question": "What is a lattice parameter?",
+    "answer": "Unit cell dimension in a crystal lattice."
+}

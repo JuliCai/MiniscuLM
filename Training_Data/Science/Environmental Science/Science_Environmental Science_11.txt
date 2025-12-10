@@ -1,0 +1,4 @@
+{
+    "question": "Define carbon footprint.",
+    "answer": "Total greenhouse gases emitted by a person or activity."
+}

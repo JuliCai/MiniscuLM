@@ -1,0 +1,4 @@
+{
+    "question": "What is a genetic mutation's effect?",
+    "answer": "Alters protein function or expression."
+}

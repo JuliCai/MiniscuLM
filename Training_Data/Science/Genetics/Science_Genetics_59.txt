@@ -1,0 +1,4 @@
+{
+    "question": "What are codominant alleles?",
+    "answer": "Both alleles expressed equally."
+}

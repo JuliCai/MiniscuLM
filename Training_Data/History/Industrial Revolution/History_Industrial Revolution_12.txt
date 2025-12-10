@@ -1,0 +1,4 @@
+{
+    "question": "What was a common workplace during the Industrial Revolution?",
+    "answer": "Factories."
+}

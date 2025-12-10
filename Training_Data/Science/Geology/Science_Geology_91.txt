@@ -1,0 +1,4 @@
+{
+    "question": "What is the difference between weathering and erosion?",
+    "answer": "Weathering breaks rock; erosion moves it."
+}

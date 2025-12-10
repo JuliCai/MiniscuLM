@@ -1,0 +1,4 @@
+{
+    "question": "What technological innovation improved mining?",
+    "answer": "Steam-powered pumps."
+}

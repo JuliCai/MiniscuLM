@@ -1,0 +1,4 @@
+{
+    "question": "Which countries made up the Allies in WWI?",
+    "answer": "Britain, France, Russia, later US"
+}

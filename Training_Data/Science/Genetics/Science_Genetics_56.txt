@@ -1,0 +1,4 @@
+{
+    "question": "What is a gene pool?",
+    "answer": "All genes in a population."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What was the main trade good in ancient Ghana?",
+    "answer": "Gold."
+}

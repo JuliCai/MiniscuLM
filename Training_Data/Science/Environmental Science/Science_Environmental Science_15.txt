@@ -1,0 +1,4 @@
+{
+    "question": "What does sustainable development mean?",
+    "answer": "Meeting present needs without harming future."
+}

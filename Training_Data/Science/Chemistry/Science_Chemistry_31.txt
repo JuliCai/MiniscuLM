@@ -1,0 +1,4 @@
+{
+    "question": "Which group in periodic table contains noble gases?",
+    "answer": "Group 18"
+}

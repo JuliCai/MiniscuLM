@@ -1,0 +1,4 @@
+{
+    "question": "Define geode.",
+    "answer": "Rock with crystal-filled cavity."
+}

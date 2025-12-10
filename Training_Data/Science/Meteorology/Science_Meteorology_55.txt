@@ -1,0 +1,4 @@
+{
+    "question": "What is the primary cause of sea breezes?",
+    "answer": "Differential heating between land and sea."
+}

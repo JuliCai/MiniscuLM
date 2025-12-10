@@ -1,0 +1,4 @@
+{
+    "question": "Why did factories locate near coal mines?",
+    "answer": "Energy accessibility."
+}

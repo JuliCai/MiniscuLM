@@ -1,0 +1,4 @@
+{
+    "question": "Define power in physics.",
+    "answer": "Work done per unit time."
+}

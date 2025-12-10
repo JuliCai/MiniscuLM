@@ -1,0 +1,4 @@
+{
+    "question": "What does a red shift in light indicate?",
+    "answer": "Object is moving away."
+}

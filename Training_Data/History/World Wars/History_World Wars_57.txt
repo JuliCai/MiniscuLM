@@ -1,0 +1,4 @@
+{
+    "question": "Who was the leader of Vichy France?",
+    "answer": "Philippe P\u00e9tain"
+}

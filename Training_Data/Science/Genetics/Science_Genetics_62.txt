@@ -1,0 +1,4 @@
+{
+    "question": "What is hybrid vigor?",
+    "answer": "Increased fitness in hybrids."
+}

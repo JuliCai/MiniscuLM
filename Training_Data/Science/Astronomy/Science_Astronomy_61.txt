@@ -1,0 +1,4 @@
+{
+    "question": "What is the main cause of sunspots?",
+    "answer": "Magnetic activity on the Sun."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the principle of superposition?",
+    "answer": "Sum of effects equals total effect."
+}

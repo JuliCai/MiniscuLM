@@ -1,0 +1,4 @@
+{
+    "question": "What is a scalar product?",
+    "answer": "Dot product of two vectors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who benefited most economically?",
+    "answer": "Factory owners and investors."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the Curie temperature?",
+    "answer": "Temperature at which ferromagnetism is lost."
+}

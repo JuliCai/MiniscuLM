@@ -1,0 +1,4 @@
+{
+    "question": "Which part of DNA pairs with adenine?",
+    "answer": "Thymine"
+}

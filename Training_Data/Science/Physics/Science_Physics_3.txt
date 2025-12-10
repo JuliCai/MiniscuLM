@@ -1,0 +1,4 @@
+{
+    "question": "State the law of conservation of energy.",
+    "answer": "Energy cannot be created or destroyed."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the name of the closest galaxy to the Milky Way?",
+    "answer": "Andromeda."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "How does urbanization affect environment?",
+    "answer": "Increases pollution and habitat loss."
+}

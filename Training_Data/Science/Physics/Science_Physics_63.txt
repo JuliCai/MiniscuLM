@@ -1,0 +1,4 @@
+{
+    "question": "What is the function of a lens?",
+    "answer": "Focus or diverge light rays."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Name a shape-memory alloy.",
+    "answer": "Nitinol exhibits shape-memory effect."
+}

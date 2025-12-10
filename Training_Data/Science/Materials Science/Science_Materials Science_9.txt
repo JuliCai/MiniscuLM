@@ -1,0 +1,4 @@
+{
+    "question": "Define fatigue in materials science.",
+    "answer": "Failure due to repeated stress cycles."
+}

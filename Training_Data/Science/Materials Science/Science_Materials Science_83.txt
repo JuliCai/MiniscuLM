@@ -1,0 +1,4 @@
+{
+    "question": "What is fracture toughness?",
+    "answer": "Ability to resist crack propagation."
+}

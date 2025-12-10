@@ -1,0 +1,4 @@
+{
+    "question": "What is Young's modulus of steel?",
+    "answer": "About 200 GPa."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define firewall.",
+    "answer": "Security barrier in networks."
+}

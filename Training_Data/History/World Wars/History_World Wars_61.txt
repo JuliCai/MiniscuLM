@@ -1,0 +1,4 @@
+{
+    "question": "What was the 'Final Solution'?",
+    "answer": "Nazi plan to exterminate Jews"
+}

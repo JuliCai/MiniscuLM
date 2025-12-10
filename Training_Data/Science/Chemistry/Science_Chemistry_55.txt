@@ -1,0 +1,4 @@
+{
+    "question": "What element is used in pencils?",
+    "answer": "Carbon (graphite)"
+}

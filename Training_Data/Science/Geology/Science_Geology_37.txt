@@ -1,0 +1,4 @@
+{
+    "question": "Name two types of weathering.",
+    "answer": "Mechanical and chemical."
+}

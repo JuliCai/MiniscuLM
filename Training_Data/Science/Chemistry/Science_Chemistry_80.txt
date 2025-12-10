@@ -1,0 +1,4 @@
+{
+    "question": "What are isotopes?",
+    "answer": "Atoms with same protons, different neutrons"
+}

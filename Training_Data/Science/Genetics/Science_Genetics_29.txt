@@ -1,0 +1,4 @@
+{
+    "question": "What is gene therapy?",
+    "answer": "Treating diseases by modifying genes."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Define electronegativity.",
+    "answer": "Atom's ability to attract electrons"
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What phenomenon causes a rainbow?",
+    "answer": "Refraction and dispersion of light."
+}

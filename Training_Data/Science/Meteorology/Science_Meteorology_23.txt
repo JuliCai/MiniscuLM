@@ -1,0 +1,4 @@
+{
+    "question": "What is a weather radar used for?",
+    "answer": "Detecting precipitation and storms."
+}

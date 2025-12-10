@@ -1,0 +1,4 @@
+{
+    "question": "What is an interstitial alloy?",
+    "answer": "Alloy with small atoms in spaces between larger atoms."
+}

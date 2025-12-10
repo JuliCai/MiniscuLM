@@ -1,0 +1,4 @@
+{
+    "question": "What is nondisjunction?",
+    "answer": "Chromosome pairs fail to separate."
+}

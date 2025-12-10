@@ -1,0 +1,4 @@
+{
+    "question": "What is the chemical formula for table salt?",
+    "answer": "NaCl"
+}

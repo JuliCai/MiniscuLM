@@ -1,0 +1,4 @@
+{
+    "question": "What is a chromosome?",
+    "answer": "A chromosome is DNA packed with proteins."
+}

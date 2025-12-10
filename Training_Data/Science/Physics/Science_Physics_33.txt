@@ -1,0 +1,4 @@
+{
+    "question": "Define half-life.",
+    "answer": "Time for half of a radioactive sample to decay."
+}

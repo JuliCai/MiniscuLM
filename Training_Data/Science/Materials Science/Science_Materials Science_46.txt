@@ -1,0 +1,4 @@
+{
+    "question": "What is a semiconductor?",
+    "answer": "Material with conductivity between conductor and insulator."
+}

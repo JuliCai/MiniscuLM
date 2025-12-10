@@ -1,0 +1,4 @@
+{
+    "question": "Name a consequence of ozone depletion.",
+    "answer": "Increased skin cancer risk."
+}

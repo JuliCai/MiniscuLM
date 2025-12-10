@@ -1,0 +1,4 @@
+{
+    "question": "What is the term for animals that eat only plants?",
+    "answer": "Herbivores"
+}

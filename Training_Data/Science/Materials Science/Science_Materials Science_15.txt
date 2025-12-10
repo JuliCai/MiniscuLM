@@ -1,0 +1,4 @@
+{
+    "question": "What is annealing?",
+    "answer": "Heat treatment to reduce hardness and increase ductility."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is a smart material?",
+    "answer": "Material that responds to stimuli."
+}

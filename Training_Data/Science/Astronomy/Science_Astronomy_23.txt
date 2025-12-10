@@ -1,0 +1,4 @@
+{
+    "question": "What defines a dwarf planet?",
+    "answer": "Orbits Sun but not cleared its orbit."
+}

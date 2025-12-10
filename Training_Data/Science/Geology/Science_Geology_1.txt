@@ -1,0 +1,4 @@
+{
+    "question": "Define sedimentary rock.",
+    "answer": "Rock formed by sediment deposition."
+}

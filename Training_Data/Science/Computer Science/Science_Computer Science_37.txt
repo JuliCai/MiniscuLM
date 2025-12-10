@@ -1,0 +1,4 @@
+{
+    "question": "What is inheritance in OOP?",
+    "answer": "Deriving new classes from existing ones."
+}

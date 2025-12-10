@@ -1,0 +1,4 @@
+{
+    "question": "What is a mineral\u2019s cleavage?",
+    "answer": "How it breaks along planes."
+}

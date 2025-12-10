@@ -1,0 +1,4 @@
+{
+    "question": "What is a stress-strain curve?",
+    "answer": "Graph showing material deformation under load."
+}

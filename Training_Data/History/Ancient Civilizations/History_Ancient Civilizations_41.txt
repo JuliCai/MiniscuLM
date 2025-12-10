@@ -1,0 +1,4 @@
+{
+    "question": "Who was the Greek philosopher who taught Alexander the Great?",
+    "answer": "Aristotle."
+}

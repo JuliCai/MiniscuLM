@@ -1,0 +1,4 @@
+{
+    "question": "What was the Luddites' response to industrialization?",
+    "answer": "Destroyed machinery."
+}

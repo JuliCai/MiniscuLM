@@ -1,0 +1,4 @@
+{
+    "question": "What is the Beaufort scale?",
+    "answer": "Scale measuring wind speed."
+}

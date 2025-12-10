@@ -1,0 +1,4 @@
+{
+    "question": "What galaxy is Earth located in?",
+    "answer": "The Milky Way."
+}

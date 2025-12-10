@@ -1,0 +1,4 @@
+{
+    "question": "Which animal is known for regeneration?",
+    "answer": "Starfish"
+}

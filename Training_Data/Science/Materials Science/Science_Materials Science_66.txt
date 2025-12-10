@@ -1,0 +1,4 @@
+{
+    "question": "What is a grain size?",
+    "answer": "Average size of crystals in polycrystalline material."
+}

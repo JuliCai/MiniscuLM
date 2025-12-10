@@ -1,0 +1,4 @@
+{
+    "question": "What is a weather anomaly?",
+    "answer": "Unusual weather event or pattern."
+}

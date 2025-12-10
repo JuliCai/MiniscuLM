@@ -1,0 +1,4 @@
+{
+    "question": "What type of rock is granite?",
+    "answer": "Igneous rock."
+}

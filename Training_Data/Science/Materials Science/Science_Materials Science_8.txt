@@ -1,0 +1,4 @@
+{
+    "question": "What is creep in materials?",
+    "answer": "Slow deformation under constant stress over time."
+}

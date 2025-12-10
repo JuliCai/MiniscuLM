@@ -1,0 +1,4 @@
+{
+    "question": "What is the spinning mule?",
+    "answer": "A spinning machine for cotton."
+}
