@@ -175,6 +175,17 @@ Y_test_torch = torch.tensor(Y_test)
 test_dataset = TensorDataset(X_test_torch, Y_test_torch)
 test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
+# Custom Layers to avoid Lambda serialization issues
+@keras.saving.register_keras_serializable()
+class LastTokenLayer(keras.layers.Layer):
+    def call(self, x):
+        return x[:, -1, :]
+
+@keras.saving.register_keras_serializable()
+class NormalizationLayer(keras.layers.Layer):
+    def call(self, x):
+        return torch.nn.functional.normalize(x, p=2, dim=1)
+
 # Models
 def create_generator():
     # Input is flattened (BATCH, 64 * 36)
@@ -204,13 +215,13 @@ def create_generator():
     # Output Head
     # Take the LAST token's representation instead of averaging
     # This is crucial for next-token prediction
-    x = layers.Lambda(lambda x: x[:, -1, :], output_shape=(192,))(x)
+    x = LastTokenLayer()(x)
     
     # Project back to embedding dim
     outputs = layers.Dense(EMBEDDING_DIM)(x) 
     
     # Normalize output to unit length
-    outputs = layers.Lambda(lambda x: torch.nn.functional.normalize(x, p=2, dim=1), output_shape=(EMBEDDING_DIM,))(outputs)
+    outputs = NormalizationLayer()(outputs)
     
     model = keras.Model(inputs=inputs, outputs=outputs, name="generator")
     return model
@@ -241,17 +252,18 @@ generator(dummy_input)
 discriminator(torch.zeros((1, INPUT_DIM + EMBEDDING_DIM)))
 
 # Handle Multiple GPUs
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+# Move to device BEFORE DataParallel
+generator.to(device)
+discriminator.to(device)
+
 if torch.cuda.device_count() > 1:
     print(f"Using {torch.cuda.device_count()} GPUs!")
-    generator = torch.nn.DataParallel(generator)
-    discriminator = torch.nn.DataParallel(discriminator)
-    device = torch.device("cuda")
-    # Move to device
-    generator.to(device)
-    discriminator.to(device)
-else:
-    device = generator.trainable_variables[0].value.device
-    print(f"Model is on device: {device}")
+    # generator = torch.nn.DataParallel(generator)
+    # discriminator = torch.nn.DataParallel(discriminator)
+    print("DataParallel disabled temporarily to debug SegFault")
+
+print(f"Model is on device: {device}")
 
 def get_module(model):
     if isinstance(model, torch.nn.DataParallel):
@@ -369,7 +381,9 @@ for epoch in range(EPOCHS):
         grads = [v.value.grad for v in model_to_update.trainable_variables]
         gen_optimizer.apply(grads, model_to_update.trainable_variables)
         
-        progbar.add(1, values=[("adv_loss", loss.item())])        if torch.backends.mps.is_available():
+        progbar.add(1, values=[("adv_loss", loss.item())])
+        
+        if torch.backends.mps.is_available():
             torch.mps.empty_cache()
 
         

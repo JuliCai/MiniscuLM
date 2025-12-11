@@ -9,10 +9,21 @@ from sklearn.metrics.pairwise import cosine_similarity
 import torch
 
 # Configuration
-MODEL_FILE = "MiniscuLM-1-mini.keras"
+MODEL_FILE = "MiniscuLM-1-mini silu.keras"
 EMBEDDING_DIM = 35
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1)
+
+# Custom Layers (Must match train.py)
+@keras.saving.register_keras_serializable()
+class LastTokenLayer(keras.layers.Layer):
+    def call(self, x):
+        return x[:, -1, :]
+
+@keras.saving.register_keras_serializable()
+class NormalizationLayer(keras.layers.Layer):
+    def call(self, x):
+        return torch.nn.functional.normalize(x, p=2, dim=1)
 
 def softmax(x, temperature=1.0):
     e_x = np.exp((x - np.max(x)) / temperature)
@@ -39,7 +50,8 @@ def main():
     
     try:
         # safe_mode=False is required because we use a Lambda layer for normalization
-        model = keras.models.load_model(MODEL_FILE, safe_mode=False)
+        # We also need to pass custom objects if they weren't registered globally (but @register handles it usually)
+        model = keras.models.load_model(MODEL_FILE)
     except Exception as e:
         print(f"Error loading model: {e}")
         return
