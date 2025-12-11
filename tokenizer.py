@@ -266,6 +266,13 @@ def get_tokens_from_training_data():
         print(f"Saving to {output_file}...")
         with open(output_file, 'wb') as f:
             pickle.dump(token_instances, f)
+
+        # Save minified version (no full embeddings)
+        output_file_min = "tokenizer_min.pkl"
+        print(f"Saving minified to {output_file_min}...")
+        token_instances_min = [Token(t.text, t.embedding, full_embedding=None) for t in token_instances]
+        with open(output_file_min, 'wb') as f:
+            pickle.dump(token_instances_min, f)
             
         print("Tokenizer creation complete.")
 
@@ -280,15 +287,24 @@ def tokenize(text):
         if not hasattr(__main__, 'Token'):
             __main__.Token = Token
 
+        vocab = None
         try:
             with open("tokenizer.pkl", "rb") as f:
                 vocab = pickle.load(f)
-                tokenize.vocab_map = {t.text: t for t in vocab}
-                tokenize.vocab_map_lower = {t.text.lower(): t for t in vocab}
-                tokenize.max_token_len = max(len(t.text) for t in vocab)
         except FileNotFoundError:
+            try:
+                with open("tokenizer_min.pkl", "rb") as f:
+                    vocab = pickle.load(f)
+            except FileNotFoundError:
+                pass
+        
+        if vocab is None:
             print("Tokenizer not found. Please run get_tokens_from_training_data() first.")
             return []
+
+        tokenize.vocab_map = {t.text: t for t in vocab}
+        tokenize.vocab_map_lower = {t.text.lower(): t for t in vocab}
+        tokenize.max_token_len = max(len(t.text) for t in vocab)
 
     vocab_map = tokenize.vocab_map
     vocab_map_lower = tokenize.vocab_map_lower

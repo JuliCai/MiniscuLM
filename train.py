@@ -24,7 +24,7 @@ MODEL_FILE = "MiniscuLM-1-mini.keras"
 BATCH_SIZE = 32
 EPOCHS = 20
 EMBEDDING_DIM = 35
-CONTEXT_SIZE = 20
+CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 36 dimensions per token (35 embedding + 1 position)
 
 # Load Tokenizer and Embeddings
@@ -33,7 +33,7 @@ print("Loading tokenizer...")
 tokenize("test")
 
 if not hasattr(tokenize, "vocab_map"):
-    print("Error: Failed to load tokenizer. Make sure tokenizer.pkl exists.")
+    print("Error: Failed to load tokenizer. Make sure tokenizer.pkl or tokenizer_min.pkl exists.")
     exit(1)
 
 vocab = list(tokenize.vocab_map.values())
@@ -77,7 +77,7 @@ def load_training_data():
             a_tokens = tokenize(answer)
             
             # Initial Context
-            # last 19 items of question + user_end
+            # last 63 items of question + user_end
             context_embeddings = []
             
             # We need to track absolute positions
@@ -89,10 +89,9 @@ def load_training_data():
                 context_embeddings.append((t.embedding, current_pos))
                 current_pos += 1
                 
-            # Truncate to last 19 if needed, but keep the correct positions?
-            # The prompt implies we just take the last 19 tokens.
-            if len(context_embeddings) > 19:
-                context_embeddings = context_embeddings[-19:]
+            # Truncate to last 63 if needed
+            if len(context_embeddings) > (CONTEXT_SIZE - 1):
+                context_embeddings = context_embeddings[-(CONTEXT_SIZE - 1):]
             
             # Add user_end
             context_embeddings.append((user_end_embedding, current_pos))
@@ -101,19 +100,19 @@ def load_training_data():
             # Loop through answer tokens
             for t in a_tokens:
                 # Prepare Input
-                # Pad to 20
+                # Pad to CONTEXT_SIZE
                 current_input = []
-                if len(context_embeddings) < 20:
+                if len(context_embeddings) < CONTEXT_SIZE:
                     # Padding has position 0
-                    padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(20 - len(context_embeddings))]
+                    padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
                     
                     # Convert context to (36,) vectors
                     context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
                     
                     current_input = padding + context_vecs
                 else:
-                    # Take last 20
-                    window = context_embeddings[-20:]
+                    # Take last CONTEXT_SIZE
+                    window = context_embeddings[-CONTEXT_SIZE:]
                     current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
                 
                 # Flatten
@@ -124,17 +123,17 @@ def load_training_data():
                 # Update Context
                 context_embeddings.append((t.embedding, current_pos))
                 current_pos += 1
-                if len(context_embeddings) > 20:
+                if len(context_embeddings) > CONTEXT_SIZE:
                     context_embeddings.pop(0)
             
             # After loop: predict assistant_end
             current_input = []
-            if len(context_embeddings) < 20:
-                padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(20 - len(context_embeddings))]
+            if len(context_embeddings) < CONTEXT_SIZE:
+                padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
                 context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
                 current_input = padding + context_vecs
             else:
-                window = context_embeddings[-20:]
+                window = context_embeddings[-CONTEXT_SIZE:]
                 current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
             
             flat_input = np.concatenate(current_input)
@@ -178,28 +177,41 @@ test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
 # Models
 def create_generator():
-    # Input is flattened (BATCH, 720)
-    # We need to reshape to (BATCH, 20, 36)
+    # Input is flattened (BATCH, 64 * 36)
+    # We need to reshape to (BATCH, 64, 36)
     inputs = layers.Input(shape=(INPUT_DIM,))
     reshaped = layers.Reshape((CONTEXT_SIZE, EMBEDDING_DIM + 1))(inputs)
     
-    # Transformer Block
-    # Attention
-    # 36 dimensions. 4 heads = 9 dim per head.
-    att = layers.MultiHeadAttention(num_heads=4, key_dim=9)(reshaped, reshaped)
-    att = layers.Dropout(0.1)(att)
-    out1 = layers.LayerNormalization(epsilon=1e-6)(reshaped + att)
+    # Project to d_model = 192
+    x = layers.Dense(192, activation="silu")(reshaped)
     
-    # FFN
-    ffn = layers.Dense(128, activation="silu")(out1)
-    ffn = layers.Dense(EMBEDDING_DIM + 1)(ffn)
-    ffn = layers.Dropout(0.1)(ffn)
-    out2 = layers.LayerNormalization(epsilon=1e-6)(out1 + ffn)
+    # Convolutional Layer (capture local n-grams)
+    x = layers.Conv1D(filters=192, kernel_size=3, padding='same', activation='silu')(x)
+    x = layers.LayerNormalization(epsilon=1e-6)(x)
     
-    # Flatten and Output
-    x = layers.Flatten()(out2)
-    x = layers.Dense(256, activation="silu")(x)
-    outputs = layers.Dense(EMBEDDING_DIM)(x) # Output 35 (embedding only, no position)
+    # Transformer Blocks (6 layers)
+    for _ in range(6):
+        # Attention
+        # 192 dimensions. 6 heads = 32 dim per head.
+        att = layers.MultiHeadAttention(num_heads=6, key_dim=32)(x, x)
+        att = layers.Dropout(0.1)(att)
+        x = layers.LayerNormalization(epsilon=1e-6)(x + att)
+        
+        # FFN
+        ffn = layers.Dense(768, activation="silu")(x) # 4 * 192
+        ffn = layers.Dense(192)(ffn)
+        ffn = layers.Dropout(0.1)(ffn)
+        x = layers.LayerNormalization(epsilon=1e-6)(x + ffn)
+    
+    # Output Head
+    # Global Average Pooling to aggregate context
+    x = layers.GlobalAveragePooling1D()(x)
+    
+    # Project back to embedding dim
+    outputs = layers.Dense(EMBEDDING_DIM)(x) 
+    
+    # Normalize output to unit length
+    outputs = layers.Lambda(lambda x: torch.nn.functional.normalize(x, p=2, dim=1), output_shape=(EMBEDDING_DIM,))(outputs)
     
     model = keras.Model(inputs=inputs, outputs=outputs, name="generator")
     return model
@@ -237,7 +249,7 @@ def cosine_similarity_loss(y_true, y_pred):
     # y_true, y_pred are torch tensors
     y_true_norm = torch.nn.functional.normalize(y_true, p=2, dim=1)
     y_pred_norm = torch.nn.functional.normalize(y_pred, p=2, dim=1)
-    return -torch.mean(torch.sum(y_true_norm * y_pred_norm, dim=1))
+    return 1 - torch.mean(torch.sum(y_true_norm * y_pred_norm, dim=1))
 
 bce_loss = keras.losses.BinaryCrossentropy(from_logits=False)
 

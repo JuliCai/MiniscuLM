@@ -6,11 +6,12 @@ import numpy as np
 import keras
 from tokenizer import Token, tokenize
 from sklearn.metrics.pairwise import cosine_similarity
+import torch
 
 # Configuration
 MODEL_FILE = "MiniscuLM-1-mini.keras"
 EMBEDDING_DIM = 35
-CONTEXT_SIZE = 20
+CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1)
 
 def softmax(x, temperature=1.0):
@@ -37,7 +38,8 @@ def main():
         return
     
     try:
-        model = keras.models.load_model(MODEL_FILE)
+        # safe_mode=False is required because we use a Lambda layer for normalization
+        model = keras.models.load_model(MODEL_FILE, safe_mode=False)
     except Exception as e:
         print(f"Error loading model: {e}")
         return
@@ -47,7 +49,7 @@ def main():
     tokenize("test")
     
     if not hasattr(tokenize, "vocab_map"):
-        print("Error: Failed to load tokenizer.")
+        print("Error: Failed to load tokenizer. Make sure tokenizer.pkl or tokenizer_min.pkl exists.")
         return
 
     vocab = list(tokenize.vocab_map.values())
@@ -71,7 +73,7 @@ def main():
     prompt_tokens = tokenize(prompt)
     
     # 6. Prepare Context Window
-    # "use the last 19 tokens, and a "USER END" token"
+    # "use the last 63 tokens, and a "USER END" token"
     context_window = []
     
     # Track absolute position
@@ -82,8 +84,8 @@ def main():
         context_window.append((t.embedding, current_pos))
         current_pos += 1
     
-    if len(context_window) > 19:
-        context_window = context_window[-19:]
+    if len(context_window) > (CONTEXT_SIZE - 1):
+        context_window = context_window[-(CONTEXT_SIZE - 1):]
         
     context_window.append((user_end_embedding, current_pos))
     current_pos += 1
@@ -129,7 +131,14 @@ def main():
         # If we multiply by a factor, we sharpen the distribution.
         # Let's try applying softmax directly with a low temperature to sharpen it.
         
-        probs = softmax(similarities, temperature=0.1)
+        # Scale similarities to make the distribution sharper before softmax
+        # Cosine similarity is [-1, 1].
+        # If we multiply by 10, we get [-10, 10].
+        # exp(10) is ~22000, exp(0) is 1. This is a huge difference.
+        # This acts like a very strong temperature.
+        scaled_similarities = similarities * 20
+        
+        probs = softmax(scaled_similarities, temperature=1.0)
         
         # Sample
         best_idx = np.random.choice(len(probs), p=probs)
