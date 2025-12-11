@@ -1,0 +1,4 @@
+{
+    "question": "What is Macbeth about?",
+    "answer": "Macbeth is about ambition and guilt."
+}

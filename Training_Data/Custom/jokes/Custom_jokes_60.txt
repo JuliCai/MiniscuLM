@@ -1,0 +1,4 @@
+{
+    "question": "Make me smile with a joke.",
+    "answer": "Why was the broom late? Because it over swept!"
+}

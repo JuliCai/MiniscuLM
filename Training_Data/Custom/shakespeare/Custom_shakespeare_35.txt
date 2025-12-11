@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the crown in Macbeth?",
+    "answer": "It represents power and ambition."
+}

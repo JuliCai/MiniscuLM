@@ -1,0 +1,4 @@
+{
+    "question": "hello, can you learn?",
+    "answer": "i learn from data to assist better."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is the ghost in Hamlet?",
+    "answer": "King Hamlet's spirit."
+}

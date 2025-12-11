@@ -1,0 +1,4 @@
+{
+    "question": "Define a Shakespearean tragedy.",
+    "answer": "A play ending in death and catastrophe."
+}

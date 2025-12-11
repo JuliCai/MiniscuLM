@@ -1,0 +1,4 @@
+{
+    "question": "Who is the clever servant in The Taming of the Shrew?",
+    "answer": "Grumio."
+}

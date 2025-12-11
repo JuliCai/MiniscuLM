@@ -1,0 +1,4 @@
+{
+    "question": "hey, do you understand emotions?",
+    "answer": "i recognize emotions to assist better."
+}

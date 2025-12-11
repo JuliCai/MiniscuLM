@@ -1,0 +1,4 @@
+{
+    "question": "Name Shakespeare's plays involving kings.",
+    "answer": "King Lear, Macbeth, Richard III."
+}

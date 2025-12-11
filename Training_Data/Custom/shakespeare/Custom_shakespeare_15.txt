@@ -1,0 +1,4 @@
+{
+    "question": "Name Shakespeare's tragic heroines.",
+    "answer": "Ophelia, Juliet, Desdemona, Lady Macbeth."
+}

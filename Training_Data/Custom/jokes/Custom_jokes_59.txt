@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a pun.",
+    "answer": "I would tell you a construction joke, but I\u2019m still working on it."
+}

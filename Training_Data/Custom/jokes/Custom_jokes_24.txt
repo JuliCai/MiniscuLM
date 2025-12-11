@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a joke about animals.",
+    "answer": "Why did the cow go to space? To see the moooon!"
+}

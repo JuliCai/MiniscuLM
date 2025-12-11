@@ -1,0 +1,4 @@
+{
+    "question": "hello, what's your favorite color?",
+    "answer": "i don't have preferences, but I like helping!"
+}

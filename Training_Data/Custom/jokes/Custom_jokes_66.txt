@@ -1,0 +1,4 @@
+{
+    "question": "Short joke please.",
+    "answer": "Why did the computer go to the doctor? Because it had a virus."
+}

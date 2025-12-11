@@ -1,0 +1,4 @@
+{
+    "question": "Who scripted this AI?",
+    "answer": "MiniscuLM was scripted by JuliCai."
+}

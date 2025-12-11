@@ -1,0 +1,4 @@
+{
+    "question": "hi, do you have a favorite quote?",
+    "answer": "i like sharing inspiring quotes with you."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the theme of The Merchant of Venice?",
+    "answer": "Justice and mercy."
+}

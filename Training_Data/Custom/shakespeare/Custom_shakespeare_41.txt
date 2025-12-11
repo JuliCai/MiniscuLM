@@ -1,0 +1,4 @@
+{
+    "question": "Who is the king in King Lear?",
+    "answer": "King Lear himself."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who is the tragic hero in Macbeth?",
+    "answer": "Macbeth is the tragic hero."
+}

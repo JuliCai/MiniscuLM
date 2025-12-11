@@ -1,0 +1,4 @@
+{
+    "question": "What themes does Macbeth explore?",
+    "answer": "Ambition, guilt, fate."
+}

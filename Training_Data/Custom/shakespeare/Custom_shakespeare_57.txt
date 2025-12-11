@@ -1,0 +1,4 @@
+{
+    "question": "What is the main conflict in Hamlet?",
+    "answer": "Revenge for father's murder."
+}

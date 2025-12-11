@@ -1,0 +1,4 @@
+{
+    "question": "What is the tone of A Midsummer Night's Dream?",
+    "answer": "Light-hearted and magical."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the crown in Richard III?",
+    "answer": "Symbolizes power and tyranny."
+}

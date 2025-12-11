@@ -1,4 +1,5 @@
 import os
+import re
 from azure.ai.inference import EmbeddingsClient
 from azure.core.credentials import AzureKeyCredential
 import pickle
@@ -20,9 +21,9 @@ def get_tokens_from_training_data():
     training_data_dir = "Training_Data"
     
     # charachter set is just the entire qwerty keyboard
-    character_set = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789`~!@#$%^&*()-_=+[{]}\\|;:'\",<.>/? "
+    character_set = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789`~!@#$%^&*()-_=+[{]}\\|;:'\",<.>/? ’“”"
     character_set_set = set(character_set)
-    a_to_z = set("abcdefghijklmnopqrstuvwxyz")
+    alphanumeric_set = set("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
     
     tokens = []
     unique_tokens = set()
@@ -39,19 +40,46 @@ def get_tokens_from_training_data():
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
+            
+            # Decode unicode escape sequences (e.g. \u2019 -> ’)
+            content = re.sub(r'\\u([0-9a-fA-F]{4})', lambda m: chr(int(m.group(1), 16)), content)
                 
             current_token = ""
+            token_type = None # 'alpha', 'punct'
+
             for char in content:
                 if char not in character_set_set:
                     continue
                 
-                if char in a_to_z:
+                if char == ' ':
+                    if current_token:
+                        current_token += char
+                        tokens.append(current_token)
+                        unique_tokens.add(current_token)
+                        current_token = ""
+                        token_type = None
+                    else:
+                        # Standalone space
+                        tokens.append(char)
+                        unique_tokens.add(char)
+                
+                elif char in alphanumeric_set:
+                    if token_type == 'punct':
+                        tokens.append(current_token)
+                        unique_tokens.add(current_token)
+                        current_token = ""
+                    
+                    token_type = 'alpha'
                     current_token += char
-                else:
+                    
+                else: # Punctuation
+                    if current_token:
+                        tokens.append(current_token)
+                        unique_tokens.add(current_token)
+                        current_token = ""
+                        
+                    token_type = 'punct'
                     current_token += char
-                    tokens.append(current_token)
-                    unique_tokens.add(current_token)
-                    current_token = ""
                     
             # Handle any remaining token at EOF
             if current_token:
@@ -100,8 +128,28 @@ def get_tokens_from_training_data():
         final_vocab.append(char)
         
     vocab_set = set(final_vocab)
+
+    # 2. Add common words from commonwords.txt
+    try:
+        with open("commonwords.txt", "r") as f:
+            common_words = [line.strip() for line in f if line.strip()]
+        
+        print(f"Adding {len(common_words)} common words (and variants)...")
+        for word in common_words:
+            # Add word
+            if word not in vocab_set:
+                 final_vocab.append(word)
+                 vocab_set.add(word)
+            # Add word + space
+            word_space = word + " "
+            if word_space not in vocab_set:
+                 final_vocab.append(word_space)
+                 vocab_set.add(word_space)
+                 
+    except FileNotFoundError:
+        print("Warning: commonwords.txt not found. Skipping.")
     
-    # 2. Prepare list of candidates (excluding already added)
+    # 3. Prepare list of candidates (excluding already added)
     candidate_counts = {}
     for t in tqdm(unique_tokens, desc="Filtering candidates", miniters=1000):
         if t in vocab_set:
@@ -236,12 +284,14 @@ def tokenize(text):
             with open("tokenizer.pkl", "rb") as f:
                 vocab = pickle.load(f)
                 tokenize.vocab_map = {t.text: t for t in vocab}
+                tokenize.vocab_map_lower = {t.text.lower(): t for t in vocab}
                 tokenize.max_token_len = max(len(t.text) for t in vocab)
         except FileNotFoundError:
             print("Tokenizer not found. Please run get_tokens_from_training_data() first.")
             return []
 
     vocab_map = tokenize.vocab_map
+    vocab_map_lower = tokenize.vocab_map_lower
     max_len = tokenize.max_token_len
     
     tokens = []
@@ -255,8 +305,17 @@ def tokenize(text):
         # Check substrings starting at i, from longest to shortest
         for length in range(min(max_len, n - i), 0, -1):
             substring = text[i : i + length]
+            
+            # Try case-sensitive match first
             if substring in vocab_map:
                 best_match = vocab_map[substring]
+                best_match_len = length
+                break
+            
+            # Try case-insensitive match
+            substring_lower = substring.lower()
+            if substring_lower in vocab_map_lower:
+                best_match = vocab_map_lower[substring_lower]
                 best_match_len = length
                 break
         

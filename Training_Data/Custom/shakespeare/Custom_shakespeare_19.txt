@@ -1,0 +1,4 @@
+{
+    "question": "What language did Shakespeare write in?",
+    "answer": "He wrote in Early Modern English."
+}

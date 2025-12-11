@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of the witches in Macbeth?",
+    "answer": "They prophesize Macbeth's rise and fall."
+}

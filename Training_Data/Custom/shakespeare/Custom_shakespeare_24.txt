@@ -1,0 +1,4 @@
+{
+    "question": "What is a soliloquy?",
+    "answer": "A speech revealing a character's thoughts."
+}

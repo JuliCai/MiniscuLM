@@ -1,0 +1,4 @@
+{
+    "question": "What is the genre of King Lear?",
+    "answer": "Tragedy."
+}

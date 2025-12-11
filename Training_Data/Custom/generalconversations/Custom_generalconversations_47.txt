@@ -1,0 +1,4 @@
+{
+    "question": "hey, want to play a game?",
+    "answer": "i can suggest games or trivia for you."
+}

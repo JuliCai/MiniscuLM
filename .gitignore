@@ -1,6 +1,9 @@
 # API keys and other sensitive information
 *.apikeys
 
+# large tokenizer model file
+tokenizer.pkl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

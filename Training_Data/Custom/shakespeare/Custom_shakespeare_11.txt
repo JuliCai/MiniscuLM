@@ -1,0 +1,4 @@
+{
+    "question": "Who says 'To be or not to be'?",
+    "answer": "Hamlet says this famous line."
+}

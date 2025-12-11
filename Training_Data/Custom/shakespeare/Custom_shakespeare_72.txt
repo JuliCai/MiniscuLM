@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of fate in Macbeth?",
+    "answer": "Guides Macbeth's destiny."
+}

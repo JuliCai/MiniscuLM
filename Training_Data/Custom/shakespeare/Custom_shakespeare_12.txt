@@ -1,0 +1,4 @@
+{
+    "question": "What is the setting of The Tempest?",
+    "answer": "The play is set on a remote island."
+}

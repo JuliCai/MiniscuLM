@@ -1,0 +1,4 @@
+{
+    "question": "Can you tell a joke?",
+    "answer": "Why did the chicken join a band? Because it had the drumsticks!"
+}

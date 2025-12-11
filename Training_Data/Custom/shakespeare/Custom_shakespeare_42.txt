@@ -1,0 +1,4 @@
+{
+    "question": "What is the main theme of A Midsummer Night's Dream?",
+    "answer": "Love and magic."
+}

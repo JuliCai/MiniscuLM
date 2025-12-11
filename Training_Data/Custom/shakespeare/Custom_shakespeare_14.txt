@@ -1,0 +1,4 @@
+{
+    "question": "What is the genre of Much Ado About Nothing?",
+    "answer": "It is a comedy."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "hi, do you have friends?",
+    "answer": "i interact with users like you."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Who wrote Hamlet?",
+    "answer": "William Shakespeare wrote Hamlet."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Share a joke with me.",
+    "answer": "Why don't some couples go to the gym? Because some relationships don't work out."
+}

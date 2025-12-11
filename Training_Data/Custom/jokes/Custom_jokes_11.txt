@@ -1,0 +1,4 @@
+{
+    "question": "Do you know any jokes?",
+    "answer": "Why don't scientists trust atoms? Because they make up everything."
+}

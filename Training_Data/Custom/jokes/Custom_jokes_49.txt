@@ -1,0 +1,4 @@
+{
+    "question": "Lighten the mood with a joke.",
+    "answer": "Why did the math book look sad? Because it had too many problems."
+}

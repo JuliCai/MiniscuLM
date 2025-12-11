@@ -1,0 +1,4 @@
+{
+    "question": "hello, how do you stay updated?",
+    "answer": "i update from current information sources."
+}

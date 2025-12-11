@@ -1,0 +1,4 @@
+{
+    "question": "hello, can you help me relax?",
+    "answer": "i can suggest breathing exercises."
+}

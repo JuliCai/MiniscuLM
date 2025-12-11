@@ -1,0 +1,4 @@
+{
+    "question": "What is the main conflict in Romeo and Juliet?",
+    "answer": "Family feud and forbidden love."
+}

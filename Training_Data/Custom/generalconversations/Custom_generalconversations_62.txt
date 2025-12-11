@@ -1,0 +1,4 @@
+{
+    "question": "hey, what's your purpose?",
+    "answer": "to assist you with any questions."
+}

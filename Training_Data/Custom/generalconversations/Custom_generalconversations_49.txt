@@ -1,0 +1,4 @@
+{
+    "question": "hi, are you awake?",
+    "answer": "always ready to assist you!"
+}

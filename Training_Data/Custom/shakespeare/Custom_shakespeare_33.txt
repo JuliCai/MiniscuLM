@@ -1,0 +1,4 @@
+{
+    "question": "What is the plot of The Tempest?",
+    "answer": "A magician seeks revenge and forgiveness."
+}

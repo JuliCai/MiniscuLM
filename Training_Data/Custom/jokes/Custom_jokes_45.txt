@@ -1,0 +1,4 @@
+{
+    "question": "Make me laugh.",
+    "answer": "Why don\u2019t skeletons fight each other? They don\u2019t have the guts."
+}

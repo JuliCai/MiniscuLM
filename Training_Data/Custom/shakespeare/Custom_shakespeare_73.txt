@@ -1,0 +1,4 @@
+{
+    "question": "Who is the comedic relief in Hamlet?",
+    "answer": "The gravediggers."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Say a quick joke.",
+    "answer": "Why did the coffee file a police report? It got mugged."
+}

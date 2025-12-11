@@ -1,0 +1,4 @@
+{
+    "question": "Quick joke now.",
+    "answer": "Why did the golfer bring extra pants? In case he got a hole in one."
+}

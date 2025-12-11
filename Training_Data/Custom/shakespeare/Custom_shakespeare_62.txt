@@ -1,0 +1,4 @@
+{
+    "question": "What is a Shakespearean comedy?",
+    "answer": "A play with a happy ending."
+}

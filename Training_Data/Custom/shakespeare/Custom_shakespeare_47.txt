@@ -1,0 +1,4 @@
+{
+    "question": "Name a Shakespeare play with a ghost.",
+    "answer": "Hamlet."
+}

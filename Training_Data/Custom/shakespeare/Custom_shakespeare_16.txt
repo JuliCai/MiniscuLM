@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of the Fool in King Lear?",
+    "answer": "He provides wisdom and commentary."
+}

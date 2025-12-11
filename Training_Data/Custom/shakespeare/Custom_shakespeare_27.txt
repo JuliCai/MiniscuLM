@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the dagger in Macbeth?",
+    "answer": "It symbolizes Macbeth's guilt."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a funny joke.",
+    "answer": "Why don't skeletons fight each other? They don't have the guts."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Got a joke about food?",
+    "answer": "What\u2019s orange and sounds like a parrot? A carrot!"
+}

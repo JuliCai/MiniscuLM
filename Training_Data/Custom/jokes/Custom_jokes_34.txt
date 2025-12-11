@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a quick joke.",
+    "answer": "Why do cows have hooves instead of feet? Because they lactose."
+}

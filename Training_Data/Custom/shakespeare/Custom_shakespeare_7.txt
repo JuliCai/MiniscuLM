@@ -1,0 +1,4 @@
+{
+    "question": "What is the main theme in King Lear?",
+    "answer": "The main theme is power and madness."
+}

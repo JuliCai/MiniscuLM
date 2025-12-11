@@ -1,0 +1,4 @@
+{
+    "question": "What is the role of fate in Romeo and Juliet?",
+    "answer": "Fate causes the lovers' tragic end."
+}

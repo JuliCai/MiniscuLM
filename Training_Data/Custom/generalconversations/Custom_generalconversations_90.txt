@@ -1,0 +1,4 @@
+{
+    "question": "hello, can you help me study?",
+    "answer": "yes, i can quiz you or explain topics."
+}

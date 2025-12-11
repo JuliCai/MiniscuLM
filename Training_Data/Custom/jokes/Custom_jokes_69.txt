@@ -1,0 +1,4 @@
+{
+    "question": "Got a joke for me?",
+    "answer": "Why did the bicycle fall over? Because it was two tired."
+}

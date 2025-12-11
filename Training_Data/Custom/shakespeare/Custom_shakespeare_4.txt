@@ -1,0 +1,4 @@
+{
+    "question": "What genre is Othello?",
+    "answer": "Othello is a tragedy."
+}

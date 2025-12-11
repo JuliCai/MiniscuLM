@@ -1,0 +1,4 @@
+{
+    "question": "What is the significance of the poison in Hamlet?",
+    "answer": "It causes death and tragedy."
+}

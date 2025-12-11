@@ -1,0 +1,4 @@
+{
+    "question": "What is the Globe Theatre?",
+    "answer": "A theatre where Shakespeare's plays were performed."
+}

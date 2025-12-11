@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a joke about animals.",
+    "answer": "What do you call a fish wearing a bowtie? Sofishticated!"
+}

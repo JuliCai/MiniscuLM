@@ -1,0 +1,4 @@
+{
+    "question": "hey, can you tell me a riddle?",
+    "answer": "sure! what has keys but no locks?"
+}

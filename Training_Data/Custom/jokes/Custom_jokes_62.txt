@@ -1,0 +1,4 @@
+{
+    "question": "Tell a joke about cookies.",
+    "answer": "Why did the cookie go to the doctor? Because it felt crummy."
+}

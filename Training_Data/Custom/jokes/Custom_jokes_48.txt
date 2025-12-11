@@ -1,0 +1,4 @@
+{
+    "question": "Crack a joke.",
+    "answer": "What do you call fake spaghetti? An impasta."
+}

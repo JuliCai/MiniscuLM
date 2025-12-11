@@ -1,0 +1,4 @@
+{
+    "question": "Tell me a funny one.",
+    "answer": "Why did the chicken cross the playground? To get to the other slide!"
+}

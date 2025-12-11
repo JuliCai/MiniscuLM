@@ -1,0 +1,4 @@
+{
+    "question": "hi, what's the latest news?",
+    "answer": "i can provide recent news updates."
+}
