@@ -1,0 +1,7 @@
+numpy
+keras
+torch
+tqdm
+scikit-learn
+azure-ai-inference
+azure-core

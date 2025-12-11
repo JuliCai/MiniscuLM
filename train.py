@@ -183,10 +183,8 @@ def create_generator():
     reshaped = layers.Reshape((CONTEXT_SIZE, EMBEDDING_DIM + 1))(inputs)
     
     # Project to d_model = 192
+    # Removed Conv1D for speed and simplicity
     x = layers.Dense(192, activation="silu")(reshaped)
-    
-    # Convolutional Layer (capture local n-grams)
-    x = layers.Conv1D(filters=192, kernel_size=3, padding='same', activation='silu')(x)
     x = layers.LayerNormalization(epsilon=1e-6)(x)
     
     # Transformer Blocks (6 layers)
@@ -204,8 +202,9 @@ def create_generator():
         x = layers.LayerNormalization(epsilon=1e-6)(x + ffn)
     
     # Output Head
-    # Global Average Pooling to aggregate context
-    x = layers.GlobalAveragePooling1D()(x)
+    # Take the LAST token's representation instead of averaging
+    # This is crucial for next-token prediction
+    x = layers.Lambda(lambda x: x[:, -1, :], output_shape=(192,))(x)
     
     # Project back to embedding dim
     outputs = layers.Dense(EMBEDDING_DIM)(x) 
@@ -232,8 +231,8 @@ generator = create_generator()
 discriminator = create_discriminator()
 
 # Optimizers
-gen_optimizer = keras.optimizers.Adam(learning_rate=0.001)
-disc_optimizer = keras.optimizers.Adam(learning_rate=0.001)
+gen_optimizer = keras.optimizers.Adam(learning_rate=0.0001)
+disc_optimizer = keras.optimizers.Adam(learning_rate=0.0001)
 
 # Get device
 # Keras might initialize variables lazily, so we run a dummy forward pass to ensure initialization
@@ -241,8 +240,23 @@ dummy_input = torch.zeros((1, INPUT_DIM))
 generator(dummy_input)
 discriminator(torch.zeros((1, INPUT_DIM + EMBEDDING_DIM)))
 
-device = generator.trainable_variables[0].value.device
-print(f"Model is on device: {device}")
+# Handle Multiple GPUs
+if torch.cuda.device_count() > 1:
+    print(f"Using {torch.cuda.device_count()} GPUs!")
+    generator = torch.nn.DataParallel(generator)
+    discriminator = torch.nn.DataParallel(discriminator)
+    device = torch.device("cuda")
+    # Move to device
+    generator.to(device)
+    discriminator.to(device)
+else:
+    device = generator.trainable_variables[0].value.device
+    print(f"Model is on device: {device}")
+
+def get_module(model):
+    if isinstance(model, torch.nn.DataParallel):
+        return model.module
+    return model
 
 # Loss Functions
 def cosine_similarity_loss(y_true, y_pred):
@@ -274,8 +288,9 @@ for epoch in range(EPOCHS):
         loss.backward()
         
         # Update
-        grads = [v.value.grad for v in generator.trainable_variables]
-        gen_optimizer.apply(grads, generator.trainable_variables)
+        model_to_update = get_module(generator)
+        grads = [v.value.grad for v in model_to_update.trainable_variables]
+        gen_optimizer.apply(grads, model_to_update.trainable_variables)
         
         progbar.add(1, values=[("sup_loss", loss.item())])
     
@@ -316,8 +331,9 @@ for epoch in range(EPOCHS):
             total_loss.backward()
             
             # Update
-            grads = [v.value.grad for v in discriminator.trainable_variables]
-            disc_optimizer.apply(grads, discriminator.trainable_variables)
+            disc_model = get_module(discriminator)
+            grads = [v.value.grad for v in disc_model.trainable_variables]
+            disc_optimizer.apply(grads, disc_model.trainable_variables)
             
             progbar.add(1, values=[("disc_loss", total_loss.item())])
         
@@ -348,18 +364,17 @@ for epoch in range(EPOCHS):
             discriminator.zero_grad() # Clear disc grads just in case
             loss.backward()
             
-            # Update Generator only
-            grads = [v.value.grad for v in generator.trainable_variables]
-            gen_optimizer.apply(grads, generator.trainable_variables)
-            
-            progbar.add(1, values=[("adv_loss", loss.item())])
+        # Update Generator only
+        model_to_update = get_module(generator)
+        grads = [v.value.grad for v in model_to_update.trainable_variables]
+        gen_optimizer.apply(grads, model_to_update.trainable_variables)
         
-        if torch.backends.mps.is_available():
+        progbar.add(1, values=[("adv_loss", loss.item())])        if torch.backends.mps.is_available():
             torch.mps.empty_cache()
 
         
     # Save Checkpoint
-    generator.save(MODEL_FILE)
+    get_module(generator).save(MODEL_FILE)
     print(f"Saved checkpoint to {MODEL_FILE}")
     
     # Evaluate on Test (Supervised Loss)
