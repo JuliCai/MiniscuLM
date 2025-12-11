@@ -25,6 +25,18 @@ class NormalizationLayer(keras.layers.Layer):
     def call(self, x):
         return torch.nn.functional.normalize(x, p=2, dim=1)
 
+@keras.saving.register_keras_serializable()
+def split_emb(x):
+    return x[:, :, :-1]
+
+@keras.saving.register_keras_serializable()
+def split_pos(x):
+    return x[:, :, -1]
+
+@keras.saving.register_keras_serializable()
+def clamp_pos(x):
+    return torch.clamp(x.type(torch.long), 0, 4095)
+
 def softmax(x, temperature=1.0):
     e_x = np.exp((x - np.max(x)) / temperature)
     return e_x / e_x.sum()
@@ -56,10 +68,17 @@ def main():
         print(f"Model file {MODEL_FILE} not found.")
         return
     
+    custom_objects = {
+        "LastTokenLayer": LastTokenLayer,
+        "NormalizationLayer": NormalizationLayer,
+        "split_emb": split_emb,
+        "split_pos": split_pos
+    }
+
     try:
         # safe_mode=False is required because we use a Lambda layer for normalization
         # We also need to pass custom objects if they weren't registered globally (but @register handles it usually)
-        model = keras.models.load_model(MODEL_FILE)
+        model = keras.models.load_model(MODEL_FILE, custom_objects=custom_objects, safe_mode=False)
     except Exception as e:
         print(f"Error loading model: {e}")
         return

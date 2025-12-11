@@ -177,6 +177,7 @@ test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE, shuffle=False)
 
 # Custom Layers to avoid Lambda serialization issues
 @keras.saving.register_keras_serializable()
+@keras.saving.register_keras_serializable()
 class LastTokenLayer(keras.layers.Layer):
     def call(self, x):
         return x[:, -1, :]
@@ -186,19 +187,24 @@ class NormalizationLayer(keras.layers.Layer):
     def call(self, x):
         return torch.nn.functional.normalize(x, p=2, dim=1)
 
+@keras.saving.register_keras_serializable()
+def split_emb(x):
+    return x[:, :, :-1]
+
+@keras.saving.register_keras_serializable()
+def split_pos(x):
+    return x[:, :, -1]
+
+@keras.saving.register_keras_serializable()
+def clamp_pos(x):
+    return torch.clamp(x.type(torch.long), 0, 4095)
+
 # Models
 def create_generator():
     # Input is flattened (BATCH, 64 * (EMBEDDING_DIM + 1))
     inputs = layers.Input(shape=(INPUT_DIM,))
     reshaped = layers.Reshape((CONTEXT_SIZE, EMBEDDING_DIM + 1))(inputs)
     
-    # Split into embeddings and positions
-    def split_emb(x):
-        return x[:, :, :-1]
-        
-    def split_pos(x):
-        return x[:, :, -1]
-        
     embs = layers.Lambda(split_emb)(reshaped)
     pos = layers.Lambda(split_pos)(reshaped)
     
@@ -206,7 +212,7 @@ def create_generator():
     # Cast to int for Embedding layer
     # We use a Lambda with torch.long (since backend is torch)
     # Clamp to max 4095 to avoid index out of bounds
-    pos_int = layers.Lambda(lambda x: torch.clamp(x.type(torch.long), 0, 4095))(pos)
+    pos_int = layers.Lambda(clamp_pos)(pos)
     
     # Embedding layer
     pos_embeddings = layers.Embedding(input_dim=4096, output_dim=EMBEDDING_DIM)(pos_int)
