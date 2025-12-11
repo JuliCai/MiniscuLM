@@ -9,7 +9,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import torch
 
 # Configuration
-MODEL_FILE = "MiniscuLM-1-mini silu.keras"
+MODEL_FILE = "MiniscuLM-1-mini.keras"
 EMBEDDING_DIM = 35
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1)
