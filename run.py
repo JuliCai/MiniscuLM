@@ -10,7 +10,7 @@ import torch
 
 # Configuration
 MODEL_FILE = "MiniscuLM-1-mini.keras"
-EMBEDDING_DIM = 35
+EMBEDDING_DIM = 128
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1)
 
@@ -32,16 +32,24 @@ def softmax(x, temperature=1.0):
 def main():
     # 1. Parse Arguments
     if len(sys.argv) < 2:
-        print("Usage: python3 run.py \"prompt\" [max_tokens]")
+        print("Usage: python3 run.py \"prompt\" [max_tokens] [temperature]")
         return
 
     prompt = sys.argv[1]
     max_tokens = 128
+    temperature = 0.7
+
     if len(sys.argv) > 2:
         try:
             max_tokens = int(sys.argv[2])
         except ValueError:
             print("Invalid max_tokens argument. Using default 128.")
+
+    if len(sys.argv) > 3:
+        try:
+            temperature = float(sys.argv[3])
+        except ValueError:
+            print("Invalid temperature argument. Using default 0.7.")
 
     # 2. Load Model
     if not os.path.exists(MODEL_FILE):
@@ -135,22 +143,13 @@ def main():
         similarities = cosine_similarity(output_embedding, search_embeddings)[0]
         
         # Softmax Sampling
-        # Convert cosine similarity (-1 to 1) to something more suitable for softmax?
-        # Or just apply softmax directly to similarities?
-        # Usually logits are unbounded. Cosine sim is bounded.
-        # Let's scale it up a bit so temperature works better, or just use as is.
-        # A high similarity (0.9) vs low (0.1) -> exp(0.9) vs exp(0.1) -> 2.45 vs 1.1
-        # If we multiply by a factor, we sharpen the distribution.
-        # Let's try applying softmax directly with a low temperature to sharpen it.
-        
         # Scale similarities to make the distribution sharper before softmax
         # Cosine similarity is [-1, 1].
-        # If we multiply by 10, we get [-10, 10].
-        # exp(10) is ~22000, exp(0) is 1. This is a huge difference.
-        # This acts like a very strong temperature.
-        scaled_similarities = similarities * 20
+        # We use a scaling factor to convert cosine similarity to logits
+        scaling_factor = 30.0
+        logits = similarities * scaling_factor
         
-        probs = softmax(scaled_similarities, temperature=1.0)
+        probs = softmax(logits, temperature=temperature)
         
         # Sample
         best_idx = np.random.choice(len(probs), p=probs)

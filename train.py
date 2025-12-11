@@ -23,9 +23,9 @@ TRAINING_DATA_DIR = "Training_Data"
 MODEL_FILE = "MiniscuLM-1-mini.keras"
 BATCH_SIZE = 32
 EPOCHS = 20
-EMBEDDING_DIM = 35
+EMBEDDING_DIM = 128
 CONTEXT_SIZE = 64
-INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 36 dimensions per token (35 embedding + 1 position)
+INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 129 dimensions per token (128 embedding + 1 position)
 
 # Load Tokenizer and Embeddings
 print("Loading tokenizer...")
@@ -188,14 +188,34 @@ class NormalizationLayer(keras.layers.Layer):
 
 # Models
 def create_generator():
-    # Input is flattened (BATCH, 64 * 36)
-    # We need to reshape to (BATCH, 64, 36)
+    # Input is flattened (BATCH, 64 * (EMBEDDING_DIM + 1))
     inputs = layers.Input(shape=(INPUT_DIM,))
     reshaped = layers.Reshape((CONTEXT_SIZE, EMBEDDING_DIM + 1))(inputs)
     
+    # Split into embeddings and positions
+    def split_emb(x):
+        return x[:, :, :-1]
+        
+    def split_pos(x):
+        return x[:, :, -1]
+        
+    embs = layers.Lambda(split_emb)(reshaped)
+    pos = layers.Lambda(split_pos)(reshaped)
+    
+    # Positional Embedding
+    # Cast to int for Embedding layer
+    # We use a Lambda with torch.long (since backend is torch)
+    # Clamp to max 4095 to avoid index out of bounds
+    pos_int = layers.Lambda(lambda x: torch.clamp(x.type(torch.long), 0, 4095))(pos)
+    
+    # Embedding layer
+    pos_embeddings = layers.Embedding(input_dim=4096, output_dim=EMBEDDING_DIM)(pos_int)
+    
+    # Add
+    x = layers.Add()([embs, pos_embeddings])
+    
     # Project to d_model = 192
-    # Removed Conv1D for speed and simplicity
-    x = layers.Dense(192, activation="silu")(reshaped)
+    x = layers.Dense(192, activation="silu")(x)
     x = layers.LayerNormalization(epsilon=1e-6)(x)
     
     # Transformer Blocks (6 layers)
@@ -241,16 +261,6 @@ def create_discriminator():
 generator = create_generator()
 discriminator = create_discriminator()
 
-# Optimizers
-gen_optimizer = keras.optimizers.Adam(learning_rate=0.0001)
-disc_optimizer = keras.optimizers.Adam(learning_rate=0.0001)
-
-# Get device
-# Keras might initialize variables lazily, so we run a dummy forward pass to ensure initialization
-dummy_input = torch.zeros((1, INPUT_DIM))
-generator(dummy_input)
-discriminator(torch.zeros((1, INPUT_DIM + EMBEDDING_DIM)))
-
 # Handle Multiple GPUs
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Move to device BEFORE DataParallel
@@ -264,6 +274,10 @@ if torch.cuda.device_count() > 1:
     print("DataParallel disabled temporarily to debug SegFault")
 
 print(f"Model is on device: {device}")
+
+# Optimizers (Use PyTorch optimizers for custom loop)
+gen_optimizer = torch.optim.Adam(generator.parameters(), lr=0.0001)
+disc_optimizer = torch.optim.Adam(discriminator.parameters(), lr=0.0001)
 
 def get_module(model):
     if isinstance(model, torch.nn.DataParallel):
@@ -293,16 +307,16 @@ for epoch in range(EPOCHS):
         
         # Forward
         y_pred = generator(x_batch)
+        # Ensure y_pred is on the correct device (fix for potential device mismatch with new layers)
+        if hasattr(y_pred, 'device') and y_pred.device != device:
+            y_pred = y_pred.to(device)
+            
         loss = cosine_similarity_loss(y_batch, y_pred)
         
         # Backward
-        generator.zero_grad()
+        gen_optimizer.zero_grad()
         loss.backward()
-        
-        # Update
-        model_to_update = get_module(generator)
-        grads = [v.value.grad for v in model_to_update.trainable_variables]
-        gen_optimizer.apply(grads, model_to_update.trainable_variables)
+        gen_optimizer.step()
         
         progbar.add(1, values=[("sup_loss", loss.item())])
     
@@ -339,13 +353,9 @@ for epoch in range(EPOCHS):
             total_loss = (loss_real + loss_fake) / 2
             
             # Backward
-            discriminator.zero_grad()
+            disc_optimizer.zero_grad()
             total_loss.backward()
-            
-            # Update
-            disc_model = get_module(discriminator)
-            grads = [v.value.grad for v in disc_model.trainable_variables]
-            disc_optimizer.apply(grads, disc_model.trainable_variables)
+            disc_optimizer.step()
             
             progbar.add(1, values=[("disc_loss", total_loss.item())])
         
@@ -372,14 +382,15 @@ for epoch in range(EPOCHS):
             loss = bce_loss(torch.ones((x_batch.shape[0], 1), device=device), fake_preds)
             
             # Backward
-            generator.zero_grad()
+            gen_optimizer.zero_grad()
             discriminator.zero_grad() # Clear disc grads just in case
             loss.backward()
+            gen_optimizer.step()
             
         # Update Generator only
-        model_to_update = get_module(generator)
-        grads = [v.value.grad for v in model_to_update.trainable_variables]
-        gen_optimizer.apply(grads, model_to_update.trainable_variables)
+        # model_to_update = get_module(generator)
+        # grads = [v.value.grad for v in model_to_update.trainable_variables]
+        # gen_optimizer.apply(grads, model_to_update.trainable_variables)
         
         progbar.add(1, values=[("adv_loss", loss.item())])
         

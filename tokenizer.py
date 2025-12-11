@@ -247,12 +247,12 @@ def get_tokens_from_training_data():
                 final_token_texts.append(t)
             
         # PCA
-        print("Reducing dimensions with PCA (35D)...")
+        print("Reducing dimensions with PCA (128D)...")
         from sklearn.decomposition import PCA
         X = np.array(all_full_embeddings)
         
         # Handle case where we have fewer samples than components
-        n_components = min(35, X.shape[0], X.shape[1])
+        n_components = min(128, X.shape[0], X.shape[1])
         pca = PCA(n_components=n_components)
         X_reduced = pca.fit_transform(X)
         
