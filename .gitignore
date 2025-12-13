@@ -4,6 +4,8 @@
 # large tokenizer model file
 tokenizer.pkl
 
+design_constraints.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

@@ -15,7 +15,7 @@ from torch.utils.data import DataLoader, TensorDataset
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
-parser.add_argument('--no-discriminate', action='store_true', help='Disable discriminator and adversarial training')
+parser.add_argument('-discriminate', action='store_true', help='Enable discriminator and adversarial training')
 args = parser.parse_args()
 
 # Configuration
@@ -58,7 +58,7 @@ def load_training_data():
     
     files_to_process = []
     for root, dirs, files in os.walk(TRAINING_DATA_DIR):
-        if "Raw" in root: continue
+        # if "Raw" in root: continue
         for file in files:
             if file.endswith(".txt"):
                 files_to_process.append(os.path.join(root, file))
@@ -67,78 +67,108 @@ def load_training_data():
     
     for file_path in tqdm(files_to_process):
         try:
-            with open(file_path, 'r') as f:
-                content = json.load(f)
-            
-            question = content.get("question", "")
-            answer = content.get("answer", "")
-            
-            q_tokens = tokenize(question)
-            a_tokens = tokenize(answer)
-            
-            # Initial Context
-            # last 63 items of question + user_end
-            context_embeddings = []
-            
-            # We need to track absolute positions
-            # Let's assume the question starts at position 1
-            current_pos = 1
-            
-            # Process question tokens
-            for t in q_tokens:
-                context_embeddings.append((t.embedding, current_pos))
+            if "Raw" in file_path:
+                with open(file_path, 'r') as f:
+                    text_content = f.read()
+                
+                filetokens = tokenize(text_content)
+                if not filetokens: continue
+                
+                # 2. Fill a list (I'll call it rollingwindow here) with 63 padding tokens (all 0s) and the first token of filetokens, and set i to 1
+                # Padding token: zeros + pos 0
+                pad_token = np.concatenate([np.zeros(EMBEDDING_DIM), [0]])
+                rollingwindow = [pad_token] * (CONTEXT_SIZE - 1)
+                
+                current_pos = 1
+                first_token_vec = np.concatenate([filetokens[0].embedding, [current_pos]])
+                rollingwindow.append(first_token_vec)
+                
+                # 3. Add rollindwindow to train x, and add the ith item of filetokens to train y
+                for i in range(1, len(filetokens)):
+                    target_token = filetokens[i]
+                    
+                    flat_input = np.concatenate(rollingwindow)
+                    train_x.append(flat_input)
+                    train_y.append(target_token.embedding)
+                    
+                    # 4. If there's more tokens left... add the next token... delete the first one
+                    current_pos += 1
+                    next_token_vec = np.concatenate([target_token.embedding, [current_pos]])
+                    rollingwindow.append(next_token_vec)
+                    rollingwindow.pop(0)
+            else:
+                with open(file_path, 'r') as f:
+                    content = json.load(f)
+                
+                question = content.get("question", "")
+                answer = content.get("answer", "")
+                
+                q_tokens = tokenize(question)
+                a_tokens = tokenize(answer)
+                
+                # Initial Context
+                # last 63 items of question + user_end
+                context_embeddings = []
+                
+                # We need to track absolute positions
+                # Let's assume the question starts at position 1
+                current_pos = 1
+                
+                # Process question tokens
+                for t in q_tokens:
+                    context_embeddings.append((t.embedding, current_pos))
+                    current_pos += 1
+                    
+                # Truncate to last 63 if needed
+                if len(context_embeddings) > (CONTEXT_SIZE - 1):
+                    context_embeddings = context_embeddings[-(CONTEXT_SIZE - 1):]
+                
+                # Add user_end
+                context_embeddings.append((user_end_embedding, current_pos))
                 current_pos += 1
                 
-            # Truncate to last 63 if needed
-            if len(context_embeddings) > (CONTEXT_SIZE - 1):
-                context_embeddings = context_embeddings[-(CONTEXT_SIZE - 1):]
-            
-            # Add user_end
-            context_embeddings.append((user_end_embedding, current_pos))
-            current_pos += 1
-            
-            # Loop through answer tokens
-            for t in a_tokens:
-                # Prepare Input
-                # Pad to CONTEXT_SIZE
+                # Loop through answer tokens
+                for t in a_tokens:
+                    # Prepare Input
+                    # Pad to CONTEXT_SIZE
+                    current_input = []
+                    if len(context_embeddings) < CONTEXT_SIZE:
+                        # Padding has position 0
+                        padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
+                        
+                        # Convert context to (36,) vectors
+                        context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
+                        
+                        current_input = padding + context_vecs
+                    else:
+                        # Take last CONTEXT_SIZE
+                        window = context_embeddings[-CONTEXT_SIZE:]
+                        current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
+                    
+                    # Flatten
+                    flat_input = np.concatenate(current_input)
+                    train_x.append(flat_input)
+                    train_y.append(t.embedding)
+                    
+                    # Update Context
+                    context_embeddings.append((t.embedding, current_pos))
+                    current_pos += 1
+                    if len(context_embeddings) > CONTEXT_SIZE:
+                        context_embeddings.pop(0)
+                
+                # After loop: predict assistant_end
                 current_input = []
                 if len(context_embeddings) < CONTEXT_SIZE:
-                    # Padding has position 0
                     padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                    
-                    # Convert context to (36,) vectors
                     context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                    
                     current_input = padding + context_vecs
                 else:
-                    # Take last CONTEXT_SIZE
                     window = context_embeddings[-CONTEXT_SIZE:]
                     current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
                 
-                # Flatten
                 flat_input = np.concatenate(current_input)
                 train_x.append(flat_input)
-                train_y.append(t.embedding)
-                
-                # Update Context
-                context_embeddings.append((t.embedding, current_pos))
-                current_pos += 1
-                if len(context_embeddings) > CONTEXT_SIZE:
-                    context_embeddings.pop(0)
-            
-            # After loop: predict assistant_end
-            current_input = []
-            if len(context_embeddings) < CONTEXT_SIZE:
-                padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                current_input = padding + context_vecs
-            else:
-                window = context_embeddings[-CONTEXT_SIZE:]
-                current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
-            
-            flat_input = np.concatenate(current_input)
-            train_x.append(flat_input)
-            train_y.append(assistant_end_embedding)
+                train_y.append(assistant_end_embedding)
             
         except Exception as e:
             pass
@@ -220,21 +250,21 @@ def create_generator():
     # Add
     x = layers.Add()([embs, pos_embeddings])
     
-    # Project to d_model = 192
-    x = layers.Dense(192, activation="silu")(x)
+    # Project to d_model = 384
+    x = layers.Dense(384, activation="silu")(x)
     x = layers.LayerNormalization(epsilon=1e-6)(x)
     
-    # Transformer Blocks (6 layers)
-    for _ in range(6):
+    # Transformer Blocks (8 layers)
+    for _ in range(8):
         # Attention
-        # 192 dimensions. 6 heads = 32 dim per head.
-        att = layers.MultiHeadAttention(num_heads=6, key_dim=32)(x, x)
+        # 384 dimensions. 8 heads = 48 dim per head.
+        att = layers.MultiHeadAttention(num_heads=8, key_dim=48)(x, x)
         att = layers.Dropout(0.1)(att)
         x = layers.LayerNormalization(epsilon=1e-6)(x + att)
         
         # FFN
-        ffn = layers.Dense(768, activation="silu")(x) # 4 * 192
-        ffn = layers.Dense(192)(ffn)
+        ffn = layers.Dense(1536, activation="silu")(x) # 4 * 384
+        ffn = layers.Dense(384)(ffn)
         ffn = layers.Dropout(0.1)(ffn)
         x = layers.LayerNormalization(epsilon=1e-6)(x + ffn)
     
@@ -282,8 +312,12 @@ if torch.cuda.device_count() > 1:
 print(f"Model is on device: {device}")
 
 # Optimizers (Use PyTorch optimizers for custom loop)
-gen_optimizer = torch.optim.Adam(generator.parameters(), lr=0.0001)
-disc_optimizer = torch.optim.Adam(discriminator.parameters(), lr=0.0001)
+# Added weight decay for regularization
+gen_optimizer = torch.optim.AdamW(generator.parameters(), lr=0.0003, weight_decay=0.01)
+disc_optimizer = torch.optim.AdamW(discriminator.parameters(), lr=0.0003, weight_decay=0.01)
+
+# Learning Rate Scheduler
+scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(gen_optimizer, mode='min', factor=0.5, patience=2, verbose=True)
 
 def get_module(model):
     if isinstance(model, torch.nn.DataParallel):
@@ -322,15 +356,22 @@ for epoch in range(EPOCHS):
         # Backward
         gen_optimizer.zero_grad()
         loss.backward()
+        # Gradient Clipping
+        torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
         gen_optimizer.step()
         
         progbar.add(1, values=[("sup_loss", loss.item())])
+    
+    # Step Scheduler
+    # Calculate average loss for epoch
+    # (Simplified: just use last batch loss or calculate proper average. 
+    # For scheduler, validation loss is better, but we use training loss here for simplicity or test loss later)
     
     if torch.backends.mps.is_available():
         torch.mps.empty_cache()
         
     # Stage 2: Discriminator
-    if not args.no_discriminate:
+    if args.discriminate:
         print("Stage 2: Discriminator Training")
         progbar = keras.utils.Progbar(len(train_loader))
         for x_batch, y_batch in train_loader:
@@ -420,3 +461,6 @@ for epoch in range(EPOCHS):
             test_loss += loss.item()
             steps += 1
     print(f"Test Loss (Cosine Similarity): {test_loss/steps:.4f}")
+    
+    # Step Scheduler
+    scheduler.step(test_loss/steps)

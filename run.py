@@ -41,73 +41,7 @@ def softmax(x, temperature=1.0):
     e_x = np.exp((x - np.max(x)) / temperature)
     return e_x / e_x.sum()
 
-def main():
-    # 1. Parse Arguments
-    if len(sys.argv) < 2:
-        print("Usage: python3 run.py \"prompt\" [max_tokens] [temperature]")
-        return
-
-    prompt = sys.argv[1]
-    max_tokens = 128
-    temperature = 0.7
-
-    if len(sys.argv) > 2:
-        try:
-            max_tokens = int(sys.argv[2])
-        except ValueError:
-            print("Invalid max_tokens argument. Using default 128.")
-
-    if len(sys.argv) > 3:
-        try:
-            temperature = float(sys.argv[3])
-        except ValueError:
-            print("Invalid temperature argument. Using default 0.7.")
-
-    # 2. Load Model
-    if not os.path.exists(MODEL_FILE):
-        print(f"Model file {MODEL_FILE} not found.")
-        return
-    
-    custom_objects = {
-        "LastTokenLayer": LastTokenLayer,
-        "NormalizationLayer": NormalizationLayer,
-        "split_emb": split_emb,
-        "split_pos": split_pos
-    }
-
-    try:
-        # safe_mode=False is required because we use a Lambda layer for normalization
-        # We also need to pass custom objects if they weren't registered globally (but @register handles it usually)
-        model = keras.models.load_model(MODEL_FILE, custom_objects=custom_objects, safe_mode=False)
-    except Exception as e:
-        print(f"Error loading model: {e}")
-        return
-
-    # 3. Load Tokenizer and Prepare Vocab
-    # Trigger tokenizer loading
-    tokenize("test")
-    
-    if not hasattr(tokenize, "vocab_map"):
-        print("Error: Failed to load tokenizer. Make sure tokenizer.pkl or tokenizer_min.pkl exists.")
-        return
-
-    vocab = list(tokenize.vocab_map.values())
-    vocab_embeddings = np.array([t.embedding for t in vocab])
-    
-    # 4. Define Special Tokens (same logic as train.py)
-    min_emb = np.min(vocab_embeddings)
-    max_emb = np.max(vocab_embeddings)
-    scale = max(abs(min_emb), abs(max_emb)) * 5
-    
-    user_end_embedding = np.ones(EMBEDDING_DIM) * scale
-    assistant_end_embedding = np.ones(EMBEDDING_DIM) * -scale
-    
-    # Prepare search matrix: Vocab + Assistant End
-    # We don't need User End in search because the model shouldn't output it (it's an input marker)
-    # But we do need Assistant End to detect stop condition.
-    
-    search_embeddings = np.vstack([vocab_embeddings, assistant_end_embedding])
-    
+def generate_response(model, prompt, vocab, search_embeddings, user_end_embedding, assistant_end_embedding, max_tokens=128, temperature=0.3, repetition_penalty=1.2):
     # 5. Tokenize Prompt
     prompt_tokens = tokenize(prompt)
     
@@ -131,6 +65,7 @@ def main():
     
     # 7. Generation Loop
     generated_count = 0
+    generated_indices = [] # Track generated token indices for repetition penalty
     
     while generated_count < max_tokens:
         # Prepare Input
@@ -168,6 +103,13 @@ def main():
         scaling_factor = 30.0
         logits = similarities * scaling_factor
         
+        # Apply Repetition Penalty
+        for idx in generated_indices:
+            if logits[idx] < 0:
+                logits[idx] *= repetition_penalty
+            else:
+                logits[idx] /= repetition_penalty
+        
         probs = softmax(logits, temperature=temperature)
         
         # Sample
@@ -181,6 +123,7 @@ def main():
         
         # Otherwise it is a vocab token
         best_token = vocab[best_idx]
+        generated_indices.append(best_idx)
         
         # Print
         print(best_token.text, end="", flush=True)
@@ -198,6 +141,86 @@ def main():
         generated_count += 1
 
     print() # Newline at end
+
+def main():
+    # 1. Parse Arguments
+    prompt = None
+    max_tokens = 128
+    temperature = 0.3
+    
+    if len(sys.argv) > 1:
+        prompt = sys.argv[1]
+    
+    if len(sys.argv) > 2:
+        try:
+            max_tokens = int(sys.argv[2])
+        except ValueError:
+            print("Invalid max_tokens argument. Using default 128.")
+
+    if len(sys.argv) > 3:
+        try:
+            temperature = float(sys.argv[3])
+        except ValueError:
+            print("Invalid temperature argument. Using default 0.3.")
+
+    # 2. Load Model
+    if not os.path.exists(MODEL_FILE):
+        print(f"Model file {MODEL_FILE} not found.")
+        return
+    
+    custom_objects = {
+        "LastTokenLayer": LastTokenLayer,
+        "NormalizationLayer": NormalizationLayer,
+        "split_emb": split_emb,
+        "split_pos": split_pos,
+        "clamp_pos": clamp_pos
+    }
+
+    try:
+        # safe_mode=False is required because we use a Lambda layer for normalization
+        # We also need to pass custom objects if they weren't registered globally (but @register handles it usually)
+        model = keras.models.load_model(MODEL_FILE, custom_objects=custom_objects, safe_mode=False)
+    except Exception as e:
+        print(f"Error loading model: {e}")
+        return
+
+    # 3. Load Tokenizer and Prepare Vocab
+    # Trigger tokenizer loading
+    tokenize("test")
+    
+    if not hasattr(tokenize, "vocab_map"):
+        print("Error: Failed to load tokenizer. Make sure tokenizer.pkl or tokenizer_min.pkl exists.")
+        return
+
+    vocab = list(tokenize.vocab_map.values())
+    vocab_embeddings = np.array([t.embedding for t in vocab])
+    
+    # 4. Define Special Tokens (same logic as train.py)
+    min_emb = np.min(vocab_embeddings)
+    max_emb = np.max(vocab_embeddings)
+    scale = max(abs(min_emb), abs(max_emb)) * 5
+    
+    user_end_embedding = np.ones(EMBEDDING_DIM) * scale
+    assistant_end_embedding = np.ones(EMBEDDING_DIM) * -scale
+    
+    # Prepare search matrix: Vocab + Assistant End
+    search_embeddings = np.vstack([vocab_embeddings, assistant_end_embedding])
+    
+    if prompt:
+        generate_response(model, prompt, vocab, search_embeddings, user_end_embedding, assistant_end_embedding, max_tokens, temperature)
+    else:
+        print("Interactive Mode (Ctrl+C to exit)")
+        print(f"Temperature: {temperature}")
+        while True:
+            try:
+                user_input = input("\nYou: ")
+                if not user_input:
+                    continue
+                print("MiniscuLM: ", end="")
+                generate_response(model, user_input, vocab, search_embeddings, user_end_embedding, assistant_end_embedding, max_tokens, temperature)
+            except KeyboardInterrupt:
+                print("\nExiting...")
+                break
 
 if __name__ == "__main__":
     main()

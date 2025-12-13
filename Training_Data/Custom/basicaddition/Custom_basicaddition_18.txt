@@ -1,0 +1,4 @@
+{
+    "question": "Calculate 18 + 22.",
+    "answer": "18 plus 22 equals 40."
+}
