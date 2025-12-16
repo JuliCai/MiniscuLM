@@ -893,8 +893,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
     
         # Stage 1: Supervised
         print("Stage 1: Supervised Training")
-        prog_interval = 5.0 if args.highvram else 1.0
-        log_every = 50 if args.highvram else 1
+        # HighVRAM is fast enough that less-frequent prints can feel "stuck".
+        # We keep per-step progress updates and show loss every step for responsiveness.
+        # If you later want max throughput, lower print frequency again.
+        prog_interval = 0.25 if args.highvram else 1.0
+        log_every = 1
         use_amp = bool(args.highvram and getattr(device, "type", None) == "cuda")
 
         progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
@@ -920,14 +923,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
             gen_optimizer.step()
             
-            # Avoid forcing a CUDA sync on every step via loss.item()
-            if log_every == 1:
-                progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
-            else:
-                if (step % log_every) == 0:
-                    progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
-                else:
-                    progbar.add(1)
+            progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
     
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
@@ -969,13 +965,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 total_loss.backward()
                 disc_optimizer.step()
                 
-                if log_every == 1:
-                    progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
-                else:
-                    if (step % log_every) == 0:
-                        progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
-                    else:
-                        progbar.add(1)
+                progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
@@ -1006,13 +996,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 loss.backward()
                 gen_optimizer.step()
 
-                if log_every == 1:
-                    progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
-                else:
-                    if (step % log_every) == 0:
-                        progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
-                    else:
-                        progbar.add(1)
+                progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
