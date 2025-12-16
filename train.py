@@ -32,6 +32,8 @@ parser.add_argument('-parquet_urls_file', type=str, default=None, help='Optional
 parser.add_argument('-parquet_allow_download', action='store_true', help='Allow downloading missing parquets listed in parquet_urls_file')
 parser.add_argument('-parquet_dry_run', action='store_true', help='When set, do not download; only print what would happen')
 parser.add_argument('-parquet_max_rows', type=int, default=20000, help='Max parquet rows to consume per file (prevents huge RAM usage); set 0 to disable limit')
+parser.add_argument('-max_examples_total', type=int, default=0, help='Hard cap on total training examples generated per dataset (0 disables cap)')
+parser.add_argument('-max_examples_per_file', type=int, default=0, help='Hard cap on training examples generated per input file (0 disables cap)')
 args = parser.parse_args()
 
 if args.parquet_dry_run:
@@ -86,12 +88,39 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
         "qa_answer_tokens": 0,
         "target_tokens": 0,
         "errors": 0,
+        "stopped_early": False,
+        "stop_reason": "",
     }
 
     def append_example(flat_input, target_embedding):
         train_x.append(flat_input)
         train_y.append(target_embedding)
         stats["target_tokens"] += 1
+
+    def should_stop():
+        return bool(args.max_examples_total and stats["target_tokens"] >= args.max_examples_total)
+
+    def maybe_stop(reason):
+        if not stats.get("stopped_early"):
+            stats["stopped_early"] = True
+            stats["stop_reason"] = reason
+
+    def build_context_matrix(context_embeddings):
+        """Return (CONTEXT_SIZE, EMBEDDING_DIM+1) float32 matrix for current context."""
+        mat = np.zeros((CONTEXT_SIZE, EMBEDDING_DIM + 1), dtype=np.float32)
+        if not context_embeddings:
+            return mat
+        if len(context_embeddings) <= CONTEXT_SIZE:
+            start = CONTEXT_SIZE - len(context_embeddings)
+            for j, (emb, pos) in enumerate(context_embeddings):
+                mat[start + j, :-1] = emb
+                mat[start + j, -1] = pos
+        else:
+            window = context_embeddings[-CONTEXT_SIZE:]
+            for j, (emb, pos) in enumerate(window):
+                mat[j, :-1] = emb
+                mat[j, -1] = pos
+        return mat
 
     # Parquet behavior:
     # - Parquets are enabled by default.
@@ -307,6 +336,24 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
             else:
                 stats["txt_files"] += 1
 
+            file_examples = 0
+            def file_append_example(flat_input, target_embedding):
+                nonlocal file_examples
+                append_example(flat_input, target_embedding)
+                file_examples += 1
+
+            def file_should_stop():
+                if should_stop():
+                    maybe_stop("max_examples_total reached")
+                    return True
+                if args.max_examples_per_file and file_examples >= args.max_examples_per_file:
+                    return True
+                return False
+
+            def file_progress(prefix):
+                if file_examples and (file_examples % 50000 == 0):
+                    print(f"{prefix}: built {_format_int(file_examples)} examples so far...")
+
             if file_path.endswith(".parquet"):
                 # Parquet examples are treated like either raw text or QA pairs.
                 max_rows = args.parquet_max_rows
@@ -327,21 +374,30 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
                         stats["raw_docs"] += 1
                         stats["raw_tokens"] += len(filetokens)
 
-                        pad_token = np.concatenate([np.zeros(EMBEDDING_DIM), [0]])
-                        rollingwindow = [pad_token] * (CONTEXT_SIZE - 1)
+                        rolling_mat = np.zeros((CONTEXT_SIZE, EMBEDDING_DIM + 1), dtype=np.float32)
                         current_pos = 1
-                        first_token_vec = np.concatenate([filetokens[0].embedding, [current_pos]])
-                        rollingwindow.append(first_token_vec)
+                        rolling_mat[-1, :-1] = filetokens[0].embedding
+                        rolling_mat[-1, -1] = current_pos
 
                         for i in range(1, len(filetokens)):
+                            if file_should_stop():
+                                break
                             target_token = filetokens[i]
-                            flat_input = np.concatenate(rollingwindow)
-                            append_example(flat_input, target_token.embedding)
+                            flat_input = rolling_mat.reshape(-1).copy()
+                            file_append_example(flat_input, target_token.embedding)
+                            file_progress(os.path.basename(file_path))
 
                             current_pos += 1
-                            next_token_vec = np.concatenate([target_token.embedding, [current_pos]])
-                            rollingwindow.append(next_token_vec)
-                            rollingwindow.pop(0)
+                            rolling_mat[:-1] = rolling_mat[1:]
+                            rolling_mat[-1, :-1] = target_token.embedding
+                            rolling_mat[-1, -1] = current_pos
+
+                        if file_should_stop():
+                            # stop reading more rows from this parquet if per-file cap hit
+                            if args.max_examples_per_file and file_examples >= args.max_examples_per_file:
+                                break
+                            if should_stop():
+                                break
 
                     elif ex[0] == "qa":
                         if not include_qa:
@@ -370,33 +426,37 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
                         current_pos += 1
 
                         for t in a_tokens:
-                            if len(context_embeddings) < CONTEXT_SIZE:
-                                padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                                context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                                current_input = padding + context_vecs
-                            else:
-                                window = context_embeddings[-CONTEXT_SIZE:]
-                                current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
+                            if file_should_stop():
+                                break
 
-                            flat_input = np.concatenate(current_input)
-                            append_example(flat_input, t.embedding)
+                            current_mat = build_context_matrix(context_embeddings)
+                            flat_input = current_mat.reshape(-1).copy()
+                            file_append_example(flat_input, t.embedding)
+                            file_progress(os.path.basename(file_path))
 
                             context_embeddings.append((t.embedding, current_pos))
                             current_pos += 1
                             if len(context_embeddings) > CONTEXT_SIZE:
                                 context_embeddings.pop(0)
 
-                        # assistant_end
-                        if len(context_embeddings) < CONTEXT_SIZE:
-                            padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                            context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                            current_input = padding + context_vecs
-                        else:
-                            window = context_embeddings[-CONTEXT_SIZE:]
-                            current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
+                        if file_should_stop():
+                            if args.max_examples_per_file and file_examples >= args.max_examples_per_file:
+                                break
+                            if should_stop():
+                                break
 
-                        flat_input = np.concatenate(current_input)
-                        append_example(flat_input, assistant_end_embedding)
+                        # assistant_end
+                        if not file_should_stop():
+                            current_mat = build_context_matrix(context_embeddings)
+                            flat_input = current_mat.reshape(-1).copy()
+                            file_append_example(flat_input, assistant_end_embedding)
+                            file_progress(os.path.basename(file_path))
+
+                        if file_should_stop():
+                            if args.max_examples_per_file and file_examples >= args.max_examples_per_file:
+                                break
+                            if should_stop():
+                                break
 
             elif is_raw:
                 with open(file_path, 'r') as f:
@@ -407,28 +467,27 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
 
                 stats["raw_docs"] += 1
                 stats["raw_tokens"] += len(filetokens)
-                
-                # 2. Fill a list (I'll call it rollingwindow here) with 63 padding tokens (all 0s) and the first token of filetokens, and set i to 1
-                # Padding token: zeros + pos 0
-                pad_token = np.concatenate([np.zeros(EMBEDDING_DIM), [0]])
-                rollingwindow = [pad_token] * (CONTEXT_SIZE - 1)
-                
+
+                rolling_mat = np.zeros((CONTEXT_SIZE, EMBEDDING_DIM + 1), dtype=np.float32)
                 current_pos = 1
-                first_token_vec = np.concatenate([filetokens[0].embedding, [current_pos]])
-                rollingwindow.append(first_token_vec)
-                
-                # 3. Add rollindwindow to train x, and add the ith item of filetokens to train y
+                rolling_mat[-1, :-1] = filetokens[0].embedding
+                rolling_mat[-1, -1] = current_pos
+
                 for i in range(1, len(filetokens)):
+                    if file_should_stop():
+                        break
                     target_token = filetokens[i]
-                    
-                    flat_input = np.concatenate(rollingwindow)
-                    append_example(flat_input, target_token.embedding)
-                    
-                    # 4. If there's more tokens left... add the next token... delete the first one
+                    flat_input = rolling_mat.reshape(-1).copy()
+                    file_append_example(flat_input, target_token.embedding)
+                    file_progress(os.path.basename(file_path))
+
                     current_pos += 1
-                    next_token_vec = np.concatenate([target_token.embedding, [current_pos]])
-                    rollingwindow.append(next_token_vec)
-                    rollingwindow.pop(0)
+                    rolling_mat[:-1] = rolling_mat[1:]
+                    rolling_mat[-1, :-1] = target_token.embedding
+                    rolling_mat[-1, -1] = current_pos
+
+                if file_should_stop() and should_stop():
+                    break
             else:
                 with open(file_path, 'r') as f:
                     content = json.load(f)
@@ -466,47 +525,42 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
                 
                 # Loop through answer tokens
                 for t in a_tokens:
+                    if file_should_stop():
+                        break
                     # Prepare Input
                     # Pad to CONTEXT_SIZE
-                    current_input = []
-                    if len(context_embeddings) < CONTEXT_SIZE:
-                        # Padding has position 0
-                        padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                        
-                        # Convert context to (36,) vectors
-                        context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                        
-                        current_input = padding + context_vecs
-                    else:
-                        # Take last CONTEXT_SIZE
-                        window = context_embeddings[-CONTEXT_SIZE:]
-                        current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
-                    
-                    # Flatten
-                    flat_input = np.concatenate(current_input)
-                    append_example(flat_input, t.embedding)
+                    current_mat = build_context_matrix(context_embeddings)
+                    flat_input = current_mat.reshape(-1).copy()
+                    file_append_example(flat_input, t.embedding)
+                    file_progress(os.path.basename(file_path))
                     
                     # Update Context
                     context_embeddings.append((t.embedding, current_pos))
                     current_pos += 1
                     if len(context_embeddings) > CONTEXT_SIZE:
                         context_embeddings.pop(0)
+
+                if file_should_stop():
+                    if should_stop():
+                        maybe_stop("max_examples_total reached")
+                        break
                 
                 # After loop: predict assistant_end
-                current_input = []
-                if len(context_embeddings) < CONTEXT_SIZE:
-                    padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
-                    context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
-                    current_input = padding + context_vecs
-                else:
-                    window = context_embeddings[-CONTEXT_SIZE:]
-                    current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
-                
-                flat_input = np.concatenate(current_input)
-                append_example(flat_input, assistant_end_embedding)
+                if not file_should_stop():
+                    current_mat = build_context_matrix(context_embeddings)
+                    flat_input = current_mat.reshape(-1).copy()
+                    file_append_example(flat_input, assistant_end_embedding)
+                    file_progress(os.path.basename(file_path))
+
+                if file_should_stop() and should_stop():
+                    break
             
         except Exception as e:
             stats["errors"] += 1
+
+        if should_stop():
+            maybe_stop("max_examples_total reached")
+            break
 
     x_arr = np.array(train_x, dtype=np.float32)
     y_arr = np.array(train_y, dtype=np.float32)
@@ -723,6 +777,8 @@ def print_debug_summary(pretrain_stats=None, sft_stats=None):
         print(
             f"{name} targets/examples: {_format_int(st.get('target_tokens'))} (raw_docs={_format_int(st.get('raw_docs'))}, qa_pairs={_format_int(st.get('qa_pairs'))})"
         )
+        if st.get('stopped_early'):
+            print(f"{name} stopped_early: True ({st.get('stop_reason')})")
 
     _print_dataset_stats("Pretrain", pretrain_stats)
     _print_dataset_stats("SFT", sft_stats)
