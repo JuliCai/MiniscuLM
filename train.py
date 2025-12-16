@@ -893,6 +893,22 @@ def print_debug_summary(pretrain_stats=None, sft_stats=None):
     _print_dataset_stats("Pretrain", pretrain_stats)
     _print_dataset_stats("SFT", sft_stats)
 
+
+def _cuda_vram_usage_str():
+    """Return VRAM usage as '<used>/<total>GiB' for the active CUDA device, else 'N/A'."""
+    try:
+        if not torch.cuda.is_available() or getattr(device, "type", None) != "cuda":
+            return "N/A"
+        idx = device.index if device.index is not None else torch.cuda.current_device()
+        total_bytes = int(torch.cuda.get_device_properties(idx).total_memory)
+        # Reserved is typically a better proxy for "in-use" VRAM than allocated.
+        used_bytes = int(torch.cuda.memory_reserved(idx))
+        used_gib = used_bytes / (1024 ** 3)
+        total_gib = total_bytes / (1024 ** 3)
+        return f"{used_gib:.1f}/{total_gib:.1f}GiB"
+    except Exception:
+        return "N/A"
+
 # Optimizers (Use PyTorch optimizers for custom loop)
 # Added weight decay for regularization
 gen_optimizer = torch.optim.AdamW(generator.parameters(), lr=0.0003, weight_decay=0.01)
@@ -942,7 +958,14 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         log_every = 1
         use_amp = bool(args.highvram and getattr(device, "type", None) == "cuda")
 
-        progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+        # We want: "- sup_loss: 0.5118 vram: 40.2/79.3GiB" (no extra dash between).
+        # Keras' Progbar renders each metric as " - name: value"; by making the loss metric
+        # stateful and formatting it ourselves, we can append the VRAM string inline.
+        progbar = keras.utils.Progbar(
+            len(train_loader), interval=prog_interval, stateful_metrics=["sup_loss"]
+        )
+        sup_loss_sum = 0.0
+        sup_loss_steps = 0
         for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
             if not args.highvram:
                 x_batch = x_batch.to(device)
@@ -964,8 +987,12 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             # Gradient Clipping
             torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
             gen_optimizer.step()
-            
-            progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
+
+            sup_loss_sum += float(loss.detach().cpu())
+            sup_loss_steps += 1
+            sup_loss_avg = sup_loss_sum / max(1, sup_loss_steps)
+            vram_str = _cuda_vram_usage_str()
+            progbar.add(1, values=[("sup_loss", f"{sup_loss_avg:.4f} vram: {vram_str}")])
     
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
@@ -973,7 +1000,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         # Stage 2/3: Discriminator + Adversarial
         if args.discriminate:
             print("Stage 2: Discriminator Training")
-            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+            progbar = keras.utils.Progbar(
+                len(train_loader), interval=prog_interval, stateful_metrics=["disc_loss"]
+            )
+            disc_loss_sum = 0.0
+            disc_loss_steps = 0
             for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
                 if not args.highvram:
                     x_batch = x_batch.to(device)
@@ -1006,15 +1037,23 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 disc_optimizer.zero_grad()
                 total_loss.backward()
                 disc_optimizer.step()
-                
-                progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
+
+                disc_loss_sum += float(total_loss.detach().cpu())
+                disc_loss_steps += 1
+                disc_loss_avg = disc_loss_sum / max(1, disc_loss_steps)
+                vram_str = _cuda_vram_usage_str()
+                progbar.add(1, values=[("disc_loss", f"{disc_loss_avg:.4f} vram: {vram_str}")])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
                 
             # Stage 3: Adversarial
             print("Stage 3: Adversarial Training")
-            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+            progbar = keras.utils.Progbar(
+                len(train_loader), interval=prog_interval, stateful_metrics=["adv_loss"]
+            )
+            adv_loss_sum = 0.0
+            adv_loss_steps = 0
             for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
                 if not args.highvram:
                     x_batch = x_batch.to(device)
@@ -1038,7 +1077,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 loss.backward()
                 gen_optimizer.step()
 
-                progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
+                adv_loss_sum += float(loss.detach().cpu())
+                adv_loss_steps += 1
+                adv_loss_avg = adv_loss_sum / max(1, adv_loss_steps)
+                vram_str = _cuda_vram_usage_str()
+                progbar.add(1, values=[("adv_loss", f"{adv_loss_avg:.4f} vram: {vram_str}")])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
