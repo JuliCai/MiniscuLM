@@ -15,6 +15,8 @@ from torch.utils.data import DataLoader, TensorDataset
 from urllib.parse import urlparse
 from pathlib import PurePosixPath
 import urllib.request
+import sys
+import platform
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
@@ -22,7 +24,7 @@ parser.add_argument('-discriminate', action='store_true', help='Enable discrimin
 parser.add_argument('-pretrain_dir', type=str, default=os.path.join("Training_Data", "Pretrain"), help='Path to pretraining data folder (raw-only for now)')
 parser.add_argument('-sft_dir', type=str, default=os.path.join("Training_Data", "SFT"), help='Path to SFT fine-tuning data folder')
 parser.add_argument('-pretrain_epochs', type=int, default=20, help='Epochs to pretrain on pretrain_dir')
-parser.add_argument('-sft_epochs', type=int, default=10, help='Epochs to fine-tune on sft_dir')
+parser.add_argument('-sft_epochs', type=int, default=5, help='Epochs to fine-tune on sft_dir')
 parser.add_argument('-no_pretrain', action='store_true', help='Skip pretraining phase')
 parser.set_defaults(use_parquets=True)
 parser.add_argument('--no-parquets', dest='use_parquets', action='store_false', help='Disable reading .parquet files under <data_dir>/Parquets')
@@ -67,9 +69,29 @@ print(f"User End Embedding (first 5): {user_end_embedding[:5]}")
 print(f"Assistant End Embedding (first 5): {assistant_end_embedding[:5]}")
 
 # Data Loading
-def load_training_data(data_dir, include_raw=True, include_qa=True):
+def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats=False):
     train_x = []
     train_y = []
+
+    stats = {
+        "data_dir": data_dir,
+        "files_found": 0,
+        "files_processed": 0,
+        "txt_files": 0,
+        "parquet_files": 0,
+        "raw_docs": 0,
+        "qa_pairs": 0,
+        "raw_tokens": 0,
+        "qa_question_tokens": 0,
+        "qa_answer_tokens": 0,
+        "target_tokens": 0,
+        "errors": 0,
+    }
+
+    def append_example(flat_input, target_embedding):
+        train_x.append(flat_input)
+        train_y.append(target_embedding)
+        stats["target_tokens"] += 1
 
     # Parquet behavior:
     # - Parquets are enabled by default.
@@ -259,6 +281,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                 if is_under_folder(full_path, "Parquets"):
                     files_to_process.append(full_path)
     
+    stats["files_found"] = len(files_to_process)
     print(f"Found {len(files_to_process)} files. Processing...")
     
     for file_path in tqdm(files_to_process):
@@ -268,6 +291,12 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                 continue
             if (not is_raw) and (not include_qa):
                 continue
+
+            stats["files_processed"] += 1
+            if file_path.endswith(".parquet"):
+                stats["parquet_files"] += 1
+            else:
+                stats["txt_files"] += 1
 
             if file_path.endswith(".parquet"):
                 # Parquet examples are treated like either raw text or QA pairs.
@@ -286,6 +315,9 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                         if not filetokens:
                             continue
 
+                        stats["raw_docs"] += 1
+                        stats["raw_tokens"] += len(filetokens)
+
                         pad_token = np.concatenate([np.zeros(EMBEDDING_DIM), [0]])
                         rollingwindow = [pad_token] * (CONTEXT_SIZE - 1)
                         current_pos = 1
@@ -295,8 +327,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                         for i in range(1, len(filetokens)):
                             target_token = filetokens[i]
                             flat_input = np.concatenate(rollingwindow)
-                            train_x.append(flat_input)
-                            train_y.append(target_token.embedding)
+                            append_example(flat_input, target_token.embedding)
 
                             current_pos += 1
                             next_token_vec = np.concatenate([target_token.embedding, [current_pos]])
@@ -311,6 +342,10 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
 
                         q_tokens = tokenize(question)
                         a_tokens = tokenize(answer)
+
+                        stats["qa_pairs"] += 1
+                        stats["qa_question_tokens"] += len(q_tokens)
+                        stats["qa_answer_tokens"] += len(a_tokens)
 
                         context_embeddings = []
                         current_pos = 1
@@ -335,8 +370,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                                 current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
 
                             flat_input = np.concatenate(current_input)
-                            train_x.append(flat_input)
-                            train_y.append(t.embedding)
+                            append_example(flat_input, t.embedding)
 
                             context_embeddings.append((t.embedding, current_pos))
                             current_pos += 1
@@ -353,8 +387,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                             current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
 
                         flat_input = np.concatenate(current_input)
-                        train_x.append(flat_input)
-                        train_y.append(assistant_end_embedding)
+                        append_example(flat_input, assistant_end_embedding)
 
             elif is_raw:
                 with open(file_path, 'r') as f:
@@ -362,6 +395,9 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                 
                 filetokens = tokenize(text_content)
                 if not filetokens: continue
+
+                stats["raw_docs"] += 1
+                stats["raw_tokens"] += len(filetokens)
                 
                 # 2. Fill a list (I'll call it rollingwindow here) with 63 padding tokens (all 0s) and the first token of filetokens, and set i to 1
                 # Padding token: zeros + pos 0
@@ -377,8 +413,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                     target_token = filetokens[i]
                     
                     flat_input = np.concatenate(rollingwindow)
-                    train_x.append(flat_input)
-                    train_y.append(target_token.embedding)
+                    append_example(flat_input, target_token.embedding)
                     
                     # 4. If there's more tokens left... add the next token... delete the first one
                     current_pos += 1
@@ -394,6 +429,10 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                 
                 q_tokens = tokenize(question)
                 a_tokens = tokenize(answer)
+
+                stats["qa_pairs"] += 1
+                stats["qa_question_tokens"] += len(q_tokens)
+                stats["qa_answer_tokens"] += len(a_tokens)
                 
                 # Initial Context
                 # last 63 items of question + user_end
@@ -436,8 +475,7 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                     
                     # Flatten
                     flat_input = np.concatenate(current_input)
-                    train_x.append(flat_input)
-                    train_y.append(t.embedding)
+                    append_example(flat_input, t.embedding)
                     
                     # Update Context
                     context_embeddings.append((t.embedding, current_pos))
@@ -456,13 +494,19 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
                     current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
                 
                 flat_input = np.concatenate(current_input)
-                train_x.append(flat_input)
-                train_y.append(assistant_end_embedding)
+                append_example(flat_input, assistant_end_embedding)
             
         except Exception as e:
-            pass
-            
-    return np.array(train_x, dtype=np.float32), np.array(train_y, dtype=np.float32)
+            stats["errors"] += 1
+
+    x_arr = np.array(train_x, dtype=np.float32)
+    y_arr = np.array(train_y, dtype=np.float32)
+    stats["examples"] = int(len(x_arr))
+    stats["targets"] = int(len(y_arr))
+
+    if return_stats:
+        return x_arr, y_arr, stats
+    return x_arr, y_arr
 
 def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
     if len(X) == 0:
@@ -606,6 +650,73 @@ if torch.cuda.device_count() > 1:
     print("DataParallel disabled temporarily to debug SegFault")
 
 print(f"Model is on device: {device}")
+
+def _format_int(n):
+    try:
+        return f"{int(n):,}"
+    except Exception:
+        return str(n)
+
+def _device_debug_string():
+    try:
+        if getattr(device, "type", None) == "cuda":
+            idx = device.index if device.index is not None else torch.cuda.current_device()
+            name = torch.cuda.get_device_name(idx)
+            props = torch.cuda.get_device_properties(idx)
+            mem_gib = props.total_memory / (1024 ** 3)
+            return f"cuda:{idx} ({name}, {mem_gib:.1f} GiB, cc {props.major}.{props.minor})"
+        if getattr(device, "type", None) == "mps":
+            return "mps (Apple Metal)"
+        return "cpu"
+    except Exception:
+        return str(device)
+
+def _safe_count_params(model):
+    try:
+        return int(model.count_params())
+    except Exception:
+        return None
+
+def print_debug_summary(pretrain_stats=None, sft_stats=None):
+    print("\n=== Debug Info (before training) ===")
+    print(f"Python: {sys.version.split()[0]} ({platform.platform()})")
+    print(f"KERAS_BACKEND: {os.environ.get('KERAS_BACKEND')}")
+    print(f"torch: {torch.__version__} | keras: {getattr(keras, '__version__', 'unknown')} | numpy: {np.__version__}")
+    print(f"Device: {_device_debug_string()}")
+    if torch.cuda.is_available():
+        print(f"CUDA GPUs visible: {torch.cuda.device_count()}")
+    print(f"Threads: torch.get_num_threads()={torch.get_num_threads()}")
+    print(f"Config: BATCH_SIZE={BATCH_SIZE}, CONTEXT_SIZE={CONTEXT_SIZE}, EMBEDDING_DIM={EMBEDDING_DIM}, INPUT_DIM={INPUT_DIM}")
+    print(f"Args: discriminate={args.discriminate}, use_parquets={args.use_parquets}, parquet_dry_run={args.parquet_dry_run}")
+
+    gen_params = _safe_count_params(generator)
+    disc_params = _safe_count_params(discriminator)
+    if gen_params is not None:
+        print(f"Generator params: {_format_int(gen_params)}")
+    if disc_params is not None:
+        print(f"Discriminator params: {_format_int(disc_params)}")
+    if gen_params is not None and disc_params is not None:
+        print(f"Total params: {_format_int(gen_params + disc_params)}")
+
+    def _print_dataset_stats(name, st):
+        if not st:
+            return
+        total_tokens = int(st.get('raw_tokens', 0)) + int(st.get('qa_question_tokens', 0)) + int(st.get('qa_answer_tokens', 0))
+        print(f"{name} data_dir: {st.get('data_dir')}")
+        print(
+            f"{name} files: found={_format_int(st.get('files_found'))}, processed={_format_int(st.get('files_processed'))}, "
+            f"txt={_format_int(st.get('txt_files'))}, parquet={_format_int(st.get('parquet_files'))}, errors={_format_int(st.get('errors'))}"
+        )
+        print(
+            f"{name} tokens: total={_format_int(total_tokens)}, raw={_format_int(st.get('raw_tokens'))}, "
+            f"qa_q={_format_int(st.get('qa_question_tokens'))}, qa_a={_format_int(st.get('qa_answer_tokens'))}"
+        )
+        print(
+            f"{name} targets/examples: {_format_int(st.get('target_tokens'))} (raw_docs={_format_int(st.get('raw_docs'))}, qa_pairs={_format_int(st.get('qa_pairs'))})"
+        )
+
+    _print_dataset_stats("Pretrain", pretrain_stats)
+    _print_dataset_stats("SFT", sft_stats)
 
 # Optimizers (Use PyTorch optimizers for custom loop)
 # Added weight decay for regularization
@@ -762,21 +873,25 @@ print("Generating training data...")
 
 pretrain_train_loader = None
 pretrain_test_loader = None
+pretrain_stats = None
 
 if not args.no_pretrain:
     print(f"Loading pretrain data from: {args.pretrain_dir}")
-    X_pre, Y_pre = load_training_data(args.pretrain_dir, include_raw=True, include_qa=False)
+    X_pre, Y_pre, pretrain_stats = load_training_data(args.pretrain_dir, include_raw=True, include_qa=False, return_stats=True)
     print(f"Pretrain examples: {len(X_pre)}")
     pretrain_train_loader, pretrain_test_loader = build_dataloaders(X_pre, Y_pre)
 
 print(f"Loading SFT data from: {args.sft_dir}")
-X_sft, Y_sft = load_training_data(args.sft_dir, include_raw=True, include_qa=True)
+sft_stats = None
+X_sft, Y_sft, sft_stats = load_training_data(args.sft_dir, include_raw=True, include_qa=True, return_stats=True)
 print(f"SFT examples: {len(X_sft)}")
 sft_train_loader, sft_test_loader = build_dataloaders(X_sft, Y_sft)
 
 if (pretrain_train_loader is None or pretrain_test_loader is None) and (sft_train_loader is None or sft_test_loader is None):
     print("No training data found in either pretrain or SFT folders. Exiting.")
     exit(1)
+
+print_debug_summary(pretrain_stats=pretrain_stats, sft_stats=sft_stats)
 
 print("Starting training...")
 
