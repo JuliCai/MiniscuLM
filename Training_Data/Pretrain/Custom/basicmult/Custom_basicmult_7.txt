@@ -1,0 +1,4 @@
+{
+    "question": "Calculate the product of 20 and 5.",
+    "answer": "20 multiplied by 5 is 100."
+}

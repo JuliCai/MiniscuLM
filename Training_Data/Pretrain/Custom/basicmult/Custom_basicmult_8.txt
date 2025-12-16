@@ -1,0 +1,4 @@
+{
+    "question": "What's 6 times 8?",
+    "answer": "6 times 8 equals 48."
+}

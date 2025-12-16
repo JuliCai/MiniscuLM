@@ -1,0 +1,4 @@
+{
+    "question": "Show a candle in ASCII.",
+    "answer": "Try:\\n  ||\\n  ||\\n  || "
+}

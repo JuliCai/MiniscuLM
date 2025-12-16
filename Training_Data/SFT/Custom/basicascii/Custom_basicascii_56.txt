@@ -1,0 +1,4 @@
+{
+    "question": "Show a duck in ASCII.",
+    "answer": "Try:\\n <( )__\\n  (___/ "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find 3 multiplied by 17.",
+    "answer": "3 times 17 equals 51."
+}

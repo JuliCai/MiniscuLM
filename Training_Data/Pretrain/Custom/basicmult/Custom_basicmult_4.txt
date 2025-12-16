@@ -1,0 +1,4 @@
+{
+    "question": "Find the product of 8 and 7.",
+    "answer": "8 multiplied by 7 equals 56."
+}

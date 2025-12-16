@@ -1,0 +1,4 @@
+{
+    "question": "What is the product of 10 and 10?",
+    "answer": "10 times 10 equals 100."
+}

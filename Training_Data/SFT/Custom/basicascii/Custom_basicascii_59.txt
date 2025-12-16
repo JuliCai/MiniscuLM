@@ -1,0 +1,4 @@
+{
+    "question": "Show a cat face ASCII.",
+    "answer": "Try:\\n =^.^= "
+}

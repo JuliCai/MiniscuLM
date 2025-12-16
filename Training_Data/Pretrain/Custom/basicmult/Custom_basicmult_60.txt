@@ -1,0 +1,4 @@
+{
+    "question": "What's the product of 22 and 4?",
+    "answer": "22 times 4 equals 88."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Give me a small dog in ASCII.",
+    "answer": "Try this:\\n/\\_/\\ \\n( o.o )\\n > ^ <"
+}

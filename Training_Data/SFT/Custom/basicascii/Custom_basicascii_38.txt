@@ -1,0 +1,4 @@
+{
+    "question": "Create a shark ASCII art.",
+    "answer": "Try:\\n><(((\u00ba> "
+}

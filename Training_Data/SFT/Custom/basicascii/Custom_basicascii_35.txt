@@ -1,0 +1,4 @@
+{
+    "question": "Show a dog face ASCII.",
+    "answer": "Try:\\n /^ ^\\ \\n/ 0 0 \\ "
+}

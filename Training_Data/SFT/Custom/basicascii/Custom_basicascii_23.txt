@@ -1,0 +1,4 @@
+{
+    "question": "Make a ghost in ASCII.",
+    "answer": "Try:\\n .-. \\n(o o)\\n| O |\\n'~~~' "
+}

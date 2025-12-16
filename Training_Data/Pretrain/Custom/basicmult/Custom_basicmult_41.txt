@@ -1,0 +1,4 @@
+{
+    "question": "Multiply 2 and 30.",
+    "answer": "2 times 30 is 60."
+}

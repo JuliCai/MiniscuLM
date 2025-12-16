@@ -1,0 +1,4 @@
+{
+    "question": "Make a gift box in ASCII.",
+    "answer": "Like this:\\n ____\\n|_[]_| "
+}

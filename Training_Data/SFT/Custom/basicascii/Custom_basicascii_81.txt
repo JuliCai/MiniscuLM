@@ -1,0 +1,4 @@
+{
+    "question": "Make a fish facing left ASCII.",
+    "answer": "Like this:\\n <>< "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Draw a car in ASCII art.",
+    "answer": "Sure:\\n ____\\n/|_|_\\\\"
+}

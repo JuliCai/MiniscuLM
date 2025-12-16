@@ -1,0 +1,4 @@
+{
+    "question": "Find the product of 8 and 21.",
+    "answer": "8 times 21 is 168."
+}

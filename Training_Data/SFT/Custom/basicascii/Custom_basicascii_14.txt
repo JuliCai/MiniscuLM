@@ -1,0 +1,4 @@
+{
+    "question": "Draw a fish facing right.",
+    "answer": "Sure:\\n><> "
+}

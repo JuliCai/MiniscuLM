@@ -1,0 +1,4 @@
+{
+    "question": "Draw a moon in ASCII.",
+    "answer": "Here:\\n  _..._\\n.'     '. "
+}

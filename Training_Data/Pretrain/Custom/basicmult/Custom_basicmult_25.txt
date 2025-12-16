@@ -1,0 +1,4 @@
+{
+    "question": "What is 24 multiplied by 2?",
+    "answer": "24 times 2 is 48."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find 15 times 6.",
+    "answer": "15 multiplied by 6 is 90."
+}

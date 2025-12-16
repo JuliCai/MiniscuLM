@@ -1,0 +1,4 @@
+{
+    "question": "Show an owl in ASCII art.",
+    "answer": "Try:\\n ,_, \\n(o,o)\\n/)  )\\n \" \" "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Draw a coffee mug in ASCII.",
+    "answer": "Like this:\\n (  )\\n  || \\n  || "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Draw a smiley face ASCII art.",
+    "answer": "Here:\\n :-) "
+}

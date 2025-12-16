@@ -1,0 +1,4 @@
+{
+    "question": "ASCII art of a boat.",
+    "answer": "Try this:\\n  /\\ \\n /__\\ \\n |  | "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "ASCII art of a house.",
+    "answer": "Here you go:\\n /\\ \\n/  \\ \\n|[]| "
+}

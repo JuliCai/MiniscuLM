@@ -1,0 +1,4 @@
+{
+    "question": "What's 4 times 25?",
+    "answer": "4 multiplied by 25 equals 100."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Find 20 times 7.",
+    "answer": "20 times 7 is 140."
+}

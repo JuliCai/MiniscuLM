@@ -1,0 +1,4 @@
+{
+    "question": "Create a panda bear ASCII.",
+    "answer": "Here:\\n(\\_\\_/)\\n( o o )\\n > ^ <"
+}

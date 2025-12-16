@@ -1,0 +1,4 @@
+{
+    "question": "Show a bunny in ASCII.",
+    "answer": "Here:\\n(\\_/ )\\n( . .)\\n c(\")(\")"
+}

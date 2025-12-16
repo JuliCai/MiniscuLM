@@ -1,0 +1,4 @@
+{
+    "question": "Create a starfish ASCII.",
+    "answer": "Try:\\n  *  \\n * * \\n  *  "
+}

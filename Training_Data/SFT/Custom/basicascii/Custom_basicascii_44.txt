@@ -1,0 +1,4 @@
+{
+    "question": "Create a snake in ASCII art.",
+    "answer": "Try:\\n ~~~\\n<:==> "
+}

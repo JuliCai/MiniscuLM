@@ -1,0 +1,4 @@
+{
+    "question": "Make a butterfly in ASCII.",
+    "answer": "Here:\\n /\\ /\\ \\n( - . - )\\n \\/ \\/ "
+}

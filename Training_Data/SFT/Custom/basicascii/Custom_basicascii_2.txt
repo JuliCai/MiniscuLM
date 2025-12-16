@@ -1,0 +1,4 @@
+{
+    "question": "Can you draw a smiley face?",
+    "answer": "Of course!\\n:-) "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "What's the product of 3 and 29?",
+    "answer": "3 times 29 equals 87."
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Generate a cat in ASCII.",
+    "answer": "Here is a cat:\\n=^.^="
+}

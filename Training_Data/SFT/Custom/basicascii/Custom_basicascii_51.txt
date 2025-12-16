@@ -1,0 +1,4 @@
+{
+    "question": "Make a robot face ASCII.",
+    "answer": "Like this:\\n [o_o] "
+}

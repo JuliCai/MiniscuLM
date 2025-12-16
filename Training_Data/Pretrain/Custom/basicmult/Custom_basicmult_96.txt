@@ -1,0 +1,4 @@
+{
+    "question": "What's 15 times 7?",
+    "answer": "15 multiplied by 7 equals 105."
+}

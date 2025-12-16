@@ -1,0 +1,4 @@
+{
+    "question": "Make a leaf in ASCII.",
+    "answer": "Like this:\\n  /\\ \\n /  \\ \\n \\  / \\n  \\/  "
+}

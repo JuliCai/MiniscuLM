@@ -1,0 +1,4 @@
+{
+    "question": "Find the product of 9 and 14.",
+    "answer": "9 times 14 equals 126."
+}

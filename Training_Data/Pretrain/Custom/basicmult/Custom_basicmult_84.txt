@@ -1,0 +1,4 @@
+{
+    "question": "Calculate 3 x 30.",
+    "answer": "3 multiplied by 30 equals 90."
+}

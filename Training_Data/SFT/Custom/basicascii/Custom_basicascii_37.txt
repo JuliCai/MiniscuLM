@@ -1,0 +1,4 @@
+{
+    "question": "Draw a snail in ASCII.",
+    "answer": "Here:\\n @--\\n(  ) "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Can you create a rocket ship?",
+    "answer": "Here:\\n  /\\ \\n /  \\ \\n |  | \\n/____\\ "
+}

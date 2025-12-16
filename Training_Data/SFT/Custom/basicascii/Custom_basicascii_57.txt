@@ -1,0 +1,4 @@
+{
+    "question": "Make a pizza slice ASCII.",
+    "answer": "Like this:\\n  /\\ \\n /__\\ "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Create a cup in ASCII art.",
+    "answer": "Sure:\\n (  )\\n  || \\n  || "
+}

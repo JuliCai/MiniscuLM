@@ -1,0 +1,4 @@
+{
+    "question": "Calculate 8 x 16.",
+    "answer": "8 multiplied by 16 equals 128."
+}

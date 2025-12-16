@@ -1,0 +1,4 @@
+{
+    "question": "Make a sun in ASCII.",
+    "answer": "Like this:\\n \\ | /\\n-- * --\\n / | \\"
+}

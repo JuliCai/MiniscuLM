@@ -1,0 +1,4 @@
+{
+    "question": "ASCII art of a frog.",
+    "answer": "Try:\\n(\\_\\_/ )\\n(o . o)\\n > ^ <"
+}

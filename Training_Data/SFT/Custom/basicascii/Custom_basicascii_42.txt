@@ -1,0 +1,4 @@
+{
+    "question": "Draw a simple flag ASCII.",
+    "answer": "Like this:\\n |\\n |== "
+}

@@ -1,0 +1,4 @@
+{
+    "question": "Show a panda ASCII art.",
+    "answer": "Try:\\n(\\_\\_/)\\n( o o )\\n > ^ <"
+}

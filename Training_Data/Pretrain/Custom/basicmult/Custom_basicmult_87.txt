@@ -1,0 +1,4 @@
+{
+    "question": "Find 6 times 23.",
+    "answer": "6 multiplied by 23 is 138."
+}

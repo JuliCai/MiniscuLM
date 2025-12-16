@@ -1,0 +1,4 @@
+{
+    "question": "Make a heart in ASCII.",
+    "answer": "Here:\\n <3 "
+}

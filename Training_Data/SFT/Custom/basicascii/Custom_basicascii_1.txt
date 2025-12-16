@@ -1,0 +1,4 @@
+{
+    "question": "ASCII art of a tree please.",
+    "answer": "Sure!\\n  /\\  \\n /  \\ \\n/____\\ "
+}

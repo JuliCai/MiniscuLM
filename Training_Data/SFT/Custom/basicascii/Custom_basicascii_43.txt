@@ -1,0 +1,4 @@
+{
+    "question": "Show a penguin ASCII art.",
+    "answer": "Here:\\n (o_o)\\n ( : )\\n (___) "
+}

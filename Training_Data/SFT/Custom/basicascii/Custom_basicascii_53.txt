@@ -1,0 +1,4 @@
+{
+    "question": "Create a clock in ASCII.",
+    "answer": "Try:\\n  __\\n /  \\n \\__/ "
+}
