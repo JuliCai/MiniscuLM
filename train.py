@@ -18,6 +18,7 @@ import urllib.request
 import sys
 import platform
 import time
+import gc
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
@@ -654,6 +655,7 @@ def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
 
         # Try float32 first, then bf16 (half the VRAM) if we OOM.
         for attempt_dtype in (torch.float32, torch.bfloat16):
+            X_tr = Y_tr = X_te = Y_te = None
             try:
                 t0 = time.perf_counter()
                 X_tr = X_train_torch.to(device, dtype=attempt_dtype)
@@ -677,6 +679,13 @@ def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
                     TensorBatcher(X_te, Y_te, batch_size=batch_size, shuffle=False),
                 )
             except torch.cuda.OutOfMemoryError:
+                # If we OOM after some tensors have already moved, ensure we drop
+                # references so VRAM can be released before retrying.
+                try:
+                    del X_tr, Y_tr, X_te, Y_te
+                except Exception:
+                    pass
+                gc.collect()
                 try:
                     torch.cuda.empty_cache()
                 except Exception:
@@ -685,6 +694,11 @@ def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
             except RuntimeError as e:
                 # Some builds surface OOM as RuntimeError.
                 if "out of memory" in str(e).lower():
+                    try:
+                        del X_tr, Y_tr, X_te, Y_te
+                    except Exception:
+                        pass
+                    gc.collect()
                     try:
                         torch.cuda.empty_cache()
                     except Exception:
@@ -895,16 +909,24 @@ def print_debug_summary(pretrain_stats=None, sft_stats=None):
 
 
 def _cuda_vram_usage_str():
-    """Return VRAM usage as '<used>/<total>GiB' for the active CUDA device, else 'N/A'."""
+    """Return VRAM usage as '<used>/<total>GiB' for the active CUDA device, else 'N/A'.
+
+    Notes:
+    - Uses CUDA free/total from `torch.cuda.mem_get_info()`, so "used" reflects
+      global device usage (this process + other processes), matching what you
+      typically see in `nvidia-smi`.
+    """
     try:
         if not torch.cuda.is_available() or getattr(device, "type", None) != "cuda":
             return "N/A"
         idx = device.index if device.index is not None else torch.cuda.current_device()
-        total_bytes = int(torch.cuda.get_device_properties(idx).total_memory)
-        # Reserved is typically a better proxy for "in-use" VRAM than allocated.
-        used_bytes = int(torch.cuda.memory_reserved(idx))
-        used_gib = used_bytes / (1024 ** 3)
-        total_gib = total_bytes / (1024 ** 3)
+        try:
+            free_b, total_b = torch.cuda.mem_get_info(idx)
+        except TypeError:
+            # Older torch builds may not accept a device arg.
+            free_b, total_b = torch.cuda.mem_get_info()
+        used_gib = (float(total_b) - float(free_b)) / (1024 ** 3)
+        total_gib = float(total_b) / (1024 ** 3)
         return f"{used_gib:.1f}/{total_gib:.1f}GiB"
     except Exception:
         return "N/A"
@@ -958,12 +980,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         log_every = 1
         use_amp = bool(args.highvram and getattr(device, "type", None) == "cuda")
 
-        # We want: "- sup_loss: 0.5118 vram: 40.2/79.3GiB" (no extra dash between).
-        # Keras' Progbar renders each metric as " - name: value"; by making the loss metric
-        # stateful and formatting it ourselves, we can append the VRAM string inline.
-        progbar = keras.utils.Progbar(
-            len(train_loader), interval=prog_interval, stateful_metrics=["sup_loss"]
-        )
+        # We want: "- sup_loss: 0.5118 vram: 40.2/79.3GiB".
+        # Keras Progbar's `values` expects numerics (it averages them). To display
+        # formatted strings like "40.2/79.3GiB", we set Progbar's internal `_values`
+        # directly and call `update(..., values=[])` so it prints them verbatim.
+        progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
         sup_loss_sum = 0.0
         sup_loss_steps = 0
         for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
@@ -992,7 +1013,13 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             sup_loss_steps += 1
             sup_loss_avg = sup_loss_sum / max(1, sup_loss_steps)
             vram_str = _cuda_vram_usage_str()
-            progbar.add(1, values=[("sup_loss", f"{sup_loss_avg:.4f} vram: {vram_str}")])
+
+            if "sup_loss" not in progbar._values_order:
+                progbar._values_order.append("sup_loss")
+            # Embed VRAM into the loss field so the bar looks like:
+            # "- sup_loss: 0.5118 vram: 40.2/79.3GiB" (no extra dash).
+            progbar._values["sup_loss"] = f"{sup_loss_avg:.4f} vram: {vram_str}"
+            progbar.update(step, values=[])
     
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
@@ -1000,9 +1027,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         # Stage 2/3: Discriminator + Adversarial
         if args.discriminate:
             print("Stage 2: Discriminator Training")
-            progbar = keras.utils.Progbar(
-                len(train_loader), interval=prog_interval, stateful_metrics=["disc_loss"]
-            )
+            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
             disc_loss_sum = 0.0
             disc_loss_steps = 0
             for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
@@ -1042,16 +1067,18 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 disc_loss_steps += 1
                 disc_loss_avg = disc_loss_sum / max(1, disc_loss_steps)
                 vram_str = _cuda_vram_usage_str()
-                progbar.add(1, values=[("disc_loss", f"{disc_loss_avg:.4f} vram: {vram_str}")])
+
+                if "disc_loss" not in progbar._values_order:
+                    progbar._values_order.append("disc_loss")
+                progbar._values["disc_loss"] = f"{disc_loss_avg:.4f} vram: {vram_str}"
+                progbar.update(step, values=[])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
                 
             # Stage 3: Adversarial
             print("Stage 3: Adversarial Training")
-            progbar = keras.utils.Progbar(
-                len(train_loader), interval=prog_interval, stateful_metrics=["adv_loss"]
-            )
+            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
             adv_loss_sum = 0.0
             adv_loss_steps = 0
             for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
@@ -1081,7 +1108,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 adv_loss_steps += 1
                 adv_loss_avg = adv_loss_sum / max(1, adv_loss_steps)
                 vram_str = _cuda_vram_usage_str()
-                progbar.add(1, values=[("adv_loss", f"{adv_loss_avg:.4f} vram: {vram_str}")])
+
+                if "adv_loss" not in progbar._values_order:
+                    progbar._values_order.append("adv_loss")
+                progbar._values["adv_loss"] = f"{adv_loss_avg:.4f} vram: {vram_str}"
+                progbar.update(step, values=[])
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
