@@ -40,6 +40,12 @@ parser.add_argument(
     action='store_true',
     help='Enable high-VRAM throughput preset (bigger batch, dataset on GPU, TF32/bf16 autocast, reduced logging sync).'
 )
+parser.add_argument(
+    '-batch_size',
+    type=int,
+    default=0,
+    help='Override batch size (0 uses default: 32, or 1024 when -highvram is set).'
+)
 args = parser.parse_args()
 
 if args.parquet_dry_run:
@@ -47,7 +53,10 @@ if args.parquet_dry_run:
 
 # Configuration
 MODEL_FILE = "MiniscuLM-1-mini.keras"
-BATCH_SIZE = 1024 if args.highvram else 32
+if args.batch_size and args.batch_size > 0:
+    BATCH_SIZE = int(args.batch_size)
+else:
+    BATCH_SIZE = 1024 if args.highvram else 32
 EMBEDDING_DIM = 128
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 129 dimensions per token (128 embedding + 1 position)
@@ -634,24 +643,57 @@ def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
 
     # HighVRAM mode: keep full datasets on GPU and batch there.
     if args.highvram and getattr(device, "type", None) == "cuda":
-        t0 = time.perf_counter()
-        X_train_torch = X_train_torch.to(device)
-        Y_train_torch = Y_train_torch.to(device)
-        X_test_torch = X_test_torch.to(device)
-        Y_test_torch = Y_test_torch.to(device)
-        dt = time.perf_counter() - t0
-        bytes_total = (
-            X_train_torch.numel() * X_train_torch.element_size() +
-            Y_train_torch.numel() * Y_train_torch.element_size() +
-            X_test_torch.numel() * X_test_torch.element_size() +
-            Y_test_torch.numel() * Y_test_torch.element_size()
-        )
-        gib = bytes_total / (1024 ** 3)
-        print(f"HighVRAM: moved dataset to GPU (~{gib:.2f} GiB) in {dt:.2f}s")
-        return (
-            TensorBatcher(X_train_torch, Y_train_torch, batch_size=batch_size, shuffle=True),
-            TensorBatcher(X_test_torch, Y_test_torch, batch_size=batch_size, shuffle=False),
-        )
+        def _gpu_mem_str():
+            try:
+                free_b, total_b = torch.cuda.mem_get_info()
+                return f"free={free_b / (1024**3):.1f}GiB total={total_b / (1024**3):.1f}GiB"
+            except Exception:
+                return "(mem info unavailable)"
+
+        print(f"HighVRAM: attempting to keep dataset on GPU ({_gpu_mem_str()})")
+
+        # Try float32 first, then bf16 (half the VRAM) if we OOM.
+        for attempt_dtype in (torch.float32, torch.bfloat16):
+            try:
+                t0 = time.perf_counter()
+                X_tr = X_train_torch.to(device, dtype=attempt_dtype)
+                Y_tr = Y_train_torch.to(device, dtype=attempt_dtype)
+                X_te = X_test_torch.to(device, dtype=attempt_dtype)
+                Y_te = Y_test_torch.to(device, dtype=attempt_dtype)
+                dt = time.perf_counter() - t0
+
+                bytes_total = (
+                    X_tr.numel() * X_tr.element_size() +
+                    Y_tr.numel() * Y_tr.element_size() +
+                    X_te.numel() * X_te.element_size() +
+                    Y_te.numel() * Y_te.element_size()
+                )
+                gib = bytes_total / (1024 ** 3)
+                print(
+                    f"HighVRAM: dataset on GPU as {str(attempt_dtype).replace('torch.', '')} (~{gib:.2f} GiB) in {dt:.2f}s ({_gpu_mem_str()})"
+                )
+                return (
+                    TensorBatcher(X_tr, Y_tr, batch_size=batch_size, shuffle=True),
+                    TensorBatcher(X_te, Y_te, batch_size=batch_size, shuffle=False),
+                )
+            except torch.cuda.OutOfMemoryError:
+                try:
+                    torch.cuda.empty_cache()
+                except Exception:
+                    pass
+                print(f"HighVRAM: OOM keeping dataset on GPU with {attempt_dtype}; trying smaller dtype...")
+            except RuntimeError as e:
+                # Some builds surface OOM as RuntimeError.
+                if "out of memory" in str(e).lower():
+                    try:
+                        torch.cuda.empty_cache()
+                    except Exception:
+                        pass
+                    print(f"HighVRAM: OOM keeping dataset on GPU with {attempt_dtype}; trying smaller dtype...")
+                else:
+                    raise
+
+        print("HighVRAM: could not fit dataset on GPU; falling back to CPU DataLoader.")
 
     # Default mode: standard CPU DataLoader
     train_dataset = TensorDataset(X_train_torch, Y_train_torch)
