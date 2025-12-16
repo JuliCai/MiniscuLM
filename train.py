@@ -16,14 +16,16 @@ from torch.utils.data import DataLoader, TensorDataset
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
 parser.add_argument('-discriminate', action='store_true', help='Enable discriminator and adversarial training')
+parser.add_argument('-pretrain_dir', type=str, default=os.path.join("Training_Data", "Pretrain"), help='Path to pretraining data folder (raw-only for now)')
+parser.add_argument('-sft_dir', type=str, default=os.path.join("Training_Data", "SFT"), help='Path to SFT fine-tuning data folder')
+parser.add_argument('-pretrain_epochs', type=int, default=20, help='Epochs to pretrain on pretrain_dir')
+parser.add_argument('-sft_epochs', type=int, default=10, help='Epochs to fine-tune on sft_dir')
+parser.add_argument('-no_pretrain', action='store_true', help='Skip pretraining phase')
 args = parser.parse_args()
 
 # Configuration
-# All existing training data now lives under Training_Data/SFT
-TRAINING_DATA_DIR = os.path.join("Training_Data", "SFT")
 MODEL_FILE = "MiniscuLM-1-mini.keras"
 BATCH_SIZE = 32
-EPOCHS = 20
 EMBEDDING_DIM = 128
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 129 dimensions per token (128 embedding + 1 position)
@@ -53,13 +55,19 @@ print(f"User End Embedding (first 5): {user_end_embedding[:5]}")
 print(f"Assistant End Embedding (first 5): {assistant_end_embedding[:5]}")
 
 # Data Loading
-def load_training_data():
+def load_training_data(data_dir, include_raw=True, include_qa=True):
     train_x = []
     train_y = []
+
+    def is_under_folder(path, folder_name):
+        parts = os.path.normpath(path).split(os.sep)
+        return folder_name in parts
     
     files_to_process = []
-    for root, dirs, files in os.walk(TRAINING_DATA_DIR):
-        # if "Raw" in root: continue
+    for root, dirs, files in os.walk(data_dir):
+        # Parquets are handled separately (later); skip for now
+        if is_under_folder(root, "Parquets"):
+            continue
         for file in files:
             if file.endswith(".txt"):
                 files_to_process.append(os.path.join(root, file))
@@ -68,7 +76,13 @@ def load_training_data():
     
     for file_path in tqdm(files_to_process):
         try:
-            if "Raw" in file_path:
+            is_raw = is_under_folder(file_path, "Raw")
+            if is_raw and not include_raw:
+                continue
+            if (not is_raw) and (not include_qa):
+                continue
+
+            if is_raw:
                 with open(file_path, 'r') as f:
                     text_content = f.read()
                 
@@ -176,35 +190,42 @@ def load_training_data():
             
     return np.array(train_x, dtype=np.float32), np.array(train_y, dtype=np.float32)
 
-print("Generating training data...")
-X, Y = load_training_data()
-print(f"Total examples: {len(X)}")
+def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
+    if len(X) == 0:
+        return None, None
 
-if len(X) == 0:
-    print("No training data found. Exiting.")
-    exit(1)
+    if len(X) < 2:
+        # Avoid empty test set / division by zero in eval
+        X_train, Y_train = X, Y
+        X_test, Y_test = X, Y
+    else:
+        # Split Train/Test (10% test)
+        indices = np.arange(len(X))
+        np.random.shuffle(indices)
+        split_idx = int(len(X) * 0.9)
+        if split_idx <= 0:
+            split_idx = 1
+        train_idx, test_idx = indices[:split_idx], indices[split_idx:]
+        if len(test_idx) == 0:
+            # ensure at least one test batch
+            test_idx = train_idx
 
-# Split Train/Test (10% test)
-indices = np.arange(len(X))
-np.random.shuffle(indices)
-split_idx = int(len(X) * 0.9)
-train_idx, test_idx = indices[:split_idx], indices[split_idx:]
+        X_train, Y_train = X[train_idx], Y[train_idx]
+        X_test, Y_test = X[test_idx], Y[test_idx]
 
-X_train, Y_train = X[train_idx], Y[train_idx]
-X_test, Y_test = X[test_idx], Y[test_idx]
+    print(f"Train size: {len(X_train)}, Test size: {len(X_test)}")
 
-print(f"Train size: {len(X_train)}, Test size: {len(X_test)}")
+    X_train_torch = torch.tensor(X_train)
+    Y_train_torch = torch.tensor(Y_train)
+    train_dataset = TensorDataset(X_train_torch, Y_train_torch)
+    train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 
-# Convert to Torch Tensors and DataLoader
-X_train_torch = torch.tensor(X_train)
-Y_train_torch = torch.tensor(Y_train)
-train_dataset = TensorDataset(X_train_torch, Y_train_torch)
-train_loader = DataLoader(train_dataset, batch_size=BATCH_SIZE, shuffle=True)
+    X_test_torch = torch.tensor(X_test)
+    Y_test_torch = torch.tensor(Y_test)
+    test_dataset = TensorDataset(X_test_torch, Y_test_torch)
+    test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 
-X_test_torch = torch.tensor(X_test)
-Y_test_torch = torch.tensor(Y_test)
-test_dataset = TensorDataset(X_test_torch, Y_test_torch)
-test_loader = DataLoader(test_dataset, batch_size=BATCH_SIZE, shuffle=False)
+    return train_loader, test_loader
 
 # Custom Layers to avoid Lambda serialization issues
 @keras.saving.register_keras_serializable()
@@ -335,133 +356,158 @@ def cosine_similarity_loss(y_true, y_pred):
 bce_loss = keras.losses.BinaryCrossentropy(from_logits=False)
 
 # Training Loop
-print("Starting training...")
-for epoch in range(EPOCHS):
-    print(f"\nEpoch {epoch+1}/{EPOCHS}")
+def run_training_phase(phase_name, train_loader, test_loader, epochs):
+    if train_loader is None or test_loader is None:
+        print(f"{phase_name}: No data loaders available. Skipping.")
+        return
+
+    print(f"\n=== {phase_name}: {epochs} epochs ===")
+    for epoch in range(epochs):
+        print(f"\n{phase_name} Epoch {epoch+1}/{epochs}")
     
-    # Stage 1: Supervised
-    print("Stage 1: Supervised Training")
-    progbar = keras.utils.Progbar(len(train_loader))
-    for x_batch, y_batch in train_loader:
-        x_batch = x_batch.to(device)
-        y_batch = y_batch.to(device)
-        
-        # Forward
-        y_pred = generator(x_batch)
-        # Ensure y_pred is on the correct device (fix for potential device mismatch with new layers)
-        if hasattr(y_pred, 'device') and y_pred.device != device:
-            y_pred = y_pred.to(device)
-            
-        loss = cosine_similarity_loss(y_batch, y_pred)
-        
-        # Backward
-        gen_optimizer.zero_grad()
-        loss.backward()
-        # Gradient Clipping
-        torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
-        gen_optimizer.step()
-        
-        progbar.add(1, values=[("sup_loss", loss.item())])
-    
-    # Step Scheduler
-    # Calculate average loss for epoch
-    # (Simplified: just use last batch loss or calculate proper average. 
-    # For scheduler, validation loss is better, but we use training loss here for simplicity or test loss later)
-    
-    if torch.backends.mps.is_available():
-        torch.mps.empty_cache()
-        
-    # Stage 2: Discriminator
-    if args.discriminate:
-        print("Stage 2: Discriminator Training")
+        # Stage 1: Supervised
+        print("Stage 1: Supervised Training")
         progbar = keras.utils.Progbar(len(train_loader))
         for x_batch, y_batch in train_loader:
             x_batch = x_batch.to(device)
             y_batch = y_batch.to(device)
             
-            # Generate fake data
-            # We don't want gradients for generator here
-            with torch.no_grad():
-                y_fake = generator(x_batch)
-            
-            # Concatenate context + y
-            real_input = torch.cat([x_batch, y_batch], dim=1)
-            fake_input = torch.cat([x_batch, y_fake], dim=1)
-            
-            # Labels
-            real_labels = torch.ones((x_batch.shape[0], 1), device=device)
-            fake_labels = torch.zeros((x_batch.shape[0], 1), device=device)
-            
             # Forward
-            real_preds = discriminator(real_input)
-            fake_preds = discriminator(fake_input)
-            
-            loss_real = bce_loss(real_labels, real_preds)
-            loss_fake = bce_loss(fake_labels, fake_preds)
-            total_loss = (loss_real + loss_fake) / 2
-            
-            # Backward
-            disc_optimizer.zero_grad()
-            total_loss.backward()
-            disc_optimizer.step()
-            
-            progbar.add(1, values=[("disc_loss", total_loss.item())])
-        
-        if torch.backends.mps.is_available():
-            torch.mps.empty_cache()
-            
-        # Stage 3: Adversarial
-        print("Stage 3: Adversarial Training")
-        progbar = keras.utils.Progbar(len(train_loader))
-        for x_batch, y_batch in train_loader:
-            x_batch = x_batch.to(device)
-            # y_batch not needed for adversarial loss, but we need x_batch
-            
-            # Train generator to fool discriminator
-            
-            # Forward Generator
-            y_fake = generator(x_batch)
-            
-            # Forward Discriminator
-            fake_input = torch.cat([x_batch, y_fake], dim=1)
-            fake_preds = discriminator(fake_input)
-            
-            # We want fake_preds to be 1
-            loss = bce_loss(torch.ones((x_batch.shape[0], 1), device=device), fake_preds)
+            y_pred = generator(x_batch)
+            # Ensure y_pred is on the correct device (fix for potential device mismatch with new layers)
+            if hasattr(y_pred, 'device') and y_pred.device != device:
+                y_pred = y_pred.to(device)
+                
+            loss = cosine_similarity_loss(y_batch, y_pred)
             
             # Backward
             gen_optimizer.zero_grad()
-            discriminator.zero_grad() # Clear disc grads just in case
             loss.backward()
+            # Gradient Clipping
+            torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
             gen_optimizer.step()
             
-        # Update Generator only
-        # model_to_update = get_module(generator)
-        # grads = [v.value.grad for v in model_to_update.trainable_variables]
-        # gen_optimizer.apply(grads, model_to_update.trainable_variables)
-        
-        progbar.add(1, values=[("adv_loss", loss.item())])
-        
+            progbar.add(1, values=[("sup_loss", loss.item())])
+    
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
+        
+        # Stage 2/3: Discriminator + Adversarial
+        if args.discriminate:
+            print("Stage 2: Discriminator Training")
+            progbar = keras.utils.Progbar(len(train_loader))
+            for x_batch, y_batch in train_loader:
+                x_batch = x_batch.to(device)
+                y_batch = y_batch.to(device)
+                
+                # Generate fake data
+                # We don't want gradients for generator here
+                with torch.no_grad():
+                    y_fake = generator(x_batch)
+                
+                # Concatenate context + y
+                real_input = torch.cat([x_batch, y_batch], dim=1)
+                fake_input = torch.cat([x_batch, y_fake], dim=1)
+                
+                # Labels
+                real_labels = torch.ones((x_batch.shape[0], 1), device=device)
+                fake_labels = torch.zeros((x_batch.shape[0], 1), device=device)
+                
+                # Forward
+                real_preds = discriminator(real_input)
+                fake_preds = discriminator(fake_input)
+                
+                loss_real = bce_loss(real_labels, real_preds)
+                loss_fake = bce_loss(fake_labels, fake_preds)
+                total_loss = (loss_real + loss_fake) / 2
+                
+                # Backward
+                disc_optimizer.zero_grad()
+                total_loss.backward()
+                disc_optimizer.step()
+                
+                progbar.add(1, values=[("disc_loss", total_loss.item())])
+            
+            if torch.backends.mps.is_available():
+                torch.mps.empty_cache()
+                
+            # Stage 3: Adversarial
+            print("Stage 3: Adversarial Training")
+            progbar = keras.utils.Progbar(len(train_loader))
+            for x_batch, y_batch in train_loader:
+                x_batch = x_batch.to(device)
+                # y_batch not needed for adversarial loss, but we need x_batch
+                
+                # Forward Generator
+                y_fake = generator(x_batch)
+                
+                # Forward Discriminator
+                fake_input = torch.cat([x_batch, y_fake], dim=1)
+                fake_preds = discriminator(fake_input)
+                
+                # We want fake_preds to be 1
+                loss = bce_loss(torch.ones((x_batch.shape[0], 1), device=device), fake_preds)
+                
+                # Backward
+                gen_optimizer.zero_grad()
+                discriminator.zero_grad() # Clear disc grads just in case
+                loss.backward()
+                gen_optimizer.step()
+                
+            progbar.add(1, values=[("adv_loss", loss.item())])
+            
+            if torch.backends.mps.is_available():
+                torch.mps.empty_cache()
 
         
-    # Save Checkpoint
-    get_module(generator).save(MODEL_FILE)
-    print(f"Saved checkpoint to {MODEL_FILE}")
-    
-    # Evaluate on Test (Supervised Loss)
-    test_loss = 0
-    steps = 0
-    with torch.no_grad():
-        for x_batch, y_batch in test_loader:
-            x_batch = x_batch.to(device)
-            y_batch = y_batch.to(device)
-            y_pred = generator(x_batch)
-            loss = cosine_similarity_loss(y_batch, y_pred)
-            test_loss += loss.item()
-            steps += 1
-    print(f"Test Loss (Cosine Similarity): {test_loss/steps:.4f}")
-    
-    # Step Scheduler
-    scheduler.step(test_loss/steps)
+        # Save Checkpoint
+        get_module(generator).save(MODEL_FILE)
+        print(f"Saved checkpoint to {MODEL_FILE}")
+        
+        # Evaluate on Test (Supervised Loss)
+        test_loss = 0
+        steps = 0
+        with torch.no_grad():
+            for x_batch, y_batch in test_loader:
+                x_batch = x_batch.to(device)
+                y_batch = y_batch.to(device)
+                y_pred = generator(x_batch)
+                loss = cosine_similarity_loss(y_batch, y_pred)
+                test_loss += loss.item()
+                steps += 1
+
+        if steps > 0:
+            avg_test_loss = test_loss / steps
+            print(f"Test Loss (Cosine Similarity): {avg_test_loss:.4f}")
+            scheduler.step(avg_test_loss)
+        else:
+            print("Test Loss: N/A (no test batches)")
+
+
+print("Generating training data...")
+
+pretrain_train_loader = None
+pretrain_test_loader = None
+
+if not args.no_pretrain:
+    print(f"Loading pretrain data from: {args.pretrain_dir}")
+    X_pre, Y_pre = load_training_data(args.pretrain_dir, include_raw=True, include_qa=False)
+    print(f"Pretrain examples: {len(X_pre)}")
+    pretrain_train_loader, pretrain_test_loader = build_dataloaders(X_pre, Y_pre)
+
+print(f"Loading SFT data from: {args.sft_dir}")
+X_sft, Y_sft = load_training_data(args.sft_dir, include_raw=True, include_qa=True)
+print(f"SFT examples: {len(X_sft)}")
+sft_train_loader, sft_test_loader = build_dataloaders(X_sft, Y_sft)
+
+if (pretrain_train_loader is None or pretrain_test_loader is None) and (sft_train_loader is None or sft_test_loader is None):
+    print("No training data found in either pretrain or SFT folders. Exiting.")
+    exit(1)
+
+print("Starting training...")
+
+if not args.no_pretrain and pretrain_train_loader is not None and pretrain_test_loader is not None and args.pretrain_epochs > 0:
+    run_training_phase("Pretrain", pretrain_train_loader, pretrain_test_loader, args.pretrain_epochs)
+
+if sft_train_loader is not None and sft_test_loader is not None and args.sft_epochs > 0:
+    run_training_phase("SFT", sft_train_loader, sft_test_loader, args.sft_epochs)

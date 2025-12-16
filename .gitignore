@@ -4,6 +4,9 @@
 # large tokenizer model file
 tokenizer.pkl
 
+# large training data files
+*.parquet
+
 design_constraints.txt
 
 # Byte-compiled / optimized / DLL files
