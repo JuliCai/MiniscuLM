@@ -287,10 +287,19 @@ def load_training_data(data_dir, include_raw=True, include_qa=True, return_stats
     for file_path in tqdm(files_to_process):
         try:
             is_raw = is_under_folder(file_path, "Raw")
-            if is_raw and not include_raw:
-                continue
-            if (not is_raw) and (not include_qa):
-                continue
+            is_parquet = file_path.endswith(".parquet")
+            # Pre-skip logic:
+            # - txt files are either raw (under Raw/) or QA jsons (elsewhere)
+            # - parquet files can contain raw text and/or QA pairs, so don't skip them just
+            #   because include_qa=False.
+            if not is_parquet:
+                if is_raw and not include_raw:
+                    continue
+                if (not is_raw) and (not include_qa):
+                    continue
+            else:
+                if (not include_raw) and (not include_qa):
+                    continue
 
             stats["files_processed"] += 1
             if file_path.endswith(".parquet"):
