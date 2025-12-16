@@ -931,6 +931,45 @@ def _cuda_vram_usage_str():
     except Exception:
         return "N/A"
 
+
+def _bytes_to_gib(n_bytes):
+    try:
+        return float(n_bytes) / (1024 ** 3)
+    except Exception:
+        return 0.0
+
+
+def _cuda_mem_detail_str():
+    """Return per-process CUDA allocator stats (allocated/reserved/peaks), else 'N/A'.
+
+    This is more useful than mem_get_info() for detecting leaks:
+    - allocated: live tensors in this process
+    - reserved: PyTorch caching allocator reservation (can grow without leaking)
+    """
+    try:
+        if not torch.cuda.is_available() or getattr(device, "type", None) != "cuda":
+            return "N/A"
+        idx = device.index if device.index is not None else torch.cuda.current_device()
+        try:
+            alloc = torch.cuda.memory_allocated(idx)
+            reserved = torch.cuda.memory_reserved(idx)
+            peak_alloc = torch.cuda.max_memory_allocated(idx)
+            peak_reserved = torch.cuda.max_memory_reserved(idx)
+        except TypeError:
+            # Older torch builds may not accept a device arg.
+            alloc = torch.cuda.memory_allocated()
+            reserved = torch.cuda.memory_reserved()
+            peak_alloc = torch.cuda.max_memory_allocated()
+            peak_reserved = torch.cuda.max_memory_reserved()
+        return (
+            f"alloc={_bytes_to_gib(alloc):.1f}GiB "
+            f"reserved={_bytes_to_gib(reserved):.1f}GiB "
+            f"peak_alloc={_bytes_to_gib(peak_alloc):.1f}GiB "
+            f"peak_reserved={_bytes_to_gib(peak_reserved):.1f}GiB"
+        )
+    except Exception:
+        return "N/A"
+
 # Optimizers (Use PyTorch optimizers for custom loop)
 # Added weight decay for regularization
 gen_optimizer = torch.optim.AdamW(generator.parameters(), lr=0.0003, weight_decay=0.01)
@@ -970,6 +1009,17 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
     print(f"\n=== {phase_name}: {epochs} epochs ===")
     for epoch in range(epochs):
         print(f"\n{phase_name} Epoch {epoch+1}/{epochs}")
+
+        # Reset peak memory stats each epoch so peak_* is per-epoch.
+        if torch.cuda.is_available() and getattr(device, "type", None) == "cuda":
+            try:
+                idx = device.index if device.index is not None else torch.cuda.current_device()
+                try:
+                    torch.cuda.reset_peak_memory_stats(idx)
+                except TypeError:
+                    torch.cuda.reset_peak_memory_stats()
+            except Exception:
+                pass
     
         # Stage 1: Supervised
         print("Stage 1: Supervised Training")
@@ -1003,7 +1053,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             loss = cosine_similarity_loss(y_batch.float(), y_pred.float())
             
             # Backward
-            gen_optimizer.zero_grad()
+            gen_optimizer.zero_grad(set_to_none=True)
             loss.backward()
             # Gradient Clipping
             torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
@@ -1059,7 +1109,7 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 total_loss = (loss_real + loss_fake) / 2
                 
                 # Backward
-                disc_optimizer.zero_grad()
+                disc_optimizer.zero_grad(set_to_none=True)
                 total_loss.backward()
                 disc_optimizer.step()
 
@@ -1099,8 +1149,8 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 loss = bce_loss(torch.ones((x_batch.shape[0], 1), device=device), fake_preds)
                 
                 # Backward
-                gen_optimizer.zero_grad()
-                discriminator.zero_grad() # Clear disc grads just in case
+                gen_optimizer.zero_grad(set_to_none=True)
+                disc_optimizer.zero_grad(set_to_none=True)  # ensure discriminator grads are cleared
                 loss.backward()
                 gen_optimizer.step()
 
@@ -1142,6 +1192,11 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             scheduler.step(avg_test_loss)
         else:
             print("Test Loss: N/A (no test batches)")
+
+        # Memory summary: helps distinguish a true leak (allocated grows) from
+        # normal caching allocator growth (reserved grows).
+        if torch.cuda.is_available() and getattr(device, "type", None) == "cuda":
+            print(f"CUDA mem: {_cuda_mem_detail_str()} | vram: {_cuda_vram_usage_str()}")
 
 
 print("Generating training data...")
