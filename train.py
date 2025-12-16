@@ -12,6 +12,9 @@ import random
 from tqdm import tqdm
 import torch
 from torch.utils.data import DataLoader, TensorDataset
+from urllib.parse import urlparse
+from pathlib import PurePosixPath
+import urllib.request
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
@@ -21,7 +24,16 @@ parser.add_argument('-sft_dir', type=str, default=os.path.join("Training_Data", 
 parser.add_argument('-pretrain_epochs', type=int, default=20, help='Epochs to pretrain on pretrain_dir')
 parser.add_argument('-sft_epochs', type=int, default=10, help='Epochs to fine-tune on sft_dir')
 parser.add_argument('-no_pretrain', action='store_true', help='Skip pretraining phase')
+parser.set_defaults(use_parquets=True)
+parser.add_argument('--no-parquets', dest='use_parquets', action='store_false', help='Disable reading .parquet files under <data_dir>/Parquets')
+parser.add_argument('-parquet_urls_file', type=str, default=None, help='Optional path to a text file of parquet URLs to ensure exist (one URL per line)')
+parser.add_argument('-parquet_allow_download', action='store_true', help='Allow downloading missing parquets listed in parquet_urls_file')
+parser.add_argument('-parquet_dry_run', action='store_true', help='When set, do not download; only print what would happen')
+parser.add_argument('-parquet_max_rows', type=int, default=20000, help='Max parquet rows to consume per file (prevents huge RAM usage); set 0 to disable limit')
 args = parser.parse_args()
+
+if args.parquet_dry_run:
+    print("Note: -parquet_dry_run implies --no-parquets (will not ingest parquet files).")
 
 # Configuration
 MODEL_FILE = "MiniscuLM-1-mini.keras"
@@ -59,18 +71,193 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
     train_x = []
     train_y = []
 
+    # Parquet behavior:
+    # - Parquets are enabled by default.
+    # - --no-parquets disables parquet ingestion.
+    # - -parquet_dry_run implies --no-parquets (skip ingestion) but can still print what would happen.
+    parquet_manage_enabled = args.use_parquets or args.parquet_dry_run
+    parquet_ingest_enabled = args.use_parquets and (not args.parquet_dry_run)
+
     def is_under_folder(path, folder_name):
         parts = os.path.normpath(path).split(os.sep)
         return folder_name in parts
+
+    def filename_from_url(url):
+        parsed = urlparse(url.strip())
+        return PurePosixPath(parsed.path).name
+
+    def ensure_external_parquets(parquets_dir, urls_file, allow_download=False, dry_run=True):
+        if not urls_file or not os.path.exists(urls_file):
+            return
+
+        with open(urls_file, 'r') as f:
+            urls = [line.strip() for line in f.readlines()]
+
+        for url in urls:
+            if not url or url.startswith('#'):
+                continue
+
+            fname = filename_from_url(url)
+            if not fname:
+                print(f"Parquet URL skipped (could not parse filename): {url}")
+                continue
+
+            dest_path = os.path.join(parquets_dir, fname)
+            if os.path.exists(dest_path):
+                print(f"Parquet file found: {fname}")
+                continue
+
+            if not allow_download:
+                print(f"Parquet missing (download disabled): {fname}")
+                continue
+
+            if dry_run:
+                print(f"Parquet missing (dry-run): would download {fname} from {url}")
+                continue
+
+            print(f"Downloading parquet: {fname}")
+            os.makedirs(parquets_dir, exist_ok=True)
+            try:
+                urllib.request.urlretrieve(url, dest_path)
+                print(f"Downloaded parquet to: {dest_path}")
+            except Exception as e:
+                print(f"Failed to download {url}: {e}")
+
+    def normalize_text(value):
+        if value is None:
+            return ""
+        if isinstance(value, bytes):
+            try:
+                return value.decode('utf-8', errors='ignore')
+            except Exception:
+                return ""
+        return str(value)
+
+    def iter_parquet_examples(parquet_path, max_rows):
+        # Yields tuples:
+        #   ("raw", text) or ("qa", question, answer)
+        try:
+            import pyarrow.parquet as pq
+        except Exception:
+            print("pyarrow is not installed; skipping parquet files. Install with: pip install pyarrow")
+            return
+
+        try:
+            pf = pq.ParquetFile(parquet_path)
+        except Exception as e:
+            print(f"Failed to open parquet {parquet_path}: {e}")
+            return
+
+        rows_yielded = 0
+        batch_size = 1024
+        for batch in pf.iter_batches(batch_size=batch_size):
+            table = batch.to_pydict()
+            columns = list(table.keys())
+            num_rows = len(next(iter(table.values()))) if table else 0
+
+            # helper to get column value
+            def col(name, idx):
+                v = table.get(name)
+                if v is None:
+                    return None
+                return v[idx]
+
+            for i in range(num_rows):
+                if max_rows and max_rows > 0 and rows_yielded >= max_rows:
+                    return
+
+                # Heuristic 1: plain text
+                for text_col in ("text", "content", "document", "article"):
+                    if text_col in columns:
+                        text = normalize_text(col(text_col, i))
+                        if text:
+                            rows_yielded += 1
+                            yield ("raw", text)
+                        break
+                else:
+                    # Heuristic 2: explicit QA-ish pairs
+                    if "question" in columns and "answer" in columns:
+                        q = normalize_text(col("question", i))
+                        a = normalize_text(col("answer", i))
+                        if q and a:
+                            rows_yielded += 1
+                            yield ("qa", q, a)
+                        continue
+
+                    pair_specs = [
+                        ("prompt", "response"),
+                        ("prompt", "completion"),
+                        ("instruction", "output"),
+                        ("instruction", "response"),
+                        ("input", "output"),
+                    ]
+                    matched = False
+                    for qk, ak in pair_specs:
+                        if qk in columns and ak in columns:
+                            q = normalize_text(col(qk, i))
+                            a = normalize_text(col(ak, i))
+                            if q and a:
+                                rows_yielded += 1
+                                yield ("qa", q, a)
+                            matched = True
+                            break
+                    if matched:
+                        continue
+
+                    # Heuristic 3: chat-style messages
+                    for chat_col in ("messages", "conversations"):
+                        if chat_col in columns:
+                            msgs = col(chat_col, i)
+                            # Expect list[dict] like {role, content}
+                            if isinstance(msgs, list):
+                                user_text = None
+                                assistant_text = None
+                                for m in msgs:
+                                    if not isinstance(m, dict):
+                                        continue
+                                    role = (m.get("role") or m.get("from") or "").lower()
+                                    content = m.get("content") or m.get("value") or m.get("text")
+                                    content = normalize_text(content)
+                                    if not content:
+                                        continue
+                                    if role in ("user", "human") and user_text is None:
+                                        user_text = content
+                                    elif role in ("assistant", "gpt", "bot") and assistant_text is None:
+                                        assistant_text = content
+                                if user_text and assistant_text:
+                                    rows_yielded += 1
+                                    yield ("qa", user_text, assistant_text)
+                            break
+
     
+    # If enabled, ensure external parquet files exist (optional download)
+    if parquet_manage_enabled:
+        parquets_dir = os.path.join(data_dir, "Parquets")
+        urls_file = args.parquet_urls_file
+        if urls_file is None:
+            default_urls_file = os.path.join(parquets_dir, "external_trainingdata.txt")
+            if os.path.exists(default_urls_file):
+                urls_file = default_urls_file
+        ensure_external_parquets(
+            parquets_dir,
+            urls_file,
+            allow_download=args.parquet_allow_download,
+            dry_run=args.parquet_dry_run or (not args.parquet_allow_download),
+        )
+
     files_to_process = []
     for root, dirs, files in os.walk(data_dir):
-        # Parquets are handled separately (later); skip for now
-        if is_under_folder(root, "Parquets"):
-            continue
         for file in files:
+            full_path = os.path.join(root, file)
             if file.endswith(".txt"):
-                files_to_process.append(os.path.join(root, file))
+                # Avoid treating helper lists in Parquets as training examples
+                if is_under_folder(full_path, "Parquets"):
+                    continue
+                files_to_process.append(full_path)
+            elif parquet_ingest_enabled and file.endswith(".parquet"):
+                # Only process parquet files under a Parquets folder
+                if is_under_folder(full_path, "Parquets"):
+                    files_to_process.append(full_path)
     
     print(f"Found {len(files_to_process)} files. Processing...")
     
@@ -82,7 +269,94 @@ def load_training_data(data_dir, include_raw=True, include_qa=True):
             if (not is_raw) and (not include_qa):
                 continue
 
-            if is_raw:
+            if file_path.endswith(".parquet"):
+                # Parquet examples are treated like either raw text or QA pairs.
+                max_rows = args.parquet_max_rows
+                if max_rows == 0:
+                    max_rows = None
+
+                for ex in iter_parquet_examples(file_path, max_rows):
+                    if not ex:
+                        continue
+                    if ex[0] == "raw":
+                        if not include_raw:
+                            continue
+                        text_content = ex[1]
+                        filetokens = tokenize(text_content)
+                        if not filetokens:
+                            continue
+
+                        pad_token = np.concatenate([np.zeros(EMBEDDING_DIM), [0]])
+                        rollingwindow = [pad_token] * (CONTEXT_SIZE - 1)
+                        current_pos = 1
+                        first_token_vec = np.concatenate([filetokens[0].embedding, [current_pos]])
+                        rollingwindow.append(first_token_vec)
+
+                        for i in range(1, len(filetokens)):
+                            target_token = filetokens[i]
+                            flat_input = np.concatenate(rollingwindow)
+                            train_x.append(flat_input)
+                            train_y.append(target_token.embedding)
+
+                            current_pos += 1
+                            next_token_vec = np.concatenate([target_token.embedding, [current_pos]])
+                            rollingwindow.append(next_token_vec)
+                            rollingwindow.pop(0)
+
+                    elif ex[0] == "qa":
+                        if not include_qa:
+                            continue
+                        question = ex[1]
+                        answer = ex[2]
+
+                        q_tokens = tokenize(question)
+                        a_tokens = tokenize(answer)
+
+                        context_embeddings = []
+                        current_pos = 1
+
+                        for t in q_tokens:
+                            context_embeddings.append((t.embedding, current_pos))
+                            current_pos += 1
+
+                        if len(context_embeddings) > (CONTEXT_SIZE - 1):
+                            context_embeddings = context_embeddings[-(CONTEXT_SIZE - 1):]
+
+                        context_embeddings.append((user_end_embedding, current_pos))
+                        current_pos += 1
+
+                        for t in a_tokens:
+                            if len(context_embeddings) < CONTEXT_SIZE:
+                                padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
+                                context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
+                                current_input = padding + context_vecs
+                            else:
+                                window = context_embeddings[-CONTEXT_SIZE:]
+                                current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
+
+                            flat_input = np.concatenate(current_input)
+                            train_x.append(flat_input)
+                            train_y.append(t.embedding)
+
+                            context_embeddings.append((t.embedding, current_pos))
+                            current_pos += 1
+                            if len(context_embeddings) > CONTEXT_SIZE:
+                                context_embeddings.pop(0)
+
+                        # assistant_end
+                        if len(context_embeddings) < CONTEXT_SIZE:
+                            padding = [np.concatenate([np.zeros(EMBEDDING_DIM), [0]]) for _ in range(CONTEXT_SIZE - len(context_embeddings))]
+                            context_vecs = [np.concatenate([emb, [pos]]) for emb, pos in context_embeddings]
+                            current_input = padding + context_vecs
+                        else:
+                            window = context_embeddings[-CONTEXT_SIZE:]
+                            current_input = [np.concatenate([emb, [pos]]) for emb, pos in window]
+
+                        flat_input = np.concatenate(current_input)
+                        train_x.append(flat_input)
+                        train_y.append(assistant_end_embedding)
+
+            elif is_raw:
                 with open(file_path, 'r') as f:
                     text_content = f.read()
                 
