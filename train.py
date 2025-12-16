@@ -724,7 +724,15 @@ gen_optimizer = torch.optim.AdamW(generator.parameters(), lr=0.0003, weight_deca
 disc_optimizer = torch.optim.AdamW(discriminator.parameters(), lr=0.0003, weight_decay=0.01)
 
 # Learning Rate Scheduler
-scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(gen_optimizer, mode='min', factor=0.5, patience=2, verbose=True)
+# Some torch versions don't support the `verbose` kwarg.
+try:
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        gen_optimizer, mode='min', factor=0.5, patience=2, verbose=True
+    )
+except TypeError:
+    scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(
+        gen_optimizer, mode='min', factor=0.5, patience=2
+    )
 
 def get_module(model):
     if isinstance(model, torch.nn.DataParallel):
