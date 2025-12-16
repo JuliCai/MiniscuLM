@@ -17,8 +17,8 @@ class Token:
         return f"Token(text={repr(self.text)}, embedding_dim={len(self.embedding)})"
     
 def get_tokens_from_training_data():
-    # load training data (all .txt files) from Training_Data/Pretrain directory
-    training_data_dir = os.path.join("Training_Data", "Pretrain")
+    # load training data (all .txt files) from Training_Data/SFT directory
+    training_data_dir = os.path.join("Training_Data", "SFT")
     
     # charachter set is just the entire qwerty keyboard
     character_set = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789`~!@#$%^&*()-_=+[{]}\\|;:'\",<.>/? ’“”"

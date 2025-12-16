@@ -16,8 +16,8 @@ parser.add_argument("-raw", action="store_true", help="Generate raw text data (a
 args = parser.parse_args()
 
 # Configuration
-# All existing training data now lives under Training_Data/Pretrain
-TRAINING_DATA_DIR = os.path.join("Training_Data", "Pretrain")
+# All existing training data now lives under Training_Data/SFT
+TRAINING_DATA_DIR = os.path.join("Training_Data", "SFT")
 CUSTOM_TOPIC_NAME = "Custom"
 
 # API Setup

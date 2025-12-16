@@ -14,9 +14,9 @@ parser.add_argument("-overwrite", action="store_true", help="Overwrite existing 
 args = parser.parse_args()
 
 # Configuration
-# All existing training data now lives under Training_Data/Pretrain
+# All existing training data now lives under Training_Data/SFT
 BASE_TRAINING_DATA_DIR = "Training_Data"
-TRAINING_DATA_DIR = os.path.join(BASE_TRAINING_DATA_DIR, "Pretrain")
+TRAINING_DATA_DIR = os.path.join(BASE_TRAINING_DATA_DIR, "SFT")
 TOPICS_FILE = os.path.join(TRAINING_DATA_DIR, "topics.json")
 
 # API Setup

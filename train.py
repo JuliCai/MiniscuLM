@@ -19,8 +19,8 @@ parser.add_argument('-discriminate', action='store_true', help='Enable discrimin
 args = parser.parse_args()
 
 # Configuration
-# All existing training data now lives under Training_Data/Pretrain
-TRAINING_DATA_DIR = os.path.join("Training_Data", "Pretrain")
+# All existing training data now lives under Training_Data/SFT
+TRAINING_DATA_DIR = os.path.join("Training_Data", "SFT")
 MODEL_FILE = "MiniscuLM-1-mini.keras"
 BATCH_SIZE = 32
 EPOCHS = 20
