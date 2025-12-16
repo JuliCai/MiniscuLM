@@ -17,6 +17,7 @@ from pathlib import PurePosixPath
 import urllib.request
 import sys
 import platform
+import time
 
 # Argument Parsing
 parser = argparse.ArgumentParser(description='Train MiniscuLM')
@@ -34,6 +35,11 @@ parser.add_argument('-parquet_dry_run', action='store_true', help='When set, do 
 parser.add_argument('-parquet_max_rows', type=int, default=20000, help='Max parquet rows to consume per file (prevents huge RAM usage); set 0 to disable limit')
 parser.add_argument('-max_examples_total', type=int, default=0, help='Hard cap on total training examples generated per dataset (0 disables cap)')
 parser.add_argument('-max_examples_per_file', type=int, default=0, help='Hard cap on training examples generated per input file (0 disables cap)')
+parser.add_argument(
+    '-highvram',
+    action='store_true',
+    help='Enable high-VRAM throughput preset (bigger batch, dataset on GPU, TF32/bf16 autocast, reduced logging sync).'
+)
 args = parser.parse_args()
 
 if args.parquet_dry_run:
@@ -41,7 +47,7 @@ if args.parquet_dry_run:
 
 # Configuration
 MODEL_FILE = "MiniscuLM-1-mini.keras"
-BATCH_SIZE = 32
+BATCH_SIZE = 1024 if args.highvram else 32
 EMBEDDING_DIM = 128
 CONTEXT_SIZE = 64
 INPUT_DIM = CONTEXT_SIZE * (EMBEDDING_DIM + 1) # 129 dimensions per token (128 embedding + 1 position)
@@ -596,13 +602,61 @@ def build_dataloaders(X, Y, batch_size=BATCH_SIZE):
 
     print(f"Train size: {len(X_train)}, Test size: {len(X_test)}")
 
-    X_train_torch = torch.tensor(X_train)
-    Y_train_torch = torch.tensor(Y_train)
+    class TensorBatcher:
+        def __init__(self, X_t, Y_t, batch_size, shuffle):
+            self.X_t = X_t
+            self.Y_t = Y_t
+            self.batch_size = int(batch_size)
+            self.shuffle = bool(shuffle)
+
+        def __len__(self):
+            n = int(self.X_t.shape[0])
+            return (n + self.batch_size - 1) // self.batch_size
+
+        def __iter__(self):
+            n = int(self.X_t.shape[0])
+            if self.shuffle:
+                idx = torch.randperm(n, device=self.X_t.device)
+            else:
+                idx = torch.arange(n, device=self.X_t.device)
+            for start in range(0, n, self.batch_size):
+                batch_idx = idx[start:start + self.batch_size]
+                yield (
+                    self.X_t.index_select(0, batch_idx),
+                    self.Y_t.index_select(0, batch_idx),
+                )
+
+    # Create tensors (CPU first)
+    X_train_torch = torch.as_tensor(X_train, dtype=torch.float32)
+    Y_train_torch = torch.as_tensor(Y_train, dtype=torch.float32)
+    X_test_torch = torch.as_tensor(X_test, dtype=torch.float32)
+    Y_test_torch = torch.as_tensor(Y_test, dtype=torch.float32)
+
+    # HighVRAM mode: keep full datasets on GPU and batch there.
+    if args.highvram and getattr(device, "type", None) == "cuda":
+        t0 = time.perf_counter()
+        X_train_torch = X_train_torch.to(device)
+        Y_train_torch = Y_train_torch.to(device)
+        X_test_torch = X_test_torch.to(device)
+        Y_test_torch = Y_test_torch.to(device)
+        dt = time.perf_counter() - t0
+        bytes_total = (
+            X_train_torch.numel() * X_train_torch.element_size() +
+            Y_train_torch.numel() * Y_train_torch.element_size() +
+            X_test_torch.numel() * X_test_torch.element_size() +
+            Y_test_torch.numel() * Y_test_torch.element_size()
+        )
+        gib = bytes_total / (1024 ** 3)
+        print(f"HighVRAM: moved dataset to GPU (~{gib:.2f} GiB) in {dt:.2f}s")
+        return (
+            TensorBatcher(X_train_torch, Y_train_torch, batch_size=batch_size, shuffle=True),
+            TensorBatcher(X_test_torch, Y_test_torch, batch_size=batch_size, shuffle=False),
+        )
+
+    # Default mode: standard CPU DataLoader
     train_dataset = TensorDataset(X_train_torch, Y_train_torch)
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 
-    X_test_torch = torch.tensor(X_test)
-    Y_test_torch = torch.tensor(Y_test)
     test_dataset = TensorDataset(X_test_torch, Y_test_torch)
     test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 
@@ -714,6 +768,20 @@ if torch.cuda.device_count() > 1:
 
 print(f"Model is on device: {device}")
 
+# High-VRAM CUDA speed knobs
+if args.highvram and getattr(device, "type", None) == "cuda":
+    try:
+        torch.backends.cuda.matmul.allow_tf32 = True
+        torch.backends.cudnn.allow_tf32 = True
+        try:
+            torch.set_float32_matmul_precision("high")
+        except Exception:
+            pass
+        torch.backends.cudnn.benchmark = True
+        print("HighVRAM: enabled TF32 + cudnn.benchmark")
+    except Exception as e:
+        print(f"HighVRAM: warning (TF32/benchmark toggle failed): {e}")
+
 def _format_int(n):
     try:
         return f"{int(n):,}"
@@ -750,7 +818,7 @@ def print_debug_summary(pretrain_stats=None, sft_stats=None):
         print(f"CUDA GPUs visible: {torch.cuda.device_count()}")
     print(f"Threads: torch.get_num_threads()={torch.get_num_threads()}")
     print(f"Config: BATCH_SIZE={BATCH_SIZE}, CONTEXT_SIZE={CONTEXT_SIZE}, EMBEDDING_DIM={EMBEDDING_DIM}, INPUT_DIM={INPUT_DIM}")
-    print(f"Args: discriminate={args.discriminate}, use_parquets={args.use_parquets}, parquet_dry_run={args.parquet_dry_run}")
+    print(f"Args: discriminate={args.discriminate}, highvram={args.highvram}, use_parquets={args.use_parquets}, parquet_dry_run={args.parquet_dry_run}")
 
     gen_params = _safe_count_params(generator)
     disc_params = _safe_count_params(discriminator)
@@ -825,18 +893,25 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
     
         # Stage 1: Supervised
         print("Stage 1: Supervised Training")
-        progbar = keras.utils.Progbar(len(train_loader))
-        for x_batch, y_batch in train_loader:
-            x_batch = x_batch.to(device)
-            y_batch = y_batch.to(device)
-            
-            # Forward
-            y_pred = generator(x_batch)
+        prog_interval = 5.0 if args.highvram else 1.0
+        log_every = 50 if args.highvram else 1
+        use_amp = bool(args.highvram and getattr(device, "type", None) == "cuda")
+
+        progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+        for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
+            if not args.highvram:
+                x_batch = x_batch.to(device)
+                y_batch = y_batch.to(device)
+
+            # Forward (bf16 autocast on CUDA for speed)
+            with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                y_pred = generator(x_batch)
             # Ensure y_pred is on the correct device (fix for potential device mismatch with new layers)
             if hasattr(y_pred, 'device') and y_pred.device != device:
                 y_pred = y_pred.to(device)
-                
-            loss = cosine_similarity_loss(y_batch, y_pred)
+
+            # Compute loss in float32 for stability
+            loss = cosine_similarity_loss(y_batch.float(), y_pred.float())
             
             # Backward
             gen_optimizer.zero_grad()
@@ -845,7 +920,14 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
             torch.nn.utils.clip_grad_norm_(generator.parameters(), 1.0)
             gen_optimizer.step()
             
-            progbar.add(1, values=[("sup_loss", loss.item())])
+            # Avoid forcing a CUDA sync on every step via loss.item()
+            if log_every == 1:
+                progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
+            else:
+                if (step % log_every) == 0:
+                    progbar.add(1, values=[("sup_loss", float(loss.detach().cpu()))])
+                else:
+                    progbar.add(1)
     
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
@@ -853,15 +935,17 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         # Stage 2/3: Discriminator + Adversarial
         if args.discriminate:
             print("Stage 2: Discriminator Training")
-            progbar = keras.utils.Progbar(len(train_loader))
-            for x_batch, y_batch in train_loader:
-                x_batch = x_batch.to(device)
-                y_batch = y_batch.to(device)
+            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+            for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
+                if not args.highvram:
+                    x_batch = x_batch.to(device)
+                    y_batch = y_batch.to(device)
                 
                 # Generate fake data
                 # We don't want gradients for generator here
                 with torch.no_grad():
-                    y_fake = generator(x_batch)
+                    with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                        y_fake = generator(x_batch)
                 
                 # Concatenate context + y
                 real_input = torch.cat([x_batch, y_batch], dim=1)
@@ -872,8 +956,9 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 fake_labels = torch.zeros((x_batch.shape[0], 1), device=device)
                 
                 # Forward
-                real_preds = discriminator(real_input)
-                fake_preds = discriminator(fake_input)
+                with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                    real_preds = discriminator(real_input)
+                    fake_preds = discriminator(fake_input)
                 
                 loss_real = bce_loss(real_labels, real_preds)
                 loss_fake = bce_loss(fake_labels, fake_preds)
@@ -884,24 +969,33 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 total_loss.backward()
                 disc_optimizer.step()
                 
-                progbar.add(1, values=[("disc_loss", total_loss.item())])
+                if log_every == 1:
+                    progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
+                else:
+                    if (step % log_every) == 0:
+                        progbar.add(1, values=[("disc_loss", float(total_loss.detach().cpu()))])
+                    else:
+                        progbar.add(1)
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
                 
             # Stage 3: Adversarial
             print("Stage 3: Adversarial Training")
-            progbar = keras.utils.Progbar(len(train_loader))
-            for x_batch, y_batch in train_loader:
-                x_batch = x_batch.to(device)
+            progbar = keras.utils.Progbar(len(train_loader), interval=prog_interval)
+            for step, (x_batch, y_batch) in enumerate(train_loader, start=1):
+                if not args.highvram:
+                    x_batch = x_batch.to(device)
                 # y_batch not needed for adversarial loss, but we need x_batch
                 
                 # Forward Generator
-                y_fake = generator(x_batch)
+                with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                    y_fake = generator(x_batch)
                 
                 # Forward Discriminator
                 fake_input = torch.cat([x_batch, y_fake], dim=1)
-                fake_preds = discriminator(fake_input)
+                with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                    fake_preds = discriminator(fake_input)
                 
                 # We want fake_preds to be 1
                 loss = bce_loss(torch.ones((x_batch.shape[0], 1), device=device), fake_preds)
@@ -911,8 +1005,14 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
                 discriminator.zero_grad() # Clear disc grads just in case
                 loss.backward()
                 gen_optimizer.step()
-                
-            progbar.add(1, values=[("adv_loss", loss.item())])
+
+                if log_every == 1:
+                    progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
+                else:
+                    if (step % log_every) == 0:
+                        progbar.add(1, values=[("adv_loss", float(loss.detach().cpu()))])
+                    else:
+                        progbar.add(1)
             
             if torch.backends.mps.is_available():
                 torch.mps.empty_cache()
@@ -927,10 +1027,12 @@ def run_training_phase(phase_name, train_loader, test_loader, epochs):
         steps = 0
         with torch.no_grad():
             for x_batch, y_batch in test_loader:
-                x_batch = x_batch.to(device)
-                y_batch = y_batch.to(device)
-                y_pred = generator(x_batch)
-                loss = cosine_similarity_loss(y_batch, y_pred)
+                if not args.highvram:
+                    x_batch = x_batch.to(device)
+                    y_batch = y_batch.to(device)
+                with torch.autocast(device_type="cuda", dtype=torch.bfloat16, enabled=use_amp):
+                    y_pred = generator(x_batch)
+                loss = cosine_similarity_loss(y_batch.float(), y_pred.float())
                 test_loss += loss.item()
                 steps += 1
 
