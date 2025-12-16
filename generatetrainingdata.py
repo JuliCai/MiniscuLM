@@ -14,7 +14,9 @@ parser.add_argument("-overwrite", action="store_true", help="Overwrite existing 
 args = parser.parse_args()
 
 # Configuration
-TRAINING_DATA_DIR = "Training_Data"
+# All existing training data now lives under Training_Data/Pretrain
+BASE_TRAINING_DATA_DIR = "Training_Data"
+TRAINING_DATA_DIR = os.path.join(BASE_TRAINING_DATA_DIR, "Pretrain")
 TOPICS_FILE = os.path.join(TRAINING_DATA_DIR, "topics.json")
 
 # API Setup
@@ -78,7 +80,7 @@ def main():
                 print("Use -resume to continue or -overwrite to restart.")
                 exit(1)
     else:
-        os.makedirs(TRAINING_DATA_DIR)
+        os.makedirs(TRAINING_DATA_DIR, exist_ok=True)
 
     # 1. Generate Topics
     topics = []
